@@ -1,0 +1,14 @@
+{
+  "name": "grimnir",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Grimnir :: The Hooded One — cybersecurity news aggregator",
+  "scripts": {
+    "fetch": "node scripts/fetch-feeds.js",
+    "serve": "npx --yes http-server -p 8080 -c-1 .",
+    "dev": "npm run fetch && npm run serve"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  }
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grimnir :: The Hooded One &ndash; Cybersecurity Signals from the Dark</title>
+  <meta name="description" content="Grimnir watches the wires. The latest cybersecurity news, CVEs, breach reports, and threat intel from across the web, aggregated in one dark place.">
+  <meta name="theme-color" content="#02040a">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="Grimnir :: The Hooded One">
+  <meta property="og:description" content="Cybersecurity signals from the dark. News. CVEs. Threat intel. Every 30 minutes.">
+  <meta property="og:type" content="website">
+
+  <!-- AdSense (paste your publisher ID) -->
+  <!-- <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX" crossorigin="anonymous"></script> -->
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text">
+        <span class="title">GRIMNIR</span>
+        <span class="tagline">THE HOODED ONE</span>
+      </span>
+    </a>
+    <ul>
+      <li><a class="navlink active" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="brand.html">Brand</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <div class="halo"></div>
+    <div class="kicker">>_ signal intercept // v9.3.1 // 23 sources</div>
+    <h1 class="glitch" data-text="GRIMNIR">GRIMNIR</h1>
+    <p class="lede">The hooded one watches the wires. Every whisper from the underworld of cybersecurity, aggregated in one dark place.</p>
+    <div class="ticker"><span class="line"></span></div>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <a class="btn solid" href="#signals">Enter the Feed</a>
+      <a class="btn ghost" href="merch.html">Don the Hood</a>
+    </div>
+  </section>
+
+  <main>
+    <!-- Leaderboard ad -->
+    <div class="ad-slot" data-slot="top-leaderboard">
+      728 &times; 90 &middot; ad slot: top-leaderboard
+      <!-- Replace with your AdSense/Ezoic snippet -->
+    </div>
+
+    <section class="section" id="signals">
+      <h2>Live Signals</h2>
+      <p class="sub">Auto-updating every 30 minutes from threat intel, CVE, and cybersecurity news feeds.</p>
+
+      <label class="searchbar" for="search">
+        <input id="search" type="search" name="q" autocomplete="off" spellcheck="false"
+               placeholder='try "ransomware", CVE-2025, "zero day", okta breach...'>
+        <button type="button" class="clear" aria-label="Clear search">×</button>
+        <span class="count">0 signals</span>
+      </label>
+      <div style="font-family:var(--mono); font-size:11px; color:var(--fg-2); margin: -6px 0 14px;">
+        tip: press <kbd style="font-family:var(--mono); color:var(--neon-cyan); border:var(--edge); padding:1px 6px; border-radius:4px;">/</kbd> to focus &middot; use quotes for phrases, multiple words for AND
+      </div>
+
+      <div class="filters" role="tablist">
+        <button class="chip active" data-cat="all">// all</button>
+        <button class="chip" data-cat="news">news</button>
+        <button class="chip" data-cat="alerts">alerts</button>
+        <button class="chip" data-cat="cves">cves</button>
+        <button class="chip" data-cat="opinion">opinion</button>
+        <button class="chip" data-cat="research">research</button>
+        <button class="chip" data-cat="bugbounty">bug bounty</button>
+      </div>
+
+      <div id="feed" class="grid"></div>
+    </section>
+
+    <!-- In-feed ad -->
+    <div class="ad-slot" data-slot="in-feed">300 &times; 250 &middot; ad slot: in-feed</div>
+
+    <section class="section">
+      <h2>Arsenal of the Hooded</h2>
+      <p class="sub">Gear and software we recommend. Affiliate links help keep the hood lit.</p>
+
+      <div class="grid">
+        <div class="affiliate">
+          <div class="disclosure">// affiliate // we earn a commission</div>
+          <h4>Password Manager</h4>
+          <p class="tag">1Password / Bitwarden / Proton Pass</p>
+          <p>End-to-end encrypted vaults. Every operator should run one.</p>
+          <a class="btn" href="deals.html#password-managers">Inspect gear →</a>
+        </div>
+        <div class="affiliate">
+          <div class="disclosure">// affiliate // we earn a commission</div>
+          <h4>VPN &amp; Network Privacy</h4>
+          <p class="tag">Mullvad / IVPN / Proton VPN</p>
+          <p>No-log, privacy-first VPNs. Slip into the fog.</p>
+          <a class="btn" href="deals.html#vpn">Inspect gear →</a>
+        </div>
+        <div class="affiliate">
+          <div class="disclosure">// affiliate // we earn a commission</div>
+          <h4>YubiKey 5 Series</h4>
+          <p class="tag">Hardware 2FA</p>
+          <p>The gold standard of phishing-resistant authentication.</p>
+          <a class="btn" href="deals.html#hardware-keys">Inspect gear →</a>
+        </div>
+      </div>
+    </section>
+
+    <section class="signup">
+      <h3>// join the cabal</h3>
+      <p>Weekly dispatch. Zero-day radar. Curated breach reports. Sent in the dead of night.</p>
+      <!-- Replace action with your ESP (Mailchimp, Buttondown, ConvertKit) endpoint -->
+      <form action="https://buttondown.com/api/emails/embed-subscribe/YOUR_HANDLE" method="post" target="popupwindow">
+        <input type="email" name="email" placeholder="operator@domain.dark" required>
+        <button class="btn solid" type="submit">Subscribe</button>
+      </form>
+    </section>
+  </main>
+
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="deals.html">Affiliate Disclosure</a>
+      <a href="merch.html">Merch</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved. <span style="color:var(--neon-green)">//</span> not responsible for the accuracy of aggregated content.</div>
+  </footer>
+
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="assets/js/effects.js"></script>
+  <script src="assets/js/app.js"></script>
+</body>
+</html>

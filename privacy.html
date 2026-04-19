@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy &middot; Grimnir</title>
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text"><span class="title">GRIMNIR</span><span class="tagline">THE HOODED ONE</span></span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="brand.html">Brand</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+  <main>
+    <article class="prose">
+      <h1>Privacy Policy</h1>
+      <p style="color:var(--fg-2); font-family:var(--mono); font-size:13px;">Effective: <span id="updated"></span></p>
+
+      <h2>Information we collect</h2>
+      <p>We collect only the minimum data necessary to operate the site:</p>
+      <ul>
+        <li><strong>Server logs:</strong> IP address, user agent, timestamps. Retained for up to 30 days for security and debugging.</li>
+        <li><strong>Analytics:</strong> Aggregated, privacy-respecting page view metrics via a first-party analytics provider (e.g. Plausible or Cloudflare Web Analytics). No cross-site tracking or fingerprinting.</li>
+        <li><strong>Newsletter email:</strong> If you subscribe, we store the email with our email service provider for the sole purpose of sending the newsletter. You may unsubscribe at any time via the link in any email.</li>
+      </ul>
+
+      <h2>Third-party services</h2>
+      <p>We use third parties that may set cookies or collect data per their own policies:</p>
+      <ul>
+        <li><strong>Ad networks</strong> (e.g. Google AdSense, Ezoic) may use cookies to serve personalized ads. See <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Google's ad policy</a>.</li>
+        <li><strong>Affiliate networks</strong> (Amazon Associates, Impact, ShareASale, etc.) may set tracking cookies when you click an affiliate link.</li>
+        <li><strong>Merchandise</strong> is fulfilled by Printful. When you click to purchase, your data is handled per <a href="https://www.printful.com/policies/privacy" target="_blank" rel="noopener">Printful's privacy policy</a>.</li>
+        <li><strong>Embedded third-party content</strong> (e.g. RSS article previews) may load from the publisher's domain.</li>
+      </ul>
+
+      <h2>Cookies</h2>
+      <p>Essential cookies are used only for core functionality. Optional analytics and advertising cookies are used only after you consent where required by law (GDPR, UK GDPR, ePrivacy, CPRA).</p>
+
+      <h2>Your rights</h2>
+      <p>Depending on your jurisdiction, you may have rights to access, correct, delete, port, or restrict processing of your personal data, and to opt out of the "sale" or "sharing" of personal data. To exercise any right, email <a href="mailto:privacy@grimnir.example">privacy@grimnir.example</a>.</p>
+
+      <h2>Children</h2>
+      <p>This site is not directed to children under 13 (or the relevant minimum age in your jurisdiction). We do not knowingly collect data from minors.</p>
+
+      <h2>Security</h2>
+      <p>We use industry-standard safeguards but no system is perfectly secure. You acknowledge that any information transmitted over the internet carries inherent risk.</p>
+
+      <h2>Contact</h2>
+      <p>Questions: <a href="mailto:privacy@grimnir.example">privacy@grimnir.example</a>.</p>
+    </article>
+  </main>
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a><a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a><a href="terms.html">Terms</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved.</div>
+  </footer>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("updated").textContent = new Date().toLocaleDateString();
+  </script>
+  <script src="assets/js/effects.js"></script>
+</body>
+</html>

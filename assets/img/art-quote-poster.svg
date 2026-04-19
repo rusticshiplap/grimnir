@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 320" role="img" aria-label="Quote poster">
+  <defs>
+    <linearGradient id="qp-n" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"/>
+      <stop offset="100%" stop-color="#22c55e"/>
+    </linearGradient>
+    <radialGradient id="qp-halo" cx="50%" cy="35%" r="50%">
+      <stop offset="0%" stop-color="rgba(34,211,238,0.25)"/>
+      <stop offset="100%" stop-color="transparent"/>
+    </radialGradient>
+  </defs>
+  <rect width="240" height="320" fill="#02040a"/>
+  <rect width="240" height="320" fill="url(#qp-halo)"/>
+
+  <!-- frame -->
+  <rect x="14" y="14" width="212" height="292" rx="6" fill="none" stroke="url(#qp-n)" stroke-width="1" stroke-dasharray="3 4" opacity="0.7"/>
+  <rect x="20" y="20" width="200" height="280" rx="4" fill="none" stroke="url(#qp-n)" stroke-width="0.8" opacity="0.5"/>
+
+  <text x="120" y="60" text-anchor="middle" font-family="monospace" font-size="9" fill="#22c55e" letter-spacing="3">// COMMANDMENT_01</text>
+
+  <text x="120" y="135" text-anchor="middle" font-family="'Orbitron', monospace" font-size="22" fill="#eafaff" letter-spacing="6">TRUST</text>
+  <text x="120" y="170" text-anchor="middle" font-family="'Orbitron', monospace" font-size="22" fill="#eafaff" letter-spacing="6">NOTHING</text>
+  <text x="120" y="205" text-anchor="middle" font-family="'Orbitron', monospace" font-size="22" fill="url(#qp-n)" letter-spacing="6">VERIFY</text>
+  <text x="120" y="240" text-anchor="middle" font-family="'Orbitron', monospace" font-size="22" fill="url(#qp-n)" letter-spacing="6">EVERYTHING</text>
+
+  <line x1="60" y1="265" x2="180" y2="265" stroke="url(#qp-n)" stroke-width="0.8" opacity="0.6"/>
+  <text x="120" y="285" text-anchor="middle" font-family="monospace" font-size="9" fill="#9ca3af" letter-spacing="3">— GRIMNIR</text>
+</svg>

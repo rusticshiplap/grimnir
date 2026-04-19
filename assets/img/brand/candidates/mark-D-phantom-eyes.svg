@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="D-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#171A26"/>
+      <stop offset="1" stop-color="#05060B"/>
+    </linearGradient>
+    <linearGradient id="D-eye" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00E5FF"/>
+      <stop offset="1" stop-color="#00FF9C"/>
+    </linearGradient>
+    <filter id="D-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="
+    M 22 114
+    L 36 88
+    L 40 70
+    L 50 52
+    L 50 42
+    L 60 6
+    L 70 42
+    L 70 52
+    L 80 70
+    L 84 88
+    L 98 114
+    Z
+  " fill="url(#D-body)" stroke="#2A2D3A" stroke-width="1.2" stroke-linejoin="miter"/>
+  <path d="M 50 42 L 60 12 L 70 42 L 66 50 L 54 50 Z" fill="#04050A"/>
+  <path d="M 70 70 L 74 70 L 74 74 L 80 74" fill="none" stroke="#2A2D3A" stroke-width="0.8"/>
+  <path d="M 50 70 L 46 70 L 46 74 L 40 74" fill="none" stroke="#2A2D3A" stroke-width="0.8"/>
+  <line x1="60" y1="52" x2="60" y2="114" stroke="#151823" stroke-width="1"/>
+  <!-- Sharp angled eyes -->
+  <g filter="url(#D-glow)">
+    <polygon points="53.5,38 59,36 59,40 53.5,42" fill="url(#D-eye)"/>
+    <polygon points="61,36 66.5,38 66.5,42 61,40" fill="url(#D-eye)"/>
+  </g>
+</svg>

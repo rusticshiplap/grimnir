@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About &middot; Grimnir</title>
+  <meta name="description" content="What Grimnir is and why it exists.">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text"><span class="title">GRIMNIR</span><span class="tagline">THE HOODED ONE</span></span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="brand.html">Brand</a></li>
+      <li><a class="navlink active" href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <main>
+    <article class="prose">
+      <h1>About Grimnir</h1>
+      <p><em>Grimnir</em> is an Old Norse name for the hooded one, a wanderer who watches the world from its edges. This site borrows the idea. It is a cybersecurity news aggregator that pulls from the best open feeds in the industry, presents them in one dark room, and keeps out of the way.</p>
+
+      <h2>What you'll find here</h2>
+      <p>Aggregated breaking news, CVE advisories, breach reports, vendor research, and curated opinion from voices worth listening to. Sources are cited on every card. Click through to read at the original publisher.</p>
+
+      <h2>How it works</h2>
+      <p>Every 30 minutes a small script fetches the latest RSS/Atom feeds from a curated list of sources, deduplicates the results, and caches them as JSON. The site reads that cache and renders the feed. No user accounts. No tracking beyond standard privacy-respecting analytics and ad partners.</p>
+
+      <h2>Support the hood</h2>
+      <p>Grimnir is supported by display ads, affiliate links to gear we actually use, a small <a href="merch.html">merch line</a>, and a paid <a href="jobs.html">job board</a>. You can also <a href="https://www.buymeacoffee.com/YOUR_HANDLE" target="_blank" rel="noopener">leave a tip</a> if the site has helped you.</p>
+
+      <h2>Editorial independence</h2>
+      <p>Sponsors and advertisers do not get editorial influence. Affiliate links are always disclosed. We do not sell placements in the news feed.</p>
+
+      <h2>Contact</h2>
+      <p>For press, partnerships, or to report a broken feed: <a href="mailto:hello@grimnir.example">hello@grimnir.example</a>.</p>
+
+      <div class="callout"><strong>Legal:</strong> see our <a href="disclaimer.html">disclaimer</a>, <a href="terms.html">terms of use</a>, and <a href="privacy.html">privacy policy</a>.</div>
+    </article>
+  </main>
+
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved.</div>
+  </footer>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="assets/js/effects.js"></script>
+</body>
+</html>

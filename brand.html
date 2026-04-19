@@ -1,0 +1,824 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Brand System &middot; Grimnir</title>
+  <meta name="description" content="The Grimnir brand system: logo, color, typography, voice, and downloadable assets.">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+  <style>
+    /* ============================================================
+       Brand page scoped styles
+       ============================================================ */
+    .brand-hero {
+      position: relative;
+      padding: 80px 24px 40px;
+      text-align: center;
+      overflow: hidden;
+    }
+    .brand-hero .eyebrow {
+      font-family: var(--mono);
+      font-size: 12px;
+      letter-spacing: 0.32em;
+      text-transform: uppercase;
+      color: var(--cyan-pulse);
+      margin-bottom: 16px;
+    }
+    .brand-hero h1 {
+      font-family: var(--display);
+      font-size: clamp(44px, 8vw, 96px);
+      line-height: 0.95;
+      letter-spacing: -0.02em;
+      margin: 0 0 16px;
+      color: var(--paper);
+    }
+    .brand-hero h1 em {
+      font-style: normal;
+      background: linear-gradient(90deg, var(--cyan-pulse), var(--emerald-signal));
+      -webkit-background-clip: text;
+      background-clip: text;
+      color: transparent;
+    }
+    .brand-hero p.lede {
+      max-width: 680px;
+      margin: 0 auto;
+      color: var(--fog);
+      font-size: 18px;
+    }
+
+    .brand-section {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 64px 24px;
+      border-top: 1px solid rgba(156, 160, 174, 0.08);
+    }
+    .brand-section:first-of-type { border-top: 0; }
+
+    .brand-section h2 {
+      font-family: var(--display);
+      font-size: clamp(28px, 4vw, 44px);
+      letter-spacing: -0.015em;
+      margin: 0 0 8px;
+      color: var(--paper);
+    }
+    .brand-section > .label {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.32em;
+      text-transform: uppercase;
+      color: var(--cyan-pulse);
+      margin-bottom: 14px;
+      display: block;
+    }
+    .brand-section > .intro {
+      color: var(--fog);
+      max-width: 720px;
+      font-size: 16px;
+      margin: 0 0 40px;
+    }
+
+    /* ---------- Logo showcase ---------- */
+    .mark-stage {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+    }
+    .mark-tile {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-lg);
+      padding: 28px;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      gap: 18px;
+      min-height: 220px;
+      position: relative;
+      transition: border-color .2s ease, transform .2s ease;
+    }
+    .mark-tile:hover { border-color: rgba(0, 229, 255, 0.35); transform: translateY(-2px); }
+    .mark-tile.on-paper { background: var(--paper); border-color: #e3e4e8; }
+    .mark-tile.on-gradient {
+      background: radial-gradient(circle at 30% 30%, #11142a, var(--obsidian) 70%);
+    }
+    .mark-tile img {
+      max-width: 100%;
+      max-height: 140px;
+      height: auto;
+    }
+    .mark-tile .caption {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--fog);
+      text-align: center;
+    }
+    .mark-tile .caption strong { color: var(--paper); display: block; letter-spacing: 0.12em; }
+    .mark-tile.on-paper .caption { color: #6B6F7E; }
+    .mark-tile.on-paper .caption strong { color: #0A0B10; }
+
+    /* ---------- Palette ---------- */
+    .swatch-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .swatch {
+      border-radius: var(--r-lg);
+      overflow: hidden;
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      background: var(--graphite);
+    }
+    .swatch .chip {
+      height: 130px;
+      display: flex;
+      align-items: flex-end;
+      padding: 14px 16px;
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      text-transform: uppercase;
+    }
+    .swatch .meta {
+      padding: 14px 16px 16px;
+    }
+    .swatch .meta .name {
+      font-family: var(--display);
+      font-size: 16px;
+      font-weight: 600;
+      color: var(--paper);
+      margin-bottom: 4px;
+    }
+    .swatch .meta .role {
+      font-size: 13px;
+      color: var(--fog);
+      margin-bottom: 8px;
+    }
+    .swatch .meta .code {
+      font-family: var(--mono);
+      font-size: 11px;
+      color: var(--paper);
+      letter-spacing: 0.08em;
+    }
+    .swatch .meta .code span { color: var(--fog); margin-right: 6px; }
+
+    /* ---------- Typography specimen ---------- */
+    .type-card {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-lg);
+      padding: 36px;
+      margin-bottom: 16px;
+    }
+    .type-card .meta {
+      display: flex;
+      justify-content: space-between;
+      align-items: baseline;
+      margin-bottom: 22px;
+      flex-wrap: wrap;
+      gap: 12px;
+    }
+    .type-card .meta .name {
+      font-family: var(--display);
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--paper);
+    }
+    .type-card .meta .role {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--cyan-pulse);
+    }
+    .type-card .hero-text { line-height: 1; margin: 0 0 18px; color: var(--paper); }
+    .type-card .scale {
+      display: grid;
+      grid-template-columns: 80px 1fr;
+      gap: 14px 24px;
+      align-items: baseline;
+      padding-top: 20px;
+      border-top: 1px solid rgba(156, 160, 174, 0.08);
+    }
+    .type-card .scale .size {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.18em;
+      color: var(--fog);
+      text-transform: uppercase;
+    }
+    .type-card .scale .sample { color: var(--paper); }
+    .type-card.display .hero-text { font-family: var(--display); font-size: clamp(48px, 8vw, 96px); font-weight: 700; letter-spacing: -0.02em; }
+    .type-card.display .scale .sample { font-family: var(--display); }
+    .type-card.sans .hero-text { font-family: var(--sans); font-size: clamp(36px, 6vw, 64px); font-weight: 600; letter-spacing: -0.01em; }
+    .type-card.sans .scale .sample { font-family: var(--sans); }
+    .type-card.mono .hero-text { font-family: var(--mono); font-size: clamp(28px, 5vw, 52px); font-weight: 500; }
+    .type-card.mono .scale .sample { font-family: var(--mono); }
+
+    /* ---------- Clearspace / Minimum size ---------- */
+    .rule-row {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+      gap: 18px;
+    }
+    .rule-card {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-lg);
+      padding: 28px;
+    }
+    .rule-card h3 {
+      font-family: var(--display);
+      margin: 0 0 8px;
+      font-size: 18px;
+      color: var(--paper);
+    }
+    .rule-card p { color: var(--fog); margin: 0 0 18px; font-size: 14px; }
+    .rule-stage {
+      background: var(--obsidian);
+      border-radius: var(--r-md);
+      padding: 24px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      min-height: 160px;
+      position: relative;
+    }
+    .rule-stage .clearspace {
+      position: relative;
+      padding: 22px;
+      border: 1px dashed rgba(0, 229, 255, 0.35);
+      border-radius: 8px;
+    }
+    .rule-stage img { display: block; width: 64px; height: 64px; }
+    .size-row { display: flex; align-items: flex-end; gap: 18px; justify-content: center; }
+    .size-row .size-sample { text-align: center; }
+    .size-row img { display: block; margin: 0 auto 8px; }
+    .size-row .lbl {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--fog);
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+    }
+
+    /* ---------- Do / Don't ---------- */
+    .dodont {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 14px;
+    }
+    .dd-card {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-lg);
+      padding: 20px;
+      position: relative;
+    }
+    .dd-card .pill {
+      display: inline-block;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      padding: 4px 10px;
+      border-radius: 999px;
+      margin-bottom: 14px;
+    }
+    .dd-card.do .pill { color: var(--emerald-signal); background: rgba(0, 255, 156, 0.10); border: 1px solid rgba(0, 255, 156, 0.35); }
+    .dd-card.dont .pill { color: var(--crimson-breach); background: rgba(255, 56, 96, 0.10); border: 1px solid rgba(255, 56, 96, 0.35); }
+    .dd-card .stage {
+      background: var(--obsidian);
+      border-radius: var(--r-md);
+      padding: 20px;
+      height: 120px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin-bottom: 14px;
+    }
+    .dd-card .stage img { max-height: 70px; max-width: 80%; }
+    .dd-card p { margin: 0; color: var(--fog); font-size: 13px; }
+
+    /* ---------- Voice & tone ---------- */
+    .voice-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 14px;
+    }
+    .voice-card {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-lg);
+      padding: 24px;
+    }
+    .voice-card .axis {
+      font-family: var(--mono);
+      font-size: 11px;
+      letter-spacing: 0.24em;
+      text-transform: uppercase;
+      color: var(--cyan-pulse);
+      margin-bottom: 10px;
+    }
+    .voice-card .verdict {
+      font-family: var(--display);
+      font-size: 22px;
+      font-weight: 600;
+      color: var(--paper);
+      margin-bottom: 6px;
+      letter-spacing: -0.01em;
+    }
+    .voice-card p { color: var(--fog); font-size: 14px; margin: 0; }
+
+    .voice-examples {
+      margin-top: 20px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 14px;
+    }
+    .voice-examples .ex {
+      background: var(--graphite);
+      border-left: 3px solid var(--emerald-signal);
+      padding: 16px 18px;
+      border-radius: 0 var(--r-md) var(--r-md) 0;
+    }
+    .voice-examples .ex.no { border-left-color: var(--crimson-breach); }
+    .voice-examples .ex .tag {
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.26em;
+      text-transform: uppercase;
+      color: var(--emerald-signal);
+      display: block;
+      margin-bottom: 6px;
+    }
+    .voice-examples .ex.no .tag { color: var(--crimson-breach); }
+    .voice-examples .ex p { margin: 0; color: var(--paper); font-size: 14px; font-family: var(--mono); }
+
+    @media (max-width: 640px) {
+      .voice-examples { grid-template-columns: 1fr; }
+    }
+
+    /* ---------- Downloads ---------- */
+    .download-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+    .dl-card {
+      background: var(--graphite);
+      border: 1px solid rgba(156, 160, 174, 0.12);
+      border-radius: var(--r-md);
+      padding: 18px;
+      text-decoration: none;
+      color: var(--paper);
+      display: flex;
+      align-items: center;
+      gap: 14px;
+      transition: border-color .2s ease, transform .2s ease;
+    }
+    .dl-card:hover { border-color: var(--cyan-pulse); transform: translateY(-1px); }
+    .dl-card .icon {
+      width: 36px; height: 36px;
+      border-radius: 6px;
+      background: rgba(0, 229, 255, 0.08);
+      border: 1px solid rgba(0, 229, 255, 0.25);
+      display: flex; align-items: center; justify-content: center;
+      font-family: var(--mono); font-size: 10px; color: var(--cyan-pulse);
+      letter-spacing: 0.1em;
+    }
+    .dl-card .name { font-weight: 600; font-size: 14px; }
+    .dl-card .hint { font-family: var(--mono); font-size: 10px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--fog); }
+  </style>
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text"><span class="title">GRIMNIR</span><span class="tagline">THE HOODED ONE</span></span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink active" href="brand.html">Brand</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <!-- ============================================================
+       HERO
+       ============================================================ -->
+  <section class="brand-hero">
+    <div class="eyebrow">&gt;_ brand system / v1.0</div>
+    <h1>The <em>Grimnir</em> brand.</h1>
+    <p class="lede">One hood, one whisper, one palette. A complete identity system for a cybersecurity media brand that reads the world from its edges.</p>
+  </section>
+
+  <!-- ============================================================
+       LOGO SYSTEM
+       ============================================================ -->
+  <section class="brand-section" id="logo">
+    <span class="label">01 / Logo system</span>
+    <h2>Marks, lockups, and monogram.</h2>
+    <p class="intro">The Grimnir sigil is a single geometric hood with a luminous horizontal slit. The slit is the face of our brand: it watches, it never blinks. Use the primary mark for social avatars and favicons. Reach for the lockups anywhere text and mark appear together.</p>
+
+    <div class="mark-stage">
+      <div class="mark-tile on-gradient">
+        <img src="assets/img/brand/mark-primary.svg" alt="Primary mark" style="max-height:160px;">
+        <div class="caption"><strong>Primary mark</strong>On obsidian</div>
+      </div>
+      <div class="mark-tile">
+        <img src="assets/img/brand/lockup-horizontal.svg" alt="Horizontal lockup">
+        <div class="caption"><strong>Horizontal lockup</strong>Mark + wordmark + tagline</div>
+      </div>
+      <div class="mark-tile">
+        <img src="assets/img/brand/lockup-vertical.svg" alt="Vertical lockup">
+        <div class="caption"><strong>Vertical lockup</strong>Stacked, centered</div>
+      </div>
+      <div class="mark-tile">
+        <img src="assets/img/brand/wordmark.svg" alt="Grimnir wordmark" style="max-height:80px;">
+        <div class="caption"><strong>Wordmark</strong>Space Grotesk 700 &middot; tracked</div>
+      </div>
+      <div class="mark-tile on-paper">
+        <img src="assets/img/brand/mark-mono-dark.svg" alt="Monochrome dark mark" style="max-height:140px;">
+        <div class="caption"><strong>Monochrome / dark</strong>On light surfaces</div>
+      </div>
+      <div class="mark-tile on-gradient">
+        <img src="assets/img/brand/mark-mono-light.svg" alt="Monochrome light mark" style="max-height:140px;">
+        <div class="caption"><strong>Monochrome / light</strong>On dark surfaces</div>
+      </div>
+      <div class="mark-tile on-gradient">
+        <img src="assets/img/brand/monogram.svg" alt="Grimnir monogram" style="max-height:140px;">
+        <div class="caption"><strong>Monogram</strong>Hex-locked for favicons, pins, patches</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       COLOR
+       ============================================================ -->
+  <section class="brand-section" id="color">
+    <span class="label">02 / Color system</span>
+    <h2>Obsidian foundation, pulse accents.</h2>
+    <p class="intro">Grimnir runs on two families. The <strong>Obsidian core</strong> carries every surface, from hero to caption. The <strong>Signal accents</strong> are used sparingly, reserved for live state, links, and urgency. Amber and Crimson are functional only, never decorative.</p>
+
+    <h3 style="font-family:var(--display); color:var(--fog); font-size:13px; letter-spacing:0.24em; text-transform:uppercase; margin:0 0 14px;">Core / Obsidian family</h3>
+    <div class="swatch-grid" style="margin-bottom:32px;">
+      <div class="swatch">
+        <div class="chip" style="background:#0A0B10; color:#9CA0AE; border-bottom:1px solid rgba(156,160,174,0.1);">Obsidian</div>
+        <div class="meta">
+          <div class="name">Obsidian</div>
+          <div class="role">Base surface, body background</div>
+          <div class="code"><span>HEX</span>#0A0B10</div>
+          <div class="code"><span>RGB</span>10 11 16</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#14161F; color:#9CA0AE;">Graphite</div>
+        <div class="meta">
+          <div class="name">Graphite</div>
+          <div class="role">Cards, panels, nav surface</div>
+          <div class="code"><span>HEX</span>#14161F</div>
+          <div class="code"><span>RGB</span>20 22 31</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#2A2D3A; color:#F4F5FA;">Steel</div>
+        <div class="meta">
+          <div class="name">Steel</div>
+          <div class="role">Borders, dividers, outlines</div>
+          <div class="code"><span>HEX</span>#2A2D3A</div>
+          <div class="code"><span>RGB</span>42 45 58</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#9CA0AE; color:#0A0B10;">Fog</div>
+        <div class="meta">
+          <div class="name">Fog</div>
+          <div class="role">Secondary text, metadata</div>
+          <div class="code"><span>HEX</span>#9CA0AE</div>
+          <div class="code"><span>RGB</span>156 160 174</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#F4F5FA; color:#0A0B10;">Paper</div>
+        <div class="meta">
+          <div class="name">Paper</div>
+          <div class="role">Primary text on dark</div>
+          <div class="code"><span>HEX</span>#F4F5FA</div>
+          <div class="code"><span>RGB</span>244 245 250</div>
+        </div>
+      </div>
+    </div>
+
+    <h3 style="font-family:var(--display); color:var(--fog); font-size:13px; letter-spacing:0.24em; text-transform:uppercase; margin:0 0 14px;">Signal accents</h3>
+    <div class="swatch-grid">
+      <div class="swatch">
+        <div class="chip" style="background:#00E5FF; color:#0A0B10;">Cyan Pulse</div>
+        <div class="meta">
+          <div class="name">Cyan Pulse</div>
+          <div class="role">Primary accent, links, focus</div>
+          <div class="code"><span>HEX</span>#00E5FF</div>
+          <div class="code"><span>RGB</span>0 229 255</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#00FF9C; color:#0A0B10;">Emerald Signal</div>
+        <div class="meta">
+          <div class="name">Emerald Signal</div>
+          <div class="role">Live state, confirmations</div>
+          <div class="code"><span>HEX</span>#00FF9C</div>
+          <div class="code"><span>RGB</span>0 255 156</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#FFB020; color:#0A0B10;">Amber Alert</div>
+        <div class="meta">
+          <div class="name">Amber Alert</div>
+          <div class="role">Warnings, advisory, caution</div>
+          <div class="code"><span>HEX</span>#FFB020</div>
+          <div class="code"><span>RGB</span>255 176 32</div>
+        </div>
+      </div>
+      <div class="swatch">
+        <div class="chip" style="background:#FF3860; color:#F4F5FA;">Crimson Breach</div>
+        <div class="meta">
+          <div class="name">Crimson Breach</div>
+          <div class="role">Critical, breach, destructive</div>
+          <div class="code"><span>HEX</span>#FF3860</div>
+          <div class="code"><span>RGB</span>255 56 96</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       TYPOGRAPHY
+       ============================================================ -->
+  <section class="brand-section" id="type">
+    <span class="label">03 / Typography</span>
+    <h2>Three voices. One system.</h2>
+    <p class="intro">Display is geometric and confident. Body is quiet and readable at any size. Monospace carries timestamps, CVEs, and terminal moments. Never swap roles. Never stack two display faces in the same block.</p>
+
+    <div class="type-card display">
+      <div class="meta">
+        <span class="name">Space Grotesk</span>
+        <span class="role">Display / Headlines &middot; 400 500 700</span>
+      </div>
+      <div class="hero-text">Watch the wire.</div>
+      <div class="scale">
+        <div class="size">72 / 0.95</div><div class="sample" style="font-size:56px; font-weight:700; letter-spacing:-0.02em;">Threat signals today</div>
+        <div class="size">40 / 1.05</div><div class="sample" style="font-size:36px; font-weight:600; letter-spacing:-0.015em;">Operational since dawn</div>
+        <div class="size">24 / 1.2</div><div class="sample" style="font-size:22px; font-weight:500;">A hooded sentinel, unblinking</div>
+      </div>
+    </div>
+
+    <div class="type-card sans">
+      <div class="meta">
+        <span class="name">Inter</span>
+        <span class="role">Body / UI &middot; 400 500 600 700</span>
+      </div>
+      <div class="hero-text">Read every source.</div>
+      <div class="scale">
+        <div class="size">18 / 1.6</div><div class="sample" style="font-size:17px;">Grimnir aggregates publicly available cybersecurity content from a curated list of feeds, de-duplicates, and renders it in a single dark room.</div>
+        <div class="size">15 / 1.55</div><div class="sample" style="font-size:15px; color:var(--fog);">Sources are cited on every card. Click through to read at the original publisher.</div>
+        <div class="size">13 / 1.5</div><div class="sample" style="font-size:13px; color:var(--fog);">Use for metadata, captions, small labels where density matters.</div>
+      </div>
+    </div>
+
+    <div class="type-card mono">
+      <div class="meta">
+        <span class="name">JetBrains Mono</span>
+        <span class="role">Monospace / Meta &middot; 400 500 600</span>
+      </div>
+      <div class="hero-text">CVE-2026-0001</div>
+      <div class="scale">
+        <div class="size">14 / 1.5</div><div class="sample" style="font-size:13px;">&gt; patch-level :: unverified<br>&gt; posted 04:12Z :: source feedburner.hood</div>
+        <div class="size">11 / 1.6</div><div class="sample" style="font-size:11px; letter-spacing:0.18em; text-transform:uppercase; color:var(--cyan-pulse);">&gt;_ eyebrow / section label</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       SPACING & CORNER
+       ============================================================ -->
+  <section class="brand-section" id="grid">
+    <span class="label">04 / Clearspace &amp; size</span>
+    <h2>Give the hood air.</h2>
+    <p class="intro">The Grimnir mark is built on a 4-unit grid. Maintain clearspace equal to the height of the eye slit on every side. The mark is never set below 24 px on screen or 0.3 inches in print.</p>
+
+    <div class="rule-row">
+      <div class="rule-card">
+        <h3>Clearspace rule</h3>
+        <p>Minimum clearspace around the mark on all four sides is equal to the height of the eye slit.</p>
+        <div class="rule-stage">
+          <div class="clearspace">
+            <img src="assets/img/logo.svg" alt="Mark clearspace">
+          </div>
+        </div>
+      </div>
+      <div class="rule-card">
+        <h3>Minimum sizes</h3>
+        <p>Below these sizes, drop to the monogram or favicon variant.</p>
+        <div class="rule-stage">
+          <div class="size-row">
+            <div class="size-sample">
+              <img src="assets/img/logo.svg" alt="" style="width:24px;height:24px;">
+              <div class="lbl">24 px &middot; min</div>
+            </div>
+            <div class="size-sample">
+              <img src="assets/img/logo.svg" alt="" style="width:48px;height:48px;">
+              <div class="lbl">48 px &middot; ui</div>
+            </div>
+            <div class="size-sample">
+              <img src="assets/img/logo.svg" alt="" style="width:96px;height:96px;">
+              <div class="lbl">96 px &middot; hero</div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="rule-card">
+        <h3>Corner &amp; spacing scale</h3>
+        <p>Built on a 4 px base. Radius scale for components.</p>
+        <div class="rule-stage" style="flex-direction:column; gap:10px;">
+          <div style="display:flex; gap:10px; align-items:flex-end;">
+            <div style="width:30px; height:30px; background:rgba(0,229,255,0.15); border:1px solid var(--cyan-pulse); border-radius:4px;"></div>
+            <div style="width:46px; height:46px; background:rgba(0,229,255,0.15); border:1px solid var(--cyan-pulse); border-radius:8px;"></div>
+            <div style="width:62px; height:62px; background:rgba(0,229,255,0.15); border:1px solid var(--cyan-pulse); border-radius:12px;"></div>
+            <div style="width:78px; height:78px; background:rgba(0,229,255,0.15); border:1px solid var(--cyan-pulse); border-radius:20px;"></div>
+          </div>
+          <div style="font-family:var(--mono); font-size:10px; color:var(--fog); letter-spacing:0.2em; text-transform:uppercase;">4 &middot; 8 &middot; 12 &middot; 20</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       DO / DONT
+       ============================================================ -->
+  <section class="brand-section" id="usage">
+    <span class="label">05 / Do &amp; don't</span>
+    <h2>Keep the mark sharp.</h2>
+    <p class="intro">The hood is a system, not a prop. Follow these rules or skip the mark entirely.</p>
+
+    <div class="dodont">
+      <div class="dd-card do">
+        <span class="pill">Do</span>
+        <div class="stage"><img src="assets/img/brand/mark-primary.svg" alt=""></div>
+        <p>Use the primary mark on dark surfaces. Let the slit glow.</p>
+      </div>
+      <div class="dd-card do">
+        <span class="pill">Do</span>
+        <div class="stage" style="background:#F4F5FA;"><img src="assets/img/brand/mark-mono-dark.svg" alt=""></div>
+        <p>Use the dark monochrome variant on light backgrounds for print.</p>
+      </div>
+      <div class="dd-card do">
+        <span class="pill">Do</span>
+        <div class="stage"><img src="assets/img/brand/lockup-horizontal.svg" alt="" style="max-height:50px;"></div>
+        <p>Pair mark and wordmark with a lockup. Never recreate the spacing.</p>
+      </div>
+      <div class="dd-card dont">
+        <span class="pill">Don't</span>
+        <div class="stage"><img src="assets/img/brand/mark-primary.svg" alt="" style="filter: hue-rotate(130deg) saturate(2);"></div>
+        <p>Do not recolor, tint, or gradient-shift the mark outside the palette.</p>
+      </div>
+      <div class="dd-card dont">
+        <span class="pill">Don't</span>
+        <div class="stage"><img src="assets/img/brand/mark-primary.svg" alt="" style="transform: rotate(-18deg) skewX(10deg);"></div>
+        <p>Do not rotate, skew, mirror, or distort the hood silhouette.</p>
+      </div>
+      <div class="dd-card dont">
+        <span class="pill">Don't</span>
+        <div class="stage"><img src="assets/img/brand/mark-primary.svg" alt="" style="transform: scaleX(1.8);"></div>
+        <p>Do not stretch horizontally or vertically. Lock proportions on scale.</p>
+      </div>
+      <div class="dd-card dont">
+        <span class="pill">Don't</span>
+        <div class="stage" style="background:#5a3a80;"><img src="assets/img/brand/mark-primary.svg" alt=""></div>
+        <p>Do not place the mark on branded-colored or busy backgrounds.</p>
+      </div>
+      <div class="dd-card dont">
+        <span class="pill">Don't</span>
+        <div class="stage"><span style="font-family:Papyrus,serif; color:#fff; font-size:28px;">GRIMNIR</span></div>
+        <p>Do not re-typeset the wordmark. Use the supplied wordmark file only.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       VOICE
+       ============================================================ -->
+  <section class="brand-section" id="voice">
+    <span class="label">06 / Voice &amp; tone</span>
+    <h2>Cool. Quiet. Cutting.</h2>
+    <p class="intro">Grimnir talks like a watcher on a rooftop, not a hype-driven newsroom. Short sentences. No jargon that isn't load-bearing. No exclamation marks. No emoji in editorial voice.</p>
+
+    <div class="voice-grid">
+      <div class="voice-card">
+        <div class="axis">Axis 01</div>
+        <div class="verdict">Confident, not loud.</div>
+        <p>State what is known. Hedge only with data. Never beg for attention.</p>
+      </div>
+      <div class="voice-card">
+        <div class="axis">Axis 02</div>
+        <div class="verdict">Terse, not terse-ironic.</div>
+        <p>Cut words. Keep the thought whole. Dry wit is fine. Sarcasm is not.</p>
+      </div>
+      <div class="voice-card">
+        <div class="axis">Axis 03</div>
+        <div class="verdict">Factual, not clickbait.</div>
+        <p>Headlines describe the event. They never tease it. No "You won't believe."</p>
+      </div>
+      <div class="voice-card">
+        <div class="axis">Axis 04</div>
+        <div class="verdict">Dark, not edgelord.</div>
+        <p>Shadow is an aesthetic, not a worldview. Skip cruelty. Keep the hood cool.</p>
+      </div>
+    </div>
+
+    <div class="voice-examples">
+      <div class="ex">
+        <span class="tag">On brand</span>
+        <p>"Ransomware group claims 40 TB from logistics firm. Source unverified."</p>
+      </div>
+      <div class="ex no">
+        <span class="tag">Off brand</span>
+        <p>"MASSIVE BREACH!! 40TB STOLEN - you NEED to see this now!!"</p>
+      </div>
+      <div class="ex">
+        <span class="tag">On brand</span>
+        <p>"CISA adds three kernel CVEs to KEV catalog. Patches live upstream."</p>
+      </div>
+      <div class="ex no">
+        <span class="tag">Off brand</span>
+        <p>"Yikes, another day, another CVE. When will big tech ever learn?!"</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       DOWNLOADS
+       ============================================================ -->
+  <section class="brand-section" id="downloads">
+    <span class="label">07 / Assets</span>
+    <h2>Download the kit.</h2>
+    <p class="intro">All brand files are distributed as optimized SVG. Vectors scale; no raster exports needed. For print, convert to PDF at your DPI of choice.</p>
+
+    <div class="download-grid">
+      <a class="dl-card" href="assets/img/brand/mark-primary.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Primary mark</div><div class="hint">on obsidian</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/mark-mono-dark.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Mark &middot; mono dark</div><div class="hint">on light surfaces</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/mark-mono-light.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Mark &middot; mono light</div><div class="hint">on dark surfaces</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/wordmark.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Wordmark</div><div class="hint">Space Grotesk 700</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/lockup-horizontal.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Lockup &middot; horizontal</div><div class="hint">mark + wordmark</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/lockup-vertical.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Lockup &middot; vertical</div><div class="hint">stacked / centered</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/brand/monogram.svg" download>
+        <span class="icon">SVG</span>
+        <div><div class="name">Monogram</div><div class="hint">hex frame</div></div>
+      </a>
+      <a class="dl-card" href="assets/img/favicon.svg" download>
+        <span class="icon">ICO</span>
+        <div><div class="name">Favicon</div><div class="hint">32 &middot; 64 px</div></div>
+      </a>
+    </div>
+  </section>
+
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved.</div>
+  </footer>
+
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="assets/js/effects.js"></script>
+</body>
+</html>

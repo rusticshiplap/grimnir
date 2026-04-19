@@ -1,0 +1,119 @@
+{
+  "generatedAt": "2026-04-18T00:00:00.000Z",
+  "count": 14,
+  "sources": ["sample"],
+  "items": [
+    {
+      "title": "Critical RCE in widely deployed VPN appliance — patch advisory issued",
+      "link": "https://example.com/vpn-rce-advisory",
+      "description": "A pre-auth remote code execution vulnerability has been disclosed in a popular enterprise VPN appliance. Vendor has issued an emergency patch and is urging all customers to update immediately. Indicators of compromise are circulating; assume breach if exposure precedes the patch window.",
+      "pubDate": "2026-04-18T03:12:00.000Z",
+      "source": "Sample Feed",
+      "category": "alerts"
+    },
+    {
+      "title": "CVE-2026-1124: Linux kernel use-after-free in netfilter",
+      "link": "https://example.com/cve-2026-1124",
+      "description": "NVD has published CVE-2026-1124, a use-after-free condition in the Linux kernel's netfilter subsystem allowing local privilege escalation on affected versions. CVSS 7.8.",
+      "pubDate": "2026-04-18T01:48:00.000Z",
+      "source": "NVD",
+      "category": "cves"
+    },
+    {
+      "title": "Ransomware crew rebrands again, drops new affiliate program",
+      "link": "https://example.com/ransom-rebrand",
+      "description": "Researchers tracked the latest rebrand of a long-running ransomware crew. New affiliate terms favor large-payout enterprise targets and offer pre-built initial-access kits.",
+      "pubDate": "2026-04-17T22:30:00.000Z",
+      "source": "Sample Feed",
+      "category": "news"
+    },
+    {
+      "title": "Phishing-as-a-service kit observed targeting Okta and Google Workspace",
+      "link": "https://example.com/phaas-okta",
+      "description": "A new PhaaS kit specifically designed to harvest Okta and Google Workspace credentials with passkey-bypass workflows is now widely distributed on darkweb forums.",
+      "pubDate": "2026-04-17T20:14:00.000Z",
+      "source": "Sample Feed",
+      "category": "news"
+    },
+    {
+      "title": "CISA adds five new vulnerabilities to Known Exploited Vulnerabilities catalog",
+      "link": "https://example.com/cisa-kev-update",
+      "description": "Federal civilian agencies have 21 days to remediate. The new entries include three N-day flaws in widely deployed perimeter products.",
+      "pubDate": "2026-04-17T18:00:00.000Z",
+      "source": "CISA",
+      "category": "alerts"
+    },
+    {
+      "title": "Why \"assume breach\" is the only defensible posture in 2026",
+      "link": "https://example.com/assume-breach",
+      "description": "An opinion piece arguing that perimeter-first thinking is dead. The author makes the case for telemetry, segmentation, and recoverability as the new pillars.",
+      "pubDate": "2026-04-17T15:22:00.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion"
+    },
+    {
+      "title": "Inside an APT campaign: dwell time, lateral movement, and the slow exfil",
+      "link": "https://example.com/apt-deep-dive",
+      "description": "A vendor research team published a deep technical analysis of a multi-month intrusion at a critical-infrastructure target. Includes ATT&CK mapping and high-confidence IOCs.",
+      "pubDate": "2026-04-17T12:01:00.000Z",
+      "source": "Mandiant",
+      "category": "research"
+    },
+    {
+      "title": "HackerOne disclosure: $48,000 bounty for chained zero-day in payment SDK",
+      "link": "https://example.com/h1-payment-sdk",
+      "description": "A researcher chained three vulnerabilities in a popular payment SDK to achieve full account takeover with no user interaction. Now patched.",
+      "pubDate": "2026-04-17T10:30:00.000Z",
+      "source": "HackerOne",
+      "category": "bugbounty"
+    },
+    {
+      "title": "Browser zero-day exploited in the wild, emergency update issued",
+      "link": "https://example.com/browser-0day",
+      "description": "A type-confusion vulnerability in the V8 engine is being actively exploited via watering-hole attacks against journalists and activists. Update immediately.",
+      "pubDate": "2026-04-17T08:45:00.000Z",
+      "source": "Sample Feed",
+      "category": "alerts"
+    },
+    {
+      "title": "Shadow IT discovery: how a small change to DNS logs exposed 2,400 unsanctioned services",
+      "link": "https://example.com/shadow-it",
+      "description": "A defender writes up how a 30-line script over DNS logs surfaced thousands of forgotten apps, abandoned subdomains, and unmonitored data flows.",
+      "pubDate": "2026-04-17T05:30:00.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion"
+    },
+    {
+      "title": "PortSwigger Research: bypassing modern WAFs with parser confusion",
+      "link": "https://example.com/portswigger-waf",
+      "description": "New research detailing a class of parser-confusion attacks that reliably defeat the cloud WAFs in the top 5 vendors. PoCs and detections included.",
+      "pubDate": "2026-04-16T23:00:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research"
+    },
+    {
+      "title": "Sophos: ransomware dwell time hits 8 days, down from 15 in 2024",
+      "link": "https://example.com/sophos-dwell",
+      "description": "Annual report shows operators are moving faster from initial access to encryption. Key takeaway: hours, not days, for detection windows.",
+      "pubDate": "2026-04-16T20:11:00.000Z",
+      "source": "Sophos",
+      "category": "research"
+    },
+    {
+      "title": "Major MFA provider details root cause of last week's outage",
+      "link": "https://example.com/mfa-postmortem",
+      "description": "A detailed post-mortem covers the misconfigured certificate rotation that locked tens of millions of users out for 2.5 hours. Lessons for cert-pinning architectures.",
+      "pubDate": "2026-04-16T17:55:00.000Z",
+      "source": "Sample Feed",
+      "category": "news"
+    },
+    {
+      "title": "New research: training data poisoning in commercial LLMs is more practical than thought",
+      "link": "https://example.com/llm-poisoning",
+      "description": "Academic + industry team demonstrates a low-cost method to poison commercial LLM behaviors with under 0.1% of training data. Detection remains an open problem.",
+      "pubDate": "2026-04-16T14:00:00.000Z",
+      "source": "Google TAG",
+      "category": "research"
+    }
+  ]
+}

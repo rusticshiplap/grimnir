@@ -1,0 +1,21 @@
+[build]
+  publish = "."
+  command = "npm install && node scripts/fetch-feeds.js"
+
+# Optional: Netlify scheduled function (alt to GitHub Action)
+# [[plugins]]
+#   package = "@netlify/plugin-scheduled-functions"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "strict-origin-when-cross-origin"
+    Permissions-Policy = "interest-cohort=(), browsing-topics=()"
+    Strict-Transport-Security = "max-age=31536000; includeSubDomains"
+
+[[headers]]
+  for = "/cache/*"
+  [headers.values]
+    Cache-Control = "public, max-age=300"

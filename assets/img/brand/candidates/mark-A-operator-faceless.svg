@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120">
+  <defs>
+    <linearGradient id="A-body" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#1B1E2C"/>
+      <stop offset="1" stop-color="#07080D"/>
+    </linearGradient>
+  </defs>
+  <!-- Shoulders: chevron / tactical V -->
+  <path d="
+    M 14 112
+    L 30 78
+    L 46 66
+    L 46 48
+    L 60 8
+    L 74 48
+    L 74 66
+    L 90 78
+    L 106 112
+    Z
+  " fill="url(#A-body)" stroke="#2A2D3A" stroke-width="1.2" stroke-linejoin="miter"/>
+  <!-- Hood front inner dark to suggest depth -->
+  <path d="M 46 48 L 60 14 L 74 48 L 70 56 L 50 56 Z" fill="#05060A"/>
+  <!-- Collar seam -->
+  <path d="M 30 78 L 60 68 L 90 78" fill="none" stroke="#2A2D3A" stroke-width="1"/>
+  <!-- Shoulder centerline (cape split) -->
+  <line x1="60" y1="68" x2="60" y2="112" stroke="#1F2230" stroke-width="1"/>
+</svg>

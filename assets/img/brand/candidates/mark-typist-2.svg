@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 120" width="140" height="120">
+  <!-- Hoodie typist v2: more forward hunch, visible forearms coming onto keyboard -->
+  <g fill="#0A0B10" stroke="#2A2D3A" stroke-width="1.2" stroke-linejoin="round">
+    <!-- Hood + head -->
+    <ellipse cx="70" cy="42" rx="22" ry="24"/>
+    <!-- Body/shoulders - rounded trapezoid hunched forward -->
+    <path d="
+      M 50 58
+      Q 48 72, 40 84
+      Q 34 96, 48 102
+      L 92 102
+      Q 106 96, 100 84
+      Q 92 72, 90 58
+      Z
+    "/>
+    <!-- Left forearm pointing down to keyboard -->
+    <path d="M 42 94 Q 36 100, 38 108 L 58 110 L 58 102 Z"/>
+    <!-- Right forearm -->
+    <path d="M 98 94 Q 104 100, 102 108 L 82 110 L 82 102 Z"/>
+    <!-- Keyboard -->
+    <rect x="28" y="108" width="84" height="6" rx="1"/>
+  </g>
+</svg>

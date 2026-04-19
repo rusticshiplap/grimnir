@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 120" width="140" height="120">
+  <!-- Hoodie typist v3: with open laptop, figure peeking over the lid -->
+  <g fill="#0A0B10" stroke="#2A2D3A" stroke-width="1.2" stroke-linejoin="round">
+    <!-- Hood + head (rounded) -->
+    <path d="
+      M 70 10
+      C 48 10, 36 26, 36 48
+      L 36 60
+      Q 34 66, 40 68
+      L 100 68
+      Q 106 66, 104 60
+      L 104 48
+      C 104 26, 92 10, 70 10
+      Z
+    "/>
+    <!-- Shoulders, narrow band below head, hidden partly behind laptop -->
+    <path d="M 40 68 L 100 68 L 108 84 L 32 84 Z"/>
+    <!-- Laptop base (keyboard portion) -->
+    <rect x="18" y="96" width="104" height="8" rx="1"/>
+    <!-- Laptop screen edge tilted up, revealing lid back -->
+    <path d="M 28 84 L 112 84 L 108 96 L 32 96 Z"/>
+    <!-- Small wrist slivers peeking over keyboard -->
+    <rect x="46" y="90" width="12" height="8" rx="2"/>
+    <rect x="82" y="90" width="12" height="8" rx="2"/>
+  </g>
+</svg>

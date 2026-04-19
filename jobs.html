@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cybersecurity Jobs Board &middot; Grimnir</title>
+  <meta name="description" content="A cybersecurity-only job board. Post openings directly to the Grimnir readership of security practitioners.">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text"><span class="title">GRIMNIR</span><span class="tagline">THE HOODED ONE</span></span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink active" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="brand.html">Brand</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero" style="padding:60px 24px 30px;">
+    <div class="halo"></div>
+    <div class="kicker">>_ cybersecurity jobs / pay to post</div>
+    <h1 class="glitch" data-text="HIRING OPS" style="font-size: clamp(36px, 7vw, 80px);">HIRING OPS</h1>
+    <p class="lede">A small, curated job board. Security-only. Companies pay to post; listings appear here and in the weekly dispatch.</p>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
+      <a class="btn solid" href="mailto:jobs@grimnir.example?subject=Post%20a%20role">Post a role ($199 / 30 days)</a>
+      <a class="btn ghost" href="mailto:jobs@grimnir.example?subject=Featured%20post">Featured ($349 / 30 days)</a>
+    </div>
+  </section>
+
+  <main>
+    <div class="ad-slot" data-slot="jobs-top">728 &times; 90 &middot; ad slot: jobs-top</div>
+
+    <section class="section">
+      <h2>Open Roles</h2>
+      <p class="sub">Sample listings. Replace with real roles via your CMS or by editing this page.</p>
+
+      <div class="job-row">
+        <div>
+          <div class="role">Senior Detection Engineer <span class="featured">Featured</span></div>
+          <div class="company">Umbra Labs &middot; <span class="loc">Remote (US/EU)</span> &middot; <span class="loc">$180k–$220k</span></div>
+        </div>
+        <a class="btn" href="#">Apply →</a>
+      </div>
+      <div class="job-row">
+        <div>
+          <div class="role">Cloud Security Engineer (AWS)</div>
+          <div class="company">Shadowform &middot; <span class="loc">Remote (Global)</span> &middot; <span class="loc">$160k–$195k</span></div>
+        </div>
+        <a class="btn" href="#">Apply →</a>
+      </div>
+      <div class="job-row">
+        <div>
+          <div class="role">Red Team Operator</div>
+          <div class="company">Black Cipher Consulting &middot; <span class="loc">Hybrid NYC</span> &middot; <span class="loc">$170k–$210k</span></div>
+        </div>
+        <a class="btn" href="#">Apply →</a>
+      </div>
+      <div class="job-row">
+        <div>
+          <div class="role">DevSecOps Lead</div>
+          <div class="company">Kestrel Security &middot; <span class="loc">Remote (US)</span> &middot; <span class="loc">$175k–$215k</span></div>
+        </div>
+        <a class="btn" href="#">Apply →</a>
+      </div>
+      <div class="job-row">
+        <div>
+          <div class="role">Application Security Engineer</div>
+          <div class="company">Penumbra Analytics &middot; <span class="loc">Remote (EU)</span> &middot; <span class="loc">€110k–€140k</span></div>
+        </div>
+        <a class="btn" href="#">Apply →</a>
+      </div>
+    </section>
+
+    <div class="ad-slot" data-slot="jobs-mid">300 &times; 250 &middot; ad slot: jobs-mid</div>
+
+    <section class="section">
+      <h2>Post a Role</h2>
+      <p style="color:var(--fg-1)">Basic listing: <strong>$199</strong> for 30 days. Featured (pinned at top, included in weekly newsletter): <strong>$349</strong>. Payments via Stripe. Send the role via email and we'll invoice you within 24 hours.</p>
+      <p style="color:var(--fg-2); font-family:var(--mono); font-size:13px;">Grimnir does not mediate hiring decisions or employment contracts. Employers are responsible for the accuracy of their listings, legal compliance (EEO, wage disclosure, work authorization, etc.), and for all conduct during their hiring process.</p>
+      <a class="btn solid" href="mailto:jobs@grimnir.example?subject=Post%20a%20role">Email us to post →</a>
+    </section>
+  </main>
+
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved.</div>
+  </footer>
+
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
+  <script src="assets/js/effects.js"></script>
+</body>
+</html>

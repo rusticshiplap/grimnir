@@ -1,0 +1,39 @@
+name: fetch-feeds
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"   # every 30 minutes
+  workflow_dispatch:          # manual run button
+  push:
+    branches: [ main ]
+    paths: [ "feeds.json", "scripts/**", ".github/workflows/**" ]
+
+permissions:
+  contents: write
+
+jobs:
+  fetch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - run: npm ci || npm install
+
+      - name: Fetch feeds
+        run: npm run fetch
+
+      - name: Commit updated cache
+        run: |
+          git config user.name  "grimnir-bot"
+          git config user.email "grimnir-bot@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain cache/feed.json)" ]]; then
+            git add cache/feed.json
+            git commit -m "chore(cache): refresh feed [skip ci]"
+            git push
+          else
+            echo "No feed changes."
+          fi

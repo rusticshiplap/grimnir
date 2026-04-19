@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 140 120" width="140" height="120">
+  <!-- Hoodie typist - rounded hood, head + shoulders + arms forward to keyboard -->
+  <!-- Pure silhouette, single fill -->
+  <g fill="#0A0B10" stroke="#2A2D3A" stroke-width="1.2" stroke-linejoin="round">
+    <!-- Main figure body (hood + shoulders) -->
+    <path d="
+      M 70 20
+      C 48 20, 36 34, 36 54
+      C 36 60, 36 64, 38 66
+      L 38 70
+      L 28 74
+      C 16 78, 12 90, 18 100
+      L 34 108
+      C 40 112, 48 114, 54 114
+      L 86 114
+      C 92 114, 100 112, 106 108
+      L 122 100
+      C 128 90, 124 78, 112 74
+      L 102 70
+      L 102 66
+      C 104 64, 104 60, 104 54
+      C 104 34, 92 20, 70 20
+      Z
+    "/>
+    <!-- Keyboard / desk line -->
+    <path d="M 24 114 L 116 114 L 120 120 L 20 120 Z"/>
+  </g>
+</svg>

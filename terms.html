@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Terms of Use &middot; Grimnir</title>
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.svg">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.svg" alt="Grimnir sigil">
+      <span class="brand-text"><span class="title">GRIMNIR</span><span class="tagline">THE HOODED ONE</span></span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="brand.html">Brand</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+  <main>
+    <article class="prose">
+      <h1>Terms of Use</h1>
+      <p style="color:var(--fg-2); font-family:var(--mono); font-size:13px;">Effective: <span id="updated"></span></p>
+
+      <h2>Acceptance</h2>
+      <p>By accessing or using Grimnir, you agree to be bound by these Terms and by our <a href="disclaimer.html">Disclaimer</a> and <a href="privacy.html">Privacy Policy</a>. If you do not agree, do not use the site.</p>
+
+      <h2>License to use</h2>
+      <p>We grant you a limited, non-exclusive, non-transferable, revocable license to access and view the site for your personal, non-commercial use. You may not scrape, crawl, resell, or republish aggregated content except as permitted by the original source's license and applicable law.</p>
+
+      <h2>Prohibited conduct</h2>
+      <ul>
+        <li>Using the site to violate any law or regulation.</li>
+        <li>Attempting to interfere with the site's availability or security, or probing for vulnerabilities without written authorization.</li>
+        <li>Submitting malicious content, including in job listings or merch orders.</li>
+        <li>Impersonating any person or misrepresenting your affiliation with an entity.</li>
+      </ul>
+
+      <h2>Intellectual property</h2>
+      <p>Grimnir branding, logo, copy, and original graphics are © Grimnir. Aggregated articles remain the property of their original publishers and are displayed under RSS / Atom and fair-use conventions. If you believe content on the site infringes your rights, see the DMCA section of our <a href="disclaimer.html">Disclaimer</a>.</p>
+
+      <h2>Paid services (merch, job listings)</h2>
+      <p>Merch is sold and fulfilled by Printful under their terms; Grimnir is not the merchant of record. Job listings are paid placements subject to our posting guidelines. We reserve the right to refuse or remove any listing.</p>
+
+      <h2>Disclaimers &amp; limitation of liability</h2>
+      <p>See our <a href="disclaimer.html">Disclaimer</a> for the full "AS IS" warranty disclaimer, limitation of liability, and indemnification provisions. These are material terms of your use of the site.</p>
+
+      <h2>Termination</h2>
+      <p>We may suspend or terminate your access to the site at any time for any reason, including breach of these terms.</p>
+
+      <h2>Governing law &amp; venue</h2>
+      <p>These Terms are governed by the laws of the jurisdiction in which Grimnir's operator is domiciled, without regard to conflict-of-laws principles. Disputes shall be resolved exclusively in the state and federal courts located in that jurisdiction.</p>
+
+      <h2>Changes</h2>
+      <p>We may update these Terms at any time. Continued use of the site after changes are posted constitutes acceptance.</p>
+
+      <h2>Contact</h2>
+      <p>Questions: <a href="mailto:legal@grimnir.example">legal@grimnir.example</a>.</p>
+    </article>
+  </main>
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a><a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a><a href="terms.html">Terms</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved.</div>
+  </footer>
+  <script>
+    document.getElementById("year").textContent = new Date().getFullYear();
+    document.getElementById("updated").textContent = new Date().toLocaleDateString();
+  </script>
+  <script src="assets/js/effects.js"></script>
+</body>
+</html>

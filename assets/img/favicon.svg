@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Grimnir favicon">
+  <defs>
+    <linearGradient id="f-fabric" x1="0.5" y1="0" x2="0.5" y2="1">
+      <stop offset="0%" stop-color="#1C1F2C"/>
+      <stop offset="100%" stop-color="#0A0B10"/>
+    </linearGradient>
+  </defs>
+  <!-- Rounded tile background -->
+  <rect width="64" height="64" rx="12" fill="#0A0B10"/>
+  <!-- Hoodie silhouette, simplified for small sizes -->
+  <path fill="url(#f-fabric)" stroke="#2A2D3A" stroke-width="0.6" stroke-linejoin="round"
+        d="M 32 8 C 20 8, 12 16, 12 28 C 12 34, 14 39, 16 42 L 14 46 L 9 51 L 6 58 L 58 58 L 55 51 L 50 46 L 48 42 C 50 39, 52 34, 52 28 C 52 16, 44 8, 32 8 Z"/>
+  <!-- Face void: arched hollow -->
+  <path fill="#000000"
+        d="M 21 23 C 21 16, 25 13, 32 13 C 39 13, 43 16, 43 23 C 43 32, 41 40, 38 44 C 36 46, 34 47, 32 47 C 30 47, 28 46, 26 44 C 23 40, 21 32, 21 23 Z"/>
+</svg>
