@@ -67,13 +67,16 @@
 
     feedEl.innerHTML = list.map(s => `
       <a class="card fade-in" href="${escapeHtml(s.link)}" target="_blank" rel="noopener nofollow">
-        <div class="meta">
-          <span class="source">${escapeHtml(s.source)}</span>
-          <span>${fmtDate(s.pubDate)}</span>
+        ${s.image ? `<img class="card-image" src="${escapeHtml(s.image)}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+        <div class="card-content">
+          <div class="meta">
+            <span class="source">${escapeHtml(s.source)}</span>
+            <span>${fmtDate(s.pubDate)}</span>
+          </div>
+          <h3>${highlight(s.title || "", tokens)}</h3>
+          <p>${highlight((s.description || "").slice(0, 240), tokens)}</p>
+          <span class="read">read dispatch →</span>
         </div>
-        <h3>${highlight(s.title || "", tokens)}</h3>
-        <p>${highlight((s.description || "").slice(0, 240), tokens)}</p>
-        <span class="read">read dispatch →</span>
       </a>
     `).join("");
     document.querySelectorAll(".fade-in").forEach(el => el.classList.add("visible"));
@@ -109,7 +112,8 @@
             description: (i.description || "").replace(/<[^>]*>/g, ""),
             pubDate: i.pubDate,
             source: src.name,
-            category: src.category
+            category: src.category,
+            image: i.enclosure?.url || null
           }));
         } catch { return []; }
       }));

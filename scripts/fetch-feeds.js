@@ -39,21 +39,49 @@ const hashKey = (s) =>
     .replace(/[^a-z0-9]+/g, "")
     .slice(0, 80);
 
+// Extract image URL from various RSS/Atom formats
+const extractImage = (item) => {
+  // Try media:content (Atom)
+  if (item.media?.content?.[0]?.url) return item.media.content[0].url;
+  
+  // Try media:thumbnail
+  if (item.media?.thumbnail?.[0]?.url) return item.media.thumbnail[0].url;
+  
+  // Try enclosure (Atom)
+  if (item.enclosure?.url && item.enclosure.type?.startsWith("image")) {
+    return item.enclosure.url;
+  }
+  
+  // Try image object (some feeds)
+  if (item.image?.url) return item.image.url;
+  
+  // Try first <img src> in content
+  const content = item.content || item.contentSnippet || "";
+  const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/);
+  if (imgMatch) return imgMatch[1];
+  
+  return null;
+};
+
 async function fetchSource(src) {
   try {
     const feed = await parser.parseURL(src.url);
     const items = (feed.items || [])
       .slice(0, MAX_PER_SOURCE)
-      .map(it => ({
-        title: (it.title || "").trim(),
-        link: it.link || it.guid || "",
-        description: stripHtml(
-          it.contentSnippet || it.content || it.summary || ""
-        ).slice(0, 600),
-        pubDate: it.isoDate || it.pubDate || new Date().toISOString(),
-        source: src.name,
-        category: src.category || "news"
-      }))
+      .map(it => {
+        const image = extractImage(it);
+        return {
+          title: (it.title || "").trim(),
+          link: it.link || it.guid || "",
+          description: stripHtml(
+            it.contentSnippet || it.content || it.summary || ""
+          ).slice(0, 600),
+          pubDate: it.isoDate || it.pubDate || new Date().toISOString(),
+          source: src.name,
+          category: src.category || "news",
+          image: image || null
+        };
+      })
       .filter(i => i.title && i.link);
     console.log(`  ✓ ${src.name} (${items.length})`);
     return items;
