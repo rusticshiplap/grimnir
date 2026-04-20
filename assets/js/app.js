@@ -67,7 +67,9 @@
 
     feedEl.innerHTML = list.map(s => `
       <a class="card fade-in" href="${escapeHtml(s.link)}" target="_blank" rel="noopener nofollow">
-        ${s.image ? `<img class="card-image" src="${escapeHtml(s.image)}" alt="" loading="lazy" onerror="this.style.display='none'">` : ''}
+        <div class="card-image ${s.image ? 'has-image' : 'no-image'}">
+          ${s.image ? `<img src="${escapeHtml(s.image)}" alt="" loading="lazy" onerror="this.parentElement.classList.add('no-image'); this.style.display='none'">` : `<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg"><defs><linearGradient id="placeholder-grad" x1="0%" y1="0%" x2="100%" y2="100%"><stop offset="0%" style="stop-color:#1a3a52;stop-opacity:1" /><stop offset="100%" style="stop-color:#0f1a2e;stop-opacity:1" /></linearGradient></defs><rect width="100" height="100" fill="url(#placeholder-grad)"/><circle cx="50" cy="35" r="12" fill="#00e5ff" opacity="0.6"/><path d="M 20 70 L 50 45 L 80 70 Z" fill="none" stroke="#00e5ff" stroke-width="2" opacity="0.6"/></svg>`}
+        </div>
         <div class="card-content">
           <div class="meta">
             <span class="source">${escapeHtml(s.source)}</span>

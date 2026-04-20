@@ -487,9 +487,28 @@ mark.hit {
 .card-image {
   width: 100%;
   height: 200px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: linear-gradient(135deg, #1a3a52 0%, #0f1a2e 100%);
+  overflow: hidden;
+}
+
+.card-image img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
   display: block;
-  background: var(--steel);
+}
+
+.card-image.no-image {
+  background: linear-gradient(135deg, #1a3a52 0%, #0f1a2e 100%);
+}
+
+.card-image.no-image svg {
+  width: 60px;
+  height: 60px;
+  opacity: 0.5;
 }
 
 .card-content {
