@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T01:51:02.132Z",
+  "generatedAt": "2026-04-20T07:29:50.867Z",
   "count": 290,
   "sources": [
     "Krebs on Security",
@@ -24,6 +24,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Handling the CVE Flood With EPSS, (Mon, Apr 20th)",
+      "link": "https://isc.sans.edu/diary/rss/32914",
+      "description": "Every morning, security people around the world face the same ritual: opening their vulnerability feed to find a lot of new CVE entries that appeared overnight. Over the past decade, this flood has become a defining challenge of modern defensive security. Some numbers[1]:",
+      "pubDate": "2026-04-20T06:43:22.000Z",
+      "source": "SANS Internet Storm Ctr",
+      "category": "alerts",
+      "image": null
+    },
+    {
+      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
+      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
+      "description": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. \"The attacker used that access to take over the employee's Vercel Google Workspace account,",
+      "pubDate": "2026-04-20T03:35:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
+    },
+    {
+      "title": "ISC Stormcast For Monday, April 20th, 2026 https://isc.sans.edu/podcastdetail/9898, (Mon, Apr 20th)",
+      "link": "https://isc.sans.edu/diary/rss/32912",
+      "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "pubDate": "2026-04-20T02:00:03.000Z",
+      "source": "SANS Internet Storm Ctr",
+      "category": "alerts",
+      "image": null
+    },
     {
       "title": "Vercel confirms breach as hackers claim to be selling stolen data",
       "link": "https://www.bleepingcomputer.com/news/security/vercel-confirms-breach-as-hackers-claim-to-be-selling-stolen-data/",
@@ -952,15 +979,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4H3KkiSOm6TbNn7e0Ceu3-etqqeLci47PtX9T-0WGgdGScHfd2tfFamA6oyOi62wWwKF7KwF_wcqNACSvRVJvH__1YKoP_fP7T5LFdDqX8jxFph0NSaVJjFEVhb0bjNvn5IWayqMwKyRNbp9mmW7f2JLs7I3pTF8yLuhCOHsbnpNVLrEVq6Uq63j8508/s1600/derailed.jpg"
     },
     {
-      "title": "108 Malicious Chrome Extensions Steal Google and Telegram Data, Affecting 20,000 Users",
-      "link": "https://thehackernews.com/2026/04/108-malicious-chrome-extensions-steal.html",
-      "description": "Cybersecurity researchers have discovered a new campaign in which a cluster of 108 Google Chrome extensions has been found to communicate with the same command-and-control (C2) infrastructure with the goal of collecting user data and enabling browser-level abuse by injecting ads and arbitrary JavaScript code into every web page visited. According to Socket, the extensions (complete list",
-      "pubDate": "2026-04-14T08:35:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEOmjr311c0yBDI593joFXQLaRdpm6DY67lbFv83YcYlRHaJkpocwXjDZDsV9F9DM-SavZwCOZ-fg10ncUJyW3ODlfBjqG6aK_ytdBfvXFGLswxeJ69oiZXfhGKdCgVO0Angg_qlYB6oAZYo-JQRKn4toBGWcS7OTDwPV0rkus7eNw-9BllIGJa2nkeKXn/s1600/chrome-telegram.jpg"
-    },
-    {
       "title": "Weekly Update 499",
       "link": "https://www.troyhunt.com/weekly-update-499/",
       "description": "I'm starting to become pretty fond of Bruce. Actually, I've had a bit of an epiphany: an AI assistant like Bruce isn't just about auto-responding to tickets in an entirely autonomous manner; it's also pretty awesome at responding with just a little",
@@ -1042,15 +1060,6 @@
       "image": null
     },
     {
-      "title": "Scans for EncystPHP Webshell, (Mon, Apr 13th)",
-      "link": "https://isc.sans.edu/diary/rss/32892",
-      "description": "Last week, I wrote about attackers scanning for various webshells, hoping to find some that do not require authentication or others that use well-known credentials. But some attackers are paying attention and are deploying webshells with more difficult-to-guess credentials. Today, I noticed some scans for what appears to be the \"EncystPHP\" web shell. Fortinet wrote about this webshell back in January. It appears to be a favorite among attackers compromising vulnerable FreePBX systems.",
-      "pubDate": "2026-04-13T13:02:50.000Z",
-      "source": "SANS Internet Storm Ctr",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
       "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
       "description": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerability CVE-2026-21643 Fortinet SQL Injection Vulnerability CVE-2026-34621 Adobe Acrobat and Reader Prot",
@@ -1066,15 +1075,6 @@
       "pubDate": "2026-04-13T10:10:45.000Z",
       "source": "Schneier on Security",
       "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "ISC Stormcast For Monday, April 13th, 2026 https://isc.sans.edu/podcastdetail/9888, (Mon, Apr 13th)",
-      "link": "https://isc.sans.edu/diary/rss/32890",
-      "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "pubDate": "2026-04-13T02:00:02.000Z",
-      "source": "SANS Internet Storm Ctr",
-      "category": "alerts",
       "image": null
     },
     {
