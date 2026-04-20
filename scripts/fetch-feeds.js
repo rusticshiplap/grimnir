@@ -41,24 +41,51 @@ const hashKey = (s) =>
 
 // Extract image URL from various RSS/Atom formats
 const extractImage = (item) => {
-  // Try media:content (Atom)
+  // Try media:content (Atom/RSS with media namespace)
   if (item.media?.content?.[0]?.url) return item.media.content[0].url;
   
   // Try media:thumbnail
   if (item.media?.thumbnail?.[0]?.url) return item.media.thumbnail[0].url;
   
-  // Try enclosure (Atom)
+  // Try content:encoded with img tag
+  if (item.content) {
+    const contentMatch = item.content.match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (contentMatch) return contentMatch[1];
+  }
+  
+  // Try description/summary with img tag
+  if (item.contentSnippet || item.summary) {
+    const descMatch = (item.contentSnippet || item.summary).match(/<img[^>]+src=["']([^"']+)["']/i);
+    if (descMatch) return descMatch[1];
+  }
+  
+  // Try enclosure (standard RSS)
   if (item.enclosure?.url && item.enclosure.type?.startsWith("image")) {
     return item.enclosure.url;
   }
   
-  // Try image object (some feeds)
+  // Try image object
   if (item.image?.url) return item.image.url;
   
-  // Try first <img src> in content
-  const content = item.content || item.contentSnippet || "";
-  const imgMatch = content.match(/<img[^>]+src=["']([^"']+)["']/);
-  if (imgMatch) return imgMatch[1];
+  // Try itunes:image (podcasts/some blogs)
+  if (item.itunes?.image) return item.itunes.image;
+  
+  // Try og:image in content
+  if (item.content) {
+    const ogMatch = item.content.match(/og:image["\s]+content=["']([^"']+)["']/i);
+    if (ogMatch) return ogMatch[1];
+  }
+  
+  // Try data-src (lazy-loaded images)
+  if (item.content) {
+    const lazyMatch = item.content.match(/data-src=["']([^"']+)["']/i);
+    if (lazyMatch) return lazyMatch[1];
+  }
+  
+  // Fallback: try any img src in content
+  const anyContent = (item.content || item.contentSnippet || item.summary || "");
+  const fallbackMatch = anyContent.match(/<img[^>]+src=["']([^"']+)["']/i);
+  if (fallbackMatch) return fallbackMatch[1];
   
   return null;
 };
