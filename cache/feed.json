@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-20T20:05:45.359Z",
+  "generatedAt": "2026-04-21T01:25:53.272Z",
   "count": 290,
   "sources": [
     "Krebs on Security",
@@ -24,6 +24,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
+      "description": "State-sponsored North Korean hackers are likely behind the $290 million crypto-heist that impacted the KelpDAO DeFi project on Saturday. [...]",
+      "pubDate": "2026-04-20T22:23:52.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "China's Apple App Store infiltrated by crypto-stealing wallet apps",
+      "link": "https://www.bleepingcomputer.com/news/security/chinas-apple-app-store-infiltrated-by-crypto-stealing-wallet-apps/",
+      "description": "A set of 26 malicious apps on Apple App Store impersonate popular wallets, such as Metamask, Coinbase, Trust Wallet, and OneKey, to steal recovery or seed phrases and drain them of cryptocurrency assets. [...]",
+      "pubDate": "2026-04-20T21:52:54.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "Vercel Employee's AI Tool Access Led to Data Breach",
+      "link": "https://www.darkreading.com/application-security/vercel-employees-ai-tool-access-data-breach",
+      "description": "Stolen OAuth tokens, which are at the root of these breaches, \"are the new attack surface, the new lateral movement,\" a researcher noted.",
+      "pubDate": "2026-04-20T21:01:31.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": null
+    },
     {
       "title": "Serial-to-IP Devices Hide Thousands of Old and New Bugs",
       "link": "https://www.darkreading.com/ics-ot-security/serial-ip-devices-thousands-of-bugs",
@@ -358,15 +385,6 @@
       "image": null
     },
     {
-      "title": "NAKIVO v11.2: Ransomware Defense, Faster Replication, vSphere 9, and Proxmox VE 9.0 Support",
-      "link": "https://www.bleepingcomputer.com/news/security/nakivo-v112-ransomware-defense-faster-replication-vsphere-9-and-proxmox-ve-90-support/",
-      "description": "NAKIVO Inc. announced the general availability of NAKIVO Backup & Replication v11.2, focused on fast, reliable, and proactive data protection. [...]",
-      "pubDate": "2026-04-18T13:45:54.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": null
-    },
-    {
       "title": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
       "description": "Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support—activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry. The post Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook appeared first on Microsoft Security Blog.",
@@ -435,15 +453,6 @@
       "description": "Industry and ad hoc coalitions appear poised to help fill the gap created by NIST's decision to cut back on CVE data enrichment.",
       "pubDate": "2026-04-17T19:51:57.000Z",
       "source": "Dark Reading",
-      "category": "news",
-      "image": null
-    },
-    {
-      "title": "Payouts King ransomware uses QEMU VMs to bypass endpoint security",
-      "link": "https://www.bleepingcomputer.com/news/security/payouts-king-ransomware-uses-qemu-vms-to-bypass-endpoint-security/",
-      "description": "The Payouts King ransomware is using the QEMU emulator as a reverse SSH backdoor to run hidden virtual machines on compromised systems and bypass endpoint security. [...]",
-      "pubDate": "2026-04-17T19:10:19.000Z",
-      "source": "Bleeping Computer",
       "category": "news",
       "image": null
     },
@@ -594,7 +603,7 @@
     {
       "title": "NIST Revamps CVE Framework to Focus on High-Impact Vulnerabilities",
       "link": "https://www.darkreading.com/vulnerabilities-threats/nist-revamps-cve-framework-to-focus-on-high-impact-vulnerabilities",
-      "description": "The National Institute of Standards and Technology carved a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
+      "description": "The National Institute of Standards and Technology is carving a new path for vulnerability remediation by changing the way it prioritizes software flaws.",
       "pubDate": "2026-04-16T21:47:31.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -655,7 +664,7 @@
       "image": null
     },
     {
-      "title": "Two-Factor Authentication Breaks Free from the Desktop",
+      "title": "Two-Factor Authentication Breaks Free From the Desktop",
       "link": "https://www.darkreading.com/endpoint-security/two-factor-authentication-breaks-free-from-the-desktop",
       "description": "Threat actors know how to bypass security systems outside of traditional IT environments. Implementing 2FA could provide a needed extra security barrier in the physical world.",
       "pubDate": "2026-04-16T15:28:15.000Z",
@@ -666,7 +675,7 @@
     {
       "title": "Microsoft's Original Windows Secure Boot Certificate Is Expiring",
       "link": "https://www.darkreading.com/endpoint-security/microsoftoriginal-windows-secure-boot-certificates-expire",
-      "description": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. Update those PCs soon.",
+      "description": "The Secure Boot refresh is one of the largest coordinated security maintenance efforts across the Windows ecosystem, Microsoft said. In other words, update those PCs soon.",
       "pubDate": "2026-04-16T15:16:30.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -1100,15 +1109,6 @@
       "link": "https://www.darkreading.com/application-security/adobe-patches-actively-exploited-zero-day",
       "description": "An attacker has been using maliciously crafted PDF files to exploit a zero-day in Adobe Acrobat and Reader for at least four months.",
       "pubDate": "2026-04-13T20:52:38.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": null
-    },
-    {
-      "title": "Empty Attestations: OT Lacks the Tools for Cryptographic Readiness",
-      "link": "https://www.darkreading.com/ics-ot-security/ot-lacks-tools-cryptographic-readiness",
-      "description": "OT asset owners are being asked by regulators to attest to their post-quantum cryptographic readiness without the appropriate tooling, resulting in paperwork dressed up to look like genuine security.",
-      "pubDate": "2026-04-13T19:10:55.000Z",
       "source": "Dark Reading",
       "category": "news",
       "image": null
@@ -1813,7 +1813,7 @@
       "pubDate": "2026-03-06T14:00:00.000Z",
       "source": "Mandiant",
       "category": "research",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/destructive-attacks-guidance-fig6.max-1000x1000.png"
+      "image": null
     },
     {
       "title": "Look What You Made Us Patch: 2025 Zero-Days in Review",
@@ -1939,7 +1939,7 @@
       "pubDate": "2026-02-10T14:00:00.000Z",
       "source": "Mandiant",
       "category": "research",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/dib-threats-fig1.max-1000x1000.png"
+      "image": null
     },
     {
       "title": "From Security Operations to Security Leadership: Sophos CISO Advantage",
@@ -1957,7 +1957,7 @@
       "pubDate": "2026-02-09T14:00:00.000Z",
       "source": "Mandiant",
       "category": "research",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/unc1069-crypto-ai-fig3a.max-1000x1000.png"
+      "image": null
     },
     {
       "title": "Weekly Update 490",
@@ -2020,7 +2020,7 @@
       "pubDate": "2026-01-28T14:00:00.000Z",
       "source": "Mandiant",
       "category": "research",
-      "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/disruption-proxy-network-fig1.max-1000x1000.png"
+      "image": null
     },
     {
       "title": "Diverse Threat Actors Exploiting Critical WinRAR Vulnerability CVE-2025-8088",
