@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-21T01:44:43.975Z",
-  "count": 290,
+  "generatedAt": "2026-04-21T02:07:06.930Z",
+  "count": 265,
   "sources": [
     "Krebs on Security",
     "The Hacker News",
@@ -10,7 +10,6 @@
     "Graham Cluley",
     "Troy Hunt",
     "SANS Internet Storm Ctr",
-    "US-CERT CISA Alerts",
     "NIST NVD Recent CVEs",
     "Threatpost",
     "SecurityWeek",
@@ -24,6 +23,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "ISC Stormcast For Tuesday, April 21st, 2026 https://isc.sans.edu/podcastdetail/9900, (Tue, Apr 21st)",
+      "link": "https://isc.sans.edu/diary/rss/32916",
+      "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
+      "pubDate": "2026-04-21T02:00:02.000Z",
+      "source": "SANS Internet Storm Ctr",
+      "category": "alerts",
+      "image": null
+    },
     {
       "title": "KelpDAO suffers $290 million heist tied to Lazarus hackers",
       "link": "https://www.bleepingcomputer.com/news/security/kelpdao-suffers-290-million-heist-tied-to-lazarus-hackers/",
@@ -167,24 +175,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
-    },
-    {
-      "title": "​​Supply Chain Compromise Impacts Axios Node Package Manager​",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/supply-chain-compromise-impacts-axios-node-package-manager",
-      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) is releasing this alert to provide guidance in response to the software supply chain compromise of the Axios node package manager (npm).1 Axios is an HTTP client for JavaScript that developers commonly use in Node.js and browser environments. On March 31, 2026, two npm packages for versions axios@1.14.1 and axios@0.30.4 of Axios npm injected the malicious dependency plain-crypto-js@4.2.1 that downloads multi-stage payloads from cyber threat actor infrastructure, including a remote access trojan.2 CISA urges organizations to implement ",
-      "pubDate": "2026-04-20T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "CISA Adds Eight Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/20/cisa-adds-eight-known-exploited-vulnerabilities-catalog",
-      "description": "CISA has added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2023-27351 PaperCut NG/MF Improper Authentication Vulnerability CVE-2024-27199 JetBrains TeamCity Relative Path Traversal Vulnerability CVE-2025-2749 Kentico Xperience Path Traversal Vulnerability CVE-2025-32975 Quest KACE Systems Management Appliance (SMA) Improper Authentication Vulnerability CVE-2025-48700 Synacor Zimbra Collaboration Suite (ZCS) Cross-site Scripting Vulnerability CVE-2026-20122 Cisco Catalyst SD-WAN Manager Incorrect Use of Privileged",
-      "pubDate": "2026-04-20T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "Hackers Abuse QEMU for Defense Evasion",
@@ -709,51 +699,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzTV_mwPjmV14aBlnHuLOX2yEZR6VGpmadgiPHtNBJV0KVNG_Oj2tnqE1cb3U9RhBXN-Mytte3jKs2n2dQwBhX2dYDETy5es4cGUkbW5bdIaV_hx8i3gWQhdaa7se1_Q8NY9t0q90EjUBNXt56_MxjT4YVV-R8D14jV3LequHu0llA84NnEK3PeU56Q54X/s1600/bull-main.jpg"
     },
     {
-      "title": "AVEVA Pipeline Simulation",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-04",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an unauthenticated attacker to modify simulation parameters, training configuration and training records. The following versions of AVEVA Pipeline Simulation are affected: Pipeline Simulation <=2025_SP1_build_7.1.9497.6351 CVSS Vendor Equipment Vulnerabilities v3 9.1 AVEVA AVEVA Pipeline Simulation Missing Authorization Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: United Kingdom Vulnerabilities Expand All + CVE-2026-5387 The vulner",
-      "pubDate": "2026-04-16T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Delta Electronics ASDA-Soft",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-01",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to execute arbitrary code. The following versions of Delta Electronics ASDA-Soft are affected: ASDA-Soft <=V7.2.2.0 CVSS Vendor Equipment Vulnerabilities v3 7.8 Delta Electronics Delta Electronics ASDA-Soft Stack-based Buffer Overflow Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: Taiwan Vulnerabilities Expand All + CVE-2026-5726 A stack-based buffer overflow vulnerability is triggered in ASDA-Soft version 7.2.0.0 during ",
-      "pubDate": "2026-04-16T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Horner Automation Cscape and XL4, XL7 PLC",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-02",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to gain unauthorized access to systems and services. The following versions of Horner Automation Cscape and XL4, XL7 PLC are affected: Cscape v10.0 XL7 PLC v15.60 XL4 PLC v16.32.0 CVSS Vendor Equipment Vulnerabilities v3 9.1 Horner Automation Horner Automation Cscape and XL4, XL7 PLC Weak Password Requirements Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed: Worldwide Company Headquarters Location: United States Vulnerabilities Expand All + CVE-2026-6284 An attack",
-      "pubDate": "2026-04-16T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Anviz Multiple Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-106-03",
-      "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow attackers to conduct reconnaissance, capture or decrypt sensitive data, alter device configurations, gain unauthorized administrative or root‑level access, execute arbitrary code, compromise credentials or communications, and ultimately obtain full control over affected devices. The following versions of Anviz Multiple Products are affected: CX2 Lite Firmware vers:all/* (CVE-2026-32648, CVE-2026-40461, CVE-2026-35682, CVE-2026-35546, CVE-2026-40066, CVE-2026-33569) CX7 Firmware vers:all/* (CVE-2026-33093, CVE-2026-3",
-      "pubDate": "2026-04-16T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/16/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-34197 Apache ActiveMQ Improper Input Validation Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise",
-      "pubDate": "2026-04-16T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "Cisco Patches Four Critical Identity Services, Webex Flaws Enabling Code Execution",
       "link": "https://thehackernews.com/2026/04/cisco-patches-four-critical-identity.html",
       "description": "Cisco has announced patches to address four critical security flaws impacting Identity Services and Webex Services that could result in arbitrary code execution and allow an attacker to impersonate any user within the service. The details of the vulnerabilities are below - CVE-2026-20184 (CVSS score: 9.8) - An improper certificate validation in the integration of single sign-on (SSO)",
@@ -1042,15 +987,6 @@
       "image": null
     },
     {
-      "title": "CISA Adds Two Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/14/cisa-adds-two-known-exploited-vulnerabilities-catalog",
-      "description": "CISA has added two new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2009-0238 Microsoft Office Remote Code Execution Vulnerability CVE-2026-32201 Microsoft SharePoint Server Improper Input Validation Vulnerability These types of vulnerabilities are frequent attack vectors for malicious cyber actors and pose significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulner",
-      "pubDate": "2026-04-14T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "How Hackers Are Thinking About AI",
       "link": "https://www.schneier.com/blog/archives/2026/04/how-hackers-are-thinking-about-ai.html",
       "description": "Interesting paper: “What hackers talk about when they talk about AI: Early-stage diffusion of a cybercrime innovation.” Abstract: The rapid expansion of artificial intelligence (AI) is raising concerns about its potential to transform cybercrime. Beyond empowering novice offenders, AI stands to intensify the scale and sophistication of attacks by seasoned cybercriminals. This paper examines the evolving relationship between cybercriminals and AI using a unique dataset from a cyber threat intelligence platform. Analyzing more than 160 cybercrime forum conversations collected over seven months, ",
@@ -1076,15 +1012,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "ISC Stormcast For Tuesday, April 14th, 2026 https://isc.sans.edu/podcastdetail/9890, (Tue, Apr 14th)",
-      "link": "https://isc.sans.edu/diary/rss/32894",
-      "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
-      "pubDate": "2026-04-14T02:00:02.000Z",
-      "source": "SANS Internet Storm Ctr",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
@@ -1120,15 +1047,6 @@
       "pubDate": "2026-04-13T16:52:57.000Z",
       "source": "Schneier on Security",
       "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "CISA Adds Seven Known Exploited Vulnerabilities to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/13/cisa-adds-seven-known-exploited-vulnerabilities-catalog",
-      "description": "CISA has added seven new vulnerabilities to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2012-1854 Microsoft Visual Basic for Applications Insecure Library Loading Vulnerability CVE-2020-9715 Adobe Acrobat Use-After-Free Vulnerability CVE-2023-21529 Microsoft Exchange Server Deserialization of Untrusted Data Vulnerability CVE-2023-36424 Microsoft Windows Out-of-Bounds Read Vulnerability CVE-2025-60710 Microsoft Windows Link Following Vulnerability CVE-2026-21643 Fortinet SQL Injection Vulnerability CVE-2026-34621 Adobe Acrobat and Reader Prot",
-      "pubDate": "2026-04-13T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
       "image": null
     },
     {
@@ -1186,24 +1104,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/image-13.webp"
     },
     {
-      "title": "GPL Odorizers GPL750",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-02",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow a low privileged remote attacker to manipulate register values, which would result in too much or too little odorant being injected into a gas line. The following versions of GPL Odorizers GPL750 are affected: GPL750 (XL4) >=v1.0| GPL750 (XL4 Prime) >=v4.0| GPL750 (XL7) >=v13.0| GPL750 (XL7 Prime) >=v18.4| CVSS Vendor Equipment Vulnerabilities v3 8.6 GPL Odorizers GPL Odorizers GPL750 Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Critical Manufacturing Countries/Areas Deployed",
-      "pubDate": "2026-04-09T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Contemporary Controls BASC 20T",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-099-01",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to enumerate the functionality of each component associated with the PLC, reconfigure, rename, delete, perform file transfers, and make remote procedure calls. The following versions of Contemporary Controls BASC 20T are affected: BASControl20 3.1 (CVE-2025-13926) CVSS Vendor Equipment Vulnerabilities v3 9.8 Contemporary Controls Sedona Alliance Contemporary Controls BASC 20T Reliance on Untrusted Inputs in a Security Decision Background Critical Infrastructure Sectors: Commercial Facilities, Critical Manuf",
-      "pubDate": "2026-04-09T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "Smashing Security podcast #462: LinkedIn is spying on you, and you agreed to nothing",
       "link": "https://grahamcluley.com/smashing-security-podcast-462/",
       "description": "LinkedIn has been secretly scanning your browser for over 6,000 installed extensions — on every single click you make. It can tell if you're job hunting, what religion you are, and whether you have ADHD. And none of this is mentioned anywhere in their privacy policy. Meanwhile, California's crypto millionaires are learning that no amount of encryption can protect you from someone who knocks on your door pretending to deliver a pizza. All this and more in episode 462 of the “Smashing Security” podcast with cybersecurity expert and keynote speaker Graham Cluley, joined this week by special guest",
@@ -1220,15 +1120,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/03_Cloud_cybersecurity_research_Category_1505x922.jpg"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/08/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-1340 Ivanti Endpoint Manager Mobile (EPMM) Code Injection Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal ",
-      "pubDate": "2026-04-08T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "Cracks in the Bedrock: Escaping the AWS AgentCore Sandbox",
@@ -1258,24 +1149,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Forest-Blizzard-DNS-hijcaking-attack-chain.webp"
     },
     {
-      "title": "Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure",
-      "link": "https://www.cisa.gov/news-events/cybersecurity-advisories/aa26-097a",
-      "description": "Advisory at a Glance Title Iranian-Affiliated Cyber Actors Exploit Programmable Logic Controllers Across US Critical Infrastructure Original Publication April 7, 2026 Executive Summary Iran-affiliated advanced persistent threat (APT) actors are conducting exploitation activity targeting internet-facing operational technology (OT) devices, including programmable logic controllers (PLCs) manufactured by Rockwell Automation/Allen-Bradley. This activity has led to PLC disruptions across several U.S. critical infrastructure sectors through malicious interactions with the project file and manipulati",
-      "pubDate": "2026-04-07T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Mitsubishi Electric GENESIS64 and ICONICS Suite products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-097-01",
-      "description": "View CSAF Summary Successful exploitation of these vulnerabilities could allow a local attacker to disclose SQL Server credentials used by the affected products and use them to disclose, tamper with, or destroy data, or to cause a denial-of-service (DoS) condition on the system. The following versions of Mitsubishi Electric GENESIS64 and ICONICS Suite products are affected: GENESIS64 <=10.97.3 (CVE-2025-14815, CVE-2025-14816) ICONICS Suite <=10.97.3 (CVE-2025-14815, CVE-2025-14816) MobileHMI <=10.97.3 (CVE-2025-14815, CVE-2025-14816) Hyper Historian <=10.97.3 (CVE-2025-14815, CVE-2025-14816) A",
-      "pubDate": "2026-04-07T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "Life imprisonment for Cambodian scam compound operators – but will it make a difference?",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/life-imprisonment-cambodian-scam-operators",
       "description": "Cambodia has taken a dramatic step in its fight against scam compounds that have imprisoned innocent people, and forced them to work as virtual slaves defrauding victims via the internet around the world with romance scams and dodgy investment schemes. Read more in my article on the Hot for Security blog.",
@@ -1301,15 +1174,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/03_Malware_Category_1920x900-3.jpg"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/06/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-35616 - Fortinet FortiClient EMS Improper Access Control Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal e",
-      "pubDate": "2026-04-06T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "Anthropic Claude Mythos Preview: The More Capable AI Becomes, the More Security It Needs",
@@ -1366,42 +1230,6 @@
       "image": "https://storage.googleapis.com/gweb-cloudblog-publish/images/vsphere-brickstorm-fig1.max-1000x1000.jpg"
     },
     {
-      "title": "Hitachi Energy Ellipse",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-03",
-      "description": "View CSAF Summary Hitachi Energy is aware of a Jasper Report vulnerability that affects the Ellipse product versions mentioned in this document below. This vulnerability can be exploited to carry out remote code execution (RCE) attack on the product. Please refer to the Recommended Immediate Actions for information about the mitigation/remediation. The following versions of Hitachi Energy Ellipse are affected: Ellipse vers:Ellipse/<=9.0.50 (CVE-2025-10492) CVSS Vendor Equipment Vulnerabilities v3 9.8 Hitachi Energy Hitachi Energy Ellipse Deserialization of Untrusted Data Background Critical In",
-      "pubDate": "2026-04-02T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Yokogawa CENTUM VP",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-02",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to login as the PROG user and modify permissions. The following versions of Yokogawa CENTUM VP are affected: CENTUM VP >=R5.01.00| CENTUM VP >=R6.01.00| CENTUM VP vR7.01.00 (CVE-2025-7741) CVSS Vendor Equipment Vulnerabilities v3 4 Yokogawa Yokogawa CENTUM VP Use of Hard-coded Password Background Critical Infrastructure Sectors: Critical Manufacturing, Energy, Food and Agriculture Countries/Areas Deployed: Worldwide Company Headquarters Location: Japan Vulnerabilities Expand All + CVE-2025-7741 Affected pro",
-      "pubDate": "2026-04-02T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Siemens SICAM 8 Products",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-092-01",
-      "description": "View CSAF Summary Multiple SICAM 8 products are affected by multiple vulnerabilities that could lead to denial of service, namely: - SICAM A8000 Device firmware - CPCI85 for CP-8031/CP-8050 - SICORE for CP-8010/CP-8012 - RTUM85 for CP-8010/CP-8012 - SICAM EGS Device firmware - CPCI85 - SICAM S8000 - SICORE - RTUM85 Siemens has released new versions for the affected products and recommends to update to the latest versions. The following versions of Siemens SICAM 8 Products are affected: CPCI85 Central Processing/Communication vers:intdot/<26.10 (CVE-2026-27663, CVE-2026-27664) RTUM85 RTU Base v",
-      "pubDate": "2026-04-02T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/02/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3502 TrueConf Client Download of Code Without Integrity Check Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the fede",
-      "pubDate": "2026-04-02T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "Smashing Security podcast #461: This man hid $400 million in a fishing rod. Then it vanished",
       "link": "https://grahamcluley.com/smashing-security-podcast-461/",
       "description": "A cannabis-growing, beekeeping, gyrocopter-flying Irishman invested his drug money in Bitcoin back in 2011 - and now sits on a fortune worth $400 million. There's just one small problem: the access codes were tucked inside his fishing rod case, which has mysteriously vanished. Or has it? Because this week, one of his frozen wallets suddenly woke up and moved $35 million - and someone had to identify themselves to do it. Meanwhile, Ajax Football Club scores a spectacular cyber own-goal, as a data breach that the club claimed affected \"a few hundred\" fans turns out to may have exposed the person",
@@ -1418,15 +1246,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/02_Security-Technology_Category_1920x900.jpg"
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/04/01/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-5281 Google Dawn Use-After-Free Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-01 requ",
-      "pubDate": "2026-04-01T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "Alleged RedLine malware developer extradited to United States",
@@ -1471,24 +1290,6 @@
       "pubDate": "2026-03-31T14:00:00.000Z",
       "source": "Mandiant",
       "category": "research",
-      "image": null
-    },
-    {
-      "title": "PX4 Autopilot",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-02",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker with access to the MAVLink interface to execute arbitrary shell commands without cryptographic authentication. The following versions of PX4 Autopilot are affected: Autopilot v1.16.0_SITL_latest_stable (CVE-2026-1579) CVSS Vendor Equipment Vulnerabilities v3 9.8 PX4 PX4 Autopilot Missing Authentication for Critical Function Background Critical Infrastructure Sectors: Transportation Systems, Emergency Services, Defense Industrial Base Countries/Areas Deployed: Worldwide Company Headquarters Location: Switzer",
-      "pubDate": "2026-03-31T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "Anritsu Remote Spectrum Monitor",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-090-01",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow attackers with network access to alter operational settings, obtain sensitive signal data, or disrupt device availability. The following versions of Anritsu Remote Spectrum Monitor are affected: Remote Spectrum Monitor MS27100A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27101A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27102A vers:all/* (CVE-2026-3356) Remote Spectrum Monitor MS27103A vers:all/* (CVE-2026-3356) CVSS Vendor Equipment Vulnerabilities v3 9.8 Anritsu Anritsu Remote Spectrum Monitor Miss",
-      "pubDate": "2026-03-31T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
       "image": null
     },
     {
@@ -1537,24 +1338,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/03/IMG_4769.jpg"
     },
     {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/30/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2026-3055 Citrix NetScaler Out-of-Bounds Read Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 2",
-      "pubDate": "2026-03-30T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
-      "title": "CISA Adds One Known Exploited Vulnerability to Catalog",
-      "link": "https://www.cisa.gov/news-events/alerts/2026/03/27/cisa-adds-one-known-exploited-vulnerability-catalog",
-      "description": "CISA has added one new vulnerability to its Known Exploited Vulnerabilities (KEV) Catalog, based on evidence of active exploitation. CVE-2025-53521 F5 BIG-IP Remote Code Execution Vulnerability This type of vulnerability is a frequent attack vector for malicious cyber actors and poses significant risks to the federal enterprise. Binding Operational Directive (BOD) 22-01: Reducing the Significant Risk of Known Exploited Vulnerabilities established the KEV Catalog as a living list of known Common Vulnerabilities and Exposures (CVEs) that carry significant risk to the federal enterprise. BOD 22-0",
-      "pubDate": "2026-03-27T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
-      "image": null
-    },
-    {
       "title": "Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government",
       "link": "https://unit42.paloaltonetworks.com/espionage-campaigns-target-se-asian-government-org/",
       "description": "Unit 42 uncovers multiple clusters of cyberespionage targeting a Southeast Asian government organization with USBFect, RATs and loaders. The post Converging Interests: Analysis of Threat Clusters Targeting a Southeast Asian Government appeared first on Unit 42.",
@@ -1570,15 +1353,6 @@
       "pubDate": "2026-03-26T18:57:03.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "PTC Windchill Product Lifecycle Management",
-      "link": "https://www.cisa.gov/news-events/ics-advisories/icsa-26-085-03",
-      "description": "View CSAF Summary Successful exploitation of this vulnerability could allow an attacker to achieve remote code execution. The following versions of PTC Windchill Product Lifecycle Management are affected: Windchill PDMLink 11.0_M030 (CVE-2026-4681) Windchill PDMLink 11.1_M020 (CVE-2026-4681) Windchill PDMLink 11.2.1.0 (CVE-2026-4681) Windchill PDMLink 12.0.2.0 (CVE-2026-4681) Windchill PDMLink 12.1.2.0 (CVE-2026-4681) Windchill PDMLink 13.0.2.0 (CVE-2026-4681) Windchill PDMLink 13.1.0.0 (CVE-2026-4681) Windchill PDMLink 13.1.1.0 (CVE-2026-4681) Windchill PDMLink 13.1.2.0 (CVE-2026-4681) Windch",
-      "pubDate": "2026-03-26T12:00:00.000Z",
-      "source": "US-CERT CISA Alerts",
-      "category": "alerts",
       "image": null
     },
     {
