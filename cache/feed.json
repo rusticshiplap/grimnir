@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T06:21:40.449Z",
+  "generatedAt": "2026-04-21T10:52:13.916Z",
   "count": 265,
   "sources": [
     "Krebs on Security",
@@ -23,6 +23,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Former ransomware negotiator pleads guilty to BlackCat attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/former-ransomware-negotiator-pleads-guilty-to-blackcat-attacks/",
+      "description": "41-year-old Angelo Martino, a former employee of cybersecurity incident response company DigitalMint, has pleaded guilty to targeting U.S. companies in BlackCat (ALPHV) ransomware attacks in 2023. [...]",
+      "pubDate": "2026-04-21T10:12:21.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/BlackCat.jpg"
+    },
+    {
+      "title": "$290 Million Kelp DAO Crypto Heist Blamed on North Korea",
+      "link": "https://www.securityweek.com/290-million-kelp-dao-crypto-heist-blamed-on-north-korea/",
+      "description": "The hackers targeted LayerZero’s DVN, compromising certain RPCs and DDoSing others to trigger failover to the poisoned infrastructure. The post $290 Million Kelp DAO Crypto Heist Blamed on North Korea appeared first on SecurityWeek.",
+      "pubDate": "2026-04-21T10:02:09.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "NGate Android malware uses HandyPay NFC app to steal card data",
+      "link": "https://www.bleepingcomputer.com/news/security/ngate-android-malware-uses-handypay-nfc-app-to-steal-card-data/",
+      "description": "A new variant of the NGate malware that steals NFC payment data is targeting Android users by hiding in a trojanized version of HandyPay, a legitimate mobile payments processing tool. [...]",
+      "pubDate": "2026-04-21T09:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/card.jpg"
+    },
+    {
+      "title": "A .WAV With A Payload, (Tue, Apr 21st)",
+      "link": "https://isc.sans.edu/diary/rss/32910",
+      "description": "There have been reports of threat actors using a .wav file as a vector for malware.",
+      "pubDate": "2026-04-21T07:14:56.000Z",
+      "source": "SANS Internet Storm Ctr",
+      "category": "alerts",
+      "image": "https://isc.sans.edu/diaryimages/images/20260419-100007.png"
+    },
+    {
+      "title": "CISA Adds 8 Exploited Flaws to KEV, Sets April-May 2026 Federal Deadlines",
+      "link": "https://thehackernews.com/2026/04/cisa-adds-8-exploited-flaws-to-kev-sets.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added eight new vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, including three flaws impacting Cisco Catalyst SD-WAN Manager, citing evidence of active exploitation. The list of vulnerabilities is as follows - CVE-2023-27351 (CVSS score: 8.2) - An improper authentication vulnerability in PaperCut",
+      "pubDate": "2026-04-21T06:23:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzjZ6Llk3l-F3OFNRpNKvTziH1GObU6niwTMke4hEeI5bVXCcILs3kb25Dehkk1VCBf8NzEEPMLxElgbqLzAq0I1GuFAsDojdbVw-R6CGW6-qMXPaeiKXzQqn9JUL-VoPCVMx8h7FrOXIovnLwLv7T-O2wLdc4kIDA0bftbBDp9kwoDmqq6iYYlaZF6Qaz/s1600/cisa-kev.jpg"
+    },
     {
       "title": "ISC Stormcast For Tuesday, April 21st, 2026 https://isc.sans.edu/podcastdetail/9900, (Tue, Apr 21st)",
       "link": "https://isc.sans.edu/diary/rss/32916",
@@ -357,24 +402,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/17/NIST.jpg"
     },
     {
-      "title": "Critical flaw in Protobuf library enables JavaScript code execution",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-flaw-in-protobuf-library-enables-javascript-code-execution/",
-      "description": "Proof-of-concept exploit code has been published for a critical remote code execution flaw in protobuf.js, a widely used JavaScript implementation of Google's Protocol Buffers. [...]",
-      "pubDate": "2026-04-18T15:09:44.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/17/protobuf.jpg"
-    },
-    {
-      "title": "Microsoft Teams right-click paste broken by Edge update bug",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-right-click-paste-broken-by-edge-update-bug/",
-      "description": "Microsoft is warning that a recent Microsoft Edge browser update introduced a bug that breaks right-click paste in chats in the Microsoft Teams desktop client. [...]",
-      "pubDate": "2026-04-18T14:11:21.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/19/Microsoft-Teams.jpg"
-    },
-    {
       "title": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/04/18/crosstenant-helpdesk-impersonation-data-exfiltration-human-operated-intrusion-playbook/",
       "description": "Threat actors are abusing external Microsoft Teams collaboration to impersonate IT helpdesk staff and convince users to grant remote access. Once inside, attackers can abuse legitimate tools and standard admin protocols to move laterally and exfiltrate data while appearing as routine IT support—activity Microsoft Defender helps detect across Teams, endpoint, and identity telemetry. The post Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook appeared first on Microsoft Security Blog.",
@@ -454,15 +481,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70085bc1304b3cb3/69e2855c41f7f85ddb368bc3/QR_code-Harry_Wedzinga-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology",
-      "link": "https://www.securityweek.com/white-house-chief-of-staff-to-meet-ith-anthropic-ceo-over-its-new-ai-technology/",
-      "description": "A White House official said the administration is engaging with advanced AI labs about their models and the security of software. The post White House Chief of Staff to Meet With Anthropic CEO Over Its New AI Technology appeared first on SecurityWeek.",
-      "pubDate": "2026-04-17T19:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
     },
     {
       "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
@@ -897,15 +915,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKhAYMS4CZDglUzVBKPpIJJJjC7LSHIE8r8HSYTDvQtfuqIlLk-jorWPPNvMPaiuWSriWM2WP-cyKqr_TRwlOG65EY9ZZWuRYsrzcn05wg3mkQd_-j103HEjHaUryyOF7jWj6IuAM6VwCUloPq_9RMt959E-yG8qF4n1acw3OfY73fWw4p90V0ClaY4hjo/s1600/windows-update.jpg"
     },
     {
-      "title": "OpenAI Launches GPT-5.4-Cyber with Expanded Access for Security Teams",
-      "link": "https://thehackernews.com/2026/04/openai-launches-gpt-54-cyber-with.html",
-      "description": "OpenAI on Tuesday unveiled GPT-5.4-Cyber, a variant of its latest flagship model, GPT‑5.4, that's specifically optimized for defensive cybersecurity use cases, days after rival Anthropic unveiled its own frontier model, Mythos. \"The progressive use of AI accelerates defenders – those responsible for keeping systems, data, and users safe – enabling them to find and fix problems",
-      "pubDate": "2026-04-15T04:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrjpxBjlnOwelWhtbcyO3kBGpQwkfPkbL7RytRsDo26AL5rMz4inD_rjZLSfjy5R6skvnpiOA5M1LoDaAW1bCz4Isy4RMffGJVzgm4kYy5N-V1ijfLhVHefPcneHVGZyXZRjbLZZBHQRe3_QKhKfb5hss3a5hFveU8v2WkKHq-2wUmY_ocysIGGMP8GxdV/s1600/gpt.jpg"
-    },
-    {
       "title": "ISC Stormcast For Wednesday, April 15th, 2026 https://isc.sans.edu/podcastdetail/9892, (Wed, Apr 15th)",
       "link": "https://isc.sans.edu/diary/rss/32900",
       "description": "(c) SANS Internet Storm Center. https://isc.sans.edu Creative Commons Attribution-Noncommercial 3.0 United States License.",
@@ -958,15 +967,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7ec16a921a2009e/69de4b2fdf457957a7185c1d/edrkiller_ArtemisDiana_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft Patch Tuesday April 2026., (Tue, Apr 14th)",
-      "link": "https://isc.sans.edu/diary/rss/32898",
-      "description": "This month&#;x26;#;39;s Microsoft Patch Tuesday looks like a record one, but let&#;x26;#;39;s look at it a bit closer to understand what is happening",
-      "pubDate": "2026-04-14T17:46:09.000Z",
-      "source": "SANS Internet Storm Ctr",
-      "category": "alerts",
-      "image": null
     },
     {
       "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
