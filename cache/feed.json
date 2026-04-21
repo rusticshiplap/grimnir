@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-21T16:11:50.079Z",
+  "generatedAt": "2026-04-21T19:55:33.014Z",
   "count": 265,
   "sources": [
     "Krebs on Security",
@@ -24,13 +24,58 @@
   ],
   "items": [
     {
-      "title": "22 BRIDGE:BREAK Flaws Expose 20,000 Lantronix and Silex Serial-to-IP Converters",
+      "title": "Exploits Turn Windows Defender into Attacker Tool",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/exploits-turn-windows-defender-attacker-tool",
+      "description": "Three proof-of-concept exploits are being used in active attacks against Microsoft's built-in security platform; two are unpatched.",
+      "pubDate": "2026-04-21T19:12:40.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4525b1bf0b3427d5/69e7b7f7df45795969187014/defender_aileenchik_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
+      "description": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
+      "pubDate": "2026-04-21T18:38:40.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/lotus.jpg"
+    },
+    {
+      "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
+      "link": "https://thehackernews.com/2026/04/systembc-c2-server-reveals-1570-victims.html",
+      "description": "Threat actors associated with The Gentlemen ransomware‑as‑a‑service (RaaS) operation have been observed attempting to deploy a known proxy malware called SystemBC. According to new research published by Check Point, the command-and-control (C2 or C&C) server linked to SystemBC has led to the discovery of a botnet of more than 1,570 victims. \"SystemBC establishes SOCKS5 network tunnels within",
+      "pubDate": "2026-04-21T18:18:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilP_Mn9bBsagBDSKxEcqQsy6typf-qNaLt59kGWS1jLvc22Z9AC8lY93_TZaBAUN3bx7PHgaGX8xfPIIipQgGZd5DViTIHxpnAS2mJj4X9EfkFWwlwPznOEgqu38CmzzUa4y4jUh6x0RBMkCG7AwRwLU6PhLNbbnOO1bq5sJxGVIy0GZije7IuCYZNuS4C/s1600/botnet.jpg"
+    },
+    {
+      "title": "Detection strategies across cloud and identities against infiltrating IT workers",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/21/detection-strategies-cloud-identities-against-infiltrating-it-workers/",
+      "description": "The shift to remote and hybrid work since the pandemic expanded global hiring and accelerated digital onboarding, increasing reliance on online identity verification and remote access. The post Detection strategies across cloud and identities against infiltrating IT workers appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-04-21T16:03:09.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Jasper-Sleet-attack-chain.webp"
+    },
+    {
+      "title": "22 BRIDGE:BREAK Flaws Expose Thousands of Lantronix and Silex Serial-to-IP Converters",
       "link": "https://thehackernews.com/2026/04/22-bridgebreak-flaws-expose-20000.html",
       "description": "Cybersecurity researchers have identified 22 new vulnerabilities in popular models of serial-to-IP converters from Lantronix and Silex that could be exploited to hijack susceptible devices and tamper with data exchanged by them. The vulnerabilities have been collectively codenamed BRIDGE:BREAK by Forescout Research Vedere Labs, which identified nearly 20,000 Serial-to-Ethernet converters exposed",
       "pubDate": "2026-04-21T15:46:00.000Z",
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguDEDMst3MIdrJaNrbo9p_7mjaF2nB_5UuQZR2JhNRNPw8h619BhPWYUZ0yYD-ix_jIluuAwjip4ho4huSuYqr4lXcperdn-4_tFKZ6yivKeOuDJd9O-1EDiwIvD1sPwRGL6keOFr5muqqXp2GWdOlpmi9_uQyREP_iiEz0ZoX-W4ACBSxYarYPb4CJTIY/s1600/hardware.jpg"
+    },
+    {
+      "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
+      "description": "The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
+      "pubDate": "2026-04-21T15:29:17.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45973c33b8514dc7/69e6020c564106783a09ab08/sharks_swimming_around_computer_artpartner-images.com_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Google Fixes Critical RCE Flaw in AI-Based Antigravity Tool",
@@ -456,15 +501,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/06_General_Overview_1920x900.jpg"
     },
     {
-      "title": "Microsoft pulls service update causing Teams launch failures",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-client-launch-failures-caused-by-service-update/",
-      "description": "Microsoft has reverted a recent service update that was preventing some customers from launching the Microsoft Teams desktop client. [...]",
-      "pubDate": "2026-04-20T09:40:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/13/Microsoft_Teams.jpg"
-    },
-    {
       "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
       "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
       "description": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
@@ -825,15 +861,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihdjDVphpsoBIBjhimILabg28ZsD4p-xNzJol1uD3SSIRBvkp-juko45B2sjKpQmJi-h2tHZf2yWAvuCOZRs3m3q4w5sj7x-MyXWosuKglLblipF_94T8f8OQ8_peVgqZTrnjxF8dPRLfv63K8zrbQYqh898b31p_2C37UO0DNAuR8cESZeo4XTFlsDs0C/s1600/cisco-flaws.jpg"
     },
     {
-      "title": "Obsidian Plugin Abuse Delivers PHANTOMPULSE RAT in Targeted Finance, Crypto Attacks",
-      "link": "https://thehackernews.com/2026/04/obsidian-plugin-abuse-delivers.html",
-      "description": "A \"novel\" social engineering campaign has been observed abusing Obsidian, a cross-platform note-taking application, as an initial access vector to distribute a previously undocumented Windows remote access trojan called PHANTOMPULSE in attacks targeting individuals in the financial and cryptocurrency sectors. Dubbed REF6598 by Elastic Security Labs, the activity has been found to leverage",
-      "pubDate": "2026-04-16T10:20:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNoBvtFhZbLfNE2AsVSzuOt5V9YMzAumIA2M9c7QVbp_i-xMwDIgVtDgCIi2bCYgH_PviS8P-Ap1k-8aVmHABqLzNGE9g014MM1gnfJEJPKbKczoCjPoI6PxZ77bNlz2dSlv8XqoVFyZZqQ6SWBue3rpRegb_k62HJkfMl39GHTBIIzZOGrv_iKbxOYV8E/s1600/el.jpg"
-    },
-    {
       "title": "Human Trust of AI Agents",
       "link": "https://www.schneier.com/blog/archives/2026/04/human-trust-of-ai-agents.html",
       "description": "Interesting research: “Humans expect rationality and cooperation from LLM opponents in strategic games.” Abstract: As Large Language Models (LLMs) integrate into our social and economic interactions, we need to deepen our understanding of how humans respond to LLMs opponents in strategic settings. We present the results of the first controlled monetarily-incentivised laboratory experiment looking at differences in human behaviour in a multi-player p-beauty contest against other humans and LLMs. We use a within-subject design in order to compare behaviour at the individual level. We show that, ",
@@ -1014,15 +1041,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7ec16a921a2009e/69de4b2fdf457957a7185c1d/edrkiller_ArtemisDiana_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "War Game Exercise Demonstrates How Social Media Manipulation Works",
-      "link": "https://www.darkreading.com/cyber-risk/wargame-demonstrates-social-media-manipulation",
-      "description": "In an educational game called \"Capture the Narrative,\" students created bots to sway a fictional election, simulating influence in real-world political scenarios.",
-      "pubDate": "2026-04-14T16:06:14.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1de06bcc392cd3d2/69de27d006575b379cbdd89f/Wargames_TCDProdDB_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Upcoming Speaking Engagements",
       "link": "https://www.schneier.com/blog/archives/2026/04/upcoming-speaking-engagements-55.html",
       "description": "This is a current list of where and when I am scheduled to speak: I’m speaking at DemocracyXChange 2026 in Toronto, Ontario, Canada, on April 18, 2026. I’m speaking at the SANS AI Cybersecurity Summit 2026 in Arlington, Virginia, USA, at 9:40 AM ET on April 20, 2026. I’m speaking at the Greater Good Gathering in New York City, USA, on Tuesday, April 21, 2026. I’m speaking at the Nemertes [Next] Virtual Conference Spring 2026, a virtual event, on April 29, 2026. I’m speaking at RightsCon 2026 in Lusaka, Zambia, on May 6 and 7, 2026. I’m giving a keynote address and participating in a panel disc",
@@ -1057,15 +1075,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Why Orgs Need to Test Networks to Withstand DDoS Attacks During Peak Loads",
-      "link": "https://www.darkreading.com/cloud-security/test-networks-withstand-ddos-attacks-peak-loads",
-      "description": "Security teams can't test distributed denial-of-service defenses in a vacuum. They need to test during periods of high demand, such as tax-filing deadlines.",
-      "pubDate": "2026-04-13T21:48:09.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc0c8d87f3c20fa1c/66169caf7b452bb8cbf7e896/DDoS_Dragon_Claws_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "On Anthropic’s Mythos Preview and Project Glasswing",
@@ -1156,15 +1165,6 @@
       "source": "Krebs on Security",
       "category": "news",
       "image": "https://krebsonsecurity.com/wp-content/uploads/2026/04/lumen-forestblizzard.png"
-    },
-    {
-      "title": "SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/07/soho-router-compromise-leads-to-dns-hijacking-and-adversary-in-the-middle-attacks/",
-      "description": "Executive summary Forest Blizzard, a threat actor linked to the Russian military, has been compromising insecure home and small-office internet equipment like routers, then modifying their settings in ways that turn them into part of the actor’s malicious infrastructure. The post SOHO router compromise leads to DNS hijacking and adversary-in-the-middle attacks appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-07T14:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Forest-Blizzard-DNS-hijcaking-attack-chain.webp"
     },
     {
       "title": "Life imprisonment for Cambodian scam compound operators – but will it make a difference?",
@@ -1875,7 +1875,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
+      "image": null
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
@@ -1884,7 +1884,7 @@
       "pubDate": "2025-11-21T07:51:46.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta8d51b889a777d1c/693a83a647c46947637b227d/WhatsAppAstaroth2511-hero.jpg"
     },
     {
       "title": "Cybersecurity for Microsoft Environments",
@@ -1938,7 +1938,7 @@
       "pubDate": "2025-09-22T06:00:08.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
+      "image": null
     },
     {
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
