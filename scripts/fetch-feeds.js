@@ -19,13 +19,23 @@ const OUT_FILE = path.join(CACHE_DIR, "feed.json");
 
 const MAX_PER_SOURCE = 25;
 const MAX_TOTAL = 400;
-const TIMEOUT_MS = 8_000;
+const TIMEOUT_MS = 10_000;
 const MAX_CONTENT_PARSE_LENGTH = 10000;
 
 const parser = new Parser({
   timeout: TIMEOUT_MS,
-  headers: { "User-Agent": "GrimnirBot/1.0 (+https://grimnir.net)" }
+  headers: { "User-Agent": "GrimnirBot/1.0 (+https://grimnir.net)" },
+  maxRedirects: 5,
 });
+
+// Hard-kill wrapper — AbortController cuts off slow-drip servers that fool rss-parser's idle timeout
+function withTimeout(promise, ms, label) {
+  return new Promise((resolve, reject) => {
+    const t = setTimeout(() => reject(new Error(`timeout after ${ms}ms`)), ms);
+    promise.then(v => { clearTimeout(t); resolve(v); },
+                 e => { clearTimeout(t); reject(e); });
+  });
+}
 
 const stripHtml = (s = "") =>
   s.replace(/<[^>]*>/g, " ")
@@ -80,7 +90,7 @@ const extractImage = (item) => {
 
 async function fetchSource(src) {
   try {
-    const feed = await parser.parseURL(src.url);
+    const feed = await withTimeout(parser.parseURL(src.url), TIMEOUT_MS, src.name);
     const items = (feed.items || [])
       .slice(0, MAX_PER_SOURCE)
       .map(it => {

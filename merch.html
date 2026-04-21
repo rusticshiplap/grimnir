@@ -4,32 +4,96 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Merch &middot; Grimnir</title>
-  <meta name="description" content="Don the hood. Apparel, pins, patches, posters, keycaps, and desk gear for cybersecurity operators. Print on demand and shipped worldwide by Printful.">
+  <meta name="description" content="Don the hood. Apparel, patches, posters, keycaps, and desk gear for cybersecurity operators. Print on demand, shipped worldwide by Printful.">
   <link rel="icon" type="image/svg+xml" href="assets/img/favicon.jpg">
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/css/style.css">
   <style>
-    /* merch-page flourishes */
+    /* ── merch page ── */
+    .merch-card .art img {
+      width: 80%;
+      max-width: 240px;
+      filter: drop-shadow(0 0 20px rgba(0,229,255,0.45));
+      transition: transform .4s ease, filter .4s ease;
+    }
+    .merch-card:hover .art img {
+      transform: scale(1.06) translateY(-4px);
+      filter: drop-shadow(0 0 28px rgba(0,229,255,0.75));
+    }
+
+    /* real product id tag */
+    .pid {
+      font-family: var(--mono);
+      font-size: 10px;
+      color: var(--fg-2);
+      letter-spacing: 0.12em;
+      margin-bottom: 6px;
+      display: block;
+    }
+
+    /* badge */
+    .badge {
+      display: inline-block;
+      font-family: var(--mono);
+      font-size: 10px;
+      letter-spacing: 0.1em;
+      padding: 2px 6px;
+      border-radius: 4px;
+      text-transform: uppercase;
+      margin-left: 6px;
+      vertical-align: middle;
+    }
+    .badge.new     { color: #03111a; background: var(--neon-cyan); }
+    .badge.hot     { color: #fff;    background: var(--danger); }
+    .badge.limited { color: #03111a; background: #f59e0b; }
+
+    /* flavour quote on card */
+    .merch-card .quote {
+      font-family: var(--mono);
+      font-size: 12px;
+      color: var(--neon-green);
+      border-top: var(--edge);
+      padding-top: 8px;
+      margin-top: 8px;
+      font-style: italic;
+    }
+
+    /* size pills */
+    .sizes {
+      display: flex; flex-wrap: wrap; gap: 4px;
+      margin: 6px 0 12px;
+    }
+    .sz {
+      font-family: var(--mono);
+      font-size: 10px;
+      padding: 2px 6px;
+      border: var(--edge);
+      border-radius: 3px;
+      color: var(--fg-2);
+    }
+
+    /* collections nav */
     .collections {
       display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
-      gap: 14px;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 12px;
       margin: 20px 0 40px;
     }
     .collection {
       background: rgba(5,8,20,0.6);
       border: var(--edge);
       border-radius: 10px;
-      padding: 18px;
+      padding: 16px 18px;
       text-decoration: none;
       color: var(--fg-0);
-      transition: border-color .25s ease, transform .25s ease;
+      transition: border-color .25s, transform .25s;
     }
     .collection:hover { border-color: var(--neon-cyan); transform: translateY(-2px); box-shadow: var(--glow-cyan); }
     .collection h4 { margin: 0 0 4px; font-family: var(--display); letter-spacing: 0.06em; color: var(--neon-cyan); }
-    .collection p { margin: 0; color: var(--fg-1); font-size: 13px; }
-    .collection .count { font-family: var(--mono); font-size: 11px; color: var(--neon-green); display:block; margin-top: 8px; }
+    .collection p  { margin: 0; color: var(--fg-1); font-size: 13px; }
+    .collection .count { font-family: var(--mono); font-size: 11px; color: var(--neon-green); display: block; margin-top: 8px; }
 
+    /* quote wall */
     .quote-wall {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
@@ -45,51 +109,32 @@
       font-size: 14px;
       color: var(--fg-0);
       position: relative;
-      transition: border-color .2s ease, background .2s ease;
+      transition: border-color .2s, background .2s;
     }
     .q:hover { border-left-color: var(--neon-green); background: rgba(34,211,238,0.05); }
-    .q .cite {
-      display: block;
-      margin-top: 8px;
-      color: var(--fg-2);
-      font-size: 11px;
-      letter-spacing: 0.1em;
-      text-transform: uppercase;
-    }
-    .q::before {
-      content: "“";
-      position: absolute;
-      top: -10px; left: 8px;
-      font-family: var(--display);
-      color: var(--neon-cyan);
-      opacity: 0.45;
-      font-size: 40px;
-      line-height: 1;
-    }
+    .q .cite { display: block; margin-top: 8px; color: var(--fg-2); font-size: 11px; letter-spacing: 0.1em; text-transform: uppercase; }
+    .q::before { content: "\201C"; position: absolute; top: -10px; left: 8px; font-family: var(--display); color: var(--neon-cyan); opacity: 0.45; font-size: 40px; line-height: 1; }
 
-    .badge {
-      display: inline-block;
-      font-family: var(--mono);
-      font-size: 10px;
-      letter-spacing: 0.1em;
-      padding: 2px 6px;
-      border-radius: 4px;
-      text-transform: uppercase;
-      margin-left: 6px;
-      vertical-align: middle;
+    /* storefront callout */
+    .store-embed {
+      background: rgba(5,8,20,0.7);
+      border: 1px solid rgba(0,229,255,0.3);
+      border-radius: 12px;
+      padding: 32px;
+      text-align: center;
     }
-    .badge.new { color: #03111a; background: var(--neon-cyan); }
-    .badge.hot { color: #fff; background: var(--danger); }
-    .badge.limited { color: #03111a; background: #f59e0b; }
+    .store-embed p { color: var(--fg-1); margin: 0 0 20px; }
 
-    .merch-card .quote {
+    /* fulfillment note */
+    .fulfillment-note {
       font-family: var(--mono);
       font-size: 12px;
-      color: var(--neon-green);
-      border-top: var(--edge);
-      padding-top: 8px;
-      margin-top: 8px;
-      font-style: italic;
+      color: var(--fg-2);
+      background: rgba(5,8,20,0.5);
+      border: var(--edge);
+      border-radius: 8px;
+      padding: 14px 16px;
+      margin-top: 16px;
     }
   </style>
 </head>
@@ -112,12 +157,12 @@
 
   <section class="hero" style="padding:64px 24px 30px;">
     <div class="halo"></div>
-    <div class="kicker">>_ apparel, ops gear &amp; sigils for the shadow-dwelling</div>
+    <div class="kicker">>_ apparel, ops gear &amp; sigils — print on demand, shipped worldwide</div>
     <h1 class="glitch" data-text="DON THE HOOD" style="font-size: clamp(36px, 7vw, 84px);">DON THE HOOD</h1>
-    <p class="lede">Quote-driven designs. Stitched patches. Glitch art. Desk loot. Wear the sigil. Everything is print-on-demand by <strong>Printful</strong>, shipped worldwide, with returns handled directly by the fulfillment partner.</p>
+    <p class="lede">Six drops. Quote-driven tees, stitched patches, desk mats, and glitch art. Every item is produced and shipped by <strong>Printful</strong> — no inventory, no minimums, worldwide delivery.</p>
     <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
-      <a class="btn solid" href="#collections">Browse Collections</a>
-      <a class="btn ghost" href="#drops">Latest Drops</a>
+      <a class="btn solid" href="#products">Shop Now</a>
+      <a class="btn ghost" href="#storefront">Full Storefront</a>
     </div>
   </section>
 
@@ -125,18 +170,172 @@
     <div class="ad-slot" data-slot="merch-top">728 &times; 90 &middot; ad slot: merch-top</div>
 
     <!-- ============================================================
-         COLLECTIONS
+         COLLECTIONS NAV
          ============================================================ -->
     <section class="section" id="collections">
       <h2>Collections</h2>
-      <p class="sub">Each collection is themed around one of the unspoken laws of the trade.</p>
+      <p class="sub">Six drops, one aesthetic. Dark. Minimal. Menacing.</p>
 
       <div class="collections">
-        <a class="collection" href="#drop-sigil"><h4>The Sigil</h4><p>Core hooded-one identity. Sigil-forward hoodies, tees, caps.</p><span class="count">6 items</span></a>
-        <a class="collection" href="#drop-commandments"><h4>The Commandments</h4><p>Quote posters, tees, and mugs. "Trust nothing. Verify everything."</p><span class="count">5 items</span></a>
-        <a class="collection" href="#drop-glitch"><h4>Glitch Ops</h4><p>Distorted RGB-split skull art, chroma hoodies, glitched stickers.</p><span class="count">4 items</span></a>
-        <a class="collection" href="#drop-deskloot"><h4>Desk Loot</h4><p>Mousepads, posters, keycaps, enamel pins. Desk-ready drops.</p><span class="count">5 items</span></a>
-        <a class="collection" href="#drop-patch"><h4>Patch &amp; Pin</h4><p>Morale patches, enamel pins, lanyards. Con-ready kit.</p><span class="count">4 items</span></a>
+        <a class="collection" href="#drop-apparel">
+          <h4>Apparel</h4>
+          <p>Tee + pullover hoodie. The uniform.</p>
+          <span class="count">2 items</span>
+        </a>
+        <a class="collection" href="#drop-deskloot">
+          <h4>Desk Loot</h4>
+          <p>XL desk mat + keycap sticker sheet.</p>
+          <span class="count">2 items</span>
+        </a>
+        <a class="collection" href="#drop-patch">
+          <h4>Patch &amp; Print</h4>
+          <p>Embroidered morale patch + commandment poster.</p>
+          <span class="count">2 items</span>
+        </a>
+      </div>
+    </section>
+
+    <!-- ============================================================
+         APPAREL
+         ============================================================ -->
+    <section class="section" id="drop-apparel" id="products">
+      <h2>Apparel</h2>
+      <p class="sub">Two cuts. One sigil. Wear the oath.</p>
+
+      <div class="merch-grid">
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/art-terminal.svg" alt="Grimnir Terminal Tee">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099240</span>
+            <h4>Grimnir Terminal Tee</h4>
+            <div class="price">$34.99 USD</div>
+            <div class="sizes">
+              <span class="sz">S</span><span class="sz">M</span><span class="sz">L</span><span class="sz">XL</span><span class="sz">2XL</span>
+            </div>
+            <p class="desc">root@grimnir:~# trust&nbsp;--all → <em>permission denied. verify first.</em> Terminal session on soft Gildan cotton. Black.</p>
+            <div class="quote">"it worked yesterday."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/brand/monogram.svg" alt="Grimnir Operator Hoodie">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099242</span>
+            <h4>Grimnir Operator Hoodie <span class="badge hot">Drop</span></h4>
+            <div class="price">$64.99 USD</div>
+            <div class="sizes">
+              <span class="sz">S</span><span class="sz">M</span><span class="sz">L</span><span class="sz">XL</span><span class="sz">2XL</span>
+            </div>
+            <p class="desc">OPERATOR // TIER-0. Bella&nbsp;+&nbsp;Canvas pullover. Grimnir monogram — hooded figure in hexagon — chest-printed. Midnight black.</p>
+            <div class="quote">"wear it when you don't want to be seen."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <!-- ============================================================
+         DESK LOOT
+         ============================================================ -->
+    <section class="section" id="drop-deskloot">
+      <h2>Desk Loot</h2>
+      <p class="sub">Battlestation-grade drops for the home lab and the SOC.</p>
+
+      <div class="merch-grid">
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/art-mousepad.svg" alt="Grimnir Desk Mat">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099243</span>
+            <h4>Grimnir Desk Mat <span class="badge new">New</span></h4>
+            <div class="price">$39.99 USD</div>
+            <div class="sizes">
+              <span class="sz">12&Prime;&times;18&Prime;</span>
+              <span class="sz">12&Prime;&times;22&Prime;</span>
+              <span class="sz">16&Prime;&times;32&Prime;</span>
+            </div>
+            <p class="desc">Non-slip rubber backing, stitched edges. Grimnir wordmark with the full quote: <em>the quieter you become, the more you hear.</em></p>
+            <div class="quote">"the quieter you become, the more you hear."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/art-keycap.svg" alt="ESC Escape Reality Sticker Sheet">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099400</span>
+            <h4>ESC // Escape Reality — Sticker Sheet <span class="badge limited">Limited</span></h4>
+            <div class="price">$9.99 USD</div>
+            <div class="sizes">
+              <span class="sz">5.83&Prime;&times;8.27&Prime;</span>
+            </div>
+            <p class="desc">KEYCAP_01 // ESCAPE_REALITY. Kiss-cut vinyl sticker sheet. Weatherproof. For laptop lids, cable panels, and light switches.</p>
+            <div class="quote">"press once to log out of everything."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
+      </div>
+    </section>
+
+    <div class="ad-slot" data-slot="merch-mid">300 &times; 250 &middot; ad slot: merch-mid</div>
+
+    <!-- ============================================================
+         PATCH & PRINT
+         ============================================================ -->
+    <section class="section" id="drop-patch">
+      <h2>Patch &amp; Print</h2>
+      <p class="sub">Con-ready morale patch and wall-worthy commandment print.</p>
+
+      <div class="merch-grid">
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/art-patch.svg" alt="Grimnir OPS Patch">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099396</span>
+            <h4>Grimnir OPS Patch <span class="badge hot">Popular</span></h4>
+            <div class="price">$16.99 USD</div>
+            <div class="sizes">
+              <span class="sz">Circular ⌀3&Prime;</span>
+            </div>
+            <p class="desc">OPERATOR // TIER-0. 3&Prime; embroidered patch, iron-on backing. Hood sigil in glowing thread on black felt. Velcro-compatible.</p>
+            <div class="quote">"ranger kit energy for the SOC."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
+        <div class="merch-card fade-in">
+          <div class="art">
+            <img src="assets/img/art-quote-poster.svg" alt="Trust Nothing Verify Everything Poster">
+          </div>
+          <div class="body">
+            <span class="pid">// SKU-429099397</span>
+            <h4>Trust Nothing. Verify Everything. — Poster</h4>
+            <div class="price">$24.99 USD</div>
+            <div class="sizes">
+              <span class="sz">11&Prime;&times;14&Prime;</span>
+              <span class="sz">12&Prime;&times;16&Prime;</span>
+              <span class="sz">12&Prime;&times;18&Prime;</span>
+            </div>
+            <p class="desc">// COMMANDMENT_01. High-contrast white-and-cyan type on matte black. Enhanced matte paper. Frame-ready. Hang it above the monitor.</p>
+            <div class="quote">"commandment 01 above the monitor."</div>
+            <a class="btn solid" href="#storefront" style="margin-top:12px;">Buy &rarr;</a>
+          </div>
+        </div>
+
       </div>
     </section>
 
@@ -145,11 +344,10 @@
          ============================================================ -->
     <section class="section">
       <h2>The Wall of Whispers</h2>
-      <p class="sub">Select any quote and we'll put it on a tee, a mug, or a poster. Contact <a href="mailto:orders@grimnir.example" style="color:var(--neon-cyan)">orders@grimnir.example</a> for custom runs.</p>
+      <p class="sub">The commandments that built the aesthetic. Want one on a tee or a poster? <a href="mailto:ops@grimnir.net" style="color:var(--neon-cyan)">ops@grimnir.net</a></p>
 
       <div class="quote-wall">
         <div class="q">There is no patch for human stupidity.<span class="cite">— Kevin Mitnick</span></div>
-        <div class="q">The only truly secure system is one that is powered off, cast in a block of concrete, and sealed in a lead-lined room with armed guards.<span class="cite">— Gene Spafford</span></div>
         <div class="q">Amateurs hack systems. Professionals hack people.<span class="cite">— Bruce Schneier</span></div>
         <div class="q">Trust nothing. Verify everything.<span class="cite">— Grimnir Commandment 01</span></div>
         <div class="q">Assume breach.<span class="cite">— Grimnir Commandment 02</span></div>
@@ -160,385 +358,72 @@
         <div class="q">404: trust not found.<span class="cite">— Grimnir sticker</span></div>
         <div class="q">sudo make me a sandwich.<span class="cite">— xkcd canon</span></div>
         <div class="q">Encrypt everything. Log everything. Trust almost no one.<span class="cite">— The Operator's Oath</span></div>
-        <div class="q">Social engineering works because policies are written for yesterday's attack.<span class="cite">— Grimnir field note</span></div>
-        <div class="q">Segfault at heart.<span class="cite">— for the sentimental devs</span></div>
-        <div class="q">I don't always test my code. But when I do, I do it in production.<span class="cite">— the most dangerous man in the world</span></div>
         <div class="q">Read the RFC. Then ignore the parts the vendor skipped.<span class="cite">— a tired protocol engineer</span></div>
+        <div class="q">Segfault at heart.<span class="cite">— for the sentimental devs</span></div>
+        <div class="q">Social engineering works because policies are written for yesterday's attack.<span class="cite">— Grimnir field note</span></div>
+        <div class="q">The only truly secure system is one that is powered off, cast in concrete, and sealed in a lead-lined room with armed guards.<span class="cite">— Gene Spafford</span></div>
+        <div class="q">I don't always test my code. But when I do, I do it in production.<span class="cite">— the most dangerous man in the world</span></div>
       </div>
     </section>
 
     <div class="ad-slot" data-slot="merch-quote">728 &times; 90 &middot; ad slot: merch-quote</div>
 
     <!-- ============================================================
-         COLLECTION: THE SIGIL
+         STOREFRONT EMBED
          ============================================================ -->
-    <section class="section" id="drop-sigil">
-      <h2>Collection I &middot; The Sigil</h2>
-      <p class="sub">Core hooded-one apparel. Dark, minimal, menacing.</p>
+    <section class="section" id="storefront">
+      <h2>Full Storefront</h2>
+      <p class="sub">Browse all drops, select size, and check out — powered by Printful.</p>
 
-      <div class="merch-grid">
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Shadow Hoodie"></div>
-          <div class="body">
-            <h4>Shadow Hoodie <span class="badge hot">Bestseller</span></h4>
-            <div class="price">$54.00 USD</div>
-            <p class="desc">Heavyweight midnight black. Chest sigil, back glyph. Sizes XS&ndash;3XL. The uniform.</p>
-            <div class="quote">“wear it when you don't want to be seen.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/shadow-hoodie" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Hooded One Tee"></div>
-          <div class="body">
-            <h4>Hooded One Tee</h4>
-            <div class="price">$28.00 USD</div>
-            <p class="desc">Black-on-black stealth print, or neon-on-black. 100% combed cotton.</p>
-            <div class="quote">“low-profile. high-signal.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/hooded-one-tee" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Cipher Cap"></div>
-          <div class="body">
-            <h4>Cipher Cap</h4>
-            <div class="price">$26.00 USD</div>
-            <p class="desc">Low-profile dad hat. Embroidered sigil, adjustable strap, pure operator energy.</p>
-            <div class="quote">“the brim hides the eyes.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/cipher-cap" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Operator Beanie"></div>
-          <div class="body">
-            <h4>Operator Beanie <span class="badge new">New</span></h4>
-            <div class="price">$24.00 USD</div>
-            <p class="desc">Knit beanie, folded cuff with embroidered sigil. For cold rooftops and warm SOCs.</p>
-            <div class="quote">“winter ops issue.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/operator-beanie" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Operator Tote"></div>
-          <div class="body">
-            <h4>Operator Tote</h4>
-            <div class="price">$22.00 USD</div>
-            <p class="desc">Heavy canvas. Laptops, books, suspicious envelopes. Holds it all.</p>
-            <div class="quote">“carry the hood with you.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/operator-tote" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Zip Hoodie"></div>
-          <div class="body">
-            <h4>Shroud Zip Hoodie <span class="badge limited">Limited</span></h4>
-            <div class="price">$62.00 USD</div>
-            <p class="desc">Premium heavyweight full-zip. Interior label prints the commandments.</p>
-            <div class="quote">“wear the oath.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/shroud-zip" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
+      <div class="store-embed">
+        <img src="assets/img/brand/lockup-horizontal.svg" alt="Grimnir" style="height:48px; margin-bottom:20px; filter: drop-shadow(0 0 10px rgba(0,229,255,0.5));">
+        <p>All six products are live in the Grimnir Printful store. Click below to browse, select your size, and check out securely.</p>
+        <a class="btn solid" href="https://www.printful.com/dashboard/store/18044533" target="_blank" rel="noopener" style="font-size:14px; padding:14px 28px;">
+          Open Store &rarr;
+        </a>
+        <p style="margin-top:20px; font-family:var(--mono); font-size:12px; color:var(--fg-2);">
+          Payments, taxes, shipping and returns handled directly by Printful &bull; Most orders ship within 2–5 business days &bull; Worldwide delivery
+        </p>
       </div>
     </section>
 
     <!-- ============================================================
-         COLLECTION: THE COMMANDMENTS
+         CUSTOM DROPS
          ============================================================ -->
-    <section class="section" id="drop-commandments">
-      <h2>Collection II &middot; The Commandments</h2>
-      <p class="sub">Text-driven, high-contrast. Put the oath on the wall, the chest, or the desk.</p>
-
-      <div class="merch-grid">
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-quote-poster.jpg" alt="Trust Nothing Verify Everything poster"></div>
-          <div class="body">
-            <h4>"Trust Nothing / Verify Everything" Poster</h4>
-            <div class="price">$22.00 USD (12×18") &middot; $38.00 (18×24")</div>
-            <p class="desc">Museum-grade giclée. Matte or satin. Frame-ready.</p>
-            <div class="quote">“commandment 01 above the monitor.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/commandment-01-poster" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-quote-poster.jpg" alt="Assume Breach tee"></div>
-          <div class="body">
-            <h4>"Assume Breach" Tee <span class="badge new">New</span></h4>
-            <div class="price">$28.00 USD</div>
-            <p class="desc">Front: <em>ASSUME BREACH</em>. Back: your incident response runbook in six lines.</p>
-            <div class="quote">“the fastest mental model in security.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/assume-breach-tee" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-terminal.jpg" alt="sudo make me a sandwich mug"></div>
-          <div class="body">
-            <h4>"sudo" Mug</h4>
-            <div class="price">$18.00 USD (11oz) &middot; $22.00 (15oz)</div>
-            <p class="desc">Terminal prompt art. 0300 incident calls require proper tooling.</p>
-            <div class="quote">“no sudo no service.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/sudo-mug" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-quote-poster.jpg" alt="Commandments scroll"></div>
-          <div class="body">
-            <h4>Ten Commandments Scroll</h4>
-            <div class="price">$32.00 USD (16×24")</div>
-            <p class="desc">All ten Grimnir commandments on one poster. Looks at home next to an OSI-model print.</p>
-            <div class="quote">“ethical & biblical vibes.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/ten-commandments-poster" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-terminal.jpg" alt="Terminal hoodie"></div>
-          <div class="body">
-            <h4>Terminal Hoodie</h4>
-            <div class="price">$58.00 USD</div>
-            <p class="desc">Back print is a full terminal session ending in "_". Ships with a small sticker pack.</p>
-            <div class="quote">“the back of this hoodie tells a story.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/terminal-hoodie" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <div class="ad-slot" data-slot="merch-mid">300 &times; 250 &middot; ad slot: merch-mid</div>
-
-    <!-- ============================================================
-         COLLECTION: GLITCH OPS
-         ============================================================ -->
-    <section class="section" id="drop-glitch">
-      <h2>Collection III &middot; Glitch Ops</h2>
-      <p class="sub">RGB-split skulls, chroma bleed, pixel distortion. For days when the stack tilts sideways.</p>
-
-      <div class="merch-grid">
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-glitch-skull.jpg" alt="Segfault skull tee"></div>
-          <div class="body">
-            <h4>Segfault Skull Tee <span class="badge hot">Popular</span></h4>
-            <div class="price">$30.00 USD</div>
-            <p class="desc">Pixel-skull with RGB glitch artifacts. The official t-shirt of "it worked yesterday."</p>
-            <div class="quote">“we do not retry. we reboot the universe.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/segfault-tee" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-glitch-skull.jpg" alt="Glitch hoodie"></div>
-          <div class="body">
-            <h4>Chroma Bleed Hoodie</h4>
-            <div class="price">$58.00 USD</div>
-            <p class="desc">Oversized cut with front glitch-skull, back scan-line print.</p>
-            <div class="quote">“engineered to look corrupted on purpose.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/chroma-hoodie" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-binary-heart.jpg" alt="Binary heart tee"></div>
-          <div class="body">
-            <h4>"Trust Nothing" Heart Tee</h4>
-            <div class="price">$28.00 USD</div>
-            <p class="desc">Binary-filled heart. Romantic, but make it OPSEC.</p>
-            <div class="quote">“the most emotional RFC ever written.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/binary-heart-tee" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-glitch-skull.jpg" alt="Sticker pack"></div>
-          <div class="body">
-            <h4>Glitch Sticker Pack (8)</h4>
-            <div class="price">$14.00 USD</div>
-            <p class="desc">Eight weatherproof vinyl stickers: skull, heart, sigil, keycap, sudo prompt.</p>
-            <div class="quote">“for laptop lids, cable panels, and light switches.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/glitch-sticker-pack" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <!-- ============================================================
-         COLLECTION: DESK LOOT
-         ============================================================ -->
-    <section class="section" id="drop-deskloot">
-      <h2>Collection IV &middot; Desk Loot</h2>
-      <p class="sub">Big desk mats, keycaps, wall posters, and tech-desk paraphernalia for your battlestation.</p>
-
-      <div class="merch-grid">
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-mousepad.jpg" alt="XL desk mat"></div>
-          <div class="body">
-            <h4>Quieter XL Desk Mat <span class="badge new">New</span></h4>
-            <div class="price">$38.00 USD (36×18")</div>
-            <p class="desc">Non-slip backing, stitched edges, subtle circuit trace pattern with Grimnir wordmark.</p>
-            <div class="quote">“the quieter you become, the more you hear.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/xl-desk-mat" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-keycap.jpg" alt="ESC keycap"></div>
-          <div class="body">
-            <h4>"ESC Reality" Keycap <span class="badge limited">Limited</span></h4>
-            <div class="price">$18.00 USD (single) &middot; $48.00 (set of 3)</div>
-            <p class="desc">Custom cherry-profile ESC keycap. Single or 3-pack (ESC / CTRL / CAPS).</p>
-            <div class="quote">“press once to log out of everything.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/esc-keycap" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-terminal.jpg" alt="Terminal poster"></div>
-          <div class="body">
-            <h4>Terminal Monologue Poster</h4>
-            <div class="price">$26.00 USD (18×24")</div>
-            <p class="desc">The Grimnir terminal session printed in deep green on matte black.</p>
-            <div class="quote">“read it like a poem.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/terminal-poster" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Laptop sleeve"></div>
-          <div class="body">
-            <h4>Shroud Laptop Sleeve</h4>
-            <div class="price">$34.00 USD (13", 14", 15", 16")</div>
-            <p class="desc">Padded neoprene, magnetic closure, full-wrap sigil print.</p>
-            <div class="quote">“carries a $3,000 machine and a $30 feeling.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/laptop-sleeve" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-quote-poster.jpg" alt="Wall flag"></div>
-          <div class="body">
-            <h4>Wall Banner (36×24")</h4>
-            <div class="price">$44.00 USD</div>
-            <p class="desc">Heavy fabric banner with sigil + commandment. Dorm, home lab, or office.</p>
-            <div class="quote">“claim the wall.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/wall-banner" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <!-- ============================================================
-         COLLECTION: PATCH & PIN
-         ============================================================ -->
-    <section class="section" id="drop-patch">
-      <h2>Collection V &middot; Patch &amp; Pin</h2>
-      <p class="sub">Morale patches, enamel pins, and lanyards. Con-ready. Velcro-friendly. Photograph-friendly.</p>
-
-      <div class="merch-grid">
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-patch.jpg" alt="Morale patch"></div>
-          <div class="body">
-            <h4>"Operator Tier-0" Morale Patch <span class="badge hot">Popular</span></h4>
-            <div class="price">$12.00 USD</div>
-            <p class="desc">3" embroidered patch with velcro backing. Hood sigil in glowing thread.</p>
-            <div class="quote">“ranger kit energy for the SOC.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/tier-0-patch" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/favicon.jpg" alt="Enamel pin"></div>
-          <div class="body">
-            <h4>Hood Sigil Enamel Pin</h4>
-            <div class="price">$10.00 USD</div>
-            <p class="desc">Hard enamel, cyan fill, double-post backing. Pins hold fast to lanyards and lapels.</p>
-            <div class="quote">“small enough to be plausibly deniable.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/hood-pin" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/logo.jpg" alt="Con lanyard"></div>
-          <div class="body">
-            <h4>Con Lanyard</h4>
-            <div class="price">$12.00 USD</div>
-            <p class="desc">Woven Grimnir wordmark lanyard with breakaway clasp. Clip your badge. Cosplay your allegiance.</p>
-            <div class="quote">“defcon-ready.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/lanyard" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-        <div class="merch-card">
-          <div class="art"><img src="assets/img/art-patch.jpg" alt="Pin set"></div>
-          <div class="body">
-            <h4>Commandment Pin Set (5) <span class="badge new">New</span></h4>
-            <div class="price">$36.00 USD</div>
-            <p class="desc">Five enamel pins: sigil, skull, heart, keycap, sudo prompt. Display card included.</p>
-            <div class="quote">“a flair collection with a threat model.”</div>
-            <a class="btn solid" href="https://your-store.printful.me/product/pin-set" target="_blank" rel="noopener">Buy &rarr;</a>
-          </div>
-        </div>
-
-      </div>
-    </section>
-
-    <!-- ============================================================
-         DROPS / CUSTOM ORDERS
-         ============================================================ -->
-    <section class="section" id="drops">
+    <section class="section">
       <h2>Custom &amp; Limited Drops</h2>
-      <p class="sub">We run a small limited drop every few weeks. Pick a quote off the wall above; we'll put it on a tee, mug, or poster and ship it.</p>
+      <p class="sub">Pick a quote off the wall. We'll put it on a tee, mug, or poster.</p>
       <div class="grid">
         <div class="affiliate">
           <h4>Quote Tee (Your Choice)</h4>
-          <p class="tag">$32.00 USD &middot; 2 week lead time</p>
-          <p>Email the quote + size, we'll mock it up, approve, print, ship.</p>
-          <a class="btn" href="mailto:orders@grimnir.example?subject=Custom%20Quote%20Tee">Email us →</a>
+          <p class="tag">$32.00 USD &middot; 2-week lead time</p>
+          <p>Email the quote&nbsp;+&nbsp;size. We mock it up, you approve, Printful ships.</p>
+          <a class="btn" href="mailto:ops@grimnir.net?subject=Custom%20Quote%20Tee">Email us &rarr;</a>
         </div>
         <div class="affiliate">
           <h4>Company Swag Run</h4>
           <p class="tag">Starting $18/unit &middot; 25+ unit minimum</p>
           <p>Put your SOC's logo next to the Grimnir hood. Perfect for team onboarding kits.</p>
-          <a class="btn" href="mailto:orders@grimnir.example?subject=Company%20Swag%20Run">Request a quote →</a>
+          <a class="btn" href="mailto:ops@grimnir.net?subject=Company%20Swag%20Run">Request a quote &rarr;</a>
         </div>
         <div class="affiliate">
-          <h4>Skateboard Deck <span class="badge limited">Limited</span></h4>
-          <p class="tag">$80.00 USD &middot; 50 total</p>
-          <p>Maple deck with full-length sigil graphic. Hand-numbered. Will sell out.</p>
-          <a class="btn" href="https://your-store.printful.me/product/skate-deck" target="_blank" rel="noopener">Buy →</a>
+          <h4>Suggest a Drop</h4>
+          <p class="tag">Community vote</p>
+          <p>Next drop is operator-chosen. Send your idea — best suggestion goes on a tee.</p>
+          <a class="btn" href="mailto:ops@grimnir.net?subject=Drop%20Suggestion">Pitch it &rarr;</a>
         </div>
       </div>
     </section>
 
     <!-- ============================================================
-         STOREFRONT + FULFILLMENT
+         FULFILLMENT
          ============================================================ -->
     <section class="section">
-      <h2>Full Storefront</h2>
-      <p class="sub">Browse the full catalog inside the Grimnir vault.</p>
-      <div class="ad-slot" style="border-style:solid; border-color:rgba(34,211,238,0.3); padding:40px;">
-        Embed your Printful storefront here:<br>
-        <code style="color:var(--neon-cyan)">&lt;iframe src="https://your-store.printful.me" width="100%" height="900" frameborder="0"&gt;&lt;/iframe&gt;</code>
-      </div>
-    </section>
-
-    <section class="section">
       <h2>Fulfillment, Shipping &amp; Returns</h2>
-      <p style="color:var(--fg-1)">Orders are produced and shipped by <strong>Printful</strong>. Payments, taxes, shipping, returns, and customer support are handled directly by Printful. Most orders ship within 2&ndash;5 business days. International shipping available. See <a href="https://www.printful.com/policies/returns" style="color:var(--neon-cyan)">Printful's return policy</a>.</p>
-      <p style="color:var(--fg-2); font-family:var(--mono); font-size:13px;">Grimnir does not store payment information and is not the merchant of record. Retail pricing reflects a percentage over fulfillment cost; we adjust when Printful's catalog or shipping costs change.</p>
+      <p style="color:var(--fg-1)">Orders are produced and shipped by <strong>Printful</strong>. Payments, taxes, shipping, returns, and customer support are handled directly by Printful. Most orders ship within 2–5 business days. International shipping available. See <a href="https://www.printful.com/policies/returns" style="color:var(--neon-cyan)" target="_blank" rel="noopener">Printful's return policy</a>.</p>
+      <div class="fulfillment-note">
+        Grimnir does not store payment information and is not the merchant of record. Retail pricing reflects a margin over fulfillment cost; pricing adjusts when Printful's catalog or shipping costs change.
+      </div>
     </section>
   </main>
 
@@ -555,5 +440,12 @@
 
   <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
   <script src="assets/js/effects.js"></script>
+  <script>
+    // Animate cards into view
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+    }, { threshold: 0.08 });
+    document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+  </script>
 </body>
 </html>
