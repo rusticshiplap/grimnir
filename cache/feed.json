@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-23T10:57:04.496Z",
+  "generatedAt": "2026-04-23T21:18:37.296Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,213 @@
   ],
   "items": [
     {
+      "title": "Chinese APT Abuses Multiple Cloud Tools to Spy on Mongolia",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-apt-abuses-cloud-tools-spy-mongolia",
+      "description": "The threat actor gave itself plenty of options to support command and control, tapping Microsoft Outlook, Slack, Discord, and file.io for online espionage.",
+      "pubDate": "2026-04-24T01:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt17fc2cec7ba9f5b3/69e90f257417a71b03305c14/Beijing_Ulaanbaatar-Trevor_Mogg-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Frontier AI and the Future of Defense: Your Top Questions Answered",
+      "link": "https://unit42.paloaltonetworks.com/frontier-ai-top-questions-answered/",
+      "description": "What are the next steps for security leaders in this new age of frontier AI? We answer the top 10 questions customers are asking. The post Frontier AI and the Future of Defense: Your Top Questions Answered appeared first on Unit 42.",
+      "pubDate": "2026-04-23T20:45:50.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/03_Listicle_Overview_1920x900.jpg"
+    },
+    {
+      "title": "Bitwarden CLI npm package compromised to steal developer credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/bitwarden-cli-npm-package-compromised-to-steal-developer-credentials/",
+      "description": "The Bitwarden CLI was briefly compromised after attackers uploaded a malicious @bitwarden/cli package to npm containing a credential-stealing payload capable of spreading to other projects. [...]",
+      "pubDate": "2026-04-23T19:21:01.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/08/Bitwarden_headpic.jpg"
+    },
+    {
+      "title": "Trigona ransomware attacks use custom exfiltration tool to steal data",
+      "link": "https://www.bleepingcomputer.com/news/security/trigona-ransomware-attacks-use-custom-exfiltration-tool-to-steal-data/",
+      "description": "Recently observed Trigona ransomware attacks are using a custom, command-line tool to steal data from compromised environments faster and more efficiently. [...]",
+      "pubDate": "2026-04-23T18:59:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/11/29/trigona-header.jpg"
+    },
+    {
+      "title": "UNC6692 Impersonates IT Helpdesk via Microsoft Teams to Deploy SNOW Malware",
+      "link": "https://thehackernews.com/2026/04/unc6692-impersonates-it-helpdesk-via.html",
+      "description": "A previously undocumented threat activity cluster known as UNC6692 has been observed leveraging social engineering tactics via Microsoft Teams to deploy a custom malware suite on compromised hosts. \"As with many other intrusions in recent years, UNC6692 relied heavily on impersonating IT helpdesk employees, convincing their victim to accept a Microsoft Teams chat invitation from an account",
+      "pubDate": "2026-04-23T18:16:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHoBLtF5qmS63UuZJdrs4DtwoJRc6V3OK_4vUjCp-mHUs99AlJkzxcQgZH-tD0dFneYJHfBEumdGw42jcqcYHYiqmNHBtHZVB7m83pxPakcbupcdcRmDzg2fedK4doHPUwOfGoqY2a44VUwgK1g8cyZSgpMmpzcbWuBrzxvdalA9bkt8_26WkdIfZy6qqa/s1600/helpdesk.jpg"
+    },
+    {
+      "title": "New Checkmarx supply-chain breach affects KICS analysis tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-checkmarx-supply-chain-breach-affects-kics-analysis-tool/",
+      "description": "Hackers have compromised Docker images, VSCode and Open VSX extensions for the Checkmarx KICS analysis tool to harvest sensitive data from developer environments. [...]",
+      "pubDate": "2026-04-23T16:05:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/hacker.jpg"
+    },
+    {
+      "title": "Cloudsmith Raises $72 Million in Series C Funding",
+      "link": "https://www.securityweek.com/cloudsmith-raises-72-million-in-series-c-funding/",
+      "description": "The company will use the investment to accelerate product development and grow go-to-market efforts. The post Cloudsmith Raises $72 Million in Series C Funding appeared first on SecurityWeek.",
+      "pubDate": "2026-04-23T15:03:59.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "Bad Memories Still Haunt AI Agents",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bad-memories-haunt-ai-agents",
+      "description": "Cisco found and fixed a significant vulnerability in the way Anthropic handles memories, but experts warn that mishandled memory files will continue threaten AI systems.",
+      "pubDate": "2026-04-23T14:30:31.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0abdbe2d875193af/69de52650bc850de57243ab8/digital-brain-Billion_Photos-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Cosmetics giant Rituals discloses data breach affecting customers",
+      "link": "https://www.bleepingcomputer.com/news/security/cosmetics-giant-rituals-discloses-data-breach-affecting-customers/",
+      "description": "Dutch cosmetics giant Rituals disclosed a data breach after attackers stole the personal information of an undisclosed number of customers from its \"My Rituals\" membership database. [...]",
+      "pubDate": "2026-04-23T14:16:21.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/Rituals-headpic.jpg"
+    },
+    {
+      "title": "Regular Password Resets Aren’t as Safe as You Think",
+      "link": "https://www.bleepingcomputer.com/news/security/regular-password-resets-arent-as-safe-as-you-think/",
+      "description": "Password resets are one of the easiest ways for attackers to bypass security controls. Specops Software shows how helpdesk social engineering turns a seemingly legitimate reset request into full account compromise. [...]",
+      "pubDate": "2026-04-23T14:10:20.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/04/17/regular-password-resets-arent-as-safe-as-you-think.jpg"
+    },
+    {
+      "title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain Campaign",
+      "link": "https://thehackernews.com/2026/04/bitwarden-cli-compromised-in-ongoing.html",
+      "description": "Bitwarden CLI has been compromised as part of the newly discovered and ongoing Checkmarx supply chain campaign, according to new findings from JFrog and Socket. \"The affected package version appears to be @bitwarden/cli@2026.4.0, and the malicious code was published in 'bw1.js,' a file included in the package contents,\" the application security company said. \"The attack appears to have leveraged",
+      "pubDate": "2026-04-23T13:42:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3GuK50sJwMRH4ad8bcUVRSBm1Wk0X5Gj1dSalza49wWxFY9g3_E32271zOeqx6vsqrWY2SWAVnnXTKiJZvKbhxynk018zLTIlZpBNhFA_QVi6kzn7vATBe419m222ZMUcTToaSn19L4DgElrI9luwUv2EJk0efy5TLDIqIUyGcOnTvVU2KKZw9AMsMipz/s1600/bitwarden.jpg"
+    },
+    {
+      "title": "Microsoft: Some Teams users can’t join meetings after Edge update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-teams-users-cant-join-meetings-after-edge-update/",
+      "description": "Microsoft confirmed that a recent Microsoft Edge browser update introduced a bug that prevents Windows users from joining Teams meetings. [...]",
+      "pubDate": "2026-04-23T13:18:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/19/Microsoft-Teams.jpg"
+    },
+    {
+      "title": "ThreatsDay Bulletin: $290M DeFi Hack, macOS LotL Abuse, ProxySmart SIM Farms +25 New Stories",
+      "link": "https://thehackernews.com/2026/04/threatsday-bulletin-290m-defi-hack.html",
+      "description": "You scroll past one incident and see another that feels familiar, like it should have been fixed years ago, but it still works with small changes. Same bugs. Same mistakes. The supply chain is messy. Packages you did not check are stealing data, adding backdoors, and spreading. Attacking the systems behind apps is easier than breaking the apps themselves. The exploits are simple but still work",
+      "pubDate": "2026-04-23T13:17:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCPlFIV8w3UXOQRe4cwOn8C-x6WYxvZnNAOHSUnzIg8TFswCnJNoyTFJTdzAbl_a6JNCzhbAk4yGQbhI_cjF-FATAAmJJJiLjo2cZgbMQpfhYnrH6MFv6TVEqC3sblGQPViYTDE0o3alqO3YsIzatrw7NwlTkv1g6NkiVegSWKuRuQcajEyNdAUEaTamQ-/s1600/threatsday.jpg"
+    },
+    {
+      "title": "Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos",
+      "link": "https://www.securityweek.com/chinese-cybersecurity-firms-ai-hacking-claims-draw-comparisons-to-claude-mythos/",
+      "description": "360 Digital Security Group claims to have uncovered 1,000 vulnerabilities using AI, including at the Tianfu Cup hacking contest. The post Chinese Cybersecurity Firm’s AI Hacking Claims Draw Comparisons to Claude Mythos appeared first on SecurityWeek.",
+      "pubDate": "2026-04-23T12:36:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "UK warns of Chinese hackers using proxy networks to evade detection",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-warns-of-chinese-hackers-using-botnets-of-hijacked-consumer-devices-to-evade-detection/",
+      "description": "The United Kingdom's National Cyber Security Centre (NCSC-UK) and international partners warned that China-nexus hackers are increasingly using large-scale proxy networks of hijacked consumer devices to evade detection and disguise their malicious activity. [...]",
+      "pubDate": "2026-04-23T12:28:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/30/Panda_Bear_Storm.jpg"
+    },
+    {
+      "title": "New GopherWhisper APT group abuses Outlook, Slack, Discord for comms",
+      "link": "https://www.bleepingcomputer.com/news/security/new-gopherwhisper-apt-group-abuses-outlook-slack-discord-for-comms/",
+      "description": "A previously undocumented state-backed threat actor named GopherWhisper is using a Go-based custom toolkit and legitimate services like Microsoft 365 Outlook, Slack, and Discord in attacks against government entities. [...]",
+      "pubDate": "2026-04-23T12:06:18.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/China.jpg"
+    },
+    {
+      "title": "[Webinar] Mythos Reality Check: Beating Automated Exploitation at AI Speed",
+      "link": "https://thehackernews.com/2026/04/webinar-mythos-reality-check-beating.html",
+      "description": "Imagine a world where hackers don't sleep, don't take breaks, and find weak spots in your systems instantly. Well, that world is already here. Thanks to AI, attackers are now launching automated, large-scale exploits faster than ever before. The time you have to fix a vulnerability before it gets attacked is shrinking to zero. We call this the Collapsing Exploit Window, and it means your",
+      "pubDate": "2026-04-23T12:03:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirgCFjBm7wVU1Nve1GwsT-mX4Fm9C2OB25FN0xsgQxB5H1y0XN-I4TrfFH3f47uWBie1-yNBz_K2tuml0FOagCnaxI5xQvqoVbpzOUU6bCoaBZLohQWPSWF4r2YSEXIQKt3FRdoSXjvAk8OTmysTV4uoPD87y-3Boh7UzcJoUFIQxkmB576KIDMtU0YHDx/s1600/miggo-webinar.jpg"
+    },
+    {
+      "title": "Rilian Raises $17.5 Million for AI-Native Security Orchestration",
+      "link": "https://www.securityweek.com/rilian-raises-17-5-million-for-ai-native-security-orchestration/",
+      "description": "The company will hire new talent and expand operations across the US and other allied countries. The post Rilian Raises $17.5 Million for AI-Native Security Orchestration appeared first on SecurityWeek.",
+      "pubDate": "2026-04-23T11:45:30.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "Project Glasswing Proved AI Can Find the Bugs. Who's Going to Fix Them?",
+      "link": "https://thehackernews.com/2026/04/project-glasswing-proved-ai-can-find.html",
+      "description": "Last week, Anthropic announced Project Glasswing, an AI model so effective at discovering software vulnerabilities that they took the extraordinary step of postponing its public release. Instead, the company has given access to Apple, Microsoft, Google, Amazon, and a coalition of others to find and patch bugs before adversaries can. Mythos Preview, the model that led to Project Glasswing, found",
+      "pubDate": "2026-04-23T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkzSPo6TkrJjcTvsuM1O71fiiZ7gnKw4PqqtKu_TeAaZNr5qAEfsfVvoZv64F7EFULRIv8SKePHZehY_0g9AqyqlnMdTPF-OLf1S9RwmB-edOgYKEg1Llw-6m87CQBglHxbK3oS0Brnwc9_x_oi56XGuxe1V9vN0KfoY9cUmU4mplEHeqQxO-5byx79YY/s1600/picus-main.jpg"
+    },
+    {
+      "title": "The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface",
+      "link": "https://www.securityweek.com/the-behavioral-shift-why-trusted-relationships-are-the-newest-attack-surface/",
+      "description": "New analysis from Abnormal AI reveals how attackers have abandoned technical exploits to weaponize routine workflows and internal trust. The post The Behavioral Shift: Why Trusted Relationships Are the Newest Attack Surface appeared first on SecurityWeek.",
+      "pubDate": "2026-04-23T11:06:44.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "CISA orders feds to patch BlueHammer flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-microsoft-defender-flaw-exploited-in-zero-day-attacks/",
+      "description": "CISA has ordered U.S. federal agencies to patch a Microsoft Defender privilege escalation flaw (dubbed BlueHammer) that has been exploited in zero-day attacks. [...]",
+      "pubDate": "2026-04-23T11:05:57.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
+    },
+    {
+      "title": "FBI Extracts Deleted Signal Messages from iPhone Notification Database",
+      "link": "https://www.schneier.com/blog/archives/2026/04/fbi-extracts-deleted-signal-messages-from-iphone-notification-database.html",
+      "description": "404 Media reports (alternate site): The FBI was able to forensically extract copies of incoming Signal messages from a defendant’s iPhone, even after the app was deleted, because copies of the content were saved in the device’s push notification database…. The news shows how forensic extraction—­when someone has physical access to a device and is able to run specialized software on it—­can yield sensitive data derived from secure messaging apps in unexpected places. Signal already has a setting that blocks message content from displaying in push notifications; the case highlights why such a fe",
+      "pubDate": "2026-04-23T11:05:42.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Luxury Cosmetics Giant Rituals Discloses Data Breach",
+      "link": "https://www.securityweek.com/luxury-cosmetics-giant-rituals-discloses-data-breach/",
+      "description": "The company is notifying My Rituals members that hackers downloaded part of their data, including names and addresses. The post Luxury Cosmetics Giant Rituals Discloses Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-04-23T11:04:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": null
+    },
+    {
       "title": "AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers",
       "link": "https://www.securityweek.com/ai-can-autonomously-hack-cloud-systems-with-minimal-oversight-researchers/",
       "description": "Palo Alto Networks has developed Zealot, a multi-agent penetration testing PoC capable of reconnaissance, exploitation, and exfiltration. The post AI Can Autonomously Hack Cloud Systems With Minimal Oversight: Researchers appeared first on SecurityWeek.",
@@ -32,15 +239,6 @@
       "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/",
       "description": "Unit 42 reveals how multi-agent AI systems can autonomously attack cloud environments. Learn critical insights and vital lessons for proactive security. The post Can AI Attack the Cloud? Lessons From Building an Autonomous Cloud Offensive Multi-Agent System appeared first on Unit 42.",
       "pubDate": "2026-04-23T10:00:31.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/12_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "AIはクラウドを攻撃できるのか?自律型クラウド攻撃型マルチエージェント システムの構築から得られた教訓",
-      "link": "https://unit42.paloaltonetworks.com/autonomous-ai-cloud-attacks/",
-      "description": "Unit 42は、マルチエージェントAIシステムがクラウド環境をどのように自律的に攻撃できるかを明らかにします。プロアクティブなセキュリティのための重要なインサイトと不可欠な教訓を学びます。 The post AIはクラウドを攻撃できるのか?自律型クラウド攻撃型マルチエージェント システムの構築から得られた教訓 appeared first on Unit 42.",
-      "pubDate": "2026-04-23T10:00:02.000Z",
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/12_Cloud_cybersecurity_research_Overview_1920x900.jpg"
@@ -98,6 +296,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": null
+    },
+    {
+      "title": "Africa Relinquishes Cyberattack Lead to Latin America — For Now",
+      "link": "https://www.darkreading.com/threat-intelligence/african-organizations-see-easing-of-cyberattacks",
+      "description": "The volume of cyberattacks targeting Africa declined in the past year, with weekly attacks down 22%, as attackers seemingly shifted their focus to other regions.",
+      "pubDate": "2026-04-23T07:01:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt041f5fc64dbe4d6f/679016b514bc5279608b2db9/Ground_Picture-Africa-cyber-identity-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Smashing Security podcast #464: Rockstar got hacked. The data was junk. The secrets it revealed were not",
@@ -208,6 +415,15 @@
       "image": null
     },
     {
+      "title": "Electricity Is a Growing Area of Cyber Risk",
+      "link": "https://www.darkreading.com/cyber-risk/electricity-growing-area-cyber-risk",
+      "description": "IT has long been concerned about ensuring systems receive the right amount of electricity. Cyberattackers are realizing they can manipulate voltage fluctuations for their purposes, too.",
+      "pubDate": "2026-04-22T14:25:07.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdda8d92d977d3fd5/69e8dc16a28c2093e5e0035e/FH7C4H.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "title": "Inside Caller-as-a-Service Fraud: The Scam Economy Has a Hiring Process",
       "link": "https://www.bleepingcomputer.com/news/security/inside-caller-as-a-service-fraud-the-scam-economy-has-a-hiring-process/",
       "description": "Fraud operations now operate like call centers, complete with hiring, training, and performance tracking. Flare reveals how cybercriminals manage \"Caller-as-a-Service\" operations like a professional sales team. [...]",
@@ -235,51 +451,6 @@
       "image": null
     },
     {
-      "title": "Microsoft Teams to get efficiency mode on PCs with limited resources",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-teams-gets-efficiency-mode-for-hardware-constrained-devices/",
-      "description": "Microsoft is preparing to roll out a new Efficiency Mode for Microsoft Teams for systems with limited CPU and memory resources to improve app responsiveness. [...]",
-      "pubDate": "2026-04-22T12:24:38.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/13/Microsoft_Teams.jpg"
-    },
-    {
-      "title": "New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention",
-      "link": "https://www.securityweek.com/new-wiper-malware-targeted-venezuelan-energy-sector-prior-to-us-intervention/",
-      "description": "Dubbed Lotus Wiper, the malware targets recovery mechanisms, overwrites drives, and systematically deletes files. The post New Wiper Malware Targeted Venezuelan Energy Sector Prior to US Intervention appeared first on SecurityWeek.",
-      "pubDate": "2026-04-22T12:10:28.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
-    },
-    {
-      "title": "Mirai Botnet Targets Flaw in Discontinued D-Link Routers",
-      "link": "https://www.securityweek.com/mirai-botnet-targets-flaw-in-discontinued-d-link-routers/",
-      "description": "The exploitation of the command injection vulnerability started one year after public disclosure and PoC exploit code publication. The post Mirai Botnet Targets Flaw in Discontinued D-Link Routers appeared first on SecurityWeek.",
-      "pubDate": "2026-04-22T11:44:07.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
-    },
-    {
-      "title": "Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data",
-      "link": "https://www.securityweek.com/are-sboms-failing-supply-chain-attacks-rise-as-security-teams-struggle-with-sbom-data/",
-      "description": "Researcher says the missing piece is a governance-driven intelligence layer that turns SBOM and VEX data into explainable security decisions. The post Are SBOMs Failing? Supply Chain Attacks Rise as Security Teams Struggle With SBOM Data appeared first on SecurityWeek.",
-      "pubDate": "2026-04-22T11:30:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
-    },
-    {
-      "title": "Claude Mythos Finds 271 Firefox Vulnerabilities",
-      "link": "https://www.securityweek.com/claude-mythos-finds-271-firefox-vulnerabilities/",
-      "description": "All the flaws could have also been found by an elite human researcher, according to Mozilla. The post Claude Mythos Finds 271 Firefox Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-04-22T11:27:46.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
-    },
-    {
       "title": "ICE Uses Graphite Spyware",
       "link": "https://www.schneier.com/blog/archives/2026/04/ice-uses-graphite-spyware.html",
       "description": "ICE has admitted that it uses spyware from the Israeli company Graphite.",
@@ -298,15 +469,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhANfDCr_4asg41Zj98h_tyRYig7XZGWHyCgPXHcVUvax_31CDUNrmrUp9rBFZK0u0Ai97i5pUlapu4ePRoBQAzvxt-KX3u80dTOjzyPPOOGzuCUmBZgaczzHisujoEXmfO08HtxqTbkAYBRI7JdBKffmATJHHM4uDe2RDsPyC11CkgenulBnQ7ZhyH8m-t/s1600/wiper-malware.jpg"
     },
     {
-      "title": "North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks",
-      "link": "https://www.securityweek.com/north-korean-hackers-use-applescript-clickfix-in-fresh-macos-attacks/",
-      "description": "The campaigns focus on financial organizations, including cryptocurrency, venture capital, and blockchain entities. The post North Korean Hackers Use AppleScript, ClickFix in Fresh macOS Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-04-22T10:49:52.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": null
-    },
-    {
       "title": "Toxic Combinations: When Cross-App Permissions Stack into Risk",
       "link": "https://thehackernews.com/2026/04/toxic-combinations-when-cross-app.html",
       "description": "On January 31, 2026, researchers disclosed that Moltbook, a social network built for AI agents, had left its database wide open, exposing 35,000 email addresses and 1.5 million agent API tokens across 770,000 active agents. The more worrying part sat inside the private messages. Some of those conversations held plaintext third-party credentials, including OpenAI API keys shared between agents,",
@@ -314,15 +476,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeaSL6v6uahfzJpHJb0ATKZ7cbexnfYIayT74IyU1S-7f3T-4gfnWowlobm5RH4ZYrsIdeNq_OOHGxp2LbU-aELaO9RbYa15MfKN38-ZQPGhrgH0PYCsVIucG95SSw-WCzzo9eUhITn4A3txsa8H59XhTcAaOObC0r-Es_7i0RH8aDo_qhZ45MfaOTVF2t/s1600/reco.png"
-    },
-    {
-      "title": "Microsoft traces Universal Print issues to Graph API code change",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-graph-api-code-change-causes-universal-print-share-issues/",
-      "description": "Microsoft says that an ongoing Universal Print sharing issue that prevents users from creating some printer shares is due to a Microsoft Graph API code change. [...]",
-      "pubDate": "2026-04-22T10:15:09.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/22/Microsoft_Universal_Print.jpg"
     },
     {
       "title": "When Wi-Fi Encryption Fails: Protecting Your Enterprise from AirSnitch Attacks",
@@ -334,15 +487,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/11_Security-Technology_Category_1505x922.jpg"
     },
     {
-      "title": "New GoGra malware for Linux uses Microsoft Graph API for comms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-gogra-malware-for-linux-uses-microsoft-graph-api-for-comms/",
-      "description": "A Linux variant of the GoGra backdoor uses legitimate Microsoft infrastructure, relying on an Outlook inbox for stealthy payload delivery. [...]",
-      "pubDate": "2026-04-22T10:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg"
-    },
-    {
       "title": "Microsoft Patches Critical ASP.NET Core CVE-2026-40372 Privilege Escalation Bug",
       "link": "https://thehackernews.com/2026/04/microsoft-patches-critical-aspnet-core.html",
       "description": "Microsoft has released out-of-band updates to address a security vulnerability in ASP.NET Core that could allow an attacker to escalate privileges. The vulnerability, tracked as CVE-2026-40372, carries a CVSS score of 9.1 out of 10.0. It's rated Important in severity. An anonymous researcher has been credited with discovering and reporting the flaw. \"Improper verification of cryptographic",
@@ -350,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiYMuDYXH3vQ6ycJCKfikptBR0jdQdnf-s36gDb0LYx3gvMwQOQLrt072KY5GZ0T2GRhyphenhyphenrfIg5qcCqjE0J_PtKQ1P409j_veWwKYoGsGssQcTotxI2-Dl8akDSyPif_j4LgFL3kWI6pvWKX5QBjsnIZIHdFzlAIRgxspuS4W0Ywe-Z63zmIyL7X39CG_3Ng/s1600/dotnet.jpg"
-    },
-    {
-      "title": "Microsoft releases emergency patches for critical ASP.NET flaw",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-emergency-security-updates-for-critical-aspnet-flaw/",
-      "description": "Microsoft has released out-of-band (OOB) security updates to patch a critical ASP.NET Core privilege escalation vulnerability. [...]",
-      "pubDate": "2026-04-22T08:08:16.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/Microsoft_headpic.jpg"
     },
     {
       "title": "Mustang Panda’s New LOTUSLITE Variant Targets India Banks, South Korea Policy Circles",
@@ -377,15 +512,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQ3NMjiDO5jGFykZtDgbq7FvB0nT8CMXMucn5cumu_V80blg8Wt6cklpQnCeG-EuX6oGvqmQKRJxFlmynTBatMk0zgDDsdurGDcs5rXScEF_jVNV10bEqJSJcj5YsAtLS_Pag8LRPrUZr4w9M-JJldxaYYMxtf3zrGia8QjUq-PtjLk_g4-qkkINXx4uGY/s1600/sandbox.jpg"
-    },
-    {
-      "title": "Over 1,300 Microsoft SharePoint servers vulnerable to spoofing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-1-300-microsoft-sharepoint-servers-vulnerable-to-ongoing-attacks/",
-      "description": "Over 1,300 Microsoft SharePoint servers exposed online remain unpatched against a spoofing vulnerability that was exploited as a zero-day and is still being abused in ongoing attacks. [...]",
-      "pubDate": "2026-04-22T06:53:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg"
     },
     {
       "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
@@ -424,15 +550,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/Splash-Template@1x_1-1.jpg"
     },
     {
-      "title": "French govt agency confirms breach as hacker offers to sell data",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-      "description": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data. [...]",
-      "pubDate": "2026-04-21T21:46:04.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Titres.jpg"
-    },
-    {
       "title": "Ransomware Negotiator Pleads Guilty to BlackCat Scheme",
       "link": "https://www.darkreading.com/insider-threats/ransomware-negotiator-pleads-guilty-blackcat-scheme",
       "description": "A cautionary tale illustrates why the person negotiating should never be involved with any part of the ransom payment process.",
@@ -449,15 +566,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4525b1bf0b3427d5/69e7b7f7df45795969187014/defender_aileenchik_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "New Lotus data wiper used against Venezuelan energy, utility firms",
-      "link": "https://www.bleepingcomputer.com/news/security/new-lotus-data-wiper-used-against-venezuelan-energy-utility-firms/",
-      "description": "A previously undocumented data-wiping malware dubbed Lotus was used last year in targeted attacks against energy and utilities organizations in Venezuela. [...]",
-      "pubDate": "2026-04-21T18:38:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/lotus.jpg"
     },
     {
       "title": "SystemBC C2 Server Reveals 1,570+ Victims in The Gentlemen Ransomware Operation",
@@ -512,24 +620,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhau3OWhO8rBZT2xz8xcZ90Y8tYMmkZCI81G0GGeUkEHBQi4HzltJJJkzdQr6YS-4R8kZKSAf6Dc9YT6ifgHjmdQSpBvRgJbkEvzIW1dy57LQHQBJkc0YXS3zdYy6TTH8rklsIUGX32R0nk3hBrcYt804nqjBOND_ighh-SHyHHHBt-sJhfOszExZfVmwW8/s1600/ransomware-hacker.jpg"
-    },
-    {
-      "title": "Stopping Fraud at Each Stage of the Customer Journey Without Adding Friction",
-      "link": "https://www.bleepingcomputer.com/news/security/stopping-fraud-at-each-stage-of-the-customer-journey-without-adding-friction/",
-      "description": "Fraud prevention and user experience don't have to be a tradeoff. IPQS shows how combining identity, device, and network signals stops fraud without adding friction. [...]",
-      "pubDate": "2026-04-21T14:02:12.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/04/16/ipqs-header.jpg"
-    },
-    {
-      "title": "UK probes Telegram, teen chat sites over CSAM sharing concerns",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-probes-telegram-teen-chat-sites-over-csam-sharing-concerns/",
-      "description": "Ofcom, the United Kingdom's independent communications regulator, has launched an investigation into Telegram based on evidence suggesting it's being used to share child sexual abuse material (CSAM). [...]",
-      "pubDate": "2026-04-21T13:49:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Telegram-UK.jpg"
     },
     {
       "title": "5 Places where Mature SOCs Keep MTTR Fast and Others Waste Time",
@@ -658,24 +748,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd2f4132144e85dfb/69e291d49ba34f4b11a4782a/WhatsApp-stLegat-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "⚡ Weekly Recap: Vercel Hack, Push Fraud, QEMU Abused, New Android RATs Emerge & More",
-      "link": "https://thehackernews.com/2026/04/weekly-recap-vercel-hack-push-fraud.html",
-      "description": "Monday’s recap shows the same pattern in different places. A third-party tool becomes a way in, then leads to internal access. A trusted download path is briefly swapped to deliver malware. Browser extensions act normally while pulling data and running code. Even update channels are used to push payloads. It’s not breaking systems—it’s bending trust. There’s also a shift in how attacks run.",
-      "pubDate": "2026-04-20T13:41:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirkQSoHlNZvcdjrevc7r-D8mPj49i3XRimQjk-HtEVDYVX4vKEcW4JLiTblV5oI8MtUib2Q5iFerdt0x4_mGDvMJqsDd2wX6QNQxM25Wnrq-MRYADw1YuJly5yoSTIz_ToqlWsAKA2hLwru4Crx8aSguTETpDl4mjRfrCg0G8Cca5Rk0Am6FCwRCNPIqBy/s1600/recap-april.jpg"
-    },
-    {
-      "title": "Why Most AI Deployments Stall After the Demo",
-      "link": "https://thehackernews.com/2026/04/why-most-ai-deployments-stall-after-demo.html",
-      "description": "The fastest way to fall in love with an AI tool is to watch the demo. Everything moves quickly. Prompts land cleanly. The system produces impressive outputs in seconds. It feels like the beginning of a new era for your team. But most AI initiatives don't fail because of bad technology. They stall because what worked in the demo doesn't survive contact with real operations. The gap between a",
-      "pubDate": "2026-04-20T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihbqFqPAZp1E63toW329kiZdn6SI22yIZDqIGwAsO9Q2_Xi8g6qCWwj0dH2A4LupHGVzobsdiP9dcvAoSzXSKkte4q0yLnAN2V5wsntPma9PIiv4SzNQnU3wkFCztV-N8Dn36S_oP9tq3obvAVOUUPegjGguA1SUVYR2ptZigH9ET-5dTVZU966eoLh9A/s1600/tines.jpg"
-    },
-    {
       "title": "Is “Satoshi Nakamoto” Really Adam Back?",
       "link": "https://www.schneier.com/blog/archives/2026/04/is-satoshi-nakamoto-really-adam-back.html",
       "description": "The New York Times has a long article where the author lays out an impressive array of circumstantial evidence that the inventor of Bitcoin is the cypherpunk Adam Back. I don’t know. The article is convincing, but it’s written to be convincing. I can’t remember if I ever met Adam. I was a member of the Cypherpunks mailing list for a while, but I was never really an active participant. I spent more time on the Usenet newsgroup sci.crypt. I knew a bunch of the Cypherpunks, though, from various conferences around the world at the time. I really have no opinion about who Satoshi Nakamoto really is",
@@ -683,15 +755,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Anthropic MCP Design Vulnerability Enables RCE, Threatening AI Supply Chain",
-      "link": "https://thehackernews.com/2026/04/anthropic-mcp-design-vulnerability.html",
-      "description": "Cybersecurity researchers have discovered a critical \"by design\" weakness in the Model Context Protocol's (MCP) architecture that could pave the way for remote code execution and have a cascading effect on the artificial intelligence (AI) supply chain. \"This flaw enables Arbitrary Command Execution (RCE) on any system running a vulnerable MCP implementation, granting attackers direct access to",
-      "pubDate": "2026-04-20T10:42:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbUnokdbuoiv9j36ekgZbT7VQVSUJBbB4xzoXJKD8iTTO76tSRyhXGdOk2aZKX-RU_WeGyRzHfAf0zwva_cSY7JL5a7Fhmrtzjd-p-kg6JK75nE-nQiSESaDAHlyTN8be1iUFxp9xCq94-1JwZ16pwYZJkKxIFwqa8vNmfxZl8OCXRWnT0GKWOpYVPgbMb/s1600/mcp.jpg"
     },
     {
       "title": "Fracturing Software Security With Frontier AI Models",
@@ -703,15 +766,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/06_General_Overview_1920x900.jpg"
     },
     {
-      "title": "Researchers Detect ZionSiphon Malware Targeting Israeli Water, Desalination OT Systems",
-      "link": "https://thehackernews.com/2026/04/researchers-detect-zionsiphon-malware.html",
-      "description": "Cybersecurity researchers have flagged a new malware called ZionSiphon that appears to be specifically designed to target Israeli water treatment and desalination systems. The malware has been codenamed ZionSiphon by Darktrace, highlighting its ability to set up persistence, tamper with local configuration files, and scan for operational technology (OT)-relevant services on the local subnet.",
-      "pubDate": "2026-04-20T07:34:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihoHF4qP6hw3msdH8s3stwjZR1a2Aqp6kSB97wFpmQefaNtVM8lc-Eu0Gv3jeMK2qa9aLGjSSZp3cJGNaE3eft6h17HnKqPGlhLbfkVzLqfv3VW-SEDLToW6z8SGiDeSE8jXdHyNqxqG_a4B34PjM3rbiOddEvQlgOFfbow8n6V_qGB-70uEj9fRrNLVOt/s1600/water.jpg"
-    },
-    {
       "title": "Frontier AI Is Collapsing the Exploit Window. Here&rsquo;s How Defenders Must Respond.",
       "link": "https://www.crowdstrike.com/en-us/blog/frontier-ai-collapses-exploit-window-how-defenders-must-respond/",
       "description": "",
@@ -719,15 +773,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Vercel Breach Tied to Context AI Hack Exposes Limited Customer Credentials",
-      "link": "https://thehackernews.com/2026/04/vercel-breach-tied-to-context-ai-hack.html",
-      "description": "Web infrastructure provider Vercel has disclosed a security breach that allows bad actors to gain unauthorized access to \"certain\" internal Vercel systems. The incident stemmed from the compromise of Context.ai, a third-party artificial intelligence (AI) tool, that was used by an employee at the company. \"The attacker used that access to take over the employee's Vercel Google Workspace account,",
-      "pubDate": "2026-04-20T03:35:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcLAcekric_be3bGt2lBu4NxiCcd3FZap2VzD0r9Z8zGegVjwixsexsGVGVmwvLwpaercKHyq9BFA7WV2a_DApLP7qpjg17hE8bu63FHsBoW1wFV0BJmATkuKIM1YU2bf8v9gRPM_tyw8RNINMSXiwzM5jbxjamO8HYm-VsVxgB0lbyRKr4kNuzzRY-JXq/s1600/breach.jpg"
     },
     {
       "title": "Cross‑tenant helpdesk impersonation to data exfiltration: A human-operated intrusion playbook",
@@ -946,24 +991,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-463.webp"
     },
     {
-      "title": "Critical MCP Integration Flaw Puts NGINX at Risk",
-      "link": "https://www.darkreading.com/application-security/critical-mcp-integration-flaw-nginx-risk",
-      "description": "Attackers can abuse the near-maximum severity flaw in nginx-ui to restart, create, modify, and delete NGINX configuration files.",
-      "pubDate": "2026-04-15T21:45:18.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt446b8eb1b9e96075/69e00259f061614772ab3b7e/mcp_Jack_the_sparow_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Navigating the Unique Security Risks of Asia's Digital Supply Chain",
-      "link": "https://www.darkreading.com/cloud-security/navigating-unique-security-risks-asias-digital-supply-chain",
-      "description": "Regulatory differences, interconnected digital ecosystems, and the rise of AI have created a complex supply chain Asian organizations must wrangle.",
-      "pubDate": "2026-04-15T19:30:47.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b40c5c605abfefc/69dfd2fef061610469ab3b48/digital_supply_chain_map_Aleksey_Funtap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Incident response for AI: Same fire, different fuel",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/04/15/incident-response-for-ai-same-fire-different-fuel/",
       "description": "AI changes how incidents unfold and how we respond. Learn which IR practices still apply and where new telemetry, tools, and skills are needed. The post Incident response for AI: Same fire, different fuel appeared first on Microsoft Security Blog.",
@@ -971,24 +998,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/03/MS_Actional-Insights_Adversarial-AI.png"
-    },
-    {
-      "title": "Prepping for 'Q-Day': Why Quantum Risk Management Should Start Now",
-      "link": "https://www.darkreading.com/cyber-risk/preparing-q-day-quantum-risk-management",
-      "description": "Quantum computers are coming and may impact systems in unexpected ways, and it will \"take years to be fully quantum-safe, if ever,\" cryptography expert warns.",
-      "pubDate": "2026-04-15T15:12:01.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3bb6d1a7c39a8cb8/69df9d987f84f1210cd92dd6/quantum_TiratusPhaesuwan_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Audit: Big Tech Often Ignores CA Privacy Law Opt-Out Requests",
-      "link": "https://www.darkreading.com/cyber-risk/audit-big-tech-ignores-data-collection-requests",
-      "description": "Google, Meta, and Microsoft about half the time don't comply with requests to opt out of online tracking per a California law mandate, privacy watchdog finds.",
-      "pubDate": "2026-04-15T14:38:53.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4602d9695ec3e1f1/69655ab9ae1d94027b8f024c/HWP2C7.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "108 malicious Chrome extensions caught stealing Google and Telegram data from 20,000 users",
@@ -1043,15 +1052,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "On Anthropic’s Mythos Preview and Project Glasswing",
-      "link": "https://www.schneier.com/blog/archives/2026/04/on-anthropics-mythos-preview-and-project-glasswing.html",
-      "description": "The cybersecurity industry is obsessing over Anthropic’s new model, Claude Mythos Preview, and its effects on cybersecurity. Anthropic said that it is not releasing it to the general public because of its cyberattack capabilities, and has launched Project Glasswing to run the model against a whole slew of public domain and proprietary software, with the aim of finding and patching all the vulnerabilities before hackers get their hands on the model and exploit them. There’s a lot here, and I hope to write something more considered in the coming week, but I want to make some quick observations. ",
-      "pubDate": "2026-04-13T16:52:57.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "AI and cryptocurrency scams are costing Americans billions, FBI reports",
