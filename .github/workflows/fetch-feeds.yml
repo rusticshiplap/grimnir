@@ -14,7 +14,8 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
+    timeout-minutes: 8       # hard kill — fetch takes <30s, commit takes <60s
+
     steps:
       - uses: actions/checkout@v4
 
@@ -25,19 +26,40 @@ jobs:
       - run: npm ci || npm install
 
       - name: Fetch feeds
+        timeout-minutes: 5
         run: npm run fetch
 
       - name: Commit updated cache
+        timeout-minutes: 2
         run: |
           git config user.name  "grimnir-bot"
           git config user.email "grimnir-bot@users.noreply.github.com"
-          if [[ -n "$(git status --porcelain cache/feed.json)" ]]; then
-            git add cache/feed.json
-            git commit -m "chore(cache): refresh feed [skip ci]"
-            # Pull any concurrent commits before pushing to avoid hangs
-            git fetch origin main
-            git rebase origin/main || (git checkout --ours cache/feed.json && git add cache/feed.json && GIT_EDITOR=true git rebase --continue)
-            timeout 60 git push || echo "Push skipped (concurrent update)"
-          else
-            echo "No feed changes."
+
+          if [[ -z "$(git status --porcelain cache/feed.json)" ]]; then
+            echo "No feed changes — skipping commit."
+            exit 0
           fi
+
+          git add cache/feed.json
+          git commit -m "chore(cache): refresh feed [skip ci]"
+
+          # Retry push up to 3 times with 30s timeout each
+          # Handles concurrent pushes from overlapping workflow runs
+          for attempt in 1 2 3; do
+            echo "Push attempt $attempt..."
+            if timeout 30 git push origin main; then
+              echo "Push succeeded."
+              exit 0
+            fi
+
+            echo "Push failed — rebasing and retrying..."
+            git fetch origin main --depth=1
+            git rebase origin/main \
+              || (git checkout --ours cache/feed.json \
+                  && git add cache/feed.json \
+                  && GIT_EDITOR=true git rebase --continue)
+            sleep 3
+          done
+
+          echo "All push attempts failed — feed was updated by a concurrent run, skipping."
+          exit 0
