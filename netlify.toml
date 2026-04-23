@@ -1,6 +1,9 @@
 [build]
   publish = "."
-  command = "npm install && node scripts/fetch-feeds.js"
+  command = "npm install && node scripts/fetch-feeds.js && node scripts/build-videos.js"
+
+[build.environment]
+  YOUTUBE_API_KEY = "AIzaSyCxlsTOZY6cBDy4RWRNIyN23jzUDgXaXq8"
 
 # Optional: Netlify scheduled function (alt to GitHub Action)
 # [[plugins]]
