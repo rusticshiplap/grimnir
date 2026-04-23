@@ -34,7 +34,10 @@ jobs:
           if [[ -n "$(git status --porcelain cache/feed.json)" ]]; then
             git add cache/feed.json
             git commit -m "chore(cache): refresh feed [skip ci]"
-            git push
+            # Pull any concurrent commits before pushing to avoid hangs
+            git fetch origin main
+            git rebase origin/main || (git checkout --ours cache/feed.json && git add cache/feed.json && GIT_EDITOR=true git rebase --continue)
+            timeout 60 git push || echo "Push skipped (concurrent update)"
           else
             echo "No feed changes."
           fi

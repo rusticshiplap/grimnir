@@ -1,14 +1,11 @@
 {
   "sources": [
-    { "name": "Krebs on Security",       "category": "news",    "url": "https://krebsonsecurity.com/feed/" },
     { "name": "The Hacker News",         "category": "news",    "url": "https://feeds.feedburner.com/TheHackersNews" },
     { "name": "Bleeping Computer",       "category": "news",    "url": "https://www.bleepingcomputer.com/feed/" },
     { "name": "Dark Reading",            "category": "news",    "url": "https://www.darkreading.com/rss.xml" },
     { "name": "Schneier on Security",    "category": "opinion", "url": "https://www.schneier.com/feed/atom/" },
     { "name": "Graham Cluley",           "category": "opinion", "url": "https://grahamcluley.com/feed/" },
     { "name": "Troy Hunt",               "category": "opinion", "url": "https://www.troyhunt.com/rss/" },
-    { "name": "SANS Internet Storm Ctr", "category": "alerts",  "url": "https://isc.sans.edu/rssfeed_full.xml" },
-    { "name": "NIST NVD Recent CVEs",    "category": "cves",    "url": "https://nvd.nist.gov/feeds/xml/cve/misc/nvd-rss-analyzed.xml" },
     { "name": "Threatpost",              "category": "news",    "url": "https://threatpost.com/feed/" },
     { "name": "SecurityWeek",            "category": "news",    "url": "https://www.securityweek.com/feed/" },
     { "name": "Sophos Naked Security",   "category": "news",    "url": "https://news.sophos.com/en-us/category/security-operations/feed/" },
@@ -16,9 +13,7 @@
     { "name": "Microsoft Security",      "category": "research","url": "https://www.microsoft.com/en-us/security/blog/feed/" },
     { "name": "Unit 42 Palo Alto",       "category": "research","url": "https://unit42.paloaltonetworks.com/feed/" },
     { "name": "CrowdStrike Blog",        "category": "research","url": "https://www.crowdstrike.com/blog/feed/" },
-    { "name": "Mandiant",                "category": "research","url": "https://www.mandiant.com/resources/blog/rss.xml" },
-    { "name": "HackerOne Blog",          "category": "bugbounty","url": "https://www.hackerone.com/blog/rss.xml" },
     { "name": "PortSwigger Research",    "category": "research","url": "https://portswigger.net/research/rss" }
   ],
-  "categories": ["all","news","alerts","cves","opinion","research","bugbounty"]
+  "categories": ["all","news","opinion","research"]
 }
