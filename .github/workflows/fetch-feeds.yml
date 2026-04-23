@@ -2,8 +2,11 @@ name: fetch-feeds
 
 on:
   schedule:
-    - cron: "*/30 * * * *"   # every 30 minutes
-  workflow_dispatch:          # manual run button
+    - cron: "*/30 * * * *"   # feed every 30 min
+    - cron: "0 6 * * *"      # video index daily at 6 AM UTC
+  workflow_dispatch:          # manual trigger
+  repository_dispatch:
+    types: [new-video]        # triggered by GrimnirDigest after each upload
   push:
     branches: [ main ]
     paths: [ "feeds.json", "scripts/**", ".github/workflows/**" ]
@@ -14,7 +17,7 @@ permissions:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 8       # hard kill — fetch takes <30s, commit takes <60s
+    timeout-minutes: 8
 
     steps:
       - uses: actions/checkout@v4
@@ -25,41 +28,53 @@ jobs:
 
       - run: npm ci || npm install
 
+      # ── Feed fetch (every 30 min) ────────────────────────────────────────
       - name: Fetch feeds
         timeout-minutes: 5
         run: npm run fetch
 
+      # ── Video index (daily + on new-video dispatch) ──────────────────────
+      - name: Build video index
+        timeout-minutes: 2
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: |
+          if [ -n "$YOUTUBE_API_KEY" ]; then
+            npm run build-videos
+          else
+            echo "YOUTUBE_API_KEY not set — skipping video index"
+          fi
+
+      # ── Commit both outputs ──────────────────────────────────────────────
       - name: Commit updated cache
         timeout-minutes: 2
         run: |
           git config user.name  "grimnir-bot"
           git config user.email "grimnir-bot@users.noreply.github.com"
 
-          if [[ -z "$(git status --porcelain cache/feed.json)" ]]; then
-            echo "No feed changes — skipping commit."
+          CHANGED=$(git status --porcelain cache/)
+          if [ -z "$CHANGED" ]; then
+            echo "No cache changes — skipping commit."
             exit 0
           fi
 
-          git add cache/feed.json
-          git commit -m "chore(cache): refresh feed [skip ci]"
+          git add cache/feed.json cache/videos.json 2>/dev/null || git add cache/
+          git commit -m "chore(cache): refresh feed + video index [skip ci]"
 
-          # Retry push up to 3 times with 30s timeout each
-          # Handles concurrent pushes from overlapping workflow runs
           for attempt in 1 2 3; do
             echo "Push attempt $attempt..."
             if timeout 30 git push origin main; then
               echo "Push succeeded."
               exit 0
             fi
-
             echo "Push failed — rebasing and retrying..."
             git fetch origin main --depth=1
             git rebase origin/main \
-              || (git checkout --ours cache/feed.json \
-                  && git add cache/feed.json \
+              || (git checkout --ours cache/ \
+                  && git add cache/ \
                   && GIT_EDITOR=true git rebase --continue)
             sleep 3
           done
 
-          echo "All push attempts failed — feed was updated by a concurrent run, skipping."
+          echo "All push attempts failed — skipping."
           exit 0

@@ -5,6 +5,7 @@
   "description": "Grimnir :: The Hooded One — cybersecurity news aggregator",
   "scripts": {
     "fetch": "node scripts/fetch-feeds.js",
+    "build-videos": "node scripts/build-videos.js",
     "serve": "npx --yes http-server -p 8080 -c-1 .",
     "dev": "npm run fetch && npm run serve"
   },

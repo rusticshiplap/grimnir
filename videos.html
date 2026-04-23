@@ -1,0 +1,351 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Grimnir Digest :: Video Intelligence Feed</title>
+  <meta name="description" content="Grimnir Digest — daily cybersecurity video briefings. Subscribe on YouTube and visit grimnir.net for the full live feed.">
+  <meta name="theme-color" content="#02040a">
+  <link rel="icon" type="image/svg+xml" href="assets/img/favicon.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;600&family=Space+Grotesk:wght@400;500;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/style.css">
+
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-Y9NPLRDTY7"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date()); gtag('config', 'G-Y9NPLRDTY7');
+  </script>
+
+  <style>
+    /* ── Video page overrides ── */
+    .vid-hero { text-align:center; padding: 80px 20px 40px; }
+    .vid-hero .kicker { font-family:'JetBrains Mono',monospace; font-size:.75rem; color:var(--accent); letter-spacing:.15em; margin-bottom:12px; }
+    .vid-hero h1 { font-family:'Space Grotesk',sans-serif; font-size:clamp(2rem,5vw,3.2rem); font-weight:700; margin:0 0 12px; }
+    .vid-hero p  { color:var(--muted); max-width:560px; margin:0 auto 28px; }
+
+    .vid-sub-bar {
+      display: flex; align-items: center; gap: 12px;
+      flex-wrap: wrap; justify-content: center;
+      margin-bottom: 32px;
+    }
+    .yt-sub-btn {
+      display: inline-flex; align-items: center; gap: 8px;
+      background: #ff0000; color: #fff;
+      padding: 10px 20px; border-radius: 6px;
+      font-weight: 600; font-size: .9rem;
+      text-decoration: none; transition: opacity .2s;
+    }
+    .yt-sub-btn:hover { opacity: .85; }
+    .yt-sub-btn svg { width:20px; height:20px; fill:#fff; }
+
+    /* Search */
+    .vid-search-wrap {
+      max-width: 640px; margin: 0 auto 36px;
+      position: relative;
+    }
+    .vid-search {
+      width: 100%; box-sizing: border-box;
+      background: #0d1117; border: 1px solid #1e2a35;
+      border-radius: 8px; padding: 12px 44px 12px 16px;
+      color: #e2e8f0; font-size: .95rem; font-family: 'JetBrains Mono', monospace;
+      outline: none; transition: border-color .2s;
+    }
+    .vid-search:focus { border-color: var(--accent); }
+    .vid-search::placeholder { color: #4a5568; }
+    .vid-search-icon {
+      position: absolute; right: 14px; top: 50%; transform: translateY(-50%);
+      color: #4a5568; pointer-events: none;
+    }
+
+    /* Topic filters */
+    .topic-filters {
+      display: flex; gap: 8px; flex-wrap: wrap;
+      justify-content: center; margin-bottom: 32px;
+    }
+    .topic-pill {
+      padding: 5px 14px; border-radius: 20px; font-size: .78rem;
+      font-family: 'JetBrains Mono', monospace; cursor: pointer;
+      border: 1px solid #1e2a35; background: transparent; color: #94a3b8;
+      transition: all .15s; text-transform: lowercase;
+    }
+    .topic-pill:hover  { border-color: var(--accent); color: var(--accent); }
+    .topic-pill.active { background: var(--accent); border-color: var(--accent); color: #000; font-weight:600; }
+
+    /* Results meta */
+    .vid-meta {
+      text-align: center; font-family: 'JetBrains Mono', monospace;
+      font-size: .75rem; color: #4a5568; margin-bottom: 24px;
+    }
+
+    /* Grid */
+    .vid-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+      gap: 24px;
+      max-width: 1200px; margin: 0 auto; padding: 0 20px;
+    }
+
+    .vid-card {
+      background: #0d1117; border: 1px solid #1e2a35; border-radius: 10px;
+      overflow: hidden; transition: border-color .2s, transform .2s;
+      display: flex; flex-direction: column;
+      text-decoration: none; color: inherit;
+    }
+    .vid-card:hover {
+      border-color: var(--accent);
+      transform: translateY(-3px);
+    }
+
+    .vid-thumb {
+      position: relative; aspect-ratio: 16/9;
+      background: #060a0f; overflow: hidden;
+    }
+    .vid-thumb img {
+      width: 100%; height: 100%; object-fit: cover;
+      transition: transform .3s;
+    }
+    .vid-card:hover .vid-thumb img { transform: scale(1.04); }
+
+    .vid-play {
+      position: absolute; inset: 0;
+      display: flex; align-items: center; justify-content: center;
+      background: rgba(0,0,0,0); transition: background .2s;
+    }
+    .vid-card:hover .vid-play { background: rgba(0,0,0,.35); }
+    .vid-play svg {
+      width: 52px; height: 52px; opacity: 0; transition: opacity .2s;
+      filter: drop-shadow(0 2px 8px rgba(0,0,0,.8));
+    }
+    .vid-card:hover .vid-play svg { opacity: 1; }
+
+    .vid-ep-badge {
+      position: absolute; top: 10px; left: 10px;
+      background: var(--accent); color: #000;
+      font-family: 'JetBrains Mono', monospace; font-size: .68rem; font-weight: 700;
+      padding: 3px 8px; border-radius: 4px; letter-spacing: .05em;
+    }
+
+    .vid-body { padding: 16px; flex: 1; display: flex; flex-direction: column; gap: 10px; }
+
+    .vid-title {
+      font-family: 'Space Grotesk', sans-serif; font-size: 1rem; font-weight: 600;
+      line-height: 1.4; color: #e2e8f0;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+
+    .vid-desc {
+      font-size: .82rem; color: #64748b; line-height: 1.5;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+
+    .vid-footer {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-top: auto; padding-top: 10px; border-top: 1px solid #1e2a35;
+    }
+    .vid-date { font-family: 'JetBrains Mono',monospace; font-size: .7rem; color: #4a5568; }
+    .vid-topics { display: flex; gap: 5px; flex-wrap: wrap; }
+    .vid-topic {
+      font-family: 'JetBrains Mono',monospace; font-size: .65rem;
+      color: var(--accent); background: rgba(0,255,136,.08);
+      padding: 2px 7px; border-radius: 3px;
+    }
+
+    /* No results */
+    .vid-empty {
+      text-align: center; padding: 80px 20px;
+      font-family: 'JetBrains Mono', monospace; color: #4a5568;
+    }
+    .vid-empty span { color: var(--accent); }
+
+    /* Channel CTA strip */
+    .channel-cta {
+      text-align: center; margin: 60px auto 20px;
+      padding: 40px 20px;
+      border-top: 1px solid #1e2a35;
+      max-width: 600px;
+    }
+    .channel-cta h3 { font-family:'Space Grotesk',sans-serif; margin-bottom:10px; }
+    .channel-cta p  { color: var(--muted); margin-bottom:20px; font-size:.9rem; }
+
+    @media (max-width: 600px) {
+      .vid-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <canvas id="matrix" aria-hidden="true"></canvas>
+
+  <nav class="nav">
+    <a class="brand" href="index.html">
+      <img src="assets/img/logo.jpg" alt="Grimnir sigil">
+      <span class="brand-text">
+        <span class="title">GRIMNIR</span>
+        <span class="tagline">THE HOODED ONE</span>
+      </span>
+    </a>
+    <ul>
+      <li><a class="navlink" href="index.html">Signals</a></li>
+      <li><a class="navlink active" href="videos.html">Digest</a></li>
+      <li><a class="navlink" href="deals.html">Arsenal</a></li>
+      <li><a class="navlink" href="merch.html">Merch</a></li>
+      <li><a class="navlink" href="jobs.html">Jobs</a></li>
+      <li><a class="navlink" href="about.html">About</a></li>
+    </ul>
+  </nav>
+
+  <div class="vid-hero">
+    <div class="kicker">>_ grimnir digest // video intelligence feed</div>
+    <h1>Grimnir <span style="color:var(--accent)">Digest</span></h1>
+    <p>Daily cybersecurity briefings. Five signals per episode. Every threat decoded.</p>
+    <div class="vid-sub-bar">
+      <a class="yt-sub-btn" href="https://www.youtube.com/channel/UCBrijOVEMVm4NI_hWTPn6qQ?sub_confirmation=1" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
+        Subscribe on YouTube
+      </a>
+    </div>
+  </div>
+
+  <main style="padding-bottom:60px">
+    <div class="vid-search-wrap">
+      <input class="vid-search" id="vidSearch" type="search" autocomplete="off"
+             placeholder='search episodes… "ransomware", "zero-day", "breach"'>
+      <span class="vid-search-icon">
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+          <circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/>
+        </svg>
+      </span>
+    </div>
+
+    <div class="topic-filters" id="topicFilters">
+      <button class="topic-pill active" data-topic="all">all</button>
+    </div>
+
+    <div class="vid-meta" id="vidMeta">Loading episodes…</div>
+
+    <div class="vid-grid" id="vidGrid"></div>
+
+    <div class="channel-cta">
+      <h3>Never miss an episode</h3>
+      <p>New Grimnir Digest videos post daily. Subscribe and hit the bell — or come back here for the full archive.</p>
+      <a class="yt-sub-btn" href="https://www.youtube.com/channel/UCBrijOVEMVm4NI_hWTPn6qQ?sub_confirmation=1" target="_blank" rel="noopener">
+        <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
+        Subscribe Free
+      </a>
+    </div>
+  </main>
+
+  <footer style="text-align:center;padding:30px 20px;border-top:1px solid #1e2a35;color:#4a5568;font-size:.8rem;font-family:'JetBrains Mono',monospace;">
+    <p>© 2025 Grimnir. <a href="index.html" style="color:var(--accent)">grimnir.net</a> · <a href="privacy.html" style="color:var(--accent)">Privacy</a> · <a href="disclaimer.html" style="color:var(--accent)">Disclaimer</a></p>
+  </footer>
+
+  <script src="assets/js/main.js"></script>
+  <script>
+  (async () => {
+    const grid       = document.getElementById("vidGrid");
+    const meta       = document.getElementById("vidMeta");
+    const searchEl   = document.getElementById("vidSearch");
+    const filterWrap = document.getElementById("topicFilters");
+
+    let allVideos  = [];
+    let activeTopic = "all";
+    let searchQuery = "";
+
+    // ── Load data ──────────────────────────────────────────────────────────
+    try {
+      const res  = await fetch("cache/videos.json?v=" + Date.now());
+      const data = await res.json();
+      allVideos  = data.videos || [];
+      const ts   = data.generatedAt ? new Date(data.generatedAt).toLocaleString() : "";
+      meta.textContent = `${allVideos.length} episodes · updated ${ts}`;
+      buildTopicFilters();
+      render();
+    } catch(e) {
+      meta.textContent = "Could not load episodes.";
+      console.error(e);
+    }
+
+    // ── Topic filters ──────────────────────────────────────────────────────
+    function buildTopicFilters() {
+      const counts = {};
+      allVideos.forEach(v => (v.topics || []).forEach(t => counts[t] = (counts[t]||0)+1));
+      const sorted = Object.entries(counts).sort((a,b) => b[1]-a[1]).slice(0,12);
+      sorted.forEach(([topic]) => {
+        const btn = document.createElement("button");
+        btn.className = "topic-pill";
+        btn.dataset.topic = topic;
+        btn.textContent = topic;
+        btn.addEventListener("click", () => setTopic(topic));
+        filterWrap.appendChild(btn);
+      });
+      filterWrap.querySelector("[data-topic='all']").addEventListener("click", () => setTopic("all"));
+    }
+
+    function setTopic(topic) {
+      activeTopic = topic;
+      filterWrap.querySelectorAll(".topic-pill").forEach(p =>
+        p.classList.toggle("active", p.dataset.topic === topic));
+      render();
+    }
+
+    // ── Search ─────────────────────────────────────────────────────────────
+    searchEl.addEventListener("input", () => {
+      searchQuery = searchEl.value.trim().toLowerCase();
+      render();
+    });
+
+    // ── Render ─────────────────────────────────────────────────────────────
+    function render() {
+      const q = searchQuery;
+      const filtered = allVideos.filter(v => {
+        const topicMatch = activeTopic === "all" || (v.topics||[]).includes(activeTopic);
+        if (!topicMatch) return false;
+        if (!q) return true;
+        return (v.title + " " + v.description + " " + (v.topics||[]).join(" "))
+          .toLowerCase().includes(q);
+      });
+
+      meta.textContent = q || activeTopic !== "all"
+        ? `${filtered.length} of ${allVideos.length} episodes`
+        : `${allVideos.length} episodes`;
+
+      if (!filtered.length) {
+        grid.innerHTML = `<div class="vid-empty" style="grid-column:1/-1">
+          No episodes match <span>"${q || activeTopic}"</span> — try a different search.
+        </div>`;
+        return;
+      }
+
+      grid.innerHTML = filtered.map(v => {
+        const date  = new Date(v.publishedAt).toLocaleDateString("en-US",{month:"short",day:"numeric",year:"numeric"});
+        const ep    = v.episode ? `EP. ${v.episode}` : "";
+        const topics= (v.topics||[]).slice(0,3).map(t => `<span class="vid-topic">${t}</span>`).join("");
+        const thumb = v.thumbnail || `https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg`;
+        const title = v.title.replace(/Grimnir Digest #\d+:\s*/i, "").replace(/</g,"&lt;");
+
+        return `
+        <a class="vid-card" href="${v.url}" target="_blank" rel="noopener" data-id="${v.videoId}">
+          <div class="vid-thumb">
+            <img src="${thumb}" alt="${title}" loading="lazy" onerror="this.src='https://i.ytimg.com/vi/${v.videoId}/hqdefault.jpg'">
+            <div class="vid-play">
+              <svg viewBox="0 0 24 24" fill="white"><path d="M8 5v14l11-7z"/></svg>
+            </div>
+            ${ep ? `<span class="vid-ep-badge">${ep}</span>` : ""}
+          </div>
+          <div class="vid-body">
+            <div class="vid-title">${title}</div>
+            ${v.description ? `<div class="vid-desc">${v.description.replace(/</g,"&lt;")}</div>` : ""}
+            <div class="vid-footer">
+              <span class="vid-date">${date}</span>
+              <div class="vid-topics">${topics}</div>
+            </div>
+          </div>
+        </a>`;
+      }).join("");
+    }
+  })();
+  </script>
+</body>
+</html>
