@@ -59,7 +59,7 @@ jobs:
           fi
 
           git add cache/feed.json cache/videos.json 2>/dev/null || git add cache/
-          git commit -m "chore(cache): refresh feed + video index [skip ci]"
+          git commit -m "chore(cache): refresh feed + video index"
 
           for attempt in 1 2 3; do
             echo "Push attempt $attempt..."
