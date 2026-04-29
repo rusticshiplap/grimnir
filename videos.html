@@ -21,16 +21,6 @@
 
   <style>
     /* ── Video page overrides ── */
-    .vid-hero { text-align:center; padding: 80px 20px 40px; }
-    .vid-hero .kicker { font-family:var(--mono); font-size:.75rem; color:var(--accent); letter-spacing:.15em; margin-bottom:12px; }
-    .vid-hero h1 { font-family:var(--display); font-size:clamp(2rem,5vw,3.2rem); font-weight:700; margin:0 0 12px; }
-    .vid-hero p  { color:var(--muted); max-width:560px; margin:0 auto 28px; }
-
-    .vid-sub-bar {
-      display: flex; align-items: center; gap: 12px;
-      flex-wrap: wrap; justify-content: center;
-      margin-bottom: 32px;
-    }
     .yt-sub-btn {
       display: inline-flex; align-items: center; gap: 8px;
       background: #ff0000; color: #fff;
@@ -196,17 +186,18 @@
     </ul>
   </nav>
 
-  <div class="vid-hero">
+  <section class="hero">
+    <div class="halo"></div>
     <div class="kicker">>_ grimnir digest // video intelligence feed</div>
-    <h1>Grimnir <span style="color:var(--accent)">Digest</span></h1>
-    <p>Daily cybersecurity briefings. Five signals per episode. Every threat decoded.</p>
-    <div class="vid-sub-bar">
+    <h1 class="glitch" data-text="DIGEST">DIGEST</h1>
+    <p class="lede">Daily cybersecurity briefings. Five signals per episode. Every threat decoded.</p>
+    <div style="display:flex; gap:10px; justify-content:center; flex-wrap:wrap;">
       <a class="yt-sub-btn" href="https://www.youtube.com/channel/UCBrijOVEMVm4NI_hWTPn6qQ?sub_confirmation=1" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24"><path d="M23.5 6.2a3 3 0 0 0-2.1-2.1C19.5 3.5 12 3.5 12 3.5s-7.5 0-9.4.6A3 3 0 0 0 .5 6.2C0 8.1 0 12 0 12s0 3.9.5 5.8a3 3 0 0 0 2.1 2.1c1.9.6 9.4.6 9.4.6s7.5 0 9.4-.6a3 3 0 0 0 2.1-2.1C24 15.9 24 12 24 12s0-3.9-.5-5.8zM9.7 15.5V8.5l6.3 3.5-6.3 3.5z"/></svg>
         Subscribe on YouTube
       </a>
     </div>
-  </div>
+  </section>
 
   <main style="padding-bottom:60px">
     <div class="vid-search-wrap">
