@@ -35,6 +35,12 @@
   --danger: var(--crimson-breach);
   --warn:   var(--amber-alert);
 
+  /* shorthand aliases used across page templates */
+  --accent: var(--neon-cyan);
+  --muted:  var(--fog);
+  --card-bg:     var(--graphite);
+  --card-border: rgba(0, 229, 255, 0.12);
+
   --mono:    "JetBrains Mono", ui-monospace, SFMono-Regular, Menlo, monospace;
   --sans:    "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
   --display: "Space Grotesk", "Inter", system-ui, sans-serif;
