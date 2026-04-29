@@ -237,11 +237,21 @@
     </div>
   </main>
 
-  <footer style="text-align:center;padding:30px 20px;border-top:1px solid #1e2a35;color:#4a5568;font-size:.8rem;font-family:'JetBrains Mono',monospace;">
-    <p>© 2025 Grimnir. <a href="index.html" style="color:var(--accent)">grimnir.net</a> · <a href="privacy.html" style="color:var(--accent)">Privacy</a> · <a href="disclaimer.html" style="color:var(--accent)">Disclaimer</a></p>
+  <footer>
+    <div class="row">
+      <a href="about.html">About</a>
+      <a href="brand.html">Brand</a>
+      <a href="disclaimer.html">Disclaimer</a>
+      <a href="privacy.html">Privacy</a>
+      <a href="terms.html">Terms</a>
+      <a href="deals.html">Affiliate Disclosure</a>
+      <a href="merch.html">Merch</a>
+    </div>
+    <div>© <span id="year"></span> Grimnir. All shadows reserved. <span style="color:var(--neon-green)">//</span> not responsible for the accuracy of aggregated content.</div>
   </footer>
+  <script>document.getElementById("year").textContent = new Date().getFullYear();</script>
 
-  <script src="assets/js/main.js"></script>
+  <script src="assets/js/effects.js"></script>
   <script>
   (async () => {
     const grid       = document.getElementById("vidGrid");
