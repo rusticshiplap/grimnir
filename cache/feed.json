@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-28T20:50:24.738Z",
+  "generatedAt": "2026-04-29T00:06:33.484Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "BlueNoroff Uses Fake Zoom Calls to Turn Victims Into Attack Lures",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/bluenoroff-turns-victims-into-new-attack-lures",
+      "description": "The North Korean group is using stolen victim videos, AI-generated avatars, and fake Zoom calls to scale malware attacks against cryptocurrency executives.",
+      "pubDate": "2026-04-28T21:38:39.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0143cb21f34c0ad9/69f11ed6518c911d5067bb51/deepfake_Smile_Studio_AP_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Broken VECT 2.0 ransomware acts as a data wiper for large files",
+      "link": "https://www.bleepingcomputer.com/news/security/broken-vect-20-ransomware-acts-as-a-data-wiper-for-large-files/",
+      "description": "Researchers are warning that the VECT 2.0 ransomware has a problem in the way it handles encryption nonces that leads to permanently destroying larger files rather than encrypt them. [...]",
+      "pubDate": "2026-04-28T21:25:57.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg"
+    },
+    {
+      "title": "Hackers are exploiting a critical LiteLLM pre-auth SQLi flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-exploiting-a-critical-litellm-pre-auth-sqli-flaw/",
+      "description": "Hackers are targeting sensitive information stored in the LiteLLM open-source large-language model (LLM) gateway by exploiting a critical vulnerability tracked as CVE-2026-42208. [...]",
+      "pubDate": "2026-04-28T21:07:23.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/litellm.jpg"
+    },
+    {
+      "title": "NSA Chief During Snowden Affair Shares Regrets, Reflections 13 Years Later",
+      "link": "https://www.darkreading.com/cyber-risk/nsa-chief-during-snowden-affair-13-years-later",
+      "description": "Chris Inglis was the head civilian in charge at the NSA when the Snowden leak exploded. He gets candid about mistakes the organization made, and what CISOs need to know about spotting potential threats, media disclosures, and \"enculturation.\"",
+      "pubDate": "2026-04-28T20:38:59.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
     {
       "title": "Feuding Ransomware Groups Leak Each Other's Data",
       "link": "https://www.darkreading.com/threat-intelligence/feuding-ransomware-groups-leak-data",
@@ -395,24 +431,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/PyPI.jpg"
-    },
-    {
-      "title": "Home security giant ADT data breach affects 5.5 million people",
-      "link": "https://www.bleepingcomputer.com/news/security/home-security-giant-adt-data-breach-affects-55-million-people/",
-      "description": "The ShinyHunters extortion group stole the personal information of 5.5 million individuals after breaching the systems of home security giant ADT earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "pubDate": "2026-04-27T14:43:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/ADT-headpic.jpg"
-    },
-    {
-      "title": "Webinar: Spotting cyberattacks before they begin",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-spotting-cyberattacks-before-they-begin/",
-      "description": "On Thursday, April 30 at 2:00 PM ET, BleepingComputer will host a live webinar with threat intelligence company Flare and threat intelligence researcher Tammy Harper, exploring how security teams can identify early warning signs of attacks before they escalate into incidents. [...]",
-      "pubDate": "2026-04-27T14:25:35.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/09/29/person-working-on-computers-cybersecurity.jpg"
     },
     {
       "title": "Checkmarx Confirms GitHub Repository Data Posted on Dark Web After March 23 Attack",
@@ -881,24 +899,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Jasper-Sleet-attack-chain.webp"
-    },
-    {
-      "title": "Surge in Bomgar RMM Exploitation Demonstrates Supply Chain Risk",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/surge-bomgar-rmm-exploitation-demonstrates-supply-chain-risk",
-      "description": "The critical remote code execution flaw (CVE-2026-1731) in the remote monitoring and management tool can be exploited to spread ransomware and compromise supply chains.",
-      "pubDate": "2026-04-21T15:29:17.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45973c33b8514dc7/69e6020c564106783a09ab08/sharks_swimming_around_computer_artpartner-images.com_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Google Fixes Critical RCE Flaw in AI-Based 'Antigravity' Tool",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/google-fixes-critical-rce-flaw-ai-based-antigravity-tool",
-      "description": "The prompt-injection vulnerability in the agentic AI product for filesystem operations was a sanitization issue that allowed for sandbox escape and arbitrary code execution.",
-      "pubDate": "2026-04-21T15:00:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt603689f53740e77f/69e758abcb63e88a3d9bab05/AI(1800)_NicoElNino_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Mexican Surveillance Company",
