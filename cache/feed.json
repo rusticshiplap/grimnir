@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T15:36:20.509Z",
+  "generatedAt": "2026-05-01T22:37:26.143Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,42 @@
   ],
   "items": [
     {
+      "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
+      "description": "North Korean threat actors are pulling off historic cryptocurrency heists on a yearly, sometimes weekly basis now. AI might be helping them.",
+      "pubDate": "2026-05-01T20:34:27.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte54957ba444b76ce/69f4f5e31d1c5178ebec2907/DPRK_USD-Lightboxx-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "30,000 Facebook Accounts Hacked via Google AppSheet Phishing Campaign",
+      "link": "https://thehackernews.com/2026/05/30000-facebook-accounts-hacked-via.html",
+      "description": "A newly discovered Vietnamese-linked operation has been observed using a Google AppSheet as a \"phishing relay\" to distribute phishing emails with an aim to compromise Facebook accounts. The activity has been codenamed AccountDumpling by Guardio, with the scheme selling the stolen accounts back through an illicit storefront run by the threat actors. In all, roughly 30,000 Facebook accounts are",
+      "pubDate": "2026-05-01T18:09:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilUS_xmTpvaJtwhFTnxsBtKSx2hWroMJKWUCKeB_CNx_9-5T85bdpqGfTZ0__XITi-i6ZnndaiiiFggf3Cgf-35KK-G6sEwvnlqom2DK6U-oH_o9GhEGNyd9kiSti-QC_dpl3v7b7IniC9kAUzV265yVbVsWAnLnH1RfQxrftUHj5MFAm03MOBw3Z6UEVb/s1600/phish.jpg"
+    },
+    {
+      "title": "15-year-old detained over French govt agency data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/15-year-old-detained-over-french-govt-agency-data-breach/",
+      "description": "French authorities have detained a 15-year-old suspected of selling data stolen in a cyberattack on France Titres (ANTS), the country's agency for issuing and managing administrative documents. [...]",
+      "pubDate": "2026-05-01T17:52:06.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/21/Titres.jpg"
+    },
+    {
+      "title": "Story retracted",
+      "link": "https://www.bleepingcomputer.com/news/security/story-retracted/",
+      "description": "BleepingComputer initially published a story about a new data breach at Instructure. Shortly after publication, we determined that the information was incorrect and primarily based on outdated details from a prior incident. The article has been retracted, and we regret the error. [...]",
+      "pubDate": "2026-05-01T16:26:28.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": null
+    },
+    {
       "title": "In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability",
       "link": "https://www.securityweek.com/in-other-news-scattered-spider-hacker-arrested-soc-effectiveness-metrics-nsa-tool-vulnerability/",
       "description": "Other noteworthy stories that might have slipped under the radar: OFAC hits Iranian central bank crypto reserves, ADT data leak, CISA guidance for zero trust in OT. The post In Other News: Scattered Spider Hacker Arrested, SOC Effectiveness Metrics, NSA Tool Vulnerability appeared first on SecurityWeek.",
@@ -26,6 +62,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "Microsoft Agent 365, now generally available, expands capabilities and integrations",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/microsoft-agent-365-now-generally-available-expands-capabilities-and-integrations/",
+      "description": "​Today we’re announcing the general availability of Agent 365, plus previews of new capabilities to discover and manage shadow AI agents, including local agents like OpenClaw and Claude Code. The post Microsoft Agent 365, now generally available, expands capabilities and integrations appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-01T15:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Open-Claw-blocked-by-policy-on-MAC-1.webp"
     },
     {
       "title": "If AI's So Smart, Why Does It Keep Deleting Production Databases?",
@@ -469,24 +514,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-465.webp"
     },
     {
-      "title": "Official SAP npm packages compromised to steal credentials",
-      "link": "https://www.bleepingcomputer.com/news/security/official-sap-npm-packages-compromised-to-steal-credentials/",
-      "description": "Multiple official SAP npm packages were compromised in what is believed to be a TeamPCP supply-chain attack to steal credentials and authentication tokens from developers' systems. [...]",
-      "pubDate": "2026-04-29T22:43:44.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/02/09/SAP.jpg"
-    },
-    {
-      "title": "Popular WordPress redirect plugin hid dormant backdoor for years",
-      "link": "https://www.bleepingcomputer.com/news/security/popular-wordpress-redirect-plugin-hid-dormant-backdoor-for-years/",
-      "description": "The Quick Page/Post Redirect plugin, installed on more than 70,000 WordPress sites, had a backdoor added five years ago that allows injecting arbitrary code into users' sites. [...]",
-      "pubDate": "2026-04-29T22:13:15.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg"
-    },
-    {
       "title": "Reverse Engineering With AI Unearths High-Severity GitHub Bug",
       "link": "https://www.darkreading.com/application-security/reverse-engineering-ai-unearths-high-severity-github-bug",
       "description": "Wiz used an AI reverse-engineering tool to pinpoint a vulnerability that previously would have been too costly and time-consuming to undertake.",
@@ -739,15 +766,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/hexdex.jpeg"
     },
     {
-      "title": "Chinese Silk Typhoon Hacker Extradited to U.S. Over COVID Research Cyberattacks",
-      "link": "https://thehackernews.com/2026/04/chinese-silk-typhoon-hacker-extradited.html",
-      "description": "A Chinese national accused of being a member of the Silk Typhoon hacking group has been extradited to the U.S. from Italy. Xu Zewei, 34, was arrested in July 2025 by Italian authorities for his alleged links to the Chinese state-sponsored threat group and for orchestrating cyber attacks against American organizations and government agencies between February 2020 and June 2021, including",
-      "pubDate": "2026-04-28T07:57:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtGdvCIS6jOvz5WvlLwD34DqwHSyM4DaERfLDinlvQ4UfRqBUsjPp3o-sOVZL-gfqCHrsz53BMM3-fdFlaCLtMLshTfU9ncVM4qqkF9dzjsi9sF8XdMlbXvJSpDUSXdP_h4KN01TbwhT-10z626gUmlgrE4MlyM5lBTmZDKkB-g-xoMVgDFmM0b5sCCzQr/s1600/covid-hacker.png"
-    },
-    {
       "title": "CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/",
       "description": "",
@@ -872,15 +890,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6fceb678bad33d92/69eace49fd15051754836a22/Glasswing_Casimiro_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "AI Phishing Is No. 1 With a Bullet for Cyberattackers",
-      "link": "https://www.darkreading.com/cyber-risk/ai-phishing-no-1-cyberattackers",
-      "description": "In the past six months, companies have seen a significant influx of AI-powered phishing, as cyberattackers progress from small campaigns to 1-to-1 personalized attacks.",
-      "pubDate": "2026-04-24T13:30:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6da71c7236b44e30/694ae29f19b0239070b0480f/AI_brain_sleepyellow_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Hiding Bluetooth Trackers in Mail",
@@ -1106,15 +1115,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/04_Vulnerabilities_1920x900.jpg"
-    },
-    {
-      "title": "Building your cryptographic inventory: A customer strategy for cryptographic posture management",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/16/building-your-cryptographic-inventory-a-customer-strategy-for-cryptographic-posture-management/",
-      "description": "Learn how to build a comprehensive cryptographic inventory and strengthen quantum‑safe readiness using Microsoft Security tools, best‑practice lifecycle models, and partner solutions. The post Building your cryptographic inventory: A customer strategy for cryptographic posture management appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-16T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/d5cb2c86-f759-48f8-b39b-e3f1e2aa4e49.webp"
     },
     {
       "title": "Sometimes changing the password on your email mailbox isn’t enough",
