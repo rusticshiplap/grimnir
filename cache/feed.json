@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-01T22:37:26.143Z",
+  "generatedAt": "2026-05-02T10:07:41.461Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,60 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Trellix Confirms Source Code Breach With Unauthorized Repository Access",
+      "link": "https://thehackernews.com/2026/05/trellix-confirms-source-code-breach.html",
+      "description": "Cybersecurity company Trellix has announced that it suffered a breach that enabled unauthorized access to a \"portion\" of its source code. It said it \"recently identified\" the compromise of its source code repository and that it began working with \"leading forensic experts\" to resolve the matter immediately. It also said it has notified law enforcement of the matter. Trellix did not disclose the",
+      "pubDate": "2026-05-02T06:41:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgJ47NY9D4DSEZHqBNSGTjpmSJqwYVOzlIKGoG-0LTxSdIIDrMtyV2tOqRYcc-4kpxkE1UZ6nJhK4eXCGEsEmG6UcQeHn_YjAhRWXIAxo5yC75eUmLv3w5rur6SN6Qoee65gve-LgM0_3YGnAzQwTrQMTeTShRe_leh8_ImIlzU-Sgfy2kRqTcx5V-yG-3M/s1600/breach.jpg"
+    },
+    {
+      "title": "CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/01/cve-2026-31431-copy-fail-vulnerability-enables-linux-root-privilege-escalation/",
+      "description": "A high-severity Linux vulnerability, “Copy Fail” (CVE-2026-31431), enables root privilege escalation across cloud environments and Kubernetes workloads. With a working exploit already in the wild, organizations should act quickly to detect, mitigate, and reduce risk. The post CVE-2026-31431: Copy Fail vulnerability enables Linux root privilege escalation across cloud environments appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-02T03:06:08.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-11.webp"
+    },
+    {
+      "title": "Microsoft tests modern Windows Run, says it's faster than legacy dialog",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-tests-modern-windows-run-says-its-faster-than-legacy-dialog/",
+      "description": "Microsoft has confirmed that Windows 11 is getting a new modern Run dialog with dark mode support and faster performance in a new preview build. [...]",
+      "pubDate": "2026-05-02T00:18:05.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows-11.jpg"
+    },
+    {
+      "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1)",
+      "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
+      "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated May 1) appeared first on Unit 42.",
+      "pubDate": "2026-05-02T00:10:33.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg"
+    },
+    {
+      "title": "Edu tech firm Instructure discloses cyber incident, probes impact",
+      "link": "https://www.bleepingcomputer.com/news/security/edu-tech-firm-instructure-discloses-cyber-incident-probes-impact/",
+      "description": "Instructure, the company behind the widely used Canvas learning platform, has disclosed that it recently suffered a cybersecurity incident and is now investigating its impact. [...]",
+      "pubDate": "2026-05-01T23:43:35.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/01/instructure-header2.jpg"
+    },
+    {
+      "title": "Essential Data Sources for Detection Beyond the Endpoint",
+      "link": "https://unit42.paloaltonetworks.com/detection-beyond-the-endpoint/",
+      "description": "Unit 42 highlights the need for a comprehensive security strategy that spans every IT zone. Explore the full details here. The post Essential Data Sources for Detection Beyond the Endpoint appeared first on Unit 42.",
+      "pubDate": "2026-05-01T23:00:13.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/13_Cloud_cybersecurity_research_Overview_1920x900.jpg"
+    },
     {
       "title": "76% of All Crypto Stolen in 2026 Is Now in North Korea",
       "link": "https://www.darkreading.com/cybersecurity-analytics/crypto-stolen-2026-north-korea",
@@ -262,6 +316,15 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
     },
     {
+      "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
+      "link": "https://www.crowdstrike.com/en-us/blog/tune-in-future-of-ai-powered-vulnerability-discovery/",
+      "description": "",
+      "pubDate": "2026-05-01T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "That AI Extension Helping You Write Emails? It’s Reading Them First",
       "link": "https://unit42.paloaltonetworks.com/high-risk-gen-ai-browser-extensions/",
       "description": "Unit 42 uncovers high-risk AI browser extensions. Disguised as productivity tools, they steal data, intercept prompts, and exfiltrate passwords. Protect your browser. The post That AI Extension Helping You Write Emails? It’s Reading Them First appeared first on Unit 42.",
@@ -424,15 +487,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnv1KtLLlZSnm9a16bN-o_szrBiAIN_QljTfe09K4RzFxSqhFADtuXmRzOPZ_Poazif-VadFAnRnboCWX5yZtc5JntGopn5Fy6T1X2BexXelFOxYtEA7qULoTCkAMwEybLf42JJ_yGjSPf_T-tjYvbqxscVgZ6OyL65yKcTjC0KQL48pgYLZUmLjxfBBhd/s1600/malware-data.jpg"
     },
     {
-      "title": "Critical cPanel and WHM bug exploited as a zero-day, PoC now available",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-cpanel-and-whm-bug-exploited-as-a-zero-day-poc-now-available/",
-      "description": "The critical CVE-2026-41940 authentication bypass vulnerability in cPanel, WHM, and WP Squared is being actively exploited in the wild and has been leveraged in attempts since late February. [...]",
-      "pubDate": "2026-04-30T11:40:31.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/30/cPanel.jpg"
-    },
-    {
       "title": "EtherRAT Distribution Spoofing Administrative Tools via GitHub Facades",
       "link": "https://thehackernews.com/2026/04/etherrat-distribution-spoofing.html",
       "description": "Intro A sophisticated, high-resilience malicious campaign was identified by Atos Threat Research Center (TRC) in March 2026. This operation specifically targets the high-privilege professional accounts of enterprise administrators, DevOps engineers, and security analysts by impersonating administrative utilities they rely on for daily operations. By integrating Search Engine Order (SEO)",
@@ -440,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8d19xBfapc_ToA1XOK4xdQ815tfHldoYH0Cy7zsTwOoWlFNQDdubeXMv4Udo6DaFXWJK3lG4meqdmtLAuaCMfa7R1KM_EfiGE5cZItYx6NdnqjB-R_6neMFv5iIG6SjUDkRUUiZg_j7oOaueXGZb4M-K7EmJM3MCjSvgxfok9gTFNd9Qwdf-AKu_DsP4/s1600/github-2.jpg"
-    },
-    {
-      "title": "Police dismantles 9 crypto scam centers, arrests 276 suspects",
-      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-9-crypto-investment-scam-centers-arrests-276-suspects/",
-      "description": "A joint international operation involving U.S. and Chinese authorities arrested at least 276 suspects and shut down nine cryptocurrency investment fraud centers. [...]",
-      "pubDate": "2026-04-30T11:21:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/30/Hacker_arrest.jpg"
     },
     {
       "title": "Fast16 Malware",
@@ -748,15 +793,6 @@
       "image": null
     },
     {
-      "title": "After Mythos: New Playbooks For a Zero-Window Era",
-      "link": "https://thehackernews.com/2026/04/after-mythos-new-playbooks-for-zero.html",
-      "description": "When patching isn’t fast enough, NDR helps contain the next era of threats. If you’ve been tracking advancements in AI, you know the exploit window, the short buffer that organizations relied on to patch and protect after a vulnerability disclosure, is closing fast. Anthropic’s new model, Claude Mythos, and its Project Glasswing, showed that finding exploitable vulnerabilities and subtle cracks",
-      "pubDate": "2026-04-28T10:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjzc6SWl21t5zRKK4OvMIg-ZtrnsRwKm8E3dglWBxBpyC_vXdsbGazi1uRcQagObPghUhK33RtvJOFEZ5-W7jCVBV36HOC-iepqOkjgHuvAHkmeoKRvMw-IJ7Cq8KUV5iBwVg-1yLJ7XmTGLab6a4ECZ11eGP8lCOLORbJcng1onSTv_L2aDYHSVmNCMjw/s1600/corelight.jpg"
-    },
-    {
       "title": "French police arrest 21-year-old “HexDex” hacker over 100 alleged data breaches",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/french-police-arrest-hexdex-hacker",
       "description": "A 21-year-old man suspected of conducting approximately 100 data breaches since late 2025 - including a hack of the French Ministry of National Education that exposed records on almost a quarter of a million employees - has been arrested at his home in western France. Read more in my article on the Hot for Security blog.",
@@ -845,15 +881,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt699701584743837c/64f17958cc9d3b15583a72fd/scam_keyboard_Chih-Chung_Johnny_Chang_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "The npm Threat Landscape: Attack Surface and Mitigations",
-      "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
-      "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations appeared first on Unit 42.",
-      "pubDate": "2026-04-24T21:40:33.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg"
     },
     {
       "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
@@ -1081,15 +1108,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/12_Security-Technology_Category_1920x900.jpg"
     },
     {
-      "title": "Containing a domain compromise: How predictive shielding shut down lateral movement",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/17/domain-compromise-predictive-shielding-shut-down-lateral-movement/",
-      "description": "Domain compromise accelerates fast. Predictive shielding slowed it down. This real-world attack shows how exposure-based containment stopped credential abuse and broke the threat actor's momentum. The post Containing a domain compromise: How predictive shielding shut down lateral movement appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-17T14:51:01.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/image-30.webp"
-    },
-    {
       "title": "Singer loses life savings to fake wallet downloaded from the Apple App Store",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/singer-loses-life-savings-fake-wallet",
       "description": "If you hold cryptocurrency, there's a very simple golden rule that you should always follow. Never hand over your seed phrase. Garrett Dutton, better known as G. Love - the front man of blues-hip-hop outfit G. Love & Special Sauce - has learnt that lesson the hard way. Read more in my article on the Hot for Security blog.",
@@ -1160,15 +1178,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "April 2026 Patch Tuesday: Two Zero-Days and Eight Critical Vulnerabilities Among 164 CVEs",
-      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-april-2026/",
-      "description": "",
-      "pubDate": "2026-04-14T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "AI and cryptocurrency scams are costing Americans billions, FBI reports",
@@ -1277,15 +1286,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/redline.jpeg"
-    },
-    {
-      "title": "Weaponizing the Protectors: TeamPCP’s Multi-Stage Supply Chain Attack on Security Infrastructure",
-      "link": "https://unit42.paloaltonetworks.com/teampcp-supply-chain-attacks/",
-      "description": "TeamPCP continues its string of supply chain attacks, and announces a partnership with Vect ransomware group. The post Weaponizing the Protectors: TeamPCP’s Multi-Stage Supply Chain Attack on Security Infrastructure appeared first on Unit 42.",
-      "pubDate": "2026-03-31T21:00:39.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/03/03_Cybercrime_Category_1920x900.jpg"
     },
     {
       "title": "Iranian hackers breach FBI director’s personal email, and post his CV and photos online",
