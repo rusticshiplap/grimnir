@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-03T17:31:48.486Z",
+  "generatedAt": "2026-05-03T20:06:05.670Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A!dha",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-defender-wrongly-flags-digicert-certs-as-trojan-win32-cerdigentadha/",
+      "description": "Microsoft Defender is detecting legitimate DigiCert root certificates as Trojan:Win32/Cerdigent.A!dha, resulting in widespread false-positive alerts, and in some cases, removing certificates from Windows. [...]",
+      "pubDate": "2026-05-03T18:11:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/26/microsoft-red-header.jpg"
+    },
     {
       "title": "US Military Reaches Deals With 7 Tech Companies to Use Their AI on Classified Systems",
       "link": "https://www.securityweek.com/us-military-reaches-deals-with-7-tech-companies-to-use-their-ai-on-classified-systems/",
@@ -431,15 +440,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/30/SWAT-headpic.jpg"
-    },
-    {
-      "title": "FBI links cybercriminals to sharp surge in cargo theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-links-cybercriminals-to-sharp-surge-in-cargo-theft-attacks/",
-      "description": "The U.S. Federal Bureau of Investigation (FBI) warned the transportation and logistics industry of a sharp rise in cyber-enabled cargo theft, with estimated losses in the United States and Canada reaching nearly $725 million in 2025. [...]",
-      "pubDate": "2026-04-30T16:32:18.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/30/cyber-trucks.jpg"
     },
     {
       "title": "PyTorch Lightning and Intercom-client Hit in Supply Chain Attacks to Steal Credentials",
