@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T10:54:24.933Z",
+  "generatedAt": "2026-05-08T20:16:27.127Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,141 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
+      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
+      "description": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick, which is known to leverage a worm called SORVEPOTEL to spread via",
+      "pubDate": "2026-05-08T18:12:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
+    },
+    {
+      "title": "Insider Betting on Polymarket",
+      "link": "https://www.schneier.com/blog/archives/2026/05/insider-betting-on-polymarket.html",
+      "description": "Insider trading is rife on Polymarket: Analysis by the Anti-Corruption Data Collective, a non-profit research and advocacy group, found that long-shot bets—­defined as wagers of $2,500 or more at odds of 35 percent or less—­on the platform had an average win rate of around 52 percent in markets on military and defense actions. That compares with a win rate of 25 percent across all politics-focused markets and just 14 percent for all markets on the platform as a whole. It is absolutely insane that this is legal. We already know how insider betting warps sports. Insider betting warping politics—",
+      "pubDate": "2026-05-08T17:49:01.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
+      "description": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring related activity and provides detection coverage for exploitation attempts. The post Active attack: Dirty Frag Linux vulnerability expands post-compromise risk appeared first on Mi",
+      "pubDate": "2026-05-08T17:12:46.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Rapid-response.jpg"
+    },
+    {
+      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
+      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
+      "description": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
+      "pubDate": "2026-05-08T16:18:31.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/08/NVIDIA.jpg"
+    },
+    {
+      "title": "One in eight UK workers has sold their company passwords, and bosses think it’s fine",
+      "link": "https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine",
+      "description": "One in eight UK workers admits to selling their company login credentials - or knowing someone who has - in the past 12 months. The really alarming bit? Their bosses are even more relaxed about it. Read more in my article on the Fortra blog.",
+      "pubDate": "2026-05-08T15:20:45.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Fake Call History Apps Stole Payments From Users After 7.3 Million Play Store Downloads",
+      "link": "https://thehackernews.com/2026/05/fake-call-history-apps-stole-payments.html",
+      "description": "Cybersecurity researchers have discovered fraudulent apps on the official Google Play Store for Android that falsely claimed to offer access to call histories for any phone number, only to trick users into joining a subscription that provided fake data and incurred financial loss. The 28 apps have collectively racked up more than 7.3 million downloads, with one of them alone accounting for over",
+      "pubDate": "2026-05-08T15:08:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBMXgW6K0BZvt0-jhZ_smX3Uy-nsd9wb9g7Gs7d3G7uH-HIlEcNhEt9xpaKD_62iJol_LK5Expt-6qCuvIf7llqtQclB64I9zZm_i8CIC0lMJiIz8nx6r4C-Nj4cUgd3cQEtu3_lGFa7wcmR6q9otQhCLoB1Mbnmn7NgH6-djLs_ScqanZFNC-EVOwYyO7/s1600/android-calls.jpg"
+    },
+    {
+      "title": "Inside Department 4: Russia’s secret school for hackers",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers",
+      "description": "Most universities have a careers fair. At Bauman Moscow State Technical University, however, an elite group of students appear to have something rather more unusual: a direct pipeline into some of the world's most notorious state-sponsored hacking groups. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-05-08T14:36:50.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/department-4.jpeg"
+    },
+    {
+      "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
+      "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
+      "description": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry. The post In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner appeared first on SecurityWeek.",
+      "pubDate": "2026-05-08T14:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
+      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
+      "description": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
+      "pubDate": "2026-05-08T14:02:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/05/08/prophet-agentic-ai-robots.jpg"
+    },
+    {
+      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
+      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
+      "description": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
+      "pubDate": "2026-05-08T14:01:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
+    },
+    {
+      "title": "Trellix source code breach claimed by RansomHouse hackers",
+      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
+      "description": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
+      "pubDate": "2026-05-08T13:23:23.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/08/TrellixRansomHouse.jpg"
+    },
+    {
+      "title": "CISA gives feds four days to patch Ivanti flaw exploited as zero-day",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-four-days-to-patch-ivanti-flaw-exploited-as-zero-day/",
+      "description": "CISA has given U.S. federal agencies four days to secure their networks against a high-severity vulnerability in Ivanti Endpoint Manager Mobile (EPMM) exploited in zero-day attacks. [...]",
+      "pubDate": "2026-05-08T12:16:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti.jpg"
+    },
+    {
+      "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
+      "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
+      "description": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply. The post Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants appeared first on SecurityWeek.",
+      "pubDate": "2026-05-08T11:46:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Water-Cyberattacks.jpg"
+    },
+    {
+      "title": "AI Firm Braintrust Prompts API Key Rotation After Data Breach",
+      "link": "https://www.securityweek.com/ai-firm-braintrust-prompts-api-key-rotation-after-data-breach/",
+      "description": "Hackers accessed one of the company’s AWS accounts and compromised AI provider secrets stored in Braintrust. The post AI Firm Braintrust Prompts API Key Rotation After Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-05-08T11:14:01.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/11/AI_Risks.jpg"
+    },
+    {
+      "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
+      "link": "https://thehackernews.com/2026/05/quasar-linux-rat-steals-developer.html",
+      "description": "A previously undocumented Linux implant codenamed Quasar Linux RAT (QLNX) is targeting developers' systems to establish a silent foothold as well as facilitate a broad range of post-compromise functionality, such as credential harvesting, keylogging, file manipulation, clipboard monitoring, and network tunneling. \"QLNX targets developers and DevOps credentials across the software supply chain,\"",
+      "pubDate": "2026-05-08T11:00:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiholjenZRIykmReErkRiguk5xd9RV4BIEEPM0nT-o3LvMvDkCTLpd3G0NpqDGEFHp-f6QyvGRMip6CBhGlllYVlp9wS3XBVoV6xW47CDka7Ig8S_aotcuNlmAv3SYgS4hJzxjLp2nrV4SzqlTXnQLG_w68Cq0Bf5hiOoV6CaN9QZliRDa-StzsvIkJAdSF/s1600/kube.jpg"
+    },
     {
       "title": "Cyberattack Hits Canvas System Used by Thousands of Schools as Finals Loom",
       "link": "https://www.securityweek.com/cyberattack-hits-canvas-system-used-by-thousands-of-schools-as-finals-loom/",
@@ -93,7 +228,7 @@
     {
       "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
       "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "description": "A new Linux zero-day vulnerability, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
+      "description": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
       "pubDate": "2026-05-08T07:45:24.000Z",
       "source": "Bleeping Computer",
       "category": "news",
@@ -244,33 +379,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
     },
     {
-      "title": "Boost Security Raises $4 Million for SDLC Defense Platform",
-      "link": "https://www.securityweek.com/boost-security-raises-4-million-for-sdlc-defense-platform/",
-      "description": "The company is expanding its platform’s capabilities with the acquisition of SecureIQx and Korbit.ai. The post Boost Security Raises $4 Million for SDLC Defense Platform appeared first on SecurityWeek.",
-      "pubDate": "2026-05-07T14:51:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
-    },
-    {
-      "title": "Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking",
-      "link": "https://www.securityweek.com/claude-code-oauth-tokens-can-be-stolen-through-stealthy-mcp-hijacking/",
-      "description": "Mitiga researchers say attackers can silently redirect Claude Code MCP traffic, intercept OAuth tokens, and maintain persistent access to connected SaaS platforms. The post Claude Code OAuth Tokens Can Be Stolen Through Stealthy MCP Hijacking appeared first on SecurityWeek.",
-      "pubDate": "2026-05-07T14:33:06.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Claude-AI.jpeg"
-    },
-    {
-      "title": "Chrome 148 Rolls Out With 127 Security Fixes",
-      "link": "https://www.securityweek.com/chrome-148-rolls-out-with-127-security-fixes/",
-      "description": "The fresh browser update resolves critical-severity integer overflow and use-after-free vulnerabilities. The post Chrome 148 Rolls Out With 127 Security Fixes appeared first on SecurityWeek.",
-      "pubDate": "2026-05-07T14:10:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg"
-    },
-    {
       "title": "The Browser Is Breaking Your DLP: How Data Slips Past Modern Controls",
       "link": "https://www.bleepingcomputer.com/news/security/the-browser-is-breaking-your-dlp-how-data-slips-past-modern-controls/",
       "description": "Your security controls aren't failing, they're missing where most of today's work actually happens. Keep Aware shows how browser activity like copy/paste and AI prompts bypass traditional protections. [...]",
@@ -278,15 +386,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/posts/2026/05/05/dlp-header.jpg"
-    },
-    {
-      "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
-      "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
-      "description": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
-      "pubDate": "2026-05-07T13:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
     },
     {
       "title": "Americans sentenced for running 'laptop farms' for North Korea",
@@ -307,6 +406,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
     },
     {
+      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
       "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
       "description": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
@@ -316,15 +424,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "World's First AI-Driven Cyberattack Couldn't Breach OT Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "pubDate": "2026-05-07T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
       "link": "https://www.bleepingcomputer.com/news/security/crypto-gang-member-gets-65-years-for-role-in-230-million-heist/",
       "description": "A 20-year-old California man was sentenced to 78 months in prison for serving as a home invader and money launderer in a criminal ring that stole over $250 million in cryptocurrency. [...]",
@@ -332,15 +431,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Cryptocurrency-bitcoin.jpg"
-    },
-    {
-      "title": "Webinar: Why modern attacks require both security and recovery",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-why-modern-attacks-require-both-security-and-recovery/",
-      "description": "Modern attacks don't stop at initial compromise. This webinar explores why security and recovery must work together to reduce downtime and improve resilience. [...]",
-      "pubDate": "2026-05-07T12:00:08.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2020/10/12/cyber-shield.jpg"
     },
     {
       "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
@@ -361,15 +451,6 @@
       "image": null
     },
     {
-      "title": "Palo Alto Networks firewall zero-day exploited for nearly a month",
-      "link": "https://www.bleepingcomputer.com/news/security/pan-os-firewall-rce-zero-day-exploited-in-attacks-since-april-9/",
-      "description": "Palo Alto Networks warned customers that suspected state-sponsored hackers have been exploiting a critical-severity PAN-OS firewall zero-day vulnerability for nearly a month. [...]",
-      "pubDate": "2026-05-07T10:57:59.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/11/08/Palo-Alto-Networks.jpg"
-    },
-    {
       "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
       "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
       "description": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do. That distinction matters far more than many organizations realize. In the first hours of a security incident",
@@ -377,15 +458,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
-    },
-    {
-      "title": "Fake Claude AI website delivers new 'Beagle' Windows malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-claude-ai-website-delivers-new-beagle-windows-malware/",
-      "description": "A fake version for the Claude AI website offers a malicious Claude-Pro Relay download that pushes a previously undocumented backdoor for Windows named Beagle. [...]",
-      "pubDate": "2026-05-07T10:02:35.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/ClaudeAI.png"
     },
     {
       "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
@@ -424,18 +496,9 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-466.webp"
     },
     {
-      "title": "Hackers abuse Google ads for GoDaddy ManageWP login phishing",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-for-godaddy-managewp-login-phishing/",
-      "description": "A phishing campaign delivered through Google sponsored search results is targeting credentials for ManageWP, GoDaddy's platform for managing fleets of WordPress websites. [...]",
-      "pubDate": "2026-05-06T21:36:06.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/06/ManageWP.jpg"
-    },
-    {
-      "title": "Yet Another Way to Bypass Google Chrome's Encryption Protection",
+      "title": "VoidStealer Malware Darts Past Google Chrome's Encryption",
       "link": "https://www.darkreading.com/endpoint-security/yet-another-way-bypass-google-chromes-encryption-protection",
-      "description": "Authors of the VoidStealer Trojan uncovered a way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
+      "description": "Authors of the VoidStealer Trojan uncovered yet another way to get around Google's App-Bound Encryption (ABE), opening the door to infostealers.",
       "pubDate": "2026-05-06T21:19:11.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -676,15 +739,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "MetInfo CMS CVE-2026-29014 Exploited for Remote Code Execution Attacks",
-      "link": "https://thehackernews.com/2026/05/metinfo-cms-cve-2026-29014-exploited.html",
-      "description": "Threat actors are actively exploiting a critical security flaw impacting an open-source content management system (CMS) known as MetInfo, according to new findings from VulnCheck. The vulnerability in question is CVE-2026-29014 (CVSS score: 9.8), a code injection flaw that could result in arbitrary code execution. \"MetInfo CMS versions 7.9, 8.0, and 8.1 contain an unauthenticated PHP code",
-      "pubDate": "2026-05-05T11:56:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg6SZcQRIb_0i7jqHu2mcl7Ep1hX2C3rwLWwJmBwPHTPE2PvaP9KOHcMkvGAWxLeBFWxmfpW6IXwJqIsxHJvs2nIDc2ASwRwuXNlWFZRtatpMoksz5BRKmCVNSs4BxsrFX0_CGqlHZv_6VNWx6u1wD8dydja_fvpnRLezr_CBLyX-Lj6a2i4wRKxZnGFRen/s1600/phph.jpg"
-    },
-    {
       "title": "DarkSword Malware",
       "link": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
       "description": "DarkSword is a sophisticated piece of malware—probably government designed—that targets iOS. Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against targets in Saudi Arab",
@@ -692,24 +746,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "We Scanned 1 Million Exposed AI Services. Here's How Bad the Security Actually Is",
-      "link": "https://thehackernews.com/2026/05/we-scanned-1-million-exposed-ai.html",
-      "description": "While the software industry has made genuine strides over the past few decades to deliver products securely, the furious pace of AI adoption is putting that progress at risk. Businesses are moving fast to self-host LLM infrastructure, drawn by the promise of AI as a force multiplier and the pressure to deliver more value faster. But speed is coming at the expense of security. In the wake of the",
-      "pubDate": "2026-05-05T10:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJcSH4TD_VT_40WBni-IecCy9etWtsaPKvEXzvqJrDVNl0rTIg_XXWSygEBXAIP7y4saSzakCzASpQL6vtRnHRHULD71drQ3gr-y9PpzOeeQ4JzkDGorQe26Iy7zCRp0tyc_h8EYpJYEMkYjlophh6fnhGnb0ZnRqmier4jB4nMXO2A_4j2duMoSQGKbo/s1600/intruder.jpg"
-    },
-    {
-      "title": "ScarCruft Hacks Gaming Platform to Deploy BirdCall Malware on Android and Windows",
-      "link": "https://thehackernews.com/2026/05/scarcruft-hacks-gaming-platform-to.html",
-      "description": "The North Korea-aligned state-sponsored hacking group known as ScarCruft has compromised a video game platform in a supply chain espionage attack, trojanizing its components with a backdoor called BirdCallto likely target ethnic Koreans residing in China. While prior versions of the backdoor have primarily targeted Windows users only, the supply chain attack is assessed to have enabled the",
-      "pubDate": "2026-05-05T09:07:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg-UMvuxvPI2rmCsc57tI37aod9slTjeUUo0b7InSRMTwGg3UGwzu04cKgA6DE92m455noFtcxdsXfhhDlsc2CTWg8Un_DXBCEduVeDluA81mLc7YtMGBwiuVRjSmzCVXZ2jgrbb7CKnCpVZDJJLjjW5Wj6nrjpJ6B_eV7LeaK0TLGcP_wYm1P8hUjQAnsF/s1600/gear.jpg"
     },
     {
       "title": "CrowdStrike Launches Falcon OverWatch for Defender",
@@ -973,15 +1009,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-465.webp"
     },
     {
-      "title": "8 best practices for CISOs conducting risk reviews",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/29/8-best-practices-for-cisos-conducting-risk-reviews/",
-      "description": "Embracing strong proactive security is something we can all do to mitigate our increased exposure to security threats. The post 8 best practices for CISOs conducting risk reviews appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-29T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/dCISO_Mariani.jpg"
-    },
-    {
       "title": "Alleged Silk Typhoon hacker extradited to the United States to face charges",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/silk-typhoon-hacker-extradited-united-states",
       "description": "A man accused of working as a hacker for China's Ministry of State Security has been extradited to the USA from Italy, and faces - if found guilty - the prospect of decades behind bars. Read more in my article on the Hot for Security blog.",
@@ -1052,15 +1079,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Friday Squid Blogging: How Squid Survived Extinction Events",
-      "link": "https://www.schneier.com/blog/archives/2026/04/friday-squid-blogging-how-squid-survived-extinction-events.html",
-      "description": "Science news: Scientists have finally cracked a long-standing mystery about squid and cuttlefish evolution by analyzing newly sequenced genomes alongside global datasets. The research reveals that these bizarre, intelligent creatures likely originated deep in the ocean over 100 million years ago, surviving mass extinction events by retreating into oxygen-rich deep-sea refuges. For millions of years, their evolution barely changed—until a dramatic post-extinction boom sparked rapid diversification as they moved into new shallow-water habitats. As usual, you can also use this squid post to talk ",
-      "pubDate": "2026-04-24T21:03:23.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "TGR-STA-1030: New Activity in Central and South America",
@@ -1324,15 +1342,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/redline.jpeg"
     },
     {
-      "title": "Iranian hackers breach FBI director’s personal email, and post his CV and photos online",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iranian-hackers-breach-fbi-directors-personal-email-post-cv-and-photos-online",
-      "description": "It's not every day that you read that the head of America's top law enforcement agency has been hacked, but then - these aren't ordinary times. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-03-31T07:37:52.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/03/kash-patel.jpeg"
-    },
-    {
       "title": "Weekly Update 497",
       "link": "https://www.troyhunt.com/weekly-update-497/",
       "description": "Day by day, I find we're eeking more goodness out of OpenClaw and finding the sweet spot between what the humans do well and the agent can run off and do on its own. Significantly, we're shifting more and more of the workload to the latter",
@@ -1349,15 +1358,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/03/IMG_4769.jpg"
-    },
-    {
-      "title": "World Leaks data extortion: What you need to know",
-      "link": "https://www.fortra.com/blog/world-leaks-data-extortion-what-you-need-know",
-      "description": "World Leaks is a cyber extortion operation that steals sensitive data from organizations and threatens to leak it via the dark web if a ransom is not paid. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-03-26T18:57:03.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Weekly Update 496",
@@ -1519,7 +1519,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
