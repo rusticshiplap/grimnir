@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-08T20:16:27.127Z",
+  "generatedAt": "2026-05-09T10:38:36.369Z",
   "count": 225,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
+      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
+      "description": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
+      "pubDate": "2026-05-09T07:16:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
+    },
+    {
+      "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
+      "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
+      "description": "Evidence of them has been found by analyzing DNA in the seawater. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-05-08T21:03:28.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "ShinyHunters Claims Second Attack Against Instructure",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/shinyhunters-second-attack-instructure",
+      "description": "The edtech company is struggling to wrest control from its hackers. PII belonging to hundreds of millions of people is on the line.",
+      "pubDate": "2026-05-08T20:08:06.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bbbe83a6784235d/69fe32ca50b7f73288ba7eeb/Instructure-Kristoffer_Tripplaar-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
     {
       "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
       "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
@@ -39,11 +66,11 @@
     {
       "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-      "description": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring related activity and provides detection coverage for exploitation attempts. The post Active attack: Dirty Frag Linux vulnerability expands post-compromise risk appeared first on Mi",
+      "description": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts. The post Active attack: Dirty Frag Linux vulnerability expands post-compromise risk appeared",
       "pubDate": "2026-05-08T17:12:46.000Z",
       "source": "Microsoft Security",
       "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/MS_Actional-Insights_Rapid-response.jpg"
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-55.webp"
     },
     {
       "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
@@ -406,15 +433,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
     },
     {
-      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "pubDate": "2026-05-07T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
       "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
       "description": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
@@ -422,6 +440,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Crypto gang member gets 6.5 years for role in $230 million heist",
@@ -721,15 +748,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcz8_PjYKknoot4F_PnjDZ7F1HhyphenhyphenIATFohYVF1OQYLSUFwiOPknnFF3ShgQKtKtfOEUbwUcfB-xhQAbi3dBsUvKki_ooKqYmQR3KfzcC1U443sR89JlLu5oPDJcEz9GXfEo5GwtMNj8s7HGg5-qsaR0sqqkSOUBsNFcqrz9NPDPyU6lQNl2RRtADTFzK0f/s1600/chinese-hackers-2.jpg"
     },
     {
-      "title": "The Back Door Attackers Know About — and Most Security Teams Still Haven’t Closed",
-      "link": "https://thehackernews.com/2026/05/the-back-door-attackers-know-about-and.html",
-      "description": "Every AI tool, workflow automation, and productivity app your employees connected to Google or Microsoft this year left something behind: a persistent OAuth token with no expiration date, no automatic cleanup, and in most organizations, no one watching it. Your perimeter controls don't see it. Your MFA doesn't stop it. And when an attacker gets hold of one, they don't need a password. OAuth",
-      "pubDate": "2026-05-05T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMhaEkMCxALglRWDFwTHVYgZ0KrRmAuzdwfh0zbL5Ml163rakQSv8yRVQ8yTQ4xIAtcwdqvGyVXeZXgXGNYKoyStckJv2xzjH3f1O7oICND5cWbnIBGYkSVJbpDRYHH9XqNfFQNk1qWIVwd43UuJv2vozhpndzCMS789h026IKgX1t7pgp01AtI6i9wKE/s1600/material.jpg"
-    },
-    {
       "title": "How the Story of a USB Penetration Test Went Viral",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/how-story-usb-penetration-test-went-viral",
       "description": "Two decades ago, pen tester Steve Stasiukonis caused a sensation by sprinkling rigged thumb drives around a credit union parking lot and following what curious employees did next. This episode looks back at the history-making event.",
@@ -946,15 +964,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66addf126723d9f7/69f3b58b50f92923bac9ec22/sandworms_Nature_Picture_Library_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Another AI-Assisted Software Scan Yields 9-Year-Old Linux Bug",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-assisted-software-scan-linux-bug",
-      "description": "The proof-of-concept exploit code runs only 10 lines long, but luckily, a patch is already available.",
-      "pubDate": "2026-04-30T20:41:18.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fa0185a79d14223/69f3a155cd45aa40c4f50b2e/Penguin_sign-Gareth_McCormack-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "What’s new, updated, or recently released in Microsoft Security",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
       "description": "Stay ahead of emerging threats with Microsoft’s newest security innovations and updates, delivered through the In the Loop series. The post What’s new, updated, or recently released in Microsoft Security appeared first on Microsoft Security Blog.",
@@ -1061,15 +1070,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/Splash-Template-1.jpg"
-    },
-    {
-      "title": "Medieval Encrypted Letter Decoded",
-      "link": "https://www.schneier.com/blog/archives/2026/04/medieval-encrypted-letter-decoded.html",
-      "description": "Sent by a Spanish diplomat. Apparently people have been working on it since it was rediscovered in 1860.",
-      "pubDate": "2026-04-27T11:04:41.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "CrowdStrike Named a Leader in Frost &amp; Sullivan 2026 Radar for Cloud-Native Application Protection Platforms",
