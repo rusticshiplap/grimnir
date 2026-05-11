@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-11T12:25:40.851Z",
-  "count": 225,
+  "generatedAt": "2026-05-11T19:16:33.931Z",
+  "count": 205,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -18,6 +18,123 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
+      "description": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend. As of writing, Checkmarx has released",
+      "pubDate": "2026-05-11T18:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiq0A3_8O89uC968dpFnFxE4v3J4fpr5nEqC-2QiSJ_rtZlgPocPYIaowCvCMeONhcrFiaoSdBVeNsuTa2ipAZZ3HBMUDcfO8DZ06pughteYJItHhMLeBr_jnfLL-5WX6xBE_EjIfPDGjCYyDCa6aImjimPNl7FtM1evdnTUVEk54x9pczRaFlmEZy1Cv8B/s1600/Jenkins.jpg"
+    },
+    {
+      "title": "cPanel CVE-2026-41940 Under Active Exploitation to Deploy Filemanager Backdoor",
+      "link": "https://thehackernews.com/2026/05/cpanel-cve-2026-41940-under-active.html",
+      "description": "A threat actor named Mr_Rot13 has been attributed to the exploitation of a recently disclosed critical cPanel flaw to deploy a backdoor codenamed Filemanager on compromised environments. The attack exploits CVE-2026-41940, a vulnerability impacting cPanel and WebHost Manager (WHM) that could result in an authentication bypass and allow remote attackers to gain elevated control of the control",
+      "pubDate": "2026-05-11T17:54:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg"
+    },
+    {
+      "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
+      "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
+      "description": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security. The post Frame Security Emerges From Stealth With $50M for Awareness and Training Platform appeared first on SecurityWeek.",
+      "pubDate": "2026-05-11T17:17:37.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-2.jpeg"
+    },
+    {
+      "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
+      "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
+      "description": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
+      "pubDate": "2026-05-11T15:45:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg"
+    },
+    {
+      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
+      "description": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
+      "pubDate": "2026-05-11T15:26:26.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/01/instructure-header2.jpg"
+    },
+    {
+      "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
+      "description": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
+      "pubDate": "2026-05-11T15:05:45.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6294394cb13e6ebe/6a01bfb65f98bb6fdefc0215/bombs-Valeriy_Kachaev-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
+      "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
+      "description": "Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline. The post Build Application Firewalls Aim to Stop the Next Supply Chain Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-05-11T14:06:01.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
+    },
+    {
+      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
+      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
+      "description": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
+      "pubDate": "2026-05-11T13:53:56.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/05/04/why-changing-passwords-doesnt-end-an-active-directory-breach.png"
+    },
+    {
+      "title": "Google Detects First AI-Generated Zero-Day Exploit",
+      "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
+      "description": "The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group. The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek.",
+      "pubDate": "2026-05-11T13:04:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/Zero-Day-Exploit.jpg"
+    },
+    {
+      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
+      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
+      "description": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
+      "pubDate": "2026-05-11T13:02:30.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/11/ai.jpg"
+    },
+    {
+      "title": "Hackers Use AI for Exploit Development, Attack Automation",
+      "link": "https://www.darkreading.com/cloud-security/hackers-ai-exploit-dev-attack-automation",
+      "description": "Cyber adversaries have long used AI, but now attackers are using large language models to develop exploits and orchestrate complex attacks.",
+      "pubDate": "2026-05-11T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
+      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
+      "description": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
+      "pubDate": "2026-05-11T12:36:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg"
+    },
+    {
+      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
+      "description": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
+      "pubDate": "2026-05-11T12:30:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/10/27/datacenter-under-attack.jpg"
+    },
     {
       "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
@@ -120,20 +237,11 @@
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
       "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "description": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart, released by OpenAI late last month (openai/privacy-filter), including copying the entire",
+      "description": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
       "pubDate": "2026-05-11T07:05:00.000Z",
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPtLFShq_XoM9Nzsl5kmSsF2UGsm6VhRoLNodcqRCdq45zqy4ekFVtamokNzEFifQknD502Wc0uFTBUdvLsBsYn4QAeVHSWLmhF2ROBMXutev8T6JjCGrrarzLhkSTUHLBq-nEWrF0WTb2epkX_3Ba5a6Gv_21R7PPQ_zCjhk7OU702Y10tJkcJiYG52D4/s1600/hugging-face-malware.jpg"
-    },
-    {
-      "title": "Over 500 Organizations Hit in Years-Long Phishing Campaign",
-      "link": "https://www.securityweek.com/over-500-organizations-hit-in-years-long-phishing-campaign/",
-      "description": "Victims span across the aviation, critical infrastructure, energy, logistics, public administration, and technology sectors. The post Over 500 Organizations Hit in Years-Long Phishing Campaign appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T03:49:18.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/AI-phishing.jpeg"
     },
     {
       "title": "Welcoming the Costa Rican Government to Have I Been Pwned",
@@ -289,15 +397,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/department-4.jpeg"
     },
     {
-      "title": "In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner",
-      "link": "https://www.securityweek.com/in-other-news-train-hacker-arrested-pamdoora-linux-backdoor-new-cisa-director-frontrunner/",
-      "description": "Other noteworthy stories that might have slipped under the radar: US gov targets 72-hour patch cycles, malware uses Windows Phone Link to steal OTPs, spy operation targets Eurasian drone industry. The post In Other News: Train Hacker Arrested, PamDOORa Linux Backdoor, New CISA Director Frontrunner appeared first on SecurityWeek.",
-      "pubDate": "2026-05-08T14:30:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
       "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
       "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
       "description": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
@@ -332,15 +431,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti.jpg"
-    },
-    {
-      "title": "Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants",
-      "link": "https://www.securityweek.com/polish-security-agency-reports-ics-breaches-at-five-water-treatment-plants/",
-      "description": "The hackers gained the ability to modify equipment operational parameters, creating a direct risk to the public water supply. The post Polish Security Agency Reports ICS Breaches at Five Water Treatment Plants appeared first on SecurityWeek.",
-      "pubDate": "2026-05-08T11:46:06.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Water-Cyberattacks.jpg"
     },
     {
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
@@ -397,15 +487,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixNgyNI9ObZi3Il87CVXhEWyWgcK-O1IKhQKRs7NPrNVqTMBZRw7AZpmbk5RdsPxNPmO9IyXaq6QzYBN691HBgfE8HpwnyJuE4-vaCAwHPpb6UfeSRcrMI-GRjcX53cELs31s7ps6YkGx5bAAB67w4m9GQ7ZVWjSdnaPOFczjHlsS3967ZvBh-4ZvTBWEJ/s1600/linux-pam.jpg"
     },
     {
-      "title": "New Linux 'Dirty Frag' zero-day gives root on all major distros",
-      "link": "https://www.bleepingcomputer.com/news/security/new-linux-dirty-frag-zero-day-with-poc-exploit-gives-root-privileges/",
-      "description": "A new Linux zero-day exploit, named Dirty Frag, allows local attackers to gain root privileges on most major Linux distributions with a single command. [...]",
-      "pubDate": "2026-05-08T07:45:24.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/08/Dirty-Frag-Linux.jpg"
-    },
-    {
       "title": "Linux Kernel Dirty Frag LPE Exploit Enables Root Access Across Major Distributions",
       "link": "https://thehackernews.com/2026/05/linux-kernel-dirty-frag-lpe-exploit.html",
       "description": "Details have emerged about a new, unpatched local privilege escalation (LPE) vulnerability impacting the Linux kernel. Dubbed Dirty Frag, it has been described as a successor to Copy Fail (CVE-2026-31431, CVSS score: 7.8), a recently disclosed LPE flaw impacting the Linux kernel that has since come under active exploitation in the wild. The vulnerability was reported to Linux kernel maintainers",
@@ -413,24 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnVSDBWt4hKZ-DOrZqHWPVH0JxrpcUeup9hpMpoH5Ny8bpuJ6Lviv58aH0aK2S2IJvAugaYRhM8P9wUW3tbVCu2kFMQbG5F16kI3PvS6gmR2Px8qOxcat-tK-UHV9oSDsAv9MHjvrduyndsqhicJxX1GroDTBo8it4ANI2wKIUVauhdxbgrNBQHhdgq2SW/s1600/linux.gif"
-    },
-    {
-      "title": "Canvas login portals hacked in mass ShinyHunters extortion campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/canvas-login-portals-hacked-in-mass-shinyhunters-extortion-campaign/",
-      "description": "The ShinyHunters extortion gang has breached education technology giant Instructure again, this time exploiting another vulnerability to deface Canvas login portals for hundreds of colleges and universities. [...]",
-      "pubDate": "2026-05-07T22:36:54.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/canvas-logo.jpg"
-    },
-    {
-      "title": "New TCLBanker malware self-spreads over WhatsApp and Outlook",
-      "link": "https://www.bleepingcomputer.com/news/security/new-tclbanker-malware-self-spreads-over-whatsapp-and-outlook/",
-      "description": "A new trojan named TCLBanker, which targets 59 banking, fintech, and cryptocurrency platforms, uses a trojanized MSI installer for Logitech AI Prompt Builder to infect systems. [...]",
-      "pubDate": "2026-05-07T22:06:52.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg"
     },
     {
       "title": "After Replacing TeamPCP Malware, 'PCPJack' Steals Cloud Secrets",
@@ -460,15 +523,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd78672b4ab1bba5b/69fbad02074d2d799822412b/CISA_Timon_Schneider_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "New PCPJack worm steals credentials, cleans TeamPCP infections",
-      "link": "https://www.bleepingcomputer.com/news/security/new-pcpjack-worm-steals-credentials-cleans-teampcp-infections/",
-      "description": "A new malware framework called PCPJack is stealing credentials from exposed cloud infrastructure while actively removing TeamPCP's access to the systems. [...]",
-      "pubDate": "2026-05-07T18:35:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/17/cloud.jpg"
-    },
-    {
       "title": "Ivanti EPMM CVE-2026-6973 RCE Under Active Exploitation Grants Admin-Level Access",
       "link": "https://thehackernews.com/2026/05/ivanti-epmm-cve-2026-6973-rce-under.html",
       "description": "Ivanti is warning that a new security flaw impacting Endpoint Manager Mobile (EPMM) has been explored in limited attacks in the wild. The high-severity vulnerability, CVE-2026-6973 (CVSS score: 7.2), is a case of improper input validation affecting EPMM before versions 12.6.1.1, 12.7.0.1, and 12.8.0.1. It allows \"a remotely authenticated user with administrative access to achieve remote code",
@@ -493,7 +547,7 @@
       "pubDate": "2026-05-07T16:00:00.000Z",
       "source": "Microsoft Security",
       "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/world-passkey-day-2026-1-1.jpg"
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/world-passkey-day-2026-1a.jpg"
     },
     {
       "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
@@ -658,15 +712,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9677f673333f2cf1/69fa1c7e14132e49be4be3e1/20-Ink_Drop-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Your AI Agents Are Already Inside the Perimeter. Do You Know What They're Doing?",
-      "link": "https://thehackernews.com/2026/05/your-ai-agents-are-already-inside.html",
-      "description": "Analysts recently confirmed what identity security teams have quietly feared: AI agents are being deployed faster than enterprises can govern them. In their inaugural Market Guide for Guardian Agents, Gartner states that “enterprise adoption of AI agents is accelerating, outpacing maturity of governance policy controls.” Enterprise leaders can request access to the Gartner Market Guide for",
-      "pubDate": "2026-05-06T10:57:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjb87wroQ6p8nQAYNIPc9sSFlIxMecj9qcrm9KPOaAt0-DTof7kW6e6FCc1dmoBFrtyFcZQOhyphenhyphenupMl7E3GAv-6C-5OM3U3NkEo7fKnYw-SWnwzI-yDfsY4J5kM8jgqfIqoSxHp4GJpdjK9kosjlzftCwYxSsva4jnhPHH92FT5rppUXnxCnINf05kPSzb5G/s1600/Orchid.gif"
-    },
-    {
       "title": "Rowhammer Attack Against NVIDIA Chips",
       "link": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
       "description": "A new rowhammer attack gives complete control of NVIDIA CPUs. On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new—­and potentially much more consequential—­territory: GDDR bitflips that give adversaries full control of CPU memory, resulting in full system compromise of the host machine. For the attack to work, IOMMU memory management must be disabled, as is the default in BIOS settings. “Our work shows that Rowhammer, which is well-studied on CPUs, is a serious threat on",
@@ -683,33 +728,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e09d5a76fa90123/69fb1b614f86c9e600c8fbcf/smartphone_warning_Mohd_Izzuan_Roslan_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Google's Android Apps Get Public Verification to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/05/android-apps-get-public-verification.html",
-      "description": "Google has announced expanded Binary Transparency for Android as a way to safeguard the ecosystem from supply chain attacks. \"This new public ledger ensures the Google apps on your device are exactly what we intended to build and distribute,\" Google's product and security teams said. The initiative builds upon the foundation of Pixel Binary Transparency, which Google introduced in October 2021",
-      "pubDate": "2026-05-06T09:13:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj3jZdmrzsI_G2u8N5XuvPgzGCHzkTGTIPHZg7O6QMeciCwLNFKkNmxL0c6lZkA06Z0lN2JEpama8zVQuSL-nLLFOqhFyU6AVuYug-he692ziNQNCWxxJKE7YHB28bVu0owc6CiMS19lRL9sOc6yg6GSs9XmjB1PW26cLqISDSFwiE2eXHjQyAhk9T9gOTe/s1600/android-app.jpg"
-    },
-    {
-      "title": "Windows Phone Link Exploited by CloudZ RAT to Steal Credentials and OTPs",
-      "link": "https://thehackernews.com/2026/05/windows-phone-link-exploited-by-cloudz.html",
-      "description": "Cybersecurity researchers have disclosed details of an intrusion that involved the use of a CloudZ remote access tool (RAT) and a previous undocumented plugin dubbed Pheno with the aim of facilitating credential theft. \"According to the functionalities of the CloudZ RAT and Pheno plugin, this was with the intention of stealing victims' credentials and potentially one-time passwords (OTPs),\"",
-      "pubDate": "2026-05-06T08:34:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGxYFVfOUbXRWanB_1qyRHBYCgWirEtqd3EO06BrIjnLqrTEOoTnXclKQsujA4YCVfI8Q5IWuriVAlckls65vvV2Am5PCEB1s_HHoFxpA779oT1qbnNB0Q8dqLU3GGbwINtDDmp8Ge3bdxQJWab3toekaGDgi1FFJ73uNysl8wEnXfgk6W88b1qSJcu2gX/s1600/link-to-windows.jpg"
-    },
-    {
-      "title": "Palo Alto PAN-OS Flaw Under Active Exploitation Enables Remote Code Execution",
-      "link": "https://thehackernews.com/2026/05/palo-alto-pan-os-flaw-under-active.html",
-      "description": "Palo Alto Networks has released an advisory warning that a critical buffer overflow vulnerability in its PAN-OS software has been exploited in the wild. The vulnerability, tracked as CVE-2026-0300, has been described as a case of unauthenticated remote code execution. It carries a CVSS score of 9.3 if the User-ID Authentication Portal is configured to enable access from the internet or any",
-      "pubDate": "2026-05-06T06:14:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF11tAg5Rdf8st9TeSlgPkW_Rn1I3Xi4Xl6wJjNMThFLB0oYYl2kKURYxYxgtnEphAJkeHzRxVrm8LX_7i8RDXgdLQhq4HM5ecZCrv3biRciuLM2JufgdxHqJR3eNTcTsIBWJBAz1Nv8Gac1fhW0vZ8Kgb7RFOC7_9zkL7Uy_SCrFOKps1scenY4c_LPSH/s1600/paloalto.jpg"
     },
     {
       "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
@@ -944,24 +962,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf39bbd62b1f2473/69f3a68381ac09c28dfa5350/binary_match_Brain_light_alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Name That Toon: Mark of (Security) Progress",
-      "link": "https://www.darkreading.com/cybersecurity-operations/name-that-toon-mark-security-progress",
-      "description": "Feeling creative? Have something to say about the last 20 years of cybersecurity? Our editors will award the best cybersecurity-related caption with a $20 gift card.",
-      "pubDate": "2026-05-01T12:00:55.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdbf0428151d81445/69f49269d987a6e491ac5a94/name-toon-may2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "20 Years in Cyber: Dark Reading Marks Milestone With Month of Special Coverage",
-      "link": "https://www.darkreading.com/cybersecurity-operations/20-years-cyber-dark-reading-milestone-special-coverage",
-      "description": "On this day in 2006, Dark Reading went live. We have a celebration planned that spans our two decades of covering the industry, and you, dear readers, are invited.",
-      "pubDate": "2026-05-01T12:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfa15fad832804f71/69f25b673c5d474c908e45aa/KJHCol_DR20.jpeg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
@@ -1468,15 +1468,6 @@
       "image": "https://portswigger.net/cms/images/08/b9/185c-twittercard-top_10_wht_2025_results_x(1).png"
     },
     {
-      "title": "TAG Bulletin: Q4 2025",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q4-2025/",
-      "description": "An overview of coordinated influence operation campaigns terminated on our platforms in Q4 2025.",
-      "pubDate": "2026-01-29T19:30:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
       "title": "Top 10 web hacking techniques of 2025: call for nominations",
       "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
       "description": "Update: nominations are now closed, and voting is live! Cast your vote here Over the last year, security researchers have shared a huge amount of work with the community through blog posts, presentati",
@@ -1538,15 +1529,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltc093370e4ed703e5/693946bafbd5155e8bf64a10/blog-sophos-intelix-copilot.png"
-    },
-    {
-      "title": "TAG Bulletin: Q3 2025",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q3-2025/",
-      "description": "Our bulletin covering coordinated influence operation campaigns terminated on our platforms in Q3 2025.",
-      "pubDate": "2025-11-13T16:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
     },
     {
       "title": "Introducing HTTP Anomaly Rank",
@@ -1648,15 +1630,6 @@
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
     },
     {
-      "title": "TAG Bulletin: Q2 2025",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q2-2025/",
-      "description": "Our bulletin covering coordinated influence operation campaigns terminated on our platforms in Q2 2025.",
-      "pubDate": "2025-07-21T17:45:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/SocialShare_7.width-1300.jpg"
-    },
-    {
       "title": "Repeater Strike: manual testing, amplified",
       "link": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
       "description": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
@@ -1664,15 +1637,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/8e/11/0c91-twittercard-twitter.png"
-    },
-    {
-      "title": "TAG Bulletin: Q1 2025",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q1-2025/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q1 2025. It was last updated on May 15, 2025.JanuaryWe terminated 12 YouT…",
-      "pubDate": "2025-05-15T17:30:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
     },
     {
       "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
@@ -1747,15 +1711,6 @@
       "image": "https://portswigger.net/cms/images/bf/3c/e22b-twittercard-top10-twitter.png"
     },
     {
-      "title": "TAG Bulletin: Q4 2024",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q4-2024/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q4 2024. It was last updated on February 19, 2024.OctoberWe terminated 11…",
-      "pubDate": "2024-12-17T22:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
       "title": "Bypassing WAFs with the phantom $Version cookie",
       "link": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
       "description": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
@@ -1783,15 +1738,6 @@
       "image": "https://portswigger.net/cms/images/a1/af/aea1-twittercard-twitter.png"
     },
     {
-      "title": "TAG Bulletin: Q3 2024",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q3-2024/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q3 2024. It was last updated on January 14, 2025.JulyWe terminated 89 You…",
-      "pubDate": "2024-09-12T23:30:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
       "title": "Introducing the URL validation bypass cheat sheet",
       "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
       "description": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
@@ -1799,24 +1745,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/b7/9f/d69c-twittercard-twitter.png"
-    },
-    {
-      "title": "State-backed attackers and commercial surveillance vendors repeatedly use the same exploits",
-      "link": "https://blog.google/threat-analysis-group/state-backed-attackers-and-commercial-surveillance-vendors-repeatedly-use-the-same-exploits/",
-      "description": "We’re sharing an update on suspected state-backed attacker APT29 and the use of exploits identical to those used by Intellexa and NSO.",
-      "pubDate": "2024-08-29T13:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TAG_PzwyAeM.width-1600.format-w.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Iranian backed group steps up phishing campaigns against Israel, U.S.",
-      "link": "https://blog.google/threat-analysis-group/iranian-backed-group-steps-up-phishing-campaigns-against-israel-us/",
-      "description": "Google’s Threat Analysis Group shares insights on APT42, an Iranian government-backed threat actor.",
-      "pubDate": "2024-08-14T19:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TAG_cards_Phishing_1C.width-1300.jpg"
     },
     {
       "title": "Gotta cache 'em all: bending the rules of web cache exploitation",
@@ -1844,114 +1772,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/39/7f/e41b-twittercard-listen-to-the-whispers-twitter.png"
-    },
-    {
-      "title": "Google disrupted over 10,000 instances of DRAGONBRIDGE activity in Q1 2024",
-      "link": "https://blog.google/threat-analysis-group/google-disrupted-dragonbridge-activity-q1-2024/",
-      "description": "Today we are sharing updated insights about DRAGONBRIDGE, the most prolific IO actor Google’s Threat Analysis Group (TAG) tracks.",
-      "pubDate": "2024-06-26T10:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
-      "title": "TAG Bulletin: Q2 2024",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q2-2024/",
-      "description": "Our bulletin covering coordinated influence operation campaigns terminated on our platforms in Q2 2024.",
-      "pubDate": "2024-06-04T23:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
-      "title": "A review of zero-day in-the-wild exploits in 2023",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/a-review-of-zero-day-in-the-wild-exploits-in-2023/",
-      "description": "Today, Google released its report “We’re All in this Together: A Year in Review of Zero-Days Exploited In-the-Wild in 2023.”",
-      "pubDate": "2024-03-27T13:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
-      "title": "TAG Bulletin: Q1 2024",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q1-2024/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q1 2024. It was last updated on July 8, 2024.JanuaryWe blocked 4 domains …",
-      "pubDate": "2024-03-06T17:30:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
-      "title": "Tool of First Resort: Israel-Hamas War in Cyber",
-      "link": "https://blog.google/innovation-and-ai/technology/safety-security/tool-of-first-resort-israel-hamas-war-in-cyber/",
-      "description": "An analysis of cyber operations in the Israel-Hamas War.",
-      "pubDate": "2024-02-14T00:01:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TOFR_Keyword_Banner.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Buying Spying: How the commercial surveillance industry works and what can be done about it",
-      "link": "https://blog.google/threat-analysis-group/commercial-surveillance-vendors-google-tag-report/",
-      "description": "This report documents the rise of commercial surveillance vendors and the industry that threatens free speech, the free press and the open internet.",
-      "pubDate": "2024-02-06T10:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/BlogHero.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "TAG Bulletin: Q4 2023",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q4-2023/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q4 2023. It was last updated on January 19, 2024.OctoberWe terminated 8 Y…",
-      "pubDate": "2024-01-19T20:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/direction3_e3NMx61.width-1300.png"
-    },
-    {
-      "title": "Russian threat group COLDRIVER expands its targeting of Western officials to include the use of malware",
-      "link": "https://blog.google/threat-analysis-group/google-tag-coldriver-russian-phishing-malware/",
-      "description": "Threat Analysis Group sheds light on Russian threat COLDRIVER’s use of malware.",
-      "pubDate": "2024-01-18T14:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TAG_Fa6JTHm.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Zimbra 0-day used to target international government organizations",
-      "link": "https://blog.google/threat-analysis-group/zimbra-0-day-used-to-target-international-government-organizations/",
-      "description": "TAG’s discovery of a 0-day exploit used to steal email data from international government organizations.",
-      "pubDate": "2023-11-16T16:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TAG_rYhcbet.max-600x600.format-webp.webp"
-    },
-    {
-      "title": "Government-backed actors exploiting WinRAR vulnerability",
-      "link": "https://blog.google/threat-analysis-group/government-backed-actors-exploiting-winrar-vulnerability/",
-      "description": "Google's Threat Analysis Group analyzes recent state-sponsored campaigns exploiting the WinRAR vulnerability, CVE-2023-38831.",
-      "pubDate": "2023-10-18T15:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/tag-cards_1A.width-1300.png"
-    },
-    {
-      "title": "TAG Bulletin: Q3 2023",
-      "link": "https://blog.google/threat-analysis-group/tag-bulletin-q3-2023/",
-      "description": "This bulletin includes coordinated influence operation campaigns terminated on our platforms in Q3 2023. It was last updated on November 8, 2023.",
-      "pubDate": "2023-10-05T18:30:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://blog.google/static/blogv2/images/google-1000x1000.png?version=pr20260507-1819"
-    },
-    {
-      "title": "0-days exploited by commercial surveillance vendor in Egypt",
-      "link": "https://blog.google/threat-analysis-group/0-days-exploited-by-commercial-surveillance-vendor-in-egypt/",
-      "description": "Last week Google’s Threat Analysis Group (TAG), in partnership with The Citizen Lab, discovered an in-the-wild 0-day exploit chain for iPhones. Developed by the commerci…",
-      "pubDate": "2023-09-22T17:00:00.000Z",
-      "source": "Google TAG",
-      "category": "research",
-      "image": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/TAG_socialshare_Egypt.width-1300.jpg"
     },
     {
       "title": "Student Loan Breach Exposes 2.5M Records",
