@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T08:14:21.857Z",
+  "generatedAt": "2026-05-12T12:28:49.204Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,105 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
+      "link": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
+      "description": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T12:13:41.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg"
+    },
+    {
+      "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
+      "link": "https://thehackernews.com/2026/05/webinar-what-riskiest-soc-alerts-go.html",
+      "description": "Why do the Riskiest SOC Alerts Go Unanswered? Security operations teams are drowning in alerts. But the real problem isn't always alert volume; it's the blind spots. The most dangerous alerts are the ones no one is investigating. A recent report from The Hacker News examined why certain high-risk alert categories - WAF, DLP, OT/IoT, dark web intelligence, and supply chain signals- consistently",
+      "pubDate": "2026-05-12T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjA12ieHY1fiDaLvgyhGriQgzyEXJlSwwkQvcJXqP10JFEOcbwVa_EZD9H26tzLJovmlGHDHLL37-0H4y3ePSn5qDwRu6-X6I2StjAFHkiZ4_mgZOnjiKHdg2KId0sJ5OuxxWGeL7ULdNA3X_PTGcdv8_QJ4KS9RCtN-Oe3nLiOLWFwbDB46beV8jRaKG4/s1600/Radiant-webinar.jpg"
+    },
+    {
+      "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
+      "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
+      "description": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "pubDate": "2026-05-12T11:46:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhXIhs2kZt0YGdDcd-Io67mq1GIN_iI_71LYhuin4qqmlgUgCuZ3fGUvglg_5nh5DK8kfPP8RHki86yMyqh4rTE27PGgPBh4RQjkh91-QGoB8cav5NUsYAwcV3ZJ7aEf-uEoH3pLGQ2eWuCh8lZSWAlTIa2U5I6eeB3HZmYMn4q-YoV7Ytmkpr1tN0lC2rG/s1600/mistral.jpg"
+    },
+    {
+      "title": "Shai Hulud attack ships signed malicious TanStack, Mistral npm packages",
+      "link": "https://www.bleepingcomputer.com/news/security/shai-hulud-attack-ships-signed-malicious-tanstack-mistral-npm-packages/",
+      "description": "Hundreds of packages across npm and PyPI have been compromised in a new Shai-Hulud supply-chain campaign delivering credential-stealing malware targeting developers. [...]",
+      "pubDate": "2026-05-12T11:29:36.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/Hackerbox.jpg"
+    },
+    {
+      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
+      "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
+      "description": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T11:15:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+    },
+    {
+      "title": "Copy.Fail Linux Vulnerability",
+      "link": "https://www.schneier.com/blog/archives/2026/05/copy-fail-linux-vulnerability.html",
+      "description": "This is the worst Linux vulnerability in years. TL;DR copy.fail is a Linux kernel local privilege escalation, not a browser or clipboard attack. Disclosed by Theori on 29 April 2026 with a working PoC. It abuses the kernel crypto API (AF_ALG sockets) plus splice() to write four bytes at a time straight into the page cache of a file the attacker does not own. The exploit works unmodified across Ubuntu, RHEL, Debian, SUSE, Amazon Linux, Fedora and most others. No race condition, no per-distro offsets. The file on disk is never modified. AIDE, Tripwire and checksum-based monitoring see nothing. K",
+      "pubDate": "2026-05-12T11:06:12.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "SAP fixes critical vulnerabilities in Commerce Cloud and S/4HANA",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-fixes-critical-vulnerabilities-in-commerce-cloud-and-s-4hana/",
+      "description": "SAP has released the May 2026 security updates addressing 15 vulnerabilities across multiple products, including two critical flaws in the Commerce Cloud enterprise-grade e-commerce platform and the S/4HANA ERP suite. [...]",
+      "pubDate": "2026-05-12T11:04:55.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/05/14/SAP.jpg"
+    },
+    {
+      "title": "Is The SOC Obsolete, And We Just Haven’t Admitted It Yet?",
+      "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
+      "description": "Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next. The post Is The SOC Obsolete, And We Just Haven’t Admitted It Yet? appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T11:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Cybersecurity-Teams.jpg"
+    },
+    {
+      "title": "Why Agentic AI Is Security's Next Blind Spot",
+      "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
+      "description": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent",
+      "pubDate": "2026-05-12T10:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
+    },
+    {
+      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
+      "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
+      "description": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T10:10:33.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/AI_Jailbreak-LLM.jpeg"
+    },
+    {
+      "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
+      "link": "https://www.bleepingcomputer.com/news/security/instructure-reaches-agreement-with-shinyhunters-to-stop-data-leak/",
+      "description": "Instructure, the edtech giant behind the widely popular Canvas learning management system (LMS), has reached an \"agreement\" with the ShinyHunters extortion group to prevent the data stolen in a recent breach from being leaked online. [...]",
+      "pubDate": "2026-05-12T09:23:56.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/04/School_hacker.jpg"
+    },
     {
       "title": "Instructure Reaches Ransom Agreement with ShinyHunters to Stop 3.65TB Canvas Leak",
       "link": "https://thehackernews.com/2026/05/instructure-reaches-ransom-agreement.html",
@@ -107,6 +206,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc92afe17dbd34016/6a022fb240d9cd336435418d/cyber_eye_Lightfield_Studios_Inc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
+      "link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
+      "description": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
+      "pubDate": "2026-05-11T19:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75b70c94d4929df4/69fe0f027b0753efdf549e04/architect-Artur_Marciniec-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
@@ -280,15 +388,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
     },
     {
-      "title": "Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack",
-      "link": "https://www.securityweek.com/checkmarx-jenkins-ast-plugin-compromised-in-supply-chain-attack/",
-      "description": "A malicious version of the plugin was published to the Jenkins Marketplace late last week. The post Checkmarx Jenkins AST Plugin Compromised in Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T09:34:55.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
-    },
-    {
       "title": "TrickMo Android banker adopts TON blockchain for covert comms",
       "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
       "description": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
@@ -296,33 +395,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg"
-    },
-    {
-      "title": "Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools",
-      "link": "https://www.securityweek.com/canvas-system-is-online-after-a-cyberattack-disrupted-thousands-of-schools/",
-      "description": "Tens of thousands of students studying for final exams around the world have regained access to a key online learning system after a cyberattack had earlier knocked it offline. The post Canvas System Is Online After a Cyberattack Disrupted Thousands of Schools appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T08:35:13.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/university.jpg"
-    },
-    {
-      "title": "New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks",
-      "link": "https://www.securityweek.com/new-dirty-frag-linux-vulnerability-possibly-exploited-in-attacks/",
-      "description": "Also called Copy Fail 2 and tracked as CVE-2026-43284 and CVE-2026-43500, the exploit was disclosed before a patch was released. The post New ‘Dirty Frag’ Linux Vulnerability Possibly Exploited in Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T08:15:28.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Linux.jpeg"
-    },
-    {
-      "title": "Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested",
-      "link": "https://www.securityweek.com/resurrected-crimenetwork-marketplace-taken-down-administrator-arrested/",
-      "description": "The second iteration of the German-speaking online crime marketplace had over 22,000 users and more than 100 sellers. The post Resurrected ‘Crimenetwork’ Marketplace Taken Down, Administrator Arrested appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T07:25:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/dark-web-marketplace.png"
     },
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
@@ -460,15 +532,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-55.webp"
     },
     {
-      "title": "NVIDIA confirms GeForce NOW data breach affecting Armenian users",
-      "link": "https://www.bleepingcomputer.com/news/security/nvidia-confirms-geforce-now-data-breach-affecting-armenian-users/",
-      "description": "NVIDIA has confirmed in a statement for BleepingComputer that GeForce NOW user information has been exposed in a data breach. [...]",
-      "pubDate": "2026-05-08T16:18:31.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/08/NVIDIA.jpg"
-    },
-    {
       "title": "One in eight UK workers has sold their company passwords, and bosses think it’s fine",
       "link": "https://www.fortra.com/blog/one-eight-uk-workers-has-sold-their-company-passwords-and-bosses-think-its-fine",
       "description": "One in eight UK workers admits to selling their company login credentials - or knowing someone who has - in the past 12 months. The really alarming bit? Their bosses are even more relaxed about it. Read more in my article on the Fortra blog.",
@@ -496,15 +559,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/department-4.jpeg"
     },
     {
-      "title": "Why More Analysts Won’t Solve Your SOC’s Alert Problem",
-      "link": "https://www.bleepingcomputer.com/news/security/why-more-analysts-wont-solve-your-socs-alert-problem/",
-      "description": "Attackers move faster than overwhelmed SOC teams can realistically investigate alerts. Prophet Security breaks down how AI can help analysts investigate alerts faster and focus on real threats. [...]",
-      "pubDate": "2026-05-08T14:02:12.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/05/08/prophet-agentic-ai-robots.jpg"
-    },
-    {
       "title": "One Click, Total Shutdown: The \"Patient Zero\" Webinar on Killing Stealth Breaches",
       "link": "https://thehackernews.com/2026/05/one-click-total-shutdown-patient-zero.html",
       "description": "The hardest part of cybersecurity isn't the technology, it’s the people. Every major breach you’ve read about lately usually starts the same way: one employee, one clever email, and one \"Patient Zero\" infection. In 2026, hackers are using AI to make these \"first clicks\" nearly impossible to spot. If a single laptop gets compromised on your watch, do you have a plan to stop it from taking down",
@@ -512,15 +566,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhz_1BMhUux9JB2X26ToAMnW32GttimEIwRX1fG4_LrlZjedjkjzps_Ad-eiSX-2LlJ1FFIw3g1kvH1kKrgwETmSgTk8wal5a7AJQNIY2IH3317GaUYEj-_3tko2hxjKBc1ms0WQ7UjHHTst0aKtjFz1jOPasyD8x5U_GQW4KdhKxDPHhlmYVOY9TM6vLy_/s1600/zz-webinar.jpg"
-    },
-    {
-      "title": "Trellix source code breach claimed by RansomHouse hackers",
-      "link": "https://www.bleepingcomputer.com/news/security/trellix-source-code-breach-claimed-by-ransomhouse-hackers/",
-      "description": "The attack on the Trellix source code repository disclosed last week has been claimed by the RansomHouse threat group, which leaked a small set of images as proof of the intrusion. [...]",
-      "pubDate": "2026-05-08T13:23:23.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/08/TrellixRansomHouse.jpg"
     },
     {
       "title": "Quasar Linux RAT Steals Developer Credentials for Software Supply Chain Compromise",
@@ -665,33 +710,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Day Zero Readiness: The Operational Gaps That Break Incident Response",
-      "link": "https://thehackernews.com/2026/05/day-zero-readiness-operational-gaps.html",
-      "description": "Having an incident response retainer, or even a pre-approved external incident response firm, is not the same as being ready for an incident. A retainer means someone will answer the phone. Operational readiness determines whether that team can do meaningful work the moment they do. That distinction matters far more than many organizations realize. In the first hours of a security incident",
-      "pubDate": "2026-05-07T10:54:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdEBtnOnAfYEV-De3NPPeeTCPWK_gSqYM7OZ0ioRJl84OvS49Fp-GJucJfc-ADDOhyTe11dUoYbkIlA1gYW5b8E6KxYIG71gNa0pU4tmqiEyfmxAEyI1A3n2ZOzfePdcm5WdqHVnFlrSwzgNlOmWKMUOHTqUjS_qUhHBEI9CpMJ_OZrUgn-yaHjTDaXJ0/s1600/main.jpg"
-    },
-    {
-      "title": "PyPI Packages Deliver ZiChatBot Malware via Zulip APIs on Windows and Linux",
-      "link": "https://thehackernews.com/2026/05/pypi-packages-deliver-zichatbot-malware.html",
-      "description": "Cybersecurity researchers have discovered three packages on the Python Package Index (PyPI) repository that are designed to stealthily deliver a previously unknown malware family called ZiChatBot on Windows and Linux systems. \"While these wheel packages do implement the features described on their PyPI web pages, their true purpose is to covertly deliver malicious files,\" Kaspersky",
-      "pubDate": "2026-05-07T09:20:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGun7lMQJXWH3IQiR3ml3RMzAbb1QJcWEtgqDrKTjPbvBhTsDPaCWmI1vTAnevTVPx0lg4xvPkOcpx_86_Znxdgpj-hynQXGEHqf94dvYwOy5VqqnqBWEWrJ3MEkQcLVBVt00Y8pUqVWj4W-hYYepmDmtX9PRQh87qZC7XbJCwdEaLsBY-vTsbkS0yqikd/s1600/pypi.jpg"
-    },
-    {
-      "title": "vm2 Node.js Library Vulnerabilities Enable Sandbox Escape and Arbitrary Code Execution",
-      "link": "https://thehackernews.com/2026/05/vm2-nodejs-library-vulnerabilities.html",
-      "description": "A dozen critical security vulnerabilities have been disclosed in the vm2 Node.js library that could be exploited by bad actors to break out of the sandbox and execute arbitrary code on susceptible systems. vm2 is an open-source library used to run untrusted JavaScript code inside a secure sandbox by intercepting and proxying JavaScript objects to prevent sandboxed code from accessing the host",
-      "pubDate": "2026-05-07T04:15:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhGJE3Tcr425AIfztOUrdhPUiEkVY8bMrHMmO-5FZ2N3cLaW9ErdLJJS3KwjzYNvLAIcVT7xpSw8wswiDIPenyZa_ki3ZrOHJFY-cXKHPu0EGnfCGXxkEAlvE6tLogT8T_lRolQ-qI-GFqlgwqpbLD1HfmDo4HkJbV9XNDh9rcGbM3Nc8ruu5I_47DBmzsy/s1600/vm2.jpg"
     },
     {
       "title": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
@@ -928,15 +946,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/spider.jpeg"
     },
     {
-      "title": "How Dark Reading Lifted Off the Launchpad in 2006",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/how-dark-reading-lifted-off-launchpad-2006",
-      "description": "Twenty years ago, this media brand didn't have a print edition to attract eyeballs and sponsors. Top-notch content and editorial talent did the heavy lifting.",
-      "pubDate": "2026-05-04T11:15:08.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68bbd8619ec3a55e/69f4fc58074d2d36cd223882/rocket_Tribune_Content_Agency_LLC.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Hacking Polymarket",
       "link": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
       "description": "Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates assassination), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have threatened a journalist because his story was being used to verify an event. And now, gamblers are taking hair dryers to weather sensors to rig weather bets. There’s also insider trading: a lot of it.",
@@ -1079,15 +1088,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/silk-typhoon.jpeg"
-    },
-    {
-      "title": "Claude Mythos Has Found 271 Zero-Days in Firefox",
-      "link": "https://www.schneier.com/blog/archives/2026/04/claude-mythos-has-found-271-zero-days-in-firefox.html",
-      "description": "That’s a lot. No, it’s an extraordinary number: Since February, the Firefox team has been working around the clock using frontier AI models to find and fix latent security vulnerabilities in the browser. We wrote previously about our collaboration with Anthropic to scan Firefox with Opus 4.6, which led to fixes for 22 security-sensitive bugs in Firefox 148. As part of our continued collaboration with Anthropic, we had the opportunity to apply an early version of Claude Mythos Preview to Firefox. This week’s release of Firefox 150 includes fixes for 271 vulnerabilities identified during this in",
-      "pubDate": "2026-04-29T10:12:17.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "French police arrest 21-year-old “HexDex” hacker over 100 alleged data breaches",
