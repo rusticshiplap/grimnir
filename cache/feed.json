@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-12T12:28:49.204Z",
+  "generatedAt": "2026-05-12T21:52:10.461Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,231 @@
   ],
   "items": [
     {
+      "title": "It's Patch Tuesday for Microsoft and Not a Zero-Day In Sight",
+      "link": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
+      "description": "It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
+      "pubDate": "2026-05-12T21:03:04.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3704ee375f0b629/6a038cf3ee64ff5eb73bf289/swbug_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
+      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
+      "description": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
+      "pubDate": "2026-05-12T20:17:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/03/UK-ICO.jpg"
+    },
+    {
+      "title": "Webinar: Fixing the gaps in network incident response",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
+      "description": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
+      "pubDate": "2026-05-12T19:46:04.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/25/alert-yellow.jpg"
+    },
+    {
+      "title": "Signal adds security warnings for social engineering, phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
+      "description": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
+      "pubDate": "2026-05-12T19:40:31.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg"
+    },
+    {
+      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
+      "description": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
+      "pubDate": "2026-05-12T18:58:34.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg"
+    },
+    {
+      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
+      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
+      "description": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
+      "pubDate": "2026-05-12T18:23:09.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg"
+    },
+    {
+      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
+      "description": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
+      "pubDate": "2026-05-12T18:09:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg"
+    },
+    {
+      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
+      "description": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
+      "pubDate": "2026-05-12T18:08:06.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
+    },
+    {
+      "title": "Microsoft Patches 137 Vulnerabilities",
+      "link": "https://www.securityweek.com/microsoft-patches-137-vulnerabilities/",
+      "description": "Fresh security updates resolve critical flaws in Azure, Windows, Dynamics 365, and the SSO Plugin for Jira & Confluence. The post Microsoft Patches 137 Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T18:07:39.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg"
+    },
+    {
+      "title": "Exaforce Raises $125 Million for Agentic SOC Platform",
+      "link": "https://www.securityweek.com/exaforce-raises-125-million-for-agentic-soc-platform/",
+      "description": "Exaforce has raised a total of $200 million and plans on using the latest investment for product development and international expansion. The post Exaforce Raises $125 Million for Agentic SOC Platform appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T17:23:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg"
+    },
+    {
+      "title": "Škoda warns of customer data breach after online shop hack",
+      "link": "https://www.bleepingcomputer.com/news/security/skoda-warns-of-customer-data-breach-after-online-shop-hack/",
+      "description": "Škoda Auto, a wholly owned subsidiary of the Volkswagen Group, has disclosed a data breach after attackers hacked its online shop and stole the personal information of an undisclosed number of customers. [...]",
+      "pubDate": "2026-05-12T17:07:01.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/12/Skoda.jpg"
+    },
+    {
+      "title": "Android 17 to expand banking scam call and privacy protections",
+      "link": "https://www.bleepingcomputer.com/news/security/android-17-to-expand-banking-scam-call-and-privacy-protections/",
+      "description": "Android 17, expected to roll out next month, will introduce several security and privacy features focused on device theft, threat detection, and banking scam calls. [...]",
+      "pubDate": "2026-05-12T17:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/12/0_Android-Shield.jpg"
+    },
+    {
+      "title": "Adobe Patches 52 Vulnerabilities in 10 Products",
+      "link": "https://www.securityweek.com/adobe-patches-52-vulnerabilities-in-10-products/",
+      "description": "While none of the flaws have been exploited in the wild, many of them could lead to arbitrary code execution. The post Adobe Patches 52 Vulnerabilities in 10 Products appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T16:47:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg"
+    },
+    {
+      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
+      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
+      "description": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+      "pubDate": "2026-05-12T16:44:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
+    },
+    {
+      "title": "Defending consumer web properties against modern DDoS attacks",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
+      "description": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation. The post Defending consumer web properties against modern DDoS attacks appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-12T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Defend-modern-DDoS-attacks-1.jpg"
+    },
+    {
+      "title": "White Circle Raises $11 Million for AI Control Platform",
+      "link": "https://www.securityweek.com/white-circle-raises-11-million-for-ai-control-platform/",
+      "description": "The startup will invest in accelerating product development, hiring new talent, and expanding its customer base. The post White Circle Raises $11 Million for AI Control Platform appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T15:40:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
+    },
+    {
+      "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
+      "description": "Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments. The post Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-12T15:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure-1.-Attack-timeline-scaled.webp"
+    },
+    {
+      "title": "RubyGems Suspends New Signups After Hundreds of Malicious Packages Are Uploaded",
+      "link": "https://thehackernews.com/2026/05/rubygems-suspends-new-signups-after.html",
+      "description": "RubyGems, the standard package manager for the Ruby programming language, has temporarily paused account sign ups following what has been described as a \"major malicious attack.\" \"We're dealing with a major malicious attack on Ruby Gems right now,\" Maciej Mensfeld, senior product manager for software supply chain security at Mend.io, said in a post on X. \"Signups are paused for the time being.",
+      "pubDate": "2026-05-12T14:47:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggIbYm86Vn45Nd86Hd5IEqHufRIS5Ud3spGUy5JWHy-My-NBVocyj-aR7E3gBKibPnrWd5DRYnDfmbaHUMuaYcNn_paUIDN11VLySLNUsXwFwVIALsNo419985zWvtepK7NVp9J4W3d7uHGWkQFgqI6zY_9Y5LWe5hsTLk-c9ZMKQ4TDlUMcMh8-_vhdIH/s1600/rubygems.jpg"
+    },
+    {
+      "title": "BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months",
+      "link": "https://www.securityweek.com/bwh-hotels-says-hackers-had-access-to-reservation-data-for-6-months/",
+      "description": "Threat actors obtained names and contact information for an unspecified number of BWH Hotels guests. The post BWH Hotels Says Hackers Had Access to Reservation Data for 6 Months appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T14:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Best-Western.jpeg"
+    },
+    {
+      "title": "Hugging Face Packages Weaponized With a Single File Tweak",
+      "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
+      "description": "A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
+      "pubDate": "2026-05-12T14:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4a392e468c2fede/6a02399dd02601ddfa8e5443/Hugging_Face_Sidney_Van_den_Boogaard_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware",
+      "link": "https://www.securityweek.com/free-onlyfans-lure-used-to-spread-cross-platform-crpx0-malware/",
+      "description": "CRPx0 is a complex, stealthy malware campaign that targets macOS and Windows systems, and appears to have Linux capabilities in development. The post Free OnlyFans Lure Used to Spread Cross-Platform CRPx0 Malware appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T13:46:49.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/Malware-Hunter-Killer.jpg"
+    },
+    {
+      "title": "Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform",
+      "link": "https://www.securityweek.com/deal-reached-with-hackers-to-delete-data-stolen-from-the-canvas-educational-platform/",
+      "description": "The company that operates online learning system Canvas said it struck a deal with hackers to delete the data they pilfered in a cyberattack that created chaos for students, many of them in the middle of finals. The post Deal Reached With Hackers to Delete Data Stolen From the Canvas Educational Platform appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T13:26:46.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/03/school-education.jpeg"
+    },
+    {
+      "title": "West Pharmaceutical Services Hit by Disruptive Ransomware Attack",
+      "link": "https://www.securityweek.com/west-pharmaceutical-services-hit-by-disruptive-ransomware-attack/",
+      "description": "The company took systems offline globally after hackers exfiltrated data and deployed file-encrypting ransomware. The post West Pharmaceutical Services Hit by Disruptive Ransomware Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T12:59:49.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/West-Pharmaceutical-Services.jpeg"
+    },
+    {
+      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
+      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
+      "description": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
+      "pubDate": "2026-05-12T12:50:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
+    },
+    {
+      "title": "Apple Patches Dozens of Vulnerabilities in macOS, iOS",
+      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-in-macos-ios/",
+      "description": "The tech giant has also ported the patch for a recent deleted chats recovery issue to older versions of iOS. The post Apple Patches Dozens of Vulnerabilities in macOS, iOS appeared first on SecurityWeek.",
+      "pubDate": "2026-05-12T12:37:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Apple-MacBook-iPhone.jpeg"
+    },
+    {
       "title": "SAP Patches Critical S/4HANA, Commerce Vulnerabilities",
       "link": "https://www.securityweek.com/sap-patches-critical-s-4hana-commerce-vulnerabilities/",
       "description": "The flaws could allow attackers to inject malicious code, leading to information disclosure and code execution. The post SAP Patches Critical S/4HANA, Commerce Vulnerabilities appeared first on SecurityWeek.",
@@ -26,6 +251,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg"
+    },
+    {
+      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
+      "link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
+      "description": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
+      "pubDate": "2026-05-12T12:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75b70c94d4929df4/69fe0f027b0753efdf549e04/architect-Artur_Marciniec-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Webinar: What the Riskiest SOC Alerts Go Unanswered - and How Radiant Security Can Help",
@@ -39,7 +273,7 @@
     {
       "title": "Mini Shai-Hulud Worm Compromises TanStack, Mistral AI, Guardrails AI & More Packages",
       "link": "https://thehackernews.com/2026/05/mini-shai-hulud-worm-compromises.html",
-      "description": "TeamPCP, the threat actor behind the recent supply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
+      "description": "TeamPCP, the threat actor behind the recentsupply chain attack spree, has been linked to the compromise of the npm and PyPI packages from TanStack, UiPath, Mistral AI, OpenSearch, and Guardrails AI as part of a fresh Mini Shai-Hulud campaign. The affected npm packages have been modified to include an obfuscated JavaScript file (\"router_init.js\") that's designed to profile the execution",
       "pubDate": "2026-05-12T11:46:00.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -55,13 +289,13 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/Hackerbox.jpg"
     },
     {
-      "title": "Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means",
-      "link": "https://www.securityweek.com/claude-mythos-finds-only-one-curl-vulnerability-experts-divided-on-what-it-really-means/",
-      "description": "Curl’s lead developer says Mythos claims are marketing, but many in the industry believe the results stem from Curl’s robust security. The post Claude Mythos Finds Only One Curl Vulnerability; Experts Divided on What It Really Means appeared first on SecurityWeek.",
-      "pubDate": "2026-05-12T11:15:51.000Z",
-      "source": "SecurityWeek",
+      "title": "Worm Redux: Fresh Mini Shai-Hulud Infections Bite Supply Chain",
+      "link": "https://www.darkreading.com/application-security/worm-redux-fresh-mini-shai-hulud-infections-bite-supply-chain",
+      "description": "Hundreds of npm packages infected by the self-propagating, credential-stealing worm from TeamPCP are related to the open source TanStack ecosystem.",
+      "pubDate": "2026-05-12T11:07:43.000Z",
+      "source": "Dark Reading",
       "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98af205e9fd3397b/6a030d8e8affd2e99d18dd19/sandworms_FlixPix_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Copy.Fail Linux Vulnerability",
@@ -82,15 +316,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/05/14/SAP.jpg"
     },
     {
-      "title": "Is The SOC Obsolete, And We Just Haven’t Admitted It Yet?",
-      "link": "https://www.securityweek.com/is-the-soc-obsolete-and-we-just-havent-admitted-it-yet/",
-      "description": "Many AI-first enterprises have already embraced sovereign architectures for general AI initiatives; cybersecurity—and the SOC—should be next. The post Is The SOC Obsolete, And We Just Haven’t Admitted It Yet? appeared first on SecurityWeek.",
-      "pubDate": "2026-05-12T11:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Cybersecurity-Teams.jpg"
-    },
-    {
       "title": "Why Agentic AI Is Security's Next Blind Spot",
       "link": "https://thehackernews.com/2026/05/why-agentic-ai-is-securitys-next-blind.html",
       "description": "Agentic AI is already running in production environments across many organizations today. It is executing tasks, consuming data, and taking actions — most likely without meaningful involvement from the security team. The industry conversation has largely framed this as a question of policy: allow it, restrict it, or monitor it? However, that framing misses the point. The more urgent",
@@ -98,15 +323,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzo1TUnQJpFnJbrO50dvjG14LDr2L6gKHsIIr5P73rSCgksrt2B9eVmRGKxPVvJ1qVMF63ka4So6vj5ln9T1nBIt2MV2DcH_dnYyQp1RREL4nbtnPghY7q5SAwZCwv0bN1ZV58DyTZSLw3UN00nP7uUcX_3ZqFQmAjufAvNRFshC5AJCuMdHb2n9kzC3w/s1600/ai-agents.jpg"
-    },
-    {
-      "title": "TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack",
-      "link": "https://www.securityweek.com/tanstack-mistral-ai-uipath-hit-in-fresh-supply-chain-attack/",
-      "description": "Over 400 malicious versions of 170 packages were published as part of the new Mini Shai-Hulud campaign. The post TanStack, Mistral AI, UiPath Hit in Fresh Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-05-12T10:10:33.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/AI_Jailbreak-LLM.jpeg"
     },
     {
       "title": "Instructure reaches 'agreement' with ShinyHunters to stop data leak",
@@ -208,15 +424,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc92afe17dbd34016/6a022fb240d9cd336435418d/cyber_eye_Lightfield_Studios_Inc_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
-      "link": "https://www.darkreading.com/cybersecurity-operations/20-leaders-ciso-era-2-decades-change",
-      "description": "As part of Dark Reading's 20th anniversary special coverage, we profile the CISOs, founders, researchers, criminals, and policymakers who rewrote the enterprise risk playbook.",
-      "pubDate": "2026-05-11T19:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75b70c94d4929df4/69fe0f027b0753efdf549e04/architect-Artur_Marciniec-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "TeamPCP Compromises Checkmarx Jenkins AST Plugin Weeks After KICS Supply Chain Attack",
       "link": "https://thehackernews.com/2026/05/teampcp-compromises-checkmarx-jenkins.html",
       "description": "Checkmarx has confirmed that a modified version of the Jenkins AST plugin was published to the Jenkins Marketplace. \"If you are using Checkmarx Jenkins AST plugin, you need to ensure that you are using the version 2.0.13-829.vc72453fa_1c16 that was published on December 17, 2025 or previously,\" the cybersecurity company said in a statement over the weekend. As of writing, Checkmarx has released",
@@ -235,15 +442,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInpdPoL0Kf1i9D6daAAGB1QPCR3E0d_ArELz-ks1Y6cJ_low0jdZYqamKMKMxC12OC-XMwUrDIWdh_xK_d7zLLQfH-rDl0-Vi_VSsFswAuJL0mEtQg-FW66c_1it8d59p2An-T3_oQJ_Q_yHLiX0PHtEq2OdLcGXwxniVKGJGLusWdjJfP7M-H9ADm8cK/s1600/cpcp.jpg"
     },
     {
-      "title": "Frame Security Emerges From Stealth With $50M for Awareness and Training Platform",
-      "link": "https://www.securityweek.com/frame-security-emerges-from-stealth-with-50m-for-awareness-and-training-platform/",
-      "description": "Team8, Index Ventures, Picture Capital, Elad Gil, Cerca Partners, and Tesonet invested in Frame Security. The post Frame Security Emerges From Stealth With $50M for Awareness and Training Platform appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T17:17:37.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-2.jpeg"
-    },
-    {
       "title": "Hackers Used AI to Develop First Known Zero-Day 2FA Bypass for Mass Exploitation",
       "link": "https://thehackernews.com/2026/05/hackers-used-ai-to-develop-first-known.html",
       "description": "Google on Monday disclosed that it identified an unknown threat actor using a zero-day exploit that it said was likely developed with an artificial intelligence (AI) system, marking the first time the technology has been put to use in the wild in a malicious context for vulnerability discovery and exploit generation. The activity is said to be the work of cybercrime threat actors who appear to",
@@ -253,15 +451,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgF329-zAoI4gwIW3h3gRYiDJjcRSyWPM4DLHFQwNNGfLTVaROqIfQZ0QB1FwWGmvMGuyNAF9Q6QBYcwLsqMsCka5Lqu82CzUbrBULnUDQwtY_4z6KiOEKSETes6as77XfUCaJVBUOCovZz8jajp6vBp9AAjHiS7BEviANEH0FxmzZwdrTapD3R-gPQWKJ1/s1600/ai-hacker.jpg"
     },
     {
-      "title": "Instructure confirms hackers used Canvas flaw to deface portals",
-      "link": "https://www.bleepingcomputer.com/news/security/instructure-confirms-hackers-used-canvas-flaw-to-deface-portals/",
-      "description": "Education technology giant Instructure has confirmed that a security vulnerability allowed hackers to modify Canvas login portals and leave an extortion message. [...]",
-      "pubDate": "2026-05-11T15:26:26.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/01/instructure-header2.jpg"
-    },
-    {
       "title": "'Dirty Frag' Exploit Poised to Blow Up on Enterprise Linux Distros",
       "link": "https://www.darkreading.com/vulnerabilities-threats/dirty-frag-exploit-blow-up-enterprise-linux-distros",
       "description": "The privilege escalation vulnerability, which is similar to other Linux flaws like Copy Fail and Dirty Pipe, may already be under limited exploitation.",
@@ -269,42 +458,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6294394cb13e6ebe/6a01bfb65f98bb6fdefc0215/bombs-Valeriy_Kachaev-Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Build Application Firewalls Aim to Stop the Next Supply Chain Attack",
-      "link": "https://www.securityweek.com/build-application-firewalls-aim-to-stop-the-next-supply-chain-attack/",
-      "description": "Rather than scanning code alone, Build Application Firewalls inspect runtime behavior inside the software build pipeline. The post Build Application Firewalls Aim to Stop the Next Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T14:06:01.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
-    },
-    {
-      "title": "Why Changing Passwords Doesn’t End an Active Directory Breach",
-      "link": "https://www.bleepingcomputer.com/news/security/why-changing-passwords-doesnt-end-an-active-directory-breach/",
-      "description": "Resetting a password doesn't always remove attackers from Active Directory. Specops Software explains how cached credentials and Kerberos tickets can keep attackers authenticated after a reset. [...]",
-      "pubDate": "2026-05-11T13:53:56.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/05/04/why-changing-passwords-doesnt-end-an-active-directory-breach.png"
-    },
-    {
-      "title": "Google Detects First AI-Generated Zero-Day Exploit",
-      "link": "https://www.securityweek.com/google-detects-first-ai-generated-zero-day-exploit/",
-      "description": "The zero-day was designed to bypass 2FA and it was developed by a prominent cybercrime group. The post Google Detects First AI-Generated Zero-Day Exploit appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T13:04:21.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/Zero-Day-Exploit.jpg"
-    },
-    {
-      "title": "Google: Hackers used AI to develop zero-day exploit for web admin tool",
-      "link": "https://www.bleepingcomputer.com/news/security/google-hackers-used-ai-to-develop-zero-day-exploit-for-web-admin-tool/",
-      "description": "Researchers at Google Threat Intelligence Group (GTIG) say that a zero-day exploit targeting a popular open-source web administration tool was likely generated using AI. [...]",
-      "pubDate": "2026-05-11T13:02:30.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/11/ai.jpg"
     },
     {
       "title": "Hackers Use AI for Exploit Development, Attack Automation",
@@ -325,15 +478,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg"
     },
     {
-      "title": "Webinar this week: Prevention alone is not enough against modern attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-this-week-prevention-alone-is-not-enough-against-modern-attacks/",
-      "description": "This upcoming webinar explores how organizations need to combine security, backups, and recovery planning to reduce the impact of modern cyberattacks. [...]",
-      "pubDate": "2026-05-11T12:30:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/10/27/datacenter-under-attack.jpg"
-    },
-    {
       "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
       "description": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
@@ -341,15 +485,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcdb68c050b92d44f/69fe24d5757b4d3f64b57d8a/drone-mapping-system-DC_Studio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Skoda Data Breach Hits Online Shop Customers",
-      "link": "https://www.securityweek.com/skoda-data-breach-hits-online-shop-customers/",
-      "description": "Using a vulnerability in the portal, hackers accessed names, addresses, email addresses, and phone numbers. The post Skoda Data Breach Hits Online Shop Customers appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T11:54:27.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/cars.jpeg"
     },
     {
       "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
@@ -361,15 +496,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg"
     },
     {
-      "title": "Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring",
-      "link": "https://www.securityweek.com/cloudflare-lays-off-1100-employees-in-ai-driven-restructuring/",
-      "description": "The company topped revenue and earnings forecasts for the first quarter of 2026, but its shares plunged more than 20%. The post Cloudflare Lays Off 1,100 Employees in AI-Driven Restructuring appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T11:25:02.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity-Layoffs.jpg"
-    },
-    {
       "title": "LLMs and Text-in-Text Steganography",
       "link": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
       "description": "Turns out that LLMs are really good at hiding text messages in other text messages.",
@@ -377,24 +503,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "SailPoint Discloses GitHub Repository Hack",
-      "link": "https://www.securityweek.com/sailpoint-discloses-github-repository-hack/",
-      "description": "The incident occurred on April 20 and did not affect customer data in the company’s production and staging environments. The post SailPoint Discloses GitHub Repository Hack appeared first on SecurityWeek.",
-      "pubDate": "2026-05-11T10:52:23.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
-    },
-    {
-      "title": "TrickMo Android banker adopts TON blockchain for covert comms",
-      "link": "https://www.bleepingcomputer.com/news/security/trickmo-android-banker-adopts-ton-blockchain-for-covert-comms/",
-      "description": "A new variant of the TrickMo Android banking malware, delivered in campaigns targeting users across Europe, introduces new commands and uses The Open Network (TON) for stealthy command-and-control communications. [...]",
-      "pubDate": "2026-05-11T09:03:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/31/image_(2).jpg"
     },
     {
       "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
@@ -433,24 +541,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Splash-Template-1.jpg"
     },
     {
-      "title": "Hackers abuse Google ads, Claude.ai chats to push Mac malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-abuse-google-ads-claudeai-chats-to-push-mac-malware/",
-      "description": "Attackers are abusing Google Ads and legitimate Claude.ai shared chats in an active malvertising campaign. Users searching for \"Claude mac download\" may come across sponsored search results that list claude.ai as the target website, but lead to instructions that install malware on their Mac. [...]",
-      "pubDate": "2026-05-10T17:52:15.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png"
-    },
-    {
-      "title": "Police shut down reboot of Crimenetwork marketplace, arrest admin",
-      "link": "https://www.bleepingcomputer.com/news/security/police-shut-down-reboot-of-crimenetwork-marketplace-arrest-admin/",
-      "description": "German authorities have shut down a relaunch version of the criminal marketplace 'Crimenetwork' that generated more than 3.6 million euros, and arrested its operator. [...]",
-      "pubDate": "2026-05-10T14:16:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/Law_enforcement_arrest.jpg"
-    },
-    {
       "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
       "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
       "description": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
@@ -458,24 +548,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
-    },
-    {
-      "title": "JDownloader site hacked to replace installers with Python RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/jdownloader-site-hacked-to-replace-installers-with-python-rat-malware/",
-      "description": "The website for the popular JDownloader download manager was compromised earlier this week to distribute malicious Windows and Linux installers, with the Windows payload found deploying a Python-based remote access trojan. [...]",
-      "pubDate": "2026-05-09T19:27:58.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/09/jdownloader-header.jpg"
-    },
-    {
-      "title": "Fake OpenAI repository on Hugging Face pushes infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-openai-repository-on-hugging-face-pushes-infostealer-malware/",
-      "description": "A malicious Hugging Face repository that reached the platform's trending list impersonated OpenAI's \"Privacy Filter\" project to deliver information-stealing malware to Windows users. [...]",
-      "pubDate": "2026-05-09T14:26:03.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/24/hacker_box.jpg"
     },
     {
       "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
@@ -649,15 +721,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX-v9Rdn-UppGqdbm0oFYXNg6myRCPn8r-d4BXVN0e2r2hqrYbGPUwOKafMbwKlojjbck4C8Ez6dxZ7WcLF45PNphvCo1K4OGhXl0u9fWanVMbO62iZoWMQJrplTa6VaXfI2rhQL40PoDK0ZNh2jqDJGBc9LylbIE92LWSNEIkVUhSpkGyAfV7g-DVZlU1/s1600/ivanti.jpg"
     },
     {
-      "title": "PCPJack Credential Stealer Exploits 5 CVEs to Spread Worm-Like Across Cloud Systems",
-      "link": "https://thehackernews.com/2026/05/pcpjack-credential-stealer-exploits-5.html",
-      "description": "Cybersecurity researchers have disclosed details of a new credential theft framework dubbed PCPJack that targets exposed cloud infrastructure and ousts any artifacts linked to TeamPCP from the environments. \"The toolset harvests credentials from cloud, container, developer, productivity, and financial services, then exfiltrates the data through attacker-controlled infrastructure while attempting",
-      "pubDate": "2026-05-07T17:45:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2N74T5rZvfRcHqUhwtyI3hbxAAQnB-RQQqpiGSIJqdplaQaZcjvqLR80d3pIjwJyGtAO5V0Ji6_3w4V4Ww901x4aSGY_Id3lzqXNdGUMbprz80zXoKzHVoIBqyhVBU_LvIMyJHV5MHaMWvZuWgREFmqG4jOdBLpW4gBtgKCrnfRS4mIXemDQ9U_fRERQf/s1600/clouds.jpg"
-    },
-    {
       "title": "World Passkey Day: Advancing passwordless authentication",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/07/world-passkey-day-advancing-passwordless-authentication/",
       "description": "This World Passkey Day, read how Microsoft is advancing passkey adoption to replace passwords, cut phishing risk, and deliver simpler, more secure sign-ins. The post World Passkey Day: Advancing passwordless authentication appeared first on Microsoft Security Blog.",
@@ -665,15 +728,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/world-passkey-day-2026-1a.jpg"
-    },
-    {
-      "title": "PAN-OS RCE Exploit Under Active Use Enabling Root Access and Espionage",
-      "link": "https://thehackernews.com/2026/05/pan-os-rce-exploit-under-active-use.html",
-      "description": "Palo Alto Networks has disclosed that threat actors may have attempted to unsuccessfully exploit a recently disclosed critical security flaw as early as April 9, 2026. The vulnerability in question is CVE-2026-0300 (CVSS score: 9.3/8.7), a buffer overflow vulnerability in the User-ID Authentication Portal service of Palo Alto Networks PAN-OS software that could allow an unauthenticated attacker",
-      "pubDate": "2026-05-07T13:34:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhA-FbTXMB7fJu_4ZxIlvKU2wHShSiMZaCQBah-p33256FjWEUsO0kd4s-LXOT_YQoS39Mj5f7nhj-ERtNF2EPNU9WG91ZWJXpl4cwYFoWz8npaMpVWzAhYjVVB-JnPyoycvPmik7Y5IsihIDXp7_mHvh4DYUz9vqkkVRYgylDqKeezcDEwqRJNs4F_2scA/s1600/paloalto-rce.jpg"
     },
     {
       "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
@@ -692,15 +746,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "ThreatsDay Bulletin: Edge Plaintext Passwords, ICS 0-Days, Patch-or-Die Alerts and 25+ New Stories",
-      "link": "https://thehackernews.com/2026/05/threatsday-bulletin-edge-plaintext.html",
-      "description": "Bad week. Turns out the easiest way to get hacked in 2026 is still the same old garbage: shady packages, fake apps, forgotten DNS junk, scam ads, and stolen logins getting dumped into Discord channels like it’s normal. Some of these attack chains don’t even feel sophisticated anymore. More like some tired guy with a Telegram account and too much free time. The worst part is how often this stuff",
-      "pubDate": "2026-05-07T11:33:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYNaH2vOiD-OgAVnO0nGCSr8j4nnvHD2n7RieJD2mDMlPev_fKoBafjhvob13LV4pOFhgMuZd6ex8zyQnCM1AyVfl6fuRG9Max2F76Ku9rWbieBvF0AtGlQd0nXlIwHDKvq5H4BJn3hGCRfE86fHs5SL05RywOADNDC9J5lG9DF8goavgxWzAh7a7isNMB/s1600/threatsday-1.jpg"
     },
     {
       "title": "Smart Glasses for the Authorities",
@@ -901,24 +946,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1a20a00c4a995c76/69f91543b4185b753bc41213/cargo-trucks-with-containers-Siwakorn1933-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "RMM Tools Fuel Stealthy Phishing Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rmm-tools-stealthy-phishing-campaign",
-      "description": "Attackers are abusing two remote monitoring and management (RMM) tools to evade detection in a campaign that has impacted over 80 organizations so far.",
-      "pubDate": "2026-05-04T20:56:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf46275f28f98b091/69f8f7d214132e1bc74be18d/rmm_Digitala_World_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Exploit Cyber-Frenzy Threatens Millions via Critical cPanel Vulnerability",
-      "link": "https://www.darkreading.com/threat-intelligence/exploit-cyber-frenzy-critical-cpanel-vulnerability",
-      "description": "Shortly after the authentication-bypass flaw was disclosed multiple proof-of-concept exploits appeared, and one researcher claims there's been zero-day activity for at least a month.",
-      "pubDate": "2026-05-04T19:14:14.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd788cf590f1679de/69f8f0d8468cc9ebbfe375b3/cpanel_IBPhotography_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
       "description": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains. The post Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise appeared first on Microsoft Security Blog.",
@@ -926,15 +953,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure1-timeline.webp"
-    },
-    {
-      "title": "Silver Fox Springs Tax-Themed Attacks on Orgs in India, Russia",
-      "link": "https://www.darkreading.com/endpoint-security/silver-fox-tax-themed-attacks-india-russia",
-      "description": "More than 1,600 socially engineered messages from the China-backed advanced persistent threat (APT) group target various sectors to deliver the previously undocumented ABCDoor backdoor, ValleyRAT, and other malware.",
-      "pubDate": "2026-05-04T14:39:26.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta82565fb6653cd0e/69f88e988135d0869c215e99/silver-fox-closeup-ambquinn-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition",
@@ -1025,24 +1043,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/AdobeStock_739390615-1.jpg"
-    },
-    {
-      "title": "What’s new, updated, or recently released in Microsoft Security",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/whats-new-updated-or-recently-released-in-microsoft-security/",
-      "description": "Stay ahead of emerging threats with Microsoft’s newest security innovations and updates, delivered through the In the Loop series. The post What’s new, updated, or recently released in Microsoft Security appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-30T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Picture1-1-1024x576.webp"
-    },
-    {
-      "title": "Email threat landscape: Q1 2026 trends and insights",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/04/30/email-threat-landscape-q1-2026-trends-and-insights/",
-      "description": "In early 2026, email threats increased with a rise in credential phishing, QR code phishing, and CAPTCHA-gated campaigns, highlighted by Microsoft’s disruption of the Tycoon2FA phishing platform which led to a 15% volume decrease and shifts in threat actor tactics. The post Email threat landscape: Q1 2026 trends and insights appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-04-30T15:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/04/Figure-1.-Tycoon2FA-monthly-malicious-messages-volume-November-2025-&ndash;-March-2026-scaled.webp"
     },
     {
       "title": "Fast16 Malware",
