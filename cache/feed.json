@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-13T16:41:10.581Z",
+  "generatedAt": "2026-05-14T08:11:35.197Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,132 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
+      "description": "Linux distros are rolling out patches for a new high-severity kernel privilege escalation vulnerability (known as Fragnasia and tracked as CVE-2026-46300) that allows attackers to run malicious code as root. [...]",
+      "pubDate": "2026-05-14T07:34:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/31/Linux.jpg"
+    },
+    {
+      "title": "Researcher Drops YellowKey, GreenPlasma Windows Zero-Days",
+      "link": "https://www.securityweek.com/researcher-drops-yellowkey-greenplasma-windows-zero-days/",
+      "description": "YellowKey is a BitLocker bypass that requires physical access. GreenPlasma enables elevation of privileges to System. The post Researcher Drops YellowKey, GreenPlasma Windows Zero-Days appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T07:27:42.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Windows-Kernel-BSOD.jpg"
+    },
+    {
+      "title": "New Fragnesia Linux Kernel LPE Grants Root Access via Page Cache Corruption",
+      "link": "https://thehackernews.com/2026/05/new-fragnesia-linux-kernel-lpe-grants.html",
+      "description": "Details have emerged about a new variant of the recent Dirty Frag Linux local privilege escalation (LPE) vulnerability that allows local attackers to gain root access, making it the third such bug to be identified in the kernel within a span of two weeks. Codenamed Fragnesia, the security vulnerability is tracked as CVE-2026-46300 (CVSS score: 7.8) and is rooted in the Linux kernel's XFRM",
+      "pubDate": "2026-05-14T07:06:15.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZEVPJhl5rAx5o22-s1GQ6E1KKHMlOsazAfObgwK72r5EGxr52OkNRHHQXJdHt39DQop0SAhxE_t9nMKgXxHNgYv1zyB-ZR1IqCIKUK2feTpx1swr4dZzKLpZ5uldjrOAX6qH-wYnUfRWieA2xQWPbAUB1JpXhkBGq4AA0Ft07F7MFqZSHCS9SMR6uXjoC/s1600/linux-2.jpg"
+    },
+    {
+      "title": "18-Year-Old NGINX Rewrite Module Flaw Enables Unauthenticated RCE",
+      "link": "https://thehackernews.com/2026/05/18-year-old-nginx-rewrite-module-flaw.html",
+      "description": "Cybersecurity researchers have disclosed multiple security vulnerabilities impacting NGINX Plus and NGINX Open, including a critical flaw that remained undetected for 18 years. The vulnerability, discovered by depthfirst, is a heap buffer overflow issue impacting ngx_http_rewrite_module (CVE-2026-42945, CVSS v4 score: 9.2) that could allow an attacker to achieve remote code execution or cause a",
+      "pubDate": "2026-05-14T06:00:09.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhhCvxtNv7UYYMCITB2HLsBgkN83LdRXcw0wmP9gMAfXeNpmJoOJKNIaQb55b-GLDeQHx-dUBkASGDYgstnvYAE5eFuwyzMSxY804fn56OaTsGlESOab9y-kFHJ-iV5iUlWrc5j27WLduUDhW6nRSjkv5tFMKZjDbbmDdk7_NMZ3y7sipHKy7t4XuMQ9YfG/s1600/nn.gif"
+    },
+    {
+      "title": "Welcoming the Bahamian Government to Have I Been Pwned",
+      "link": "https://www.troyhunt.com/welcoming-the-bahamian-government-to-have-i-been-pwned/",
+      "description": "Today, we welcome the 44th government onboarded to Have I Been Pwned’s free gov service: The Bahamas. The National Computer Incident Response Team of The Bahamas, CIRT-BS, now has access to monitor government domains against the data in HIBP. As the national CIRT, CIRT-BS is responsible for coordinating",
+      "pubDate": "2026-05-14T03:49:29.000Z",
+      "source": "Troy Hunt",
+      "category": "opinion",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Artboard-1.png"
+    },
+    {
+      "title": "Smashing Security podcast #467: How ShinyHunters hacked the world’s biggest universities",
+      "link": "https://grahamcluley.com/smashing-security-podcast-467/",
+      "description": "Welcome to the largest educational data breach in history - affecting nearly 9,000 institutions, every Ivy League university, and 30 million students mid-finals. When Canvas's parent company refused to pay and announced they had deployed \"security patches\" instead, the hackers were less than impressed. So they came back through the cat flap. Meanwhile, a famous finance expert's face has been showing up on Facebook adverts promising hot stock tips and exclusive WhatsApp investment groups. Spoiler: it isn't him, the tips aren't real, and you're about to be scammed. Plus we chat to Mike Nichols o",
+      "pubDate": "2026-05-13T23:05:09.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-467.webp"
+    },
+    {
+      "title": "West Pharmaceutical says hackers stole data, encrypted systems",
+      "link": "https://www.bleepingcomputer.com/news/security/west-pharmaceutical-says-hackers-stole-data-encrypted-systems/",
+      "description": "West Pharmaceutical Services disclosed that it was the target of a cyberattack that resulted in data exfiltration and system encryption. [...]",
+      "pubDate": "2026-05-13T22:23:31.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/13/West.jpg"
+    },
+    {
+      "title": "Iranian hackers targeted major South Korean electronics maker",
+      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-targeted-major-south-korean-electronics-maker/",
+      "description": "The Iran-linked hacking group MuddyWater (a.k.a. Seedworm, Static Kitten) launched a broad cyber-espionage campaign targeting at least nine high-profile organizations across multiple sectors and countries. [...]",
+      "pubDate": "2026-05-13T21:59:33.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/07/Iranian-hackers.jpg"
+    },
+    {
+      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
+      "description": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
+      "pubDate": "2026-05-13T21:17:07.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt730562b46d0b78c5/66be4145fa2d5811b851cb52/Risk(1800)_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Attackers Weaponize RubyGems for Data Dead Drops",
+      "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
+      "description": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
+      "pubDate": "2026-05-13T21:09:20.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c3a7f42da5b1b95/6a04cc6a3840020cbc815a66/ruby_Zerilli_Media_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
+      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
+      "description": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
+      "pubDate": "2026-05-13T20:47:46.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd4988365b90a7362/6a04c7e73c21f66c138b9490/Top_hats-Guy_Corbishley-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "New critical Exim mailer flaw allows remote code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/new-critical-exim-mailer-flaw-allows-remote-code-execution/",
+      "description": "A critical vulnerability affecting certain configurations of the Exim open-source mail transfer agent could be exploited by an unauthenticated remote attacker to execute arbitrary code. [...]",
+      "pubDate": "2026-05-13T20:23:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/13/exim.jpg"
+    },
+    {
+      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
+      "description": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
+      "pubDate": "2026-05-13T18:52:50.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
+      "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
+      "description": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek.",
+      "pubDate": "2026-05-13T17:13:36.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Foxconn.jpeg"
+    },
     {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
@@ -100,15 +226,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOfGXVOYqF2EcrcnYIDCnTYdmWpV-uaZ5nV0_0ukZ8uCk19wFFOax_VvgwO8LtlIkVo8pvcSSBs8Afc66yo2PbiMDjq4UDqnytAqP-Nq8CqTOfEtqwuWRmjbUpRYzqaAXFnRiXozR34fXAPE8O6Gcix6f08Sped3oVUXcjIOTE04N8IInA0qVeG0Sc6LzB/s1600/energy-cyberattack.jpg"
     },
     {
-      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
-      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "description": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
-      "pubDate": "2026-05-13T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
       "description": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
@@ -116,6 +233,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
+      "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
+      "description": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "pubDate": "2026-05-13T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Foxconn confirms cyberattack claimed by Nitrogen ransomware gang",
@@ -160,7 +286,7 @@
       "pubDate": "2026-05-13T11:52:43.000Z",
       "source": "The Hacker News",
       "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh-X1ZWS1wjhotRXh44H3uH6bxJmz3fwKA9tFIuYxCVV_b_BhzNKscxBa_St0ybBNSIpHYTlgBf0YvsuY1B2FUJebmGwtpkgeDh7DutT4ERpurg_iRTfDNbyWWzFOt5Z8PLGDu-kywwNTPdNVK_UDcAC8ZzdFCry5xDvx8c8l9QtNJKk6J4ZQVRIpvAfzwf/s1600/wiz.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhKoTt2TCJhCZC7cgKpISoFL1hoD6YqAXVIIIzKZEyYmvXusJXxb2WQ_cYnjRCYdKeOJj2756fnWj2had24_OCECDq5bDf7y98vuYhsKSbrbRH1WYIqpwCF47lLsvrgFGLPkhomycGiEHqDa50OjwuwIZmH6cAu1vOXoXOiTzU4Si8qq6YPfo2r4OsP4KI/s1600/wiz.png"
     },
     {
       "title": "Most Remediation Programs Never Confirm the Fix Actually Worked",
@@ -235,15 +361,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZpbB_p88zZf6q_DhwCbgnYn2okFYqa7pwIPmknojvkOC3heteNMp3C6bzD_6WKChB4yVK0wLyoJ_-DebN0c229j-twjPyMAC-qkfGs1tjlaEoNg30fpEDh9DIByfz_h4nKhalTC_Su-FP0AYxywL_x85ILq1t-QFPtuMa_-KbLKlfsX15kvGpPCs1OZpw/s1600/rubygemss.jpg"
     },
     {
-      "title": "Hundreds of Malicious Packages Force RubyGems to Suspend Registrations",
-      "link": "https://www.securityweek.com/hundreds-of-malicious-packages-force-rubygems-to-suspend-registrations/",
-      "description": "More than 500 packages were pushed during the attack, but the target appears to have been RubyGems itself rather than users. The post Hundreds of Malicious Packages Force RubyGems to Suspend Registrations appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T07:30:36.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
-    },
-    {
       "title": "Android Adds Intrusion Logging for Sophisticated Spyware Forensics",
       "link": "https://thehackernews.com/2026/05/android-adds-intrusion-logging-for.html",
       "description": "Google on Tuesday unveiled a new opt-in Android feature called Intrusion Logging for storing forensic logs to better analyze sophisticated spyware attacks. Intrusion Logging, available as part of Advanced Protection Mode, enables \"persistent and privacy-preserving forensics logging to allow for investigation of devices in the event of a suspected compromise,\" the company said. The feature, it",
@@ -253,13 +370,13 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNoTD0wrxHsoNUfZVLT2ImOUNC-2Md_wih6gTim-zbqkCzgGfXbtvlDgDMWeczo9RzINqu7qqk_3XK0KHSdbpLMPbR9xg_pLpjtoxugUt3B5-G9pL9wBCMI80Rx-Aw9eNxH-XXE2XpQHDtqaGDeXe3P4mGDvPgmDiqom8B2Xdfz7irCpOZVvhP9jsqudo/s1600/adnroid-Intrusion-Logging.jpg"
     },
     {
-      "title": "ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA",
-      "link": "https://www.securityweek.com/ics-patch-tuesday-new-security-advisories-from-siemens-schneider-cisa/",
-      "description": "Many ICS vendors have not released new advisories for the May 2026 Patch Tuesday. The post ICS Patch Tuesday: New Security Advisories From Siemens, Schneider, CISA appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T06:50:51.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/11/ICS_Patches.jpg"
+      "title": "Falcon AIDR Detects Threats at the Prompt Layer in Kubernetes AI Applications",
+      "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-detects-threats-at-prompt-layer-in-kubernetes-ai-apps/",
+      "description": "",
+      "pubDate": "2026-05-13T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
@@ -286,7 +403,7 @@
       "pubDate": "2026-05-12T22:00:00.000Z",
       "source": "Microsoft Security",
       "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Picture2.svg"
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-3-1.webp"
     },
     {
       "title": "It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight",
@@ -325,45 +442,9 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5087544 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5087544-extended-security-update/",
-      "description": "Microsoft has released the Windows 10 KB5087544 extended security update to fix the May 2026 Patch Tuesday vulnerabilities and resolve an issue with the new Remote Desktop warnings. [...]",
-      "pubDate": "2026-05-12T18:58:34.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg"
-    },
-    {
-      "title": "Fortinet warns of critical RCE flaws in FortiSandbox and FortiAuthenticator",
-      "link": "https://www.bleepingcomputer.com/news/security/fortinet-warns-of-critical-rce-flaws-in-fortisandbox-and-fortiauthenticator/",
-      "description": "Fortinet has released security patches for two critical vulnerabilities in FortiSandbox and FortiAuthenticator that could enable attackers to run commands or arbitrary code. [...]",
-      "pubDate": "2026-05-12T18:23:09.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg"
-    },
-    {
-      "title": "Windows 11 KB5089549 & KB5087420 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5089549-and-kb5087420-cumulative-updates-released/",
-      "description": "Microsoft has released Windows 11 KB5089549 and KB5087420 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "pubDate": "2026-05-12T18:09:12.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Windows11.jpg"
-    },
-    {
-      "title": "Microsoft May 2026 Patch Tuesday fixes 120 flaws, no zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-may-2026-patch-tuesday-fixes-120-flaws-no-zero-days/",
-      "description": "Today is Microsoft's May 2026 Patch Tuesday, with security updates for 120 flaws and no zero-days disclosed this month. [...]",
-      "pubDate": "2026-05-12T18:08:06.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
-    },
-    {
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
       "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "description": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185, aka Dead.Letter, has been described as a use-after-free",
+      "description": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a",
       "pubDate": "2026-05-12T16:44:00.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -667,15 +748,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
     },
     {
-      "title": "cPanel, WHM Release Fixes for Three New Vulnerabilities — Patch Now",
-      "link": "https://thehackernews.com/2026/05/cpanel-whm-patch-3-new-vulnerabilities.html",
-      "description": "cPanel has released updates to address three vulnerabilities in cPanel and Web Host Manager (WHM) that could be exploited to achieve privilege escalation, code execution, and denial-of-service. The list of vulnerabilities is as follows - CVE-2026-29201 (CVSS score: 4.3) - An insufficient input validation of the feature file name in the \"feature::LOADFEATUREFILE\" adminbin call that could result",
-      "pubDate": "2026-05-09T07:16:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8HLwOMzo20kbZmflPvJJmY7su6wWOWgDLV-dJNx-k76m5ivbwVoCkFrnsLXkyO4PHAyLSkPXinjK71SDmWabyOcTlKb3juZgkXTzOVuMvZk6-LUFMhoJ-UGFvv0qEby7QmYcjTWn1m1L19VTKeB7CdmKvpvIP5ifniLO92ARSLjtf8rcXIbm8AFMZei-M/s1600/cpanel-3.jpg"
-    },
-    {
       "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
       "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-giant-squid-live-in-the-waters-of-western-australia.html",
       "description": "Evidence of them has been found by analyzing DNA in the seawater. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
@@ -692,15 +764,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7bbbe83a6784235d/69fe32ca50b7f73288ba7eeb/Instructure-Kristoffer_Tripplaar-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "TCLBANKER Banking Trojan Targets Financial Platforms via WhatsApp and Outlook Worms",
-      "link": "https://thehackernews.com/2026/05/tclbanker-banking-trojan-targets.html",
-      "description": "Threat hunters have flagged a previously undocumented Brazilian banking trojan dubbed TCLBANKER that's capable of targeting 59 banking, fintech, and cryptocurrency platforms. The activity is being tracked by Elastic Security Labs under the moniker REF3076. The malware family is assessed to be a major update of the Maverick family, which is known to leverage a worm called SORVEPOTEL to",
-      "pubDate": "2026-05-08T18:12:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWchpptUYeW4vXSUXfGq-uMzB1mr_dzsvX8XIWssIKzaWa4_eYbaLwec5Zos3xCoD0s8-LDcGI7Vj8DjFq6RtUY68HP21YudHYdsFS2xdyzQE7OPyuTlqyO2X9uwlSCRuVl9tAUwq0mvGuXlYkxjdmC7ynyAcIDpbejkR45ucf_L3VCDupSZMteOby7BUp/s1600/banking.jpg"
     },
     {
       "title": "Insider Betting on Polymarket",
@@ -928,42 +991,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/05_Vulnerabilities_1920x900-2-1.jpg"
     },
     {
-      "title": "Trellix Source Code Breach Highlights Growing Supply Chain Threats",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/trellix-source-code-breach-supply-chain-threats",
-      "description": "Info is scant, but such breaches can reveal where a security product's controls are located and how detections are designed, giving attackers a leg up.",
-      "pubDate": "2026-05-05T20:40:11.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0ce2aa588d0574d6/69fa4ff52a5a217abee03ef2/trellix_frantic_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Research Hub Bridges Cybersecurity Gap for Under-Resourced Organizations",
-      "link": "https://www.darkreading.com/cyber-risk/research-hub-bridges-cybersecurity-gap-organizations",
-      "description": "The UC Berkeley Center for Long-Term Cybersecurity (CLTC) offers tools and support to schools, local governments, and non-profits as they defend themselves against a growing volume of cyberattacks.",
-      "pubDate": "2026-05-05T20:00:49.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb801b23c75c6d479/69ef84ca571da63ad9514579/2XMCPR9.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Why Security Leadership Makes or Breaks a Pen Test",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/security-leadership-makes-breaks-penetration-tests",
-      "description": "Well-run security drills go beyond checking audit boxes to identifying and addressing trouble spots. Effective leaders ensure proper scope, access, and follow-through, but it's not easy.",
-      "pubDate": "2026-05-05T18:36:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c43a304b72dbf9f/69f4fa5efd88b890dc44f905/pentest_dizain_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft Edge Stores Passwords in Process Memory, Posing Enterprise Risk",
-      "link": "https://www.darkreading.com/cyber-risk/microsoft-edge-passwords-enterprise-risk",
-      "description": "A proof-of-concept exploit (PoC) shows how someone with admin privileges can exploit the issue to steal passwords, and thus use them to engage in further malicious activity.",
-      "pubDate": "2026-05-05T14:57:51.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0e4c889f98a082d1/69f9c4de2b93d911f8c512dd/Passwords-1800_designer491_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "DarkSword Malware",
       "link": "https://www.schneier.com/blog/archives/2026/05/darksword-malware.html",
       "description": "DarkSword is a sophisticated piece of malware—probably government designed—that targets iOS. Google Threat Intelligence Group (GTIG) has identified a new iOS full-chain exploit that leveraged multiple zero-day vulnerabilities to fully compromise devices. Based on toolmarks in recovered payloads, we believe the exploit chain to be called DarkSword. Since at least November 2025, GTIG has observed multiple commercial surveillance vendors and suspected state-sponsored actors utilizing DarkSword in distinct campaigns. These threat actors have deployed the exploit chain against targets in Saudi Arab",
@@ -1180,15 +1207,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/11_Security-Technology_Category_1505x922.jpg"
     },
     {
-      "title": "CrowdStrike Expands Real-Time Cloud Detection and Response to Google Cloud",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-real-time-cloud-detection-and-response-to-google-cloud/",
-      "description": "",
-      "pubDate": "2026-04-22T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Strengthening authentication with passkeys: A CISO playbook",
       "link": "https://www.sophos.com/en-us/blog/strengthening-authentication-with-passkeys-a-ciso-playbook",
       "description": "Our passkey rollout took three tries. Here's a playbook to make your implementation smoother. Categories: Security Operations Tags: CISO, playbook, toolkit, passkeys",
@@ -1360,15 +1378,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-461.webp"
     },
     {
-      "title": "Alleged RedLine malware developer extradited to United States",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/redline-malware-developer-extradited",
-      "description": "A man has appeared in federal court in Austin, Texas, after being extradited to the United States to face charges related to his alleged role as a key developer of the notorious RedLine malware. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-04-01T09:00:13.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/redline.jpeg"
-    },
-    {
       "title": "Weekly Update 497",
       "link": "https://www.troyhunt.com/weekly-update-497/",
       "description": "Day by day, I find we're eeking more goodness out of OpenClaw and finding the sweet spot between what the humans do well and the agent can run off and do on its own. Significantly, we're shifting more and more of the workload to the latter",
@@ -1412,15 +1421,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/03/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "Weekly Update 493",
-      "link": "https://www.troyhunt.com/weekly-update-493/",
-      "description": "The Odido breach leaks were towards the beginning during this week's update. I recorded it the day after the second dump of data had hit, with a third dump coming a few hours later, and a final dump of everything the day after that. From what I hear,",
-      "pubDate": "2026-03-02T07:51:14.000Z",
-      "source": "Troy Hunt",
-      "category": "opinion",
-      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/03/Splash-Template.jpg"
     },
     {
       "title": "Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation",
