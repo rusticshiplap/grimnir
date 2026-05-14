@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T12:12:26.396Z",
+  "generatedAt": "2026-05-14T16:22:28.056Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,105 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Upcoming Speaking Engagements",
+      "link": "https://www.schneier.com/blog/archives/2026/05/upcoming-speaking-engagements-56.html",
+      "description": "This is a current list of where and when I am scheduled to speak: I’m giving a virtual talk on “The Security of Trust in the Age of AI,” hosted by the Financial Women’s Association of New York, at 6:00 PM ET on May 21, 2026. I’m speaking at the Potsdam Conference on National Cybersecurity at the Hasso Plattner Institut in Potsdam, Germany. The event runs June 24–25, 2026, and my talk will be the evening of June 24. I’m speaking at the Digital Humanism Conference in Vienna, Austria, on Tuesday, June 26, 2026. I’m speaking at the Nuremberg Digital Festival in Nuremburg, Germany, on Wednesday, Ju",
+      "pubDate": "2026-05-14T16:01:06.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
+      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
+      "description": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
+      "pubDate": "2026-05-14T15:43:41.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/14/NGINX.jpg"
+    },
+    {
+      "title": "Cyber-Enabled Cargo Crime: How Cybercrime Tradecraft is Used to Steal Freight",
+      "link": "https://www.bleepingcomputer.com/news/security/cyber-enabled-cargo-crime-how-cybercrime-tradecraft-is-used-to-steal-freight/",
+      "description": "Cargo theft now starts with phishing emails and stolen credentials, not hijackings, to reroute and steal freight from supply chains. NMFTA outlines how cyber-enabled cargo crime is changing transportation security. [...]",
+      "pubDate": "2026-05-14T15:21:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/05/14/trucking-logistics-header-image.jpg"
+    },
+    {
+      "title": "When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/configuration-becomes-vulnerability-exploitable-misconfigurations-ai-apps/",
+      "description": "Exposed UIs, weak authentication, and risky defaults could turn cloud-native AI apps on Kubernetes into potential targets by threat actors. Learn how exploitable misconfigurations lead to RCE and data leaks. The post When configuration becomes a vulnerability: Exploitable misconfigurations in AI apps appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-14T14:20:55.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-68.webp"
+    },
+    {
+      "title": "Ghostwriter Targets Ukrainian Government With Geofenced PDF Phishing, Cobalt Strike",
+      "link": "https://thehackernews.com/2026/05/ghostwriter-targets-ukrainian.html",
+      "description": "The Belarus-aligned threat group known as Ghostwriter has been attributed to a fresh set of attacks targeting governmental organizations in Ukraine. Active since at least 2016, Ghostwriter has been linked to both cyber espionage and influence operations targeting neighboring countries, particularly Ukraine. It's also tracked under the monikers FrostyNeighbor, PUSHCHA, Storm-0257, TA445, UAC‑0057",
+      "pubDate": "2026-05-14T14:00:37.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEld5BcqD9rYWVjx7o_XlV5pN_9djvilow0iIYP-LlFEzGReX8fTPZ0gKi9zMGVLTT8qddHu5FyBMaZpQroEzYFpsoPWf96hD7JeTdqsROemmavXW2pDxNwc9kjvpJdhahmXA5Ng88tN1lyO5rqzC3K6JNwPFPWBo7OzSsaiQIN8JJsXvMrGhewMfzpouF/s1600/uk.jpg"
+    },
+    {
+      "title": "Enhancing Data Center Security Without Sacrificing Performance",
+      "link": "https://www.securityweek.com/enhancing-data-center-security-without-sacrificing-performance/",
+      "description": "For AI data centers, where the stakes are the highest and performance constraints are the tightest, security and performance are no longer a zero-sum game. The post Enhancing Data Center Security Without Sacrificing Performance appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T14:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Data-center-Cybersecurity.jpg"
+    },
+    {
+      "title": "New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation",
+      "link": "https://www.securityweek.com/new-linux-kernel-vulnerability-fragnesia-allows-root-privilege-escalation/",
+      "description": "The vulnerability, tracked as CVE-2026-46300, is similar to the recently disclosed exploits named Dirty Frag and Copy Fail. The post New Linux Kernel Vulnerability Fragnesia Allows Root Privilege Escalation appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T13:44:46.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/02/Linux-malware.jpeg"
+    },
+    {
+      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
+      "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
+      "description": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
+      "pubDate": "2026-05-14T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8d0adcdfb0592b29/6a023182733969819914d590/venturecapital_AlekseyFuntap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere",
+      "link": "https://www.securityweek.com/mythos-proves-potent-in-vulnerability-discovery-less-convincing-elsewhere/",
+      "description": "Independent benchmarking finds Mythos highly effective for source code audits, reverse engineering, and native-code analysis, though its exploit validation and reasoning capabilities remain inconsistent. The post Mythos Proves Potent in Vulnerability Discovery, Less Convincing Elsewhere appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T13:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
+    },
+    {
+      "title": "Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million",
+      "link": "https://www.securityweek.com/akamai-to-acquire-ai-and-browser-security-firm-layerx-for-205-million/",
+      "description": "The acquisition enables Akamai to expand its Zero Trust portfolio to add protection directly into the browser. The post Akamai to Acquire AI and Browser Security Firm LayerX for $205 Million appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T12:55:38.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-mergers-and-acquisitions.jpeg"
+    },
+    {
+      "title": "KongTuke hackers now use Microsoft Teams for corporate breaches",
+      "link": "https://www.bleepingcomputer.com/news/security/kongtuke-hackers-now-use-microsoft-teams-for-corporate-breaches/",
+      "description": "Initial access broker KongTuke has moved to Microsoft Teams for social engineering attacks, taking as little as five minutes to gain persistent access to corporate networks. [...]",
+      "pubDate": "2026-05-14T12:12:40.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft-Teams.jpg"
+    },
     {
       "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
       "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
@@ -208,7 +307,7 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/07/Iranian-hackers.jpg"
     },
     {
-      "title": "Checkbox Assessments Aren't Fit to Measure to Risk",
+      "title": "Checkbox Assessments Aren't Fit to Measure Risk",
       "link": "https://www.darkreading.com/cyber-risk/checkbox-assessments-aren-t-fit-to-measure-to-risk",
       "description": "Security governance needs to be more than an annual compliance exercise. New companies are emerging to address risk-management gaps in current audit tools.",
       "pubDate": "2026-05-13T21:17:07.000Z",
@@ -253,15 +352,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Foxconn Confirms North American Factories Hit by Cyberattack",
-      "link": "https://www.securityweek.com/foxconn-confirms-north-american-factories-hit-by-cyberattack/",
-      "description": "The Nitrogen ransomware group claims to have hacked the company’s systems, stealing 8TB of data, including confidential documents. The post Foxconn Confirms North American Factories Hit by Cyberattack appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T17:13:36.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Foxconn.jpeg"
-    },
-    {
       "title": "Windows BitLocker zero-day gives access to protected drives, PoC released",
       "link": "https://www.bleepingcomputer.com/news/security/windows-bitlocker-zero-day-gives-access-to-protected-drives-poc-released/",
       "description": "A cybersecurity researcher has published proof-of-concept (PoC) exploits for two unpatched Microsoft Windows vulnerabilities named YellowKey and GreenPlasma, which are a BitLocker bypass and a privilege-escalation flaw. [...]",
@@ -269,15 +359,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
-    },
-    {
-      "title": "Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code",
-      "link": "https://www.securityweek.com/microsoft-palo-alto-networks-find-many-vulnerabilities-by-using-ai-on-their-own-code/",
-      "description": "Microsoft’s MDASH discovered 16 of the Patch Tuesday vulnerabilities, and Palo Alto used Mythos to find dozens of flaws. The post Microsoft, Palo Alto Networks Find Many Vulnerabilities by Using AI on Their Own Code appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T16:01:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/AI_Weight-Models.jpg"
     },
     {
       "title": "Webinar tomorrow: Why security alone won't stop modern attacks",
@@ -298,15 +379,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/04/02/Windows-11.jpg"
     },
     {
-      "title": "Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’",
-      "link": "https://www.securityweek.com/sweet-security-launches-agentic-ai-red-teaming-to-counter-mythos-moment/",
-      "description": "New “Sweet Attack” platform uses runtime intelligence and continuous agentic red teaming to identify exploitable attack chains human teams may miss. The post Sweet Security Launches Agentic AI Red Teaming to Counter ‘Mythos Moment’ appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T14:50:20.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Microsoft fixes Windows Autopatch bug installing restricted drivers",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-autopatch-bug-installing-restricted-drivers/",
       "description": "Microsoft has fixed a Windows Autopatch bug that caused driver updates restricted by administrative policies to be deployed on some Autopatch-managed Windows devices in the European Union. [...]",
@@ -323,15 +395,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg1Iq16GS3jdGiIU24GHBkwg6unk05ctdgYwXO5df8zRu1qko95_XhszCjq6jlEIRozLsrtZHgi5GqDZnS1Sw_KDzUzsagwP0If3VswmYHsnuYwVseU2lapxQiPpItTdAiv-CCdTFR87ZVOu65buyvmvzmdWuJPKHuPA4DSo58HQIMAV__2ymsmRe2g3UVe/s1600/windows-ai.jpg"
-    },
-    {
-      "title": "Webinar Today: ROI for Cyber-Physical Security Programs",
-      "link": "https://www.securityweek.com/webinar-today-roi-for-cyber-physical-security-programs/",
-      "description": "This webinar will help OT security teams and asset owners stop being cost centers and start being resilience drivers. The post Webinar Today: ROI for Cyber-Physical Security Programs appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T13:30:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/claroty-OT_webinar-scaled.jpg"
     },
     {
       "title": "Azerbaijani Energy Firm Hit by Repeated Microsoft Exchange Exploitation",
@@ -354,7 +417,7 @@
     {
       "title": "LatAm Vibe Hackers Generate Custom Hacking Tools on the Fly",
       "link": "https://www.darkreading.com/cloud-security/ai-agents-generate-custom-hacking-tools",
-      "description": "In the latest evolution of automated cyberattacks, two threat campaigns heavily leveraged AI agents to support attacks against entities in Mexico and Brazil.",
+      "description": "In the latest evolution of automated cyberattacks, threat actors heavily leveraged AI agents to support campaigns against entities in Mexico and Brazil.",
       "pubDate": "2026-05-13T13:00:00.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -377,15 +440,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/posts/2026/05/06/picus-header.jpg"
-    },
-    {
-      "title": "Microsoft says some users can't install Office on Windows 365 devices",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
-      "description": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
-      "pubDate": "2026-05-13T11:53:54.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/13/Windows-365.jpg"
     },
     {
       "title": "[Webinar] How Modern Attack Paths Cross Code, Pipelines, and Cloud",
@@ -451,15 +505,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "US govt seeks Instructure testimony on massive Canvas cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/us-govt-seeks-instructure-testimony-on-massive-canvas-cyberattack/",
-      "description": "The U.S. House Committee on Homeland Security is calling on Instructure executives to testify about two cyberattacks by the ShinyHunters extortion group that targeted the company's Canvas platform, allowing threat actors to steal student data and disrupt schools during final exams. [...]",
-      "pubDate": "2026-05-12T23:09:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/canvas-logo.jpg"
-    },
-    {
       "title": "Accelerating detection engineering using AI-assisted synthetic attack logs generation",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/accelerating-detection-engineering-using-ai-assisted-synthetic-attack-logs-generation/",
       "description": "What if you could generate realistic attack telemetry on demand? Explore research methods that translate attacker behaviors (TTPs) into synthetic logs that can trigger detections at scale and without sensitive data. The post Accelerating detection engineering using AI-assisted synthetic attack logs generation appeared first on Microsoft Security Blog.",
@@ -485,15 +530,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3704ee375f0b629/6a038cf3ee64ff5eb73bf289/swbug_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "UK fines water supplier $1.3M for exposing data of 664k customers",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-fines-water-supplier-13m-for-exposing-data-of-664k-customers/",
-      "description": "The Information Commissioner's Office has fined South Staffordshire Water Plc and parent company South Staffordshire Plc £963,900 ($1.3 million) over a cyberattack that exposed the personal data of 663,887 customers and employees. [...]",
-      "pubDate": "2026-05-12T20:17:19.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/03/UK-ICO.jpg"
     },
     {
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
@@ -721,15 +757,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6129261e6e03886/69fe1d8aac518193326b56b8/AI_orchestration_NicoElNino_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "⚡ Weekly Recap: Linux Rootkit, macOS Crypto Stealer, WebSocket Skimmers and More",
-      "link": "https://thehackernews.com/2026/05/weekly-recap-linux-rootkit-macos-crypto.html",
-      "description": "Rough Monday. Somebody poisoned a trusted download again, somebody else turned cloud servers into public housing, and a few crews are still getting into boxes with bugs that should’ve died years ago — the same old holes, same lazy access paths, same “how the hell is this still open” feeling. One report this week basically reads like a guy tripped over root access by accident and decided to stay",
-      "pubDate": "2026-05-11T12:36:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiD4a3gzeAEAv4Bs5FqWbHG1cRyNqIOjygeSxxpNoChwyyMUWlbZHzkG0n8ysGpoAYuKqklfMtTKRct0OeYktaKLhdXpRH5pKH94tVaMX7iPeNDf7vZjFky3myBkFPJPl1xIdsWDlIYP30IeR7IZGhQZ5p82yHRdRO1OGkpAtTWgZcQSG3zXqh9tLbSSrgP/s1600/cyber-recap.jpg"
-    },
-    {
       "title": "Cyber Espionage Group Targets Aviation Firms to Steal Map Data",
       "link": "https://www.darkreading.com/vulnerabilities-threats/cyber-espionage-group-aviation-firms-steal-map-data",
       "description": "The campaign quietly compromises aerospace and drone operators to exfiltrate GIS files, terrain models, and GPS data and gain a clear picture of adversaries' world view.",
@@ -874,15 +901,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/world-passkey-day-2026-1a.jpg"
     },
     {
-      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
-      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
-      "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
-      "pubDate": "2026-05-07T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
       "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
       "description": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
@@ -890,6 +908,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
+      "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
+      "description": "What researchers dubbed the most sophisticated AI-integrated ICS campaign to date hit a brick wall in the form of a SCADA login screen.",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Smart Glasses for the Authorities",
@@ -973,15 +1000,6 @@
       "image": null
     },
     {
-      "title": "Attacks Abuse Windows Phone Link to Steal Texts &amp; Bypass 2FA",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attacks-abuse-windows-phone-link-texts-bypass-2fa",
-      "description": "In hard-to-detect attacks, hackers are dropping the CloudZ RAT and a fresh plug-in, Pheno, to hijack the Windows-based bridge between PCs and smartphones.",
-      "pubDate": "2026-05-06T10:30:27.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e09d5a76fa90123/69fb1b614f86c9e600c8fbcf/smartphone_warning_Mohd_Izzuan_Roslan_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-gartner-magic-quadrant-cyberthreat-intelligence/",
       "description": "",
@@ -1027,15 +1045,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/04/breaking-the-code-multi-stage-code-of-conduct-phishing-campaign-leads-to-aitm-token-compromise/",
-      "description": "Microsoft Defender Research observed a large-scale credential theft campaign that exemplifies this trend, using code of conduct-themed lures, a multi-step attack chain, and legitimate email services to distribute fully authenticated messages from attacker-controlled domains. The post Breaking the code: Multi-stage ‘code of conduct’ phishing campaign leads to AiTM token compromise appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-04T15:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure1-timeline.webp"
-    },
-    {
       "title": "Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition",
       "description": "Here's a tip for you all. Unless you want to draw attention to yourself as a cybercriminal, don't flaunt your diamond-encrusted \"HACK THE PLANET\" necklace on Snapchat, or pose as a Sopranos crime boss while the FBI is reportedly closing in. Read more in my article on the Hot for Security blog.",
@@ -1043,15 +1052,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/spider.jpeg"
-    },
-    {
-      "title": "Hacking Polymarket",
-      "link": "https://www.schneier.com/blog/archives/2026/05/hacking-polymarket.html",
-      "description": "Polymarket is a platform where people can bet on real-world events, political and otherwise. Leaving the ethical considerations of this aside (for one, it facilitates assassination), one of the issues with making this work is the verification of these real-world events. Polymarket gamblers have threatened a journalist because his story was being used to verify an event. And now, gamblers are taking hair dryers to weather sensors to rig weather bets. There’s also insider trading: a lot of it.",
-      "pubDate": "2026-05-04T09:46:31.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
@@ -1555,7 +1555,7 @@
       "pubDate": "2025-10-31T07:00:19.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt546eebcb6be5d09d/6939427a09bc383b6ee34a63/GettyImages-504085304.jpg"
     },
     {
       "title": "What happens when a cybersecurity company gets phished?",
@@ -1627,7 +1627,7 @@
       "pubDate": "2025-07-28T06:00:24.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
     },
     {
       "title": "Repeater Strike: manual testing, amplified",
