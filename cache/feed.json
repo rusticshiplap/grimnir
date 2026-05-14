@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-14T08:11:35.197Z",
+  "generatedAt": "2026-05-14T12:12:26.396Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,123 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns",
+      "link": "https://www.securityweek.com/chinese-apts-expand-targets-update-backdoors-in-recent-campaigns/",
+      "description": "Salt Typhoon has hit an energy entity in Azerbaijan. Twill Typhoon has targeted Asian entities with an updated RAT. The post Chinese APTs Expand Targets, Update Backdoors in Recent Campaigns appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T12:11:15.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/04/Chinese-Technology-Cyberwar.jpg"
+    },
+    {
+      "title": "Foxconn Attack Highlights Manufacturing's Cyber Crisis",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/foxconn-attack-manufacturing-cyber-crisis",
+      "description": "A Nitrogen ransomware attack on Foxconn's North American facilities is one of 600 hits on manufacturers this year, as gangs increasingly target the sector for its low tolerance for downtime.",
+      "pubDate": "2026-05-14T12:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2bde2506b3de4da9/6a04dd5c239afae6399403b6/foxconn_ada_Images_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "PraisonAI CVE-2026-44338 Auth Bypass Targeted Within Hours of Disclosure",
+      "link": "https://thehackernews.com/2026/05/praisonai-cve-2026-44338-auth-bypass.html",
+      "description": "Threat actors have been observed attempting to exploit a recently disclosed security vulnerability in PraisonAI, an open-source multi-agent orchestration framework, within four hours of public disclosure. The vulnerability in question is CVE-2026-44338 (CVSS score: 7.3), a case of missing authentication that exposes sensitive endpoints to anyone, potentially allowing an attacker to invoke the",
+      "pubDate": "2026-05-14T11:40:14.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IaSkdVZD_wyJJT-sODoazviDXhw3MGkn5XHYocnTL1YfLJpgJ-1wNaAm0Rk0phyrIv8vS73SNNkPSmlxRkK9ySAQGnn_tCP9JcVKyqee6lxjlYEp0cs2C_R9cDtgCEXwsjWtx1XnafF5r_fAuDDAvg0CRMOgJk8ZMwSjRsw1Js90uR-97t-rh5yU12Oj/s1600/praison.jpg"
+    },
+    {
+      "title": "How AI Hallucinations Are Creating Real Security Risks",
+      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
+      "description": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
+      "pubDate": "2026-05-14T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
+    },
+    {
+      "title": "G7 Countries Release AI SBOM Guidance",
+      "link": "https://www.securityweek.com/g7-countries-release-ai-sbom-guidance/",
+      "description": "The goal of the guidance, which outlines minimum elements, is to help organizations enhance transparency in AI systems and supply chains. The post G7 Countries Release AI SBOM Guidance appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T11:15:05.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/06/SBOM_Regulations-Function.jpg"
+    },
+    {
+      "title": "How Dangerous Is Anthropic’s Mythos AI?",
+      "link": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
+      "description": "Last month, Anthropic made a remarkable announcement about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a select group of companies to scan and fix their own software. The announcement requires context—but it contained an essential truth. While Anthropic’s model is really good at finding software vulnerabilities, so are other models. The UK’s AI Security Institute found that OpenAI’s GPT-5.5, already generally available, is comparable in ca",
+      "pubDate": "2026-05-14T11:04:27.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "F5 Patches Over 50 Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-patches-over-50-vulnerabilities/",
+      "description": "The company’s latest quarterly advisory describes high and medium-severity issues in BIG-IP, BIG-IQ, and NGINX. The post F5 Patches Over 50 Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T10:47:58.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/F5-Vulnerability.jpg"
+    },
+    {
+      "title": "Dell confirms its SupportAssist software causes Windows BSOD crashes",
+      "link": "https://www.bleepingcomputer.com/news/software/dell-confirms-its-supportassist-software-causes-windows-bsod-crashes/",
+      "description": "Dell confirmed that its SupportAssist software is causing blue-screen crashes on some Windows systems following a wave of user reports about random reboots affecting Dell devices since Friday. [...]",
+      "pubDate": "2026-05-14T10:03:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/14/Dell.jpg"
+    },
+    {
+      "title": "Hackers Targeted PraisonAI Vulnerability Hours After Disclosure",
+      "link": "https://www.securityweek.com/hackers-targeted-praisonai-vulnerability-hours-after-disclosure/",
+      "description": "The first exploitation attempts were observed less than four hours after the authentication bypass was publicly disclosed. The post Hackers Targeted PraisonAI Vulnerability Hours After Disclosure appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T09:45:53.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/AI-assistant-chatbot-artificial-intelligence.jpg"
+    },
+    {
+      "title": "When ransomware gets physical: cybercriminals turn to threats of violence",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-physical-threats-violence",
+      "description": "Pay up, or we'll pay someone to pay you a visit. Cybercrime gangs are increasingly turning to real-world threats - and even hiring local muscle to deliver the message. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-05-14T09:28:05.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/violence.jpeg"
+    },
+    {
+      "title": "Windows Zero-Days Expose BitLocker Bypasses And CTFMON Privilege Escalation",
+      "link": "https://thehackernews.com/2026/05/windows-zero-days-expose-bitlocker.html",
+      "description": "An anonymous cybersecurity researcher who disclosed three Microsoft Defender vulnerabilities has returned with two more zero-days involving a BitLocker bypass and a privilege escalation impacting Windows Collaborative Translation Framework (CTFMON). The security defects have been codenamed YellowKey and GreenPlasma, respectively, by the researcher, who goes by the online aliases Chaotic Eclipse",
+      "pubDate": "2026-05-14T09:25:50.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXt7ooDl2PwJY4nazAKdW9rmILsmosve2FZaO9usxTk_rkksEEvsLgY-uc_MErXvjvusuWjN7PWRM9KaRXB1OkL75gio7tcqpMsPZxaFNE9XDpYmARH3Dw_gGgddwWXHSt5VUJ-lb56F9bCVzTYghEo7qELWVv8K_W8V1BrWgssgqWkzPJxW6I31i_GyYf/s1600/windowss.jpg"
+    },
+    {
+      "title": "US charges suspected Dream Market admin arrested in Germany",
+      "link": "https://www.bleepingcomputer.com/news/security/us-charges-suspected-dream-market-admin-arrested-in-germany/",
+      "description": "The alleged main administrator of Dream Market Incognito Market, one of the largest dark web marketplaces before its shutdown, has been indicted in the United States on money laundering charges. [...]",
+      "pubDate": "2026-05-14T08:55:46.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/Law_enforcement_arrest.jpg"
+    },
+    {
+      "title": "High-Severity Vulnerability Patched in VMware Fusion",
+      "link": "https://www.securityweek.com/high-severity-vulnerability-patched-in-vmware-fusion/",
+      "description": "The patch was announced as Broadcom is attending the Pwn2Own hacking competition in Berlin this week. The post High-Severity Vulnerability Patched in VMware Fusion appeared first on SecurityWeek.",
+      "pubDate": "2026-05-14T08:42:25.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2022/08/VMWare.jpg"
+    },
     {
       "title": "New Fragnesia Linux flaw lets attackers gain root privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-fragnesia-linux-flaw-lets-attackers-gain-root-privileges/",
@@ -262,15 +379,6 @@
       "image": "https://www.bleepstatic.com/content/posts/2026/05/06/picus-header.jpg"
     },
     {
-      "title": "Government to Scrutinize Instructure Over Canvas Disruption, Data Breach",
-      "link": "https://www.securityweek.com/government-to-scrutinize-instructure-on-canvas-disruption-data-breach/",
-      "description": "The Committee on Homeland Security has requested to be briefed on the incident and Instructure’s remediation steps. The post Government to Scrutinize Instructure Over Canvas Disruption, Data Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T12:13:14.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/plead-guilty-hacker-court.jpeg"
-    },
-    {
       "title": "Microsoft says some users can't install Office on Windows 365 devices",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-some-users-cant-install-office-on-windows-365-devices/",
       "description": "Microsoft says some customers are experiencing issues downloading and installing Office on their Windows 365 devices. [...]",
@@ -298,15 +406,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg70Fxtk3MEmUdZjXl_ocBSlT80rWfXtIj2kxPvypzCSlEK4cqkm8lo16NXHjvyCw9niiPk2gKSPhgTjSFTZpetxg2As7QL0AyWWHoTuvtcp1Ok-ALMfcUwaUMAyE8asDu-KjVDoUP4VLCOSDPWHru7V-ix6Xs-VSHvHDJ8KRn6NLq_EJJBm0B4xwa9vbLp/s1600/pentera.jpg"
     },
     {
-      "title": "716,000 Impacted by OpenLoop Health Data Breach",
-      "link": "https://www.securityweek.com/716000-impacted-by-openloop-health-data-breach/",
-      "description": "The telehealth platform was hacked in January, and users’ personal information was exfiltrated from its systems. The post 716,000 Impacted by OpenLoop Health Data Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T11:18:03.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg"
-    },
-    {
       "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
       "link": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
       "description": "The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security vulnerabilities, and found that it is comparable to Claude Mythos. Note that the OpenAI model is generally available. Here is the Institute’s evaluation of Mythos. And here is an analysis of a smaller, cheaper model. It requires more scaffolding from the prompter, but it is also just as good.",
@@ -323,33 +422,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjk3m3CoTiKH2QVXSFAOVKKnTl-Ybt1FDE4M7BGK_ujskSYNQ8pOlcvZfyNv8CW2EJIVdMQaORcCE0H-_ufTvD6hR-LOOZ64GZPS_9bH7YrE4i0r4LrGCn7vXmG0GjpFk8aNlRR_4_GjrM-jhXBS1NzIbYiRydcmiNSXIV2eUczvgjGmp34_gNz3M5kt-Jf/s1600/windows-patch-update.jpg"
-    },
-    {
-      "title": "Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises",
-      "link": "https://www.securityweek.com/microsoft-patches-critical-zero-click-outlook-vulnerability-threatening-enterprises/",
-      "description": "CVE-2026-40361 is similar to a vulnerability found a decade ago, BadWinmail, which at the time was dubbed an “enterprise killer”. The post Microsoft Patches Critical Zero-Click Outlook Vulnerability Threatening Enterprises appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T10:33:46.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/03/Microsoft-Outlook-CVE-2023-23397.jpg"
-    },
-    {
-      "title": "Fortinet, Ivanti Patch Critical Vulnerabilities",
-      "link": "https://www.securityweek.com/fortinet-ivanti-patch-critical-vulnerabilities/",
-      "description": "Successful exploitation of these flaws could lead to arbitrary code execution and information disclosure. The post Fortinet, Ivanti Patch Critical Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T09:36:55.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg"
-    },
-    {
-      "title": "Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-and-amd-patch-70-vulnerabilities/",
-      "description": "The two chip giants have published over two dozen advisories describing recently identified security defects. The post Chipmaker Patch Tuesday: Intel and AMD Patch 70 Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-05-13T08:37:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/chipmaker-patch-tuesday.jpeg"
     },
     {
       "title": "GemStuffer Abuses 150+ RubyGems to Exfiltrate Scraped U.K. Council Portal Data",
@@ -422,24 +494,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2025/03/03/UK-ICO.jpg"
-    },
-    {
-      "title": "Webinar: Fixing the gaps in network incident response",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-fixing-the-gaps-in-network-incident-response/",
-      "description": "IT teams often struggle to quickly coordinate responses across disparate systems during network incidents. This upcoming webinar explores how automation and AI-assisted workflows can reduce response times and help prevent outages. [...]",
-      "pubDate": "2026-05-12T19:46:04.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/25/alert-yellow.jpg"
-    },
-    {
-      "title": "Signal adds security warnings for social engineering, phishing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-security-warnings-for-social-engineering-phishing-attacks/",
-      "description": "Signal has introduced new in-app confirmations and warning messages as additional safeguards against phishing and social engineering attempts that could lead to various forms of fraud. [...]",
-      "pubDate": "2026-05-12T19:40:31.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg"
     },
     {
       "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
@@ -685,15 +739,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcdb68c050b92d44f/69fe24d5757b4d3f64b57d8a/drone-mapping-system-DC_Studio-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Your Purple Team Isn't Purple — It's Just Red and Blue in the Same Room",
-      "link": "https://thehackernews.com/2026/05/your-purple-team-isnt-purple-its-just.html",
-      "description": "Defending a network at 2 am looks a lot like this: an analyst copy-pasting a hash from a PDF into a SIEM query. A red team script is being rewritten by hand so the blue team can use it. A patch waiting on a change-approval window that's longer than the exploitation window itself. Nobody in that chain is incompetent. Every human is doing their job correctly. The problem is the system, its",
-      "pubDate": "2026-05-11T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0dlupn761jekig7BbPagwo6DtccMFQV8oESHiCBIs04DdhvoVtfwhe7OVEh8VvyFpa-VFo9GKWL8tx2ZKTSn3qA7iAFCvTfoevjyPFYNb3eAmpp4pkWk3mcQd_AulszHJoxUa6z_k_Nr_KB9Ny_hoZWy1VVA-U9BV2nPvESGGqPE5r4_AbNlid_BK-M8/s1600/picus.jpg"
-    },
-    {
       "title": "LLMs and Text-in-Text Steganography",
       "link": "https://www.schneier.com/blog/archives/2026/05/llms-and-text-in-text-steganography.html",
       "description": "Turns out that LLMs are really good at hiding text messages in other text messages.",
@@ -701,15 +746,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Fake OpenAI Privacy Filter Repo Hits #1 on Hugging Face, Draws 244K Downloads",
-      "link": "https://thehackernews.com/2026/05/fake-openai-privacy-filter-repo-hits-1.html",
-      "description": "A malicious Hugging Face repository managed to take a spot in the platform's trending list by impersonating OpenAI's Privacy Filter open-weight model to deliver a Rust-based information stealer to Windows users. The project, named Open-OSS/privacy-filter, masqueraded as its legitimate counterpart released by OpenAI late last month (openai/privacy-filter), including copying the entire description",
-      "pubDate": "2026-05-11T07:05:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPtLFShq_XoM9Nzsl5kmSsF2UGsm6VhRoLNodcqRCdq45zqy4ekFVtamokNzEFifQknD502Wc0uFTBUdvLsBsYn4QAeVHSWLmhF2ROBMXutev8T6JjCGrrarzLhkSTUHLBq-nEWrF0WTb2epkX_3Ba5a6Gv_21R7PPQ_zCjhk7OU702Y10tJkcJiYG52D4/s1600/hugging-face-malware.jpg"
     },
     {
       "title": "Inside CrowdStrike Automated Leads: A Transformative Approach to Threat Detections",
@@ -737,15 +773,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Splash-Template-1.jpg"
-    },
-    {
-      "title": "Ollama Out-of-Bounds Read Vulnerability Allows Remote Process Memory Leak",
-      "link": "https://thehackernews.com/2026/05/ollama-out-of-bounds-read-vulnerability.html",
-      "description": "Cybersecurity researchers have disclosed a critical security vulnerability in Ollama that, if successfully exploited, could allow a remote, unauthenticated attacker to leak its entire process memory. The out-of-bounds read flaw, which likely impacts over 300,000 servers globally, is tracked as CVE-2026-7482 (CVSS score: 9.1). It has been codenamed Bleeding Llama by Cyera. Ollama is a",
-      "pubDate": "2026-05-10T12:41:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj92eUjjTTMJPizvUJGwq7Ych7nrXHwGRNt3hS9yjNGRJk5d3pdIKjeZhQDVuFp0DnKjP4qoieGWFjswm7nHDLBaxWC3DxFIfLfRjMSEXd0Ta04vcTrbCpS9PEXebUUbMBxBt0VOb-PKVk-7Cq0FjuMXl4VtKneb5a3ujCo872goPN22GBFFhReJtWsQJLK/s1600/oll.jpg"
     },
     {
       "title": "Friday Squid Blogging: Giant Squid Live in the Waters of Western Australia",
@@ -847,15 +874,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/world-passkey-day-2026-1a.jpg"
     },
     {
-      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
-      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
-      "description": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
-      "pubDate": "2026-05-07T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "AI-Driven Cyberattack on Mexico Couldn't Breach OT Systems",
       "link": "https://www.darkreading.com/ics-ot-security/worlds-first-ai-driven-cyberattack-couldnt-breach-ot-systems",
       "description": "The most sophisticated AI-integrated campaign to date hit a brick wall in the form of a SCADA login screen.",
@@ -863,6 +881,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt98fa61979c1de1b0/69fb95aa4f86c99808c8fc96/Faucet-Steven_Liveoak-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "'TrustFall' Convention Exposes Claude Code Execution Risk",
+      "link": "https://www.darkreading.com/application-security/trustfall-exposes-claude-code-execution-risk",
+      "description": "Malicious repositories can trigger code execution in Claude Code, Cursor CLI, Gemini CLI, and CoPilot CLI with minimal or no user interaction, thanks to skimpy warning dialogs.",
+      "pubDate": "2026-05-07T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3ca377db822451a1/69fa57f81032fe21f456f521/claude_Samuel_Boivin_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Smart Glasses for the Authorities",
@@ -953,15 +980,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1e09d5a76fa90123/69fb1b614f86c9e600c8fbcf/smartphone_warning_Mohd_Izzuan_Roslan_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Middle East Cyber Battle Field Broadens — Especially in UAE",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/middle-east-cyber-battle-field-broadens-uae",
-      "description": "As the war with Iran continues, breach attempts targeting the United Arab Emirates tripled in a few weeks — many targeting critical infrastructure.",
-      "pubDate": "2026-05-06T05:30:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30c725b0c4078c25/69fa57448135d03599216199/UAE-Cyber-Security-Council-Arnold_O_A_Pinto-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies",
@@ -1061,15 +1079,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/13_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "A Ransomware Negotiator Was Working for a Ransomware Gang",
-      "link": "https://www.schneier.com/blog/archives/2026/05/a-ransomware-negotiator-was-working-for-a-ransomware-gang.html",
-      "description": "Someone pleaded guilty to secretly working for a ransomware gang as he negotiated ransomware payments for clients.",
-      "pubDate": "2026-05-01T11:18:43.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Tune In: The Future of AI-Powered Vulnerability Discovery",
@@ -1369,15 +1378,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/romance-jail.jpeg"
     },
     {
-      "title": "Smashing Security podcast #461: This man hid $400 million in a fishing rod. Then it vanished",
-      "link": "https://grahamcluley.com/smashing-security-podcast-461/",
-      "description": "A cannabis-growing, beekeeping, gyrocopter-flying Irishman invested his drug money in Bitcoin back in 2011 - and now sits on a fortune worth $400 million. There's just one small problem: the access codes were tucked inside his fishing rod case, which has mysteriously vanished. Or has it? Because this week, one of his frozen wallets suddenly woke up and moved $35 million - and someone had to identify themselves to do it. Meanwhile, Ajax Football Club scores a spectacular cyber own-goal, as a data breach that the club claimed affected \"a few hundred\" fans turns out to may have exposed the person",
-      "pubDate": "2026-04-01T23:26:02.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-461.webp"
-    },
-    {
       "title": "Weekly Update 497",
       "link": "https://www.troyhunt.com/weekly-update-497/",
       "description": "Day by day, I find we're eeking more goodness out of OpenClaw and finding the sweet spot between what the humans do well and the agent can run off and do on its own. Significantly, we're shifting more and more of the workload to the latter",
@@ -1555,7 +1555,7 @@
       "pubDate": "2025-10-31T07:00:19.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt546eebcb6be5d09d/6939427a09bc383b6ee34a63/GettyImages-504085304.jpg"
+      "image": null
     },
     {
       "title": "What happens when a cybersecurity company gets phished?",
@@ -1627,7 +1627,7 @@
       "pubDate": "2025-07-28T06:00:24.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
+      "image": null
     },
     {
       "title": "Repeater Strike: manual testing, amplified",
