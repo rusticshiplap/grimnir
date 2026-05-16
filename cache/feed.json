@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T00:07:34.319Z",
+  "generatedAt": "2026-05-16T04:09:37.900Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Friday Squid Blogging: Bigfin Squid",
+      "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
+      "description": "Article about the bigfin squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-05-16T01:03:31.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
     },
     {
       "title": "Funnel Builder WordPress plugin bug exploited to steal credit cards",
@@ -1025,15 +1034,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-466.webp"
-    },
-    {
-      "title": "Rowhammer Attack Against NVIDIA Chips",
-      "link": "https://www.schneier.com/blog/archives/2026/05/rowhammer-attack-against-nvidia-chips.html",
-      "description": "A new rowhammer attack gives complete control of NVIDIA CPUs. On Thursday, two research teams, working independently of each other, demonstrated attacks against two cards from Nvidia’s Ampere generation that take GPU rowhammering into new—­and potentially much more consequential—­territory: GDDR bitflips that give adversaries full control of CPU memory, resulting in full system compromise of the host machine. For the attack to work, IOMMU memory management must be disabled, as is the default in BIOS settings. “Our work shows that Rowhammer, which is well-studied on CPUs, is a serious threat on",
-      "pubDate": "2026-05-06T10:36:59.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "CrowdStrike Named a Leader in the First-Ever Gartner&reg; Magic Quadrant&trade; for Cyberthreat Intelligence Technologies",
