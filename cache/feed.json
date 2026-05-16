@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-16T16:05:08.824Z",
+  "generatedAt": "2026-05-16T22:12:09.147Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,24 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft rejects critical Azure vulnerability report, no CVE issued",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-rejects-critical-azure-vulnerability-report-no-cve-issued/",
+      "description": "A security researcher claims Microsoft quietly fixed an Azure Backup for AKS vulnerability after rejecting his report, and without issuing a CVE. Microsoft disputes the claim, telling BleepingComputer the behavior was expected and that \"no product changes were made,\" despite the researcher documenting a silent fix. [...]",
+      "pubDate": "2026-05-16T20:55:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/06/12/microsoft-azure.jpg"
+    },
+    {
+      "title": "Funnel Builder Flaw Under Active Exploitation Enables WooCommerce Checkout Skimming",
+      "link": "https://thehackernews.com/2026/05/funnel-builder-flaw-under-active.html",
+      "description": "A critical security vulnerability impacting the Funnel Builder plugin for WordPress has come under active exploitation in the wild to inject malicious JavaScript code into WooCommerce checkout pages with the goal of stealing payment data. Details of the activity were published by Sansec this week. The vulnerability currently does not have an official CVE identifier. It",
+      "pubDate": "2026-05-16T15:20:48.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYS8AhChFEeH6IwT4x1eB5VAeGfriF4VVcwINAxXVIGyap3g0CKx0R2BdI4s99cE3Q5JHr-KUVHqdhAFNfQIrCTJ6p-vq7u5naMTwb-WFjgis4vBdR29M94wAT-Dqh46zsbo4heSJOVdFRxXzR3SgHt2ZoTPPBEbB3cu4azACiFFl7jcIGNxw1d_U7eVU9/s1600/funnel.png"
     },
     {
       "title": "Russian hackers turn Kazuar backdoor into modular P2P botnet",
@@ -415,15 +433,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-73.webp"
     },
     {
-      "title": "18-year-old NGINX vulnerability allows DoS, potential RCE",
-      "link": "https://www.bleepingcomputer.com/news/security/18-year-old-nginx-vulnerability-allows-dos-potential-rce/",
-      "description": "An 18-year-old flaw in the NGINX open-source web server, discovered using an autonomous scanning system, can be exploited for denial of service and, under certain conditions, remote code execution. [...]",
-      "pubDate": "2026-05-14T15:43:41.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/14/NGINX.jpg"
-    },
-    {
       "title": "Kazuar: Anatomy of a nation-state botnet",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/14/kazuar-anatomy-of-a-nation-state-botnet/",
       "description": "Kazuar, a sophisticated malware family attributed to the Russian state actor Secret Blizzard, has been under constant development for years and continues to evolve in support of espionage-focused operations. Over time, Kazuar has expanded from a relatively traditional backdoor into a highly modular peer-to-peer (P2P) botnet ecosystem designed to enable persistent, covert access to target environments. The post Kazuar: Anatomy of a nation-state botnet appeared first on Microsoft Security Blog.",
@@ -782,15 +791,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4a392e468c2fede/6a02399dd02601ddfa8e5443/Hugging_Face_Sidney_Van_den_Boogaard_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "New TrickMo Variant Uses TON C2 and SOCKS5 to Create Android Network Pivots",
-      "link": "https://thehackernews.com/2026/05/new-trickmo-variant-uses-ton-c2-and.html",
-      "description": "Cybersecurity researchers have flagged a new version of the TrickMo Android banking trojan that uses The Open Network (TON) for command-and-control (C2). The new variant, observed by ThreatFabric between January and February 2026, has been observed actively targeting banking and cryptocurrency wallet users in France, Italy, and Austria. \"TrickMo relies on a runtime-loaded APK (dex.module),",
-      "pubDate": "2026-05-12T12:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbBy7H5qvorFUmJqREACqqxVC0ogVq88dP8wLyKyUPF9fCowpUSkb7foEsEPDALt0ccCpcJc6PXCJjFmQo0oX3furU-cYPULBa0-pjpiLGV04JD6kr4G0VIrvFoJo54WmgjU1YocsquA15N3hxDmwt4i82QpYdil7F4fI0SMFVv9YCkbqqGKjIi-dEmcIx/s1600/tricks.jpg"
     },
     {
       "title": "20 Leaders Who Built the CISO Era: 2 Decades of Change",
