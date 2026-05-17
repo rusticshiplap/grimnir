@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-17T14:05:23.690Z",
+  "generatedAt": "2026-05-17T18:35:00.659Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,24 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Tycoon2FA hijacks Microsoft 365 accounts via device-code phishing",
+      "link": "https://www.bleepingcomputer.com/news/security/tycoon2fa-hijacks-microsoft-365-accounts-via-device-code-phishing/",
+      "description": "The Tycoon2FA phishing kit now supports device-code phishing attacks and abuses Trustifi click-tracking URLs to hijack Microsoft 365 accounts. [...]",
+      "pubDate": "2026-05-17T14:43:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/MS365.jpg"
+    },
+    {
+      "title": "NGINX CVE-2026-42945 Exploited in the Wild, Causing Worker Crashes and Possible RCE",
+      "link": "https://thehackernews.com/2026/05/nginx-cve-2026-42945-exploited-in-wild.html",
+      "description": "A newly disclosed security flaw impacting NGINX Plus and NGINX Open has come under active exploitation in the wild, days after its public disclosure, according to VulnCheck. The vulnerability, tracked as CVE-2026-42945 (CVSS score: 9.2), is a heap buffer overflow in ngx_http_rewrite_module affecting NGINX versions 0.6.27 through 1.30.0. According to AI-native security company depthfirst, the",
+      "pubDate": "2026-05-17T11:57:53.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
     },
     {
       "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
@@ -377,15 +395,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2023/04/11/OpenAI_headpic.jpeg"
-    },
-    {
-      "title": "Windows 11 and Microsoft Edge hacked at Pwn2Own Berlin 2026",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-11-and-microsoft-edge-hacked-on-first-day-of-pwn2own-berlin-2026/",
-      "description": "On the first day of Pwn2Own Berlin 2026, security researchers collected $523,000 in cash awards after exploiting 24 unique zero-days. [...]",
-      "pubDate": "2026-05-14T18:53:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/05/15/Pwn2Own_Berin.jpg"
     },
     {
       "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
@@ -755,15 +764,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3704ee375f0b629/6a038cf3ee64ff5eb73bf289/swbug_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "New Exim BDAT Vulnerability Exposes GnuTLS Builds to Potential Code Execution",
-      "link": "https://thehackernews.com/2026/05/new-exim-bdat-vulnerability-exposes.html",
-      "description": "Exim has released security updates to address a severe security issue affecting certain configurations that could enable memory corruption and potential code execution. Exim is an open-source Mail Transfer Agent (MTA) designed for Unix-like systems to receive, route, and deliver email. The vulnerability, tracked as CVE-2026-45185 (CVSS score: 9.8), aka Dead.Letter, has been described as a",
-      "pubDate": "2026-05-12T16:44:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgrSn3emm_NbwXDi3elR0wo5ErHhg-gPT4-u4zk7MHZg4u0ruMmj2_KGgPF8fz06Riv6Gu5NXMN3eBP8H5bVf6dmvOz-lvb-qrvhLlssLUzl97ZVmIWoIOmMPOGrupv864dt0d4V_dxgaaxYYNuy2z9rbZMWIOcjlwZaiifq4-ktRqlEBCJ6a_m3MFiwq65/s1600/exim.jpg"
     },
     {
       "title": "Defending consumer web properties against modern DDoS attacks",
