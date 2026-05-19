@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T05:46:22.273Z",
+  "generatedAt": "2026-05-19T09:52:39.848Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,7 +19,34 @@
   ],
   "items": [
     {
-      "title": "GitHub Actions Supply Chain Attack Redirects Tags to Steal CI/CD Credentials",
+      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
+      "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
+      "description": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-05-19T09:42:56.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg"
+    },
+    {
+      "title": "Compromised Nx Console 18.95.0 Targeted VS Code Developers with Credential Stealer",
+      "link": "https://thehackernews.com/2026/05/compromised-nx-console-18950-targeted.html",
+      "description": "Cybersecurity researchers have flagged a compromised version of the Nx Console extension that was published to the Microsoft Visual Studio Code (VS Code) Marketplace. The extension in question is rwl.angular-console (version 18.95.0), a popular user interface and plugin for code editors like VS Code, Cursor, and JetBrains. The VS Code extension has more than 2.2 million installations. The Open",
+      "pubDate": "2026-05-19T07:49:23.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
+    },
+    {
+      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
+      "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
+      "description": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek.",
+      "pubDate": "2026-05-19T06:18:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/cobot-industrial-robot-arm.jpeg"
+    },
+    {
+      "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
       "link": "https://thehackernews.com/2026/05/github-actions-supply-chain-attack.html",
       "description": "In yet another software supply chain attack, threat actors have compromised the popular GitHub Actions workflow, actions-cool/issues-helper, to run malicious code that harvests sensitive credentials and exfiltrates them to an attacker-controlled server. \"Every existing tag in the repository has been moved to point to an imposter commit that does not appear in the action's normal commit history,",
       "pubDate": "2026-05-19T05:28:06.000Z",
@@ -424,15 +451,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/Russia.jpg"
     },
     {
-      "title": "PoC Code Published for Critical NGINX Vulnerability",
-      "link": "https://www.securityweek.com/poc-code-published-for-critical-nginx-vulnerability/",
-      "description": "Introduced in 2008, the critical-severity security defect was patched this week in NGINX Plus and NGINX open source. The post PoC Code Published for Critical NGINX Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-05-16T10:02:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Nginx.jpeg"
-    },
-    {
       "title": "Friday Squid Blogging: Bigfin Squid",
       "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
       "description": "Article about the bigfin squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
@@ -476,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8BT1AOScncZQM_A-0WBdCzTDAHGHSey48_Mywhij-TJupCdzP3s3o-MIImRtMZcoV2OqX3RjRV4COpVqkB1mrH3d_zjwvSTwCEXOq_2m80HgDo-xwAZ1KpR1h8eN9dAHGcKN_PpcE0cBsnv67FcthDycHLBJMYs8NkPszWNiQqdbhyL0YIlwVJn4NtgaR/s1600/code.jpg"
-    },
-    {
-      "title": "In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws",
-      "link": "https://www.securityweek.com/in-other-news-big-tech-vs-canada-encryption-bill-ciscos-free-ai-security-spec-audi-app-flaws/",
-      "description": "Other noteworthy stories that might have slipped under the radar: Nvidia cloud gaming data breach, Android 17 security upgrades, FBI warning after ShinyHunters hacks Canvas. The post In Other News: Big Tech vs Canada Encryption Bill, Cisco’s Free AI Security Spec, Audi App Flaws appeared first on SecurityWeek.",
-      "pubDate": "2026-05-15T14:52:16.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
     },
     {
       "title": "Four OpenClaw Flaws Enable Data Theft, Privilege Escalation, and Persistence",
@@ -701,15 +710,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2IaSkdVZD_wyJJT-sODoazviDXhw3MGkn5XHYocnTL1YfLJpgJ-1wNaAm0Rk0phyrIv8vS73SNNkPSmlxRkK9ySAQGnn_tCP9JcVKyqee6lxjlYEp0cs2C_R9cDtgCEXwsjWtx1XnafF5r_fAuDDAvg0CRMOgJk8ZMwSjRsw1Js90uR-97t-rh5yU12Oj/s1600/praison.jpg"
-    },
-    {
-      "title": "How AI Hallucinations Are Creating Real Security Risks",
-      "link": "https://thehackernews.com/2026/05/how-ai-hallucinations-are-creating-real.html",
-      "description": "AI hallucinations are introducing serious security risks into critical infrastructure decision-making by exploiting human trust through highly confident yet incorrect outputs. When an AI model lacks certainty, it doesn’t have a mechanism to recognize that. Instead, it generates the most probable response based on patterns in its training data, even if that response is inaccurate. These outputs",
-      "pubDate": "2026-05-14T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi45HPlwBwWVoL1fRSEGy7bjtz4Z05lAO8NWxLqPrzQ93c3j5aaj_CaK5gCrJC6aYP0ePV36n27rw33vJv5mUXf3mtdOEItJjHrSkzckVGAdTU2UMp8s-HAVjNUE7jVDeTH0UikGxNZWeB6J3qVNguP2iO5V5-qUgW3g_IqxZ9cMEZy0tS0iEsl8MnSjB0/s1600/keeper.jpg"
     },
     {
       "title": "How Dangerous Is Anthropic’s Mythos AI?",
