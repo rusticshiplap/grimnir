@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T16:24:01.213Z",
+  "generatedAt": "2026-05-19T18:21:56.608Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,15 @@
   ],
   "items": [
     {
+      "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
+      "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
+      "description": "Cybersecurity researchers have disclosed details of a new ad fraud and malvertising operation dubbed Trapdoor targeting Android device users. The activity, per HUMAN's Satori Threat Intelligence and Research Team, encompassed 455 malicious Android apps and 183 threat actor-owned command-and-control (C2) domains, turning the infrastructure into a pipeline for multi-stage fraud. \"Users",
+      "pubDate": "2026-05-19T16:38:12.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi4-ldAXS8Yw3BhdSS9xeJFNzwDm-mrNDxHr28zcknAKH8knTU_WleHEhmJ-vgNokgVbm9y8vRH18v9Oxz6F7twmnBoJfIQ2fVeuhEErRAF31F9MES02sZMhYG-i7F9Ty-C-yD64U4cmgq3CD7nuEnD9OZpxWCTKAPCXfIDKycUeZEfJIBBagPPW72JgWZO/s1600/android-ad-fraud.jpg"
+    },
+    {
       "title": "Microsoft plans to improve Windows 11 driver quality in 2026",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-plans-to-improve-windows-11-driver-quality-in-2026/",
       "description": "Microsoft plans to raise the quality bar of Windows 11 drivers, as drivers \"sit at the heart of every Windows experience\" and connect the OS to the \"silicon, components, and peripherals.\" [...]",
@@ -37,7 +46,7 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PHP.jpeg"
     },
     {
-      "title": "Microsoft blames undismissible Teams location prompts on macOS update",
+      "title": "Microsoft blames macOS update for undismissible Teams location prompts",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-undismissible-teams-location-prompts-on-macos-update/",
       "description": "Microsoft has confirmed user reports that the Teams team collaboration app is displaying non-dismissible location prompts on some macOS systems. [...]",
       "pubDate": "2026-05-19T16:10:47.000Z",
@@ -53,6 +62,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2024/08/takedown-law-enforcement.jpeg"
+    },
+    {
+      "title": "Exposing Fox Tempest: A malware-signing service operation",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/19/exposing-fox-tempest-a-malware-signing-service-operation/",
+      "description": "Fox Tempest is a financially motivated threat actor operating a malware‑signing‑as‑a‑service (MSaaS) used by other cybercriminals, including Vanilla Tempest and Storm groups, to more effectively distribute malicious code, including ransomware. The post Exposing Fox Tempest: A malware-signing service operation appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-19T15:07:01.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure-1.-Fox-Tempests-SignSpace-sign-in-portal.webp"
     },
     {
       "title": "DirtyDecrypt PoC Released for Linux Kernel CVE-2026-31635 LPE Vulnerability",
@@ -667,15 +685,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/dream-market.jpeg"
     },
     {
-      "title": "Cisco Catalyst SD-WAN Controller Auth Bypass Actively Exploited to Gain Admin Access",
-      "link": "https://thehackernews.com/2026/05/cisco-catalyst-sd-wan-controller-auth.html",
-      "description": "Cisco has released updates to address a maximum-severity authentication bypass flaw in Catalyst SD-WAN Controller that it said has been exploited in limited attacks. The vulnerability, tracked as CVE-2026-20182, carries a CVSS score of 10.0. \"A vulnerability in the peering authentication in Cisco Catalyst SD-WAN Controller, formerly SD-WAN vSmart, and Cisco Catalyst SD-WAN Manager, formerly",
-      "pubDate": "2026-05-14T17:45:20.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9rok1ToP_K0gWug0GnICltZkvx6bMRyhHfTJG1AcSfrGpM_fOVc61O3Fpyen_IW-wpb4s6Hl3qZcU5nEs77SMWSpKNDR4rrlY2syVVSNEBrpHx8RkWmYaN9MZORNICc8LNhuNjXqqhxmy7JN-y389oyQnAAFoBMJC1NoQSQFaOZ2MnrpKQRfv_eYXIoWI/s1600/cisco-exploit.jpg"
-    },
-    {
       "title": "'FrostyNeighbor' APT Carefully Targets Govt Orgs in Poland, Ukraine",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/frostyneighbor-apt-govt-orgs-poland-ukraine",
       "description": "Attackers uniquely fingerprint victims before delivering spear-phishing payloads aimed at espionage, in the latest campaign from the Belarussian nation-state threat group.",
@@ -989,15 +998,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Active attack: Dirty Frag Linux vulnerability expands post-compromise risk",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/08/active-attack-dirty-frag-linux-vulnerability-expands-post-compromise-risk/",
-      "description": "Dirty Frag is a newly disclosed Linux local privilege escalation vulnerability affecting kernel networking and memory-fragment handling components including esp4, esp6, and rxrpc. The vulnerability enables reliable escalation from an unprivileged user to root and may be leveraged after initial compromise through SSH access, web shells, containers, or low-privileged accounts. Microsoft Defender is actively monitoring limited in-the-wild activity and provides detection coverage for exploitation attempts. The post Active attack: Dirty Frag Linux vulnerability expands post-compromise risk appeared",
-      "pubDate": "2026-05-08T17:12:46.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-55.webp"
     },
     {
       "title": "One in eight UK workers has sold their company passwords, and bosses think it’s fine",
