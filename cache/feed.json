@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T18:21:56.608Z",
+  "generatedAt": "2026-05-19T20:14:17.758Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "[Virtual Event] Anatomy of a Data Breach: What to Do if it Happens to You",
+      "link": "https://www.darkreading.com/events/anatomy-of-a-data-breach-what-to-do-if-it-happens-to-you",
+      "description": "",
+      "pubDate": "2026-06-18T15:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "CISA Exposes Secrets, Credentials in 'Private' Repo",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-exposes-secrets-credentials-private-repo",
+      "description": "The agency's GitHub repository, publicly available since November 2025, was ironically named \"Private-CISA.\"",
+      "pubDate": "2026-05-19T19:49:53.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt188d6215ae555513/6a0cb49ac7403d88c6336bf7/github_PJ_McDonnell_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Stealer Spoofs Google, Microsoft &amp; Apple, Then Backdoors macOS",
+      "link": "https://www.darkreading.com/threat-intelligence/stealer-spoofs-google-microsoft-apple-backdoors-macos",
+      "description": "The SHub Reaper stealer, which hides behind fake WeChat and Miro installers, marks a shift from ClickFix social engineering to Apple script-based execution.",
+      "pubDate": "2026-05-19T19:49:40.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt92862d21865d67ee/6a0c49b0d929ba87161f7f33/macOS_AfricaStudio_AlamyStockPhoto.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI: Americans lost over $388 million to scams using crypto ATMs in 2025",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-americans-lost-over-388-million-to-scams-using-crypto-atms-in-2025/",
+      "description": "The FBI says Americans have lost over $388 million last year to scams using cryptocurrency kiosks, also known as crypto ATMs or Bitcoin ATMs. [...]",
+      "pubDate": "2026-05-19T19:45:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Cryptocurrency-bitcoin.jpg"
+    },
+    {
+      "title": "Microsoft Self-Service Password Reset abused in Azure data theft attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-self-service-password-reset-abused-in-azure-data-theft-attacks/",
+      "description": "A threat actor targeting Microsoft 365 and Azure production environments is stealing data in attacks that abuse legitimate applications and administration features. [...]",
+      "pubDate": "2026-05-19T19:35:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg"
+    },
     {
       "title": "Trapdoor Android Ad Fraud Scheme Hit 659 Million Daily Bid Requests Using 455 Apps",
       "link": "https://thehackernews.com/2026/05/trapdoor-android-ad-fraud-scheme-hit.html",
@@ -478,24 +523,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbN7WbW1cUkMzMJl0HPvRrQQUc5MQEE3Pvrc735aG7RGwpguum4POxa4yeQjyYIyiAYBDj_Zl6Ud8esex0AnQSG2J6TVWat57BLALA4WTi3gr5mfrLC2AHloSuvzx6fg9bTxZUvO-aA5VwHjyqbYecAWm2DnM9SRyt0M1GaqYzlBBKdgUR8BXV3xIDVnVN/s1600/npm-hacking.jpg"
     },
     {
-      "title": "Microsoft confirms Windows 11 security update install issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-kb5089549-windows-11-security-update-install-issues/",
-      "description": "Microsoft has confirmed that the May 2026 Windows 11 security update (KB5089549) fails to install on some systems and triggers 0x800f0922 errors. [...]",
-      "pubDate": "2026-05-18T08:33:14.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
-    },
-    {
-      "title": "Exploit available for new DirtyDecrypt Linux root escalation flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/exploit-available-for-new-dirtydecrypt-linux-root-escalation-flaw/",
-      "description": "A recently patched local privilege escalation vulnerability in the Linux kernel's rxgk module now has a proof-of-concept exploit that allows attackers to gain root access on some Linux systems. [...]",
-      "pubDate": "2026-05-18T07:18:33.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/31/Linux.jpg"
-    },
-    {
       "title": "Pre-Stuxnet Fast16 Malware Tampered with Nuclear Weapons Simulations",
       "link": "https://thehackernews.com/2026/05/pre-stuxnet-fast16-malware-tampered.html",
       "description": "A new analysis of the Lua-based fast16 malware has confirmed that it was a cyber sabotage tool designed to tamper with nuclear weapons testing simulations. According to Broadcom-owned Symantec and Carbon Black teams, the pre-Stuxnet tool was engineered to corrupt uranium-compression simulations that are central to nuclear weapon design. \"Fast16's hook engine is selectively interested in",
@@ -838,15 +865,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21f9c2318a5ab687/6a038ac9398f1c61e4de8097/evil_robot_Anna_Vaczi_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "China's 'FamousSparrow' APT Nests in South Caucasus Energy Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-famoussparrow-apt-south-caucasus-energy-firm",
-      "description": "The cyberthreat group targets an Azerbaijani oil and gas firm with repeated attacks, as the China-linked actors extend targeting beyond hospitality, telecom, and government sectors.",
-      "pubDate": "2026-05-13T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt69a3ca2781c97543/6a039734559f883c8de4d9ec/pair-of-java-sparrows-Alen_Thien-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
       "link": "https://www.schneier.com/blog/archives/2026/05/openais-gpt-5-5-is-as-good-as-mythos-at-finding-security-vulnerabilities.html",
       "description": "The UK’s AI Security Institute evaluated GPT-5.5’s ability to find security vulnerabilities, and found that it is comparable to Claude Mythos. Note that the OpenAI model is generally available. Here is the Institute’s evaluation of Mythos. And here is an analysis of a smaller, cheaper model. It requires more scaffolding from the prompter, but it is also just as good.",
@@ -883,15 +901,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-3-1.webp"
     },
     {
-      "title": "It's Patch Tuesday for Microsoft &amp; Not a Zero-Day In Sight",
-      "link": "https://www.darkreading.com/application-security/patch-tuesday-microsoft-zero-day-sight",
-      "description": "It's the first time in two years with no zero-days. But with 137 flaws to patch, including nine critical ones, admins still have plenty of work to do.",
-      "pubDate": "2026-05-12T21:03:04.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3704ee375f0b629/6a038cf3ee64ff5eb73bf289/swbug_Andrii_Yalanskyi_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Defending consumer web properties against modern DDoS attacks",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
       "description": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation. The post Defending consumer web properties against modern DDoS attacks appeared first on Microsoft Security Blog.",
@@ -908,15 +917,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure-1.-Attack-Timeline-2-scaled.webp"
-    },
-    {
-      "title": "Hugging Face Packages Weaponized With a Single File Tweak",
-      "link": "https://www.darkreading.com/cloud-security/hugging-face-packages-weaponized-single-file-tweak",
-      "description": "A tokenizer library file present in Hugging Face AI models can be manipulated to hijack the model's outputs and exfiltrate data.",
-      "pubDate": "2026-05-12T14:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte4a392e468c2fede/6a02399dd02601ddfa8e5443/Hugging_Face_Sidney_Van_den_Boogaard_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Copy.Fail Linux Vulnerability",
@@ -1321,7 +1321,7 @@
       "pubDate": "2026-04-15T23:24:44.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-463.webp"
+      "image": null
     },
     {
       "title": "108 malicious Chrome extensions caught stealing Google and Telegram data from 20,000 users",
