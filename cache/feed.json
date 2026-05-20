@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T16:28:24.452Z",
+  "generatedAt": "2026-05-20T18:41:36.526Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -37,6 +37,42 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "title": "Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/mini-shai-hulud-compromised-antv-npm-packages-enable-ci-cd-credential-theft/",
+      "description": "Compromised @antv npm packages deploy the Mini Shai-Hulud payload to steal CI/CD secrets from Linux-based automation environments. The malware executes during npm install and targets credentials across GitHub, AWS, Kubernetes, Vault, npm, and 1Password platforms. The post Mini Shai Hulud: Compromised @antv npm packages enable CI/CD credential theft appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-20T17:48:44.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-104-1024x683.webp"
+    },
+    {
+      "title": "Microsoft Open-Sources RAMPART and Clarity to Secure AI Agents During Development",
+      "link": "https://thehackernews.com/2026/05/microsoft-open-sources-rampart-and.html",
+      "description": "Microsoft has unveiled two new open-source tools called RAMPART and Clarity to assist developers in better testing the security of artificial intelligence (AI) agents. RAMPART, short for Risk Assessment and Measurement Platform for Agentic Red Teaming, functions as a Pytest-native safety and security testing framework for writing and running safety and security tests for AI agents, covering",
+      "pubDate": "2026-05-20T17:06:54.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjPuhFp_KGzG3yZEzqIYh-at7Dm3vg4_QX97ilaSXDjsUbfhU7KCmRS-uQ2UrV9D855Nvy8HcBDKe25VMT63dfyzh-B2bzSx649SJQSQhL3bfm4Eitv4KLW4PhzRfE1HvoFOFDu2bB4alNLTFzvr6_IkKWjqxShcuWytNgDR4b3wR1xGE6z06xSyWo6NVg3/s1600/ms-tools.jpg"
+    },
+    {
+      "title": "Patch Now: Critical Flaw in OT Robot OS Gives Attackers Control",
+      "link": "https://www.darkreading.com/ics-ot-security/patch-now-critical-flaw-ot-robot-os",
+      "description": "An unauthenticated attacker can exploit the command injection vulnerability to gain remote access to robotic systems, causing significant disruption to the environment.",
+      "pubDate": "2026-05-20T16:12:08.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7b8562594e40786d/6a0d83f54c91d13579cb3c25/robot-safety-cage-gen_A-AdobeStock.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Securing the gaming culture of cultures",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/securing-the-gaming-culture-of-cultures/",
+      "description": "Read about the unique challenges and rewards of securing gaming platforms and how to better protect gaming communities. The post Securing the gaming culture of cultures appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-20T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/10/Man-with-smile-on-face-working-with-laptop-2.webp"
+    },
+    {
       "title": "Grafana breach caused by missed token rotation after TanStack attack",
       "link": "https://www.bleepingcomputer.com/news/security/grafana-breach-caused-by-missed-token-rotation-after-tanstack-attack/",
       "description": "The Grafana data breach was caused by a single GitHub workflow token that slipped through the rotation process following the TanStack npm supply-chain attack last week. [...]",
@@ -62,6 +98,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2024/04/Microsoft-Vulnerabilities-Patched.jpg"
+    },
+    {
+      "title": "Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/20/introducing-rampart-and-clarity-open-source-tools-to-bring-safety-into-agent-development-workflow/",
+      "description": "The AI systems shipping inside enterprises today are fundamentally different from the ones we were building even two years ago, because they have moved well past answering questions and into accessing your email, retrieving records from your CRM, writing and executing code, and taking actions on your behalf across dozens of connected systems. The post Introducing RAMPART and Clarity: Open source tools to bring safety into Agent development workflow appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-20T15:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-76.webp"
     },
     {
       "title": "AI-Powered App Attacks Are Faster, More Frequent and Harder to Stop",
@@ -287,6 +332,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/GitHub.jpg"
+    },
+    {
+      "title": "How to Protect Identities and Sessions from Infostealers",
+      "link": "https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/",
+      "description": "",
+      "pubDate": "2026-05-20T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "What It'll Take to Make AI BOMs Usable in a Modern Security Program",
@@ -703,15 +757,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdFtAiSRukEdQXVvEzXdQKy0O9SY7RCuqFLuAEIBe4rECuQuUS76qEXnxPuEcKIIFUysRNOGdBW2Mf2n1sh1W35aU0nCksWiW7v-20p1K7RhdPPDnxKh7kt_OmQaPrmtYPJ3larEwWr9iHeQMoRtlW767YpsXBFP5-5CQ2jTJUB_jWaMmt_29uLJvaGZE_/s1600/nginx.jpg"
     },
     {
-      "title": "Grafana GitHub Token Breach Led to Codebase Download and Extortion Attempt",
-      "link": "https://thehackernews.com/2026/05/grafana-github-token-breach-led-to.html",
-      "description": "Grafana has disclosed that an \"unauthorized party\" obtained a token that granted them the ability to access the company's GitHub environment and download its codebase. \"Our investigation has determined that no customer data or personal information was accessed during this incident, and we have found no evidence of impact to customer systems or operations,\" Grafana said in a series of",
-      "pubDate": "2026-05-17T07:13:33.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjNcCJY0s2GwOwFeSuqVz941pWrGK3theum-FBFyYO97JnK22OamMheCtr9yEEFfHMvurI7UBgl72blFK6Hm9u358g1V9HbZOk5vocuYMvgjfYLmf2XPNsSG1IiFxlbLvnRaotutjUB5I7sVLVTf1HTozz9FoeVxA3DJOn9wAOolL-HwmATDLlAD-Mgs-tO/s1600/grafana.jpg"
-    },
-    {
       "title": "Friday Squid Blogging: Bigfin Squid",
       "link": "https://www.schneier.com/blog/archives/2026/05/friday-squid-blogging-bigfin-squid.html",
       "description": "Article about the bigfin squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
@@ -838,15 +883,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-68.webp"
     },
     {
-      "title": "AI Drives Cybersecurity Investments, Widening 'Valley of Death'",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-cybersecurity-investments-valley-death",
-      "description": "In a role reversal, investment dollars in security startups exceeded the value of mergers and acquisitions in 1Q26 by more than $1 billion, a rare occurrence.",
-      "pubDate": "2026-05-14T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8d0adcdfb0592b29/6a023182733969819914d590/venturecapital_AlekseyFuntap_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "How Dangerous Is Anthropic’s Mythos AI?",
       "link": "https://www.schneier.com/blog/archives/2026/05/how-dangerous-is-anthropics-mythos-ai.html",
       "description": "Last month, Anthropic made a remarkable announcement about its new model, Claude Mythos Preview: it was so good at finding security vulnerabilities in software that the company would not release it to the general public. Instead, it would only be available to a select group of companies to scan and fix their own software. The announcement requires context—but it contained an essential truth. While Anthropic’s model is really good at finding software vulnerabilities, so are other models. The UK’s AI Security Institute found that OpenAI’s GPT-5.5, already generally available, is comparable in ca",
@@ -917,33 +953,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-59.webp"
-    },
-    {
-      "title": "Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defense-at-ai-speed-microsofts-new-multi-model-agentic-security-system-tops-leading-industry-benchmark/",
-      "description": "Today Microsoft is announcing a major step forward in AI-powered cyber defense: a new multi-model agentic scanning harness (codenamed MDASH). The post Defense at AI speed: Microsoft’s new multi-model agentic security system tops leading industry benchmark appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-12T22:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-3-1.webp"
-    },
-    {
-      "title": "Defending consumer web properties against modern DDoS attacks",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/defending-consumer-web-properties-against-modern-ddos-attacks/",
-      "description": "Read how to protect consumer websites and defend against modern DDoS attacks with layered security, resilient architecture, and graceful service degradation. The post Defending consumer web properties against modern DDoS attacks appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-12T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Defend-modern-DDoS-attacks-1.jpg"
-    },
-    {
-      "title": "Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/12/undermining-the-trust-boundary-investigating-a-stealthy-intrusion-through-third-party-compromise/",
-      "description": "Microsoft Incident Response investigated an attack operated through legitimate and trusted administrative mechanisms to blend seamlessly into routine operations and remain undetected demonstrating that intrusions have increasingly avoided using noisy exploits, obvious malware, or custom tooling, instead leveraging systems that organizations already trust within their environments. The post Undermining the trust boundary: Investigating a stealthy intrusion through third-party compromise appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-12T15:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Figure-1.-Attack-Timeline-2-scaled.webp"
     },
     {
       "title": "Copy.Fail Linux Vulnerability",
@@ -1196,15 +1205,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/hexdex.jpeg"
-    },
-    {
-      "title": "CrowdStrike Expands ChatGPT Enterprise Integration with Enhanced Audit Logging and Activity Monitoring",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-expands-chatgpt-enterprise-integration/",
-      "description": "",
-      "pubDate": "2026-04-28T07:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Weekly Update 501",
