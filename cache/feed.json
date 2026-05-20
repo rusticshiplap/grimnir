@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-19T21:54:53.879Z",
+  "generatedAt": "2026-05-20T08:49:47.552Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,105 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI warns students and staff that ShinyHunters may come knocking after Canvas breach",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach",
+      "description": "Having receive a ransom payment for its attack on Canvas, ShinyHunters and other extortion gangs are only likely to be further incentivised to launch similar attacks in future. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-05-20T08:28:36.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/canvas-fbi.jpeg"
+    },
+    {
+      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
+      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
+      "description": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
+      "pubDate": "2026-05-20T08:14:08.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/GitHub.jpg"
+    },
+    {
+      "title": "Microsoft shares mitigation for YellowKey Windows zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-mitigation-for-yellowkey-windows-zero-day/",
+      "description": "Microsoft has shared mitigations for YellowKey, a recently disclosed Windows BitLocker zero-day vulnerability that grants access to protected drives. [...]",
+      "pubDate": "2026-05-20T07:31:15.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/05/28/Windows-headpic.jpg"
+    },
+    {
+      "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
+      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
+      "description": "While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
+      "pubDate": "2026-05-20T07:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0be6af563749ef53/6a0cb6c6fc6d781d0eb34f55/rams-at-luxor-in-Egypt-Yuliia24-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Grafana GitHub Breach Exposes Source Code via TanStack npm Attack",
+      "link": "https://thehackernews.com/2026/05/grafana-github-breach-exposes-source.html",
+      "description": "Grafana Labs, on May 19, 2026, said an investigation into its recent breach found no evidence of customer production systems or operations being compromised. It said the scope of the incident is limited to the Grafana Labs GitHub environment, which includes public and private source code along with internal GitHub repositories. \"After the initial assessment, we found that in addition to source",
+      "pubDate": "2026-05-20T05:12:06.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi1N3gjAFZQ-1hptUuKwQmHMjlZwIMDn6H6mKc9UuDELAKWl_3Kow6EcD72IkWpBf8ZB2Db8wrZW86zVxKaEgQZ7_sVrWoDokD1LoLPUqhhCw2lLDl9ODqq2ZkfBrK6SUTrbROBuFNXN16HPtMWtS9EMIFsO3yQsISWCK0JrlwiUWineb9sxIq-un41smHG/s1600/grafana-breach.jpg"
+    },
+    {
+      "title": "GitHub investigates internal repositories breach claimed by TeamPCP",
+      "link": "https://www.bleepingcomputer.com/news/security/github-investigates-internal-repositories-breach-claimed-by-teampcp/",
+      "description": "GitHub is investigating a breach of its internal repositories after the TeamPCP hacker group claimed to have accessed approximately 4,000 repositories containing private code. [...]",
+      "pubDate": "2026-05-20T05:08:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/GitHub.jpg"
+    },
+    {
+      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
+      "description": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
+      "pubDate": "2026-05-20T04:01:15.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoDiyeJZY33dxAsa8qElLYXNILLDT4NhloINZiuzcx3La2JvDK_d54kM8qsx_obt8vQ3FpTJr2ZVoMYiEcqHN0sbt-1A_MHlS7mSavlbDiEDg42HN1d4wCffs7ytuZhDvmMjuej5oljVIqIuRezyZCLmafRclN3wNBKcboV-19F0VMMBkVsQZckV5UaiiH/s1600/github.jpg"
+    },
+    {
+      "title": "Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector",
+      "link": "https://www.securityweek.com/verizon-dbir-2026-vulnerability-exploitation-overtakes-credential-theft-as-top-breach-vector/",
+      "description": "Verizon’s 2026 DBIR finds vulnerability exploitation has overtaken credential abuse as the leading breach vector, as AI accelerates attacks, patching delays worsen, and ransomware and third-party compromises continue to surge. The post Verizon DBIR 2026: Vulnerability Exploitation Overtakes Credential Theft as Top Breach Vector appeared first on SecurityWeek.",
+      "pubDate": "2026-05-20T00:04:48.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/05/Verizon.jpeg"
+    },
+    {
+      "title": "Max-severity flaw in ChromaDB for AI apps allows server hijacking",
+      "link": "https://www.bleepingcomputer.com/news/security/max-severity-flaw-in-chromadb-for-ai-apps-allows-server-hijacking/",
+      "description": "A max-severity vulnerability in the latest Python FastAPI version of the ChromaDB project allows unauthenticated attackers to run arbitrary code on exposed servers. [...]",
+      "pubDate": "2026-05-19T22:25:49.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Chroma.jpg"
+    },
+    {
+      "title": "What Will Make AI BOMs Real?",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/what-make-ai-bom-real",
+      "description": "A brief overview of the forces at play that will get more organizations on board with creating and consuming AI bill of materials (BOMs).",
+      "pubDate": "2026-05-19T22:17:55.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt82d57f92a103d9df/6a0d147edc31f80b8cc3c3a0/robot-Pluto-alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Verizon DBIR: Enterprises Face a Dangerous Vulnerability Glut",
+      "link": "https://www.darkreading.com/threat-intelligence/verizon-dbir-enterprises-vulnerability-glut",
+      "description": "Verizon's \"2026 Data Breach Investigations Report\" (\"DBIR\") finds that exploits are now involved in 31% of initial access for breaches, while patching lags too far behind the bad guys.",
+      "pubDate": "2026-05-19T21:55:35.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdf277665f3314cb9/6a0cc97e3c21f6422d8ba496/risk_blocks_Cagkan_Sayin_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Cybercrime service disrupted for abusing Microsoft platform to sign malware",
@@ -343,15 +442,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-79.webp"
     },
     {
-      "title": "INTERPOL ‘Operation Ramz’ seizes 53 malware, phishing servers",
-      "link": "https://www.bleepingcomputer.com/news/security/interpol-operation-ramz-seizes-53-malware-phishing-servers/",
-      "description": "More than 200 individuals were arrested for cybercrime activities during INTERPOL's Operation Ramz, which focused on the Middle East and North Africa. [...]",
-      "pubDate": "2026-05-18T22:15:30.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/INTERPOL.jpg"
-    },
-    {
       "title": "Is 2026 the Year AI Bills of Materials Get Real?",
       "link": "https://www.darkreading.com/cyber-risk/is-2026-year-ai-bills-of-materials-get-real",
       "description": "Understanding AI BOMs and where they fit into risk management for artificial intelligence.",
@@ -370,15 +460,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a4b55f47bd9ed66/6a0b619572bcb61757c995eb/exchange_Piotr_Swat_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "SHub macOS infostealer variant spoofs Apple security updates",
-      "link": "https://www.bleepingcomputer.com/news/security/shub-macos-infostealer-variant-spoofs-apple-security-updates/",
-      "description": "A new variant of the 'SHub' macOS infostealer uses AppleScript to show a fake security update message and installs a backdoor. [...]",
-      "pubDate": "2026-05-18T21:42:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/Apple.jpg"
-    },
-    {
       "title": "'Claw Chain' Vulnerabilities Threaten OpenClaw Deployments",
       "link": "https://www.darkreading.com/application-security/claw-chain-vulnerabilities-threaten-openclaw",
       "description": "The now-patched vulnerabilities in the rapidly growing AI agent framework allow attackers to steal credentials, escalate privileges, and maintain persistence.",
@@ -395,24 +476,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a4214dc2b88ddc4/6a0b5b14fe7bf093eb769187/sandworms_FlixPix_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "5 Steps to Managing Shadow AI Tools Without Slowing Down Employees",
-      "link": "https://www.bleepingcomputer.com/news/security/5-steps-to-managing-shadow-ai-tools-without-slowing-down-employees/",
-      "description": "Many employees already use shadow AI tools at work without security review. Adaptive Security breaks down how teams can build practical AI governance without adding friction for employees. [...]",
-      "pubDate": "2026-05-18T18:45:35.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/05/18/adaptive-managing-shadow-ai-tools.jpg"
-    },
-    {
-      "title": "Leaked Shai-Hulud malware fuels new npm infostealer campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/leaked-shai-hulud-malware-fuels-new-npm-infostealer-campaign/",
-      "description": "The Shai-Hulud malware leaked last week is now used in new attacks on the Node Package Manager (npm) index, as infected packages emerged over the weekend. [...]",
-      "pubDate": "2026-05-18T17:28:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/18/NPM-worms.jpg"
     },
     {
       "title": "INTERPOL Operation Ramz Disrupts MENA Cybercrime Networks with 201 Arrests",
@@ -467,15 +530,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blted41bae888a74bd1/6a0780b73c21f620148b9b52/cyberattack_fear_Yuri_Arcurs_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Millions Impacted Across Several US Healthcare Data Breaches",
-      "link": "https://www.securityweek.com/millions-impacted-across-several-us-healthcare-data-breaches/",
-      "description": "Several healthcare data breaches impacting hundreds of thousands and even millions were added to the HHS tracker. The post Millions Impacted Across Several US Healthcare Data Breaches appeared first on SecurityWeek.",
-      "pubDate": "2026-05-18T12:58:44.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/05/healthcare-medical-data-breach-.jpeg"
     },
     {
       "title": "Boulevard of Broken Dreams: 2 Decades of Cyber Fails",
@@ -667,24 +721,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/02_Malware_Category_1920x900.jpg"
     },
     {
-      "title": "On-Prem Microsoft Exchange Server CVE-2026-42897 Exploited via Crafted Email",
-      "link": "https://thehackernews.com/2026/05/on-prem-microsoft-exchange-server-cve.html",
-      "description": "Microsoft has disclosed a new security vulnerability impacting on-premise versions of Exchange Server that it said has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-42897 (CVSS score: 8.1), has been described as a spoofing bug stemming from a cross-site scripting flaw. An anonymous researcher has been credited with discovering and reporting the issue. \"",
-      "pubDate": "2026-05-15T06:19:04.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirN79ZRjEd5wnVbOTlJJsWjQ54cwSj2bM5NDzBSgAFO8f_9LrlIwQRI0ZogQX42iejmhgc1n2YcA91pFrVqtqNKKyAIXblcQ1Yx9LTs1TeNDbNN6JMUBXCKDK1W0IwnwvYl1dhQmcyTPHwakckKT_Kc9fAUDAJRj94g2pENrjy4UyTCCniOXI2rO-q66PC/s1600/Microsoft-Exchange.png"
-    },
-    {
-      "title": "CISA Adds Cisco SD-WAN CVE-2026-20182 to KEV After Admin Access Exploits",
-      "link": "https://thehackernews.com/2026/05/cisa-adds-cisco-sd-wan-cve-2026-20182.html",
-      "description": "The U.S.Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly disclosed vulnerability impacting Cisco Catalyst SD-WAN Controller to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to remediate the issue by May 17, 2026. The vulnerability is a critical authentication bypass tracked as CVE-2026-20182. It's",
-      "pubDate": "2026-05-15T05:28:03.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4XG5z00sF3uL0ZbhtZNiergQ9QVaZJydwP1pXEdPh2o29mwvTS2nPKRbxHftwnEJ1pvxMQS9TQknWqbovk-vW7BRPHUSsBhN4yL2iOwJnlmK7lzCdW9tJbKtKLbnfSZSWgfGlWQ6HO807gjR6dP61VylH1zxWtvfo3c7ui8aBecSjVz5miCG0jHoa8rUA/s1600/cisa-exploit.png"
-    },
-    {
       "title": "Taiwan Bullet Train Hack Highlights Cybersecurity Gaps in Rail Systems",
       "link": "https://www.darkreading.com/ics-ot-security/taiwan-incident-highlights-cybersecurity-gaps",
       "description": "A Taiwanese student experimenting with software-defined radio technology shut down three bullet trains for nearly an hour, leading to an anti-terrorism response.",
@@ -836,33 +872,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt730562b46d0b78c5/66be4145fa2d5811b851cb52/Risk(1800)_Andriy_Popov_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Attackers Weaponize RubyGems for Data Dead Drops",
-      "link": "https://www.darkreading.com/application-security/attackers-weaponize-rubygems-data-dead-drops",
-      "description": "Threat actors are publishing RubyGems packages that include scrapers targeting public-facing UK government servers, but with no clear objective.",
-      "pubDate": "2026-05-13T21:09:20.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c3a7f42da5b1b95/6a04cc6a3840020cbc815a66/ruby_Zerilli_Media_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Tables Turn on 'The Gentlemen' RaaS Gang With Data Leak",
-      "link": "https://www.darkreading.com/threat-intelligence/gentlemen-raas-gang-data-leak",
-      "description": "An OPSEC failure provides a window into what helped the ransomware group rise: a generous affiliate model, opportunistic TTPs, and an effective organizational structure.",
-      "pubDate": "2026-05-13T20:47:46.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd4988365b90a7362/6a04c7e73c21f66c138b9490/Top_hats-Guy_Corbishley-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Dark Reading Celebrates 20 Years as a Leading Authority on Cybersecurity, Highlighting the People, Events, Ideas, and Technologies Shaping the Modern Risk Landscape",
-      "link": "https://www.darkreading.com/cybersecurity-operations/dark-reading-celebrates-20-years-as-a-leading-authority-on-cybersecurity-highlighting-the-people-events-ideas-and-technologies-shaping-the-modern-risk-landscape",
-      "description": "Informa TechTarget's flagship cybersecurity media brand launches a special content series to mark two decades as a trusted source for cybersecurity professionals.",
-      "pubDate": "2026-05-13T18:52:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "OpenAI’s GPT-5.5 is as Good as Mythos at Finding Security Vulnerabilities",
@@ -1367,15 +1376,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/03_Cloud_cybersecurity_research_Category_1505x922.jpg"
-    },
-    {
-      "title": "Life imprisonment for Cambodian scam compound operators – but will it make a difference?",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/life-imprisonment-cambodian-scam-operators",
-      "description": "Cambodia has taken a dramatic step in its fight against scam compounds that have imprisoned innocent people, and forced them to work as virtual slaves defrauding victims via the internet around the world with romance scams and dodgy investment schemes. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-04-07T08:57:17.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/compound.jpeg"
     },
     {
       "title": "Weekly Update 498",
