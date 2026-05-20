@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-20T08:49:47.552Z",
+  "generatedAt": "2026-05-20T10:00:45.317Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -28,6 +28,24 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt947fd68cd895a80d/6a060e70239afa534b9406ac/DR_Anatomy_of_a_Data_Breach_Virtual_Event_2026.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "title": "Virtual Event Today: Threat Detection & Incident Response Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-threat-detection-incident-response-summit/",
+      "description": "The speed and sophistication of cyberattacks have outpaced traditional defense methods. Please join us online today from 11AM -4PM ET for the Threat Detection & Incident Response Summit. Don’t miss this virtual event as we explore how to cut through alert fatigue, leverage AI and unified platforms to accelerate investigations, and apply actionable threat intelligence to […] The post Virtual Event Today: Threat Detection & Incident Response Summit appeared first on SecurityWeek.",
+      "pubDate": "2026-05-20T10:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/TDIR_Summit_Splash.jpg"
+    },
+    {
+      "title": "GitHub Confirms Hack Impacting 3,800 Internal Repositories",
+      "link": "https://www.securityweek.com/github-confirms-hack-impacting-3800-internal-repositories/",
+      "description": "The TeamPCP hacking group accessed the repositories after a GitHub employee installed a poisoned VS Code extension. The post GitHub Confirms Hack Impacting 3,800 Internal Repositories appeared first on SecurityWeek.",
+      "pubDate": "2026-05-20T09:28:53.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/03/GitHub.jpeg"
+    },
+    {
       "title": "FBI warns students and staff that ShinyHunters may come knocking after Canvas breach",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-shinyhunters-canvas-breach",
       "description": "Having receive a ransom payment for its attack on Canvas, ShinyHunters and other extortion gangs are only likely to be further incentivised to launch similar attacks in future. Read more in my article on the Hot for Security blog.",
@@ -35,6 +53,15 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/canvas-fbi.jpeg"
+    },
+    {
+      "title": "Microsoft Releases Mitigation for YellowKey BitLocker Bypass CVE-2026-45585 Exploit",
+      "link": "https://thehackernews.com/2026/05/microsoft-releases-mitigation-for.html",
+      "description": "Microsoft on Tuesday released a mitigation for a BitLocker bypass vulnerability named YellowKey following its public disclosure last week. The zero-day flaw, now tracked as CVE-2026-45585, carries a CVSS score of 6.8. It has been described as a BitLocker security feature bypass. \"Microsoft is aware of a security feature bypass vulnerability in Windows publicly referred to as 'YellowKey,'\" the",
+      "pubDate": "2026-05-20T08:28:26.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
     },
     {
       "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
@@ -82,7 +109,7 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/29/GitHub.jpg"
     },
     {
-      "title": "GitHub Investigating TeamPCP Claimed Breach of ~4,000 Internal Repositories",
+      "title": "GitHub Breached — Employee Device Hack Led to Exfiltration of 3,800+ Internal Repos",
       "link": "https://thehackernews.com/2026/05/github-investigating-teampcp-claimed.html",
       "description": "GitHub on Tuesday said it's investigating unauthorized access to its internal repositories after the notorious threat actor known as TeamPCP listed the platform's source code and internal organizations for sale on a cybercrime forum. \"While we currently have no evidence of impact to customer information stored outside of GitHub's internal repositories (such as our customers' enterprises,",
       "pubDate": "2026-05-20T04:01:15.000Z",
@@ -379,15 +406,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2023/03/hacker_arrested-1-e1760348116204.jpg"
     },
     {
-      "title": "PoC Released for DirtyDecrypt Linux Kernel Vulnerability",
-      "link": "https://www.securityweek.com/poc-released-for-dirtydecrypt-linux-kernel-vulnerability/",
-      "description": "Patched in April, the underlying vulnerability allows local attackers to elevate their privileges to root. The post PoC Released for DirtyDecrypt Linux Kernel Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-05-19T09:42:56.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg"
-    },
-    {
       "title": "SEPPMail Secure E-Mail Gateway Vulnerabilities Enable RCE and Mail Traffic Access",
       "link": "https://thehackernews.com/2026/05/seppmail-secure-e-mail-gateway.html",
       "description": "Critical security vulnerabilities have been disclosed in SEPPMail Secure E-Mail Gateway, an enterprise-grade email security solution, that could be exploited to achieve remote code execution and enable an attacker to read arbitrary mails from the virtual appliance. \"These vulnerabilities could have been exploited to read all mail traffic or as an entry vector into the internal network,\"",
@@ -404,15 +422,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi61imbY3-QbM_mT_6WAxBXaFeZ3eXwprN147ox_bMvVqh9NrS69IwqwwL4qu2z1eRA8NfrWwyJi9bIDuREGEVZ-LdBMCGTSxdul92ZApPGrzwqOcr3b6YBKC19N97sk75izvamQxOqBzokKhF-__uaEuw74ZbKQLxKxMQWgRXSCR3FE6ULeHGxbiIhuEso/s1600/nconsole.jpg"
-    },
-    {
-      "title": "Critical Vulnerability Exposes Industrial Robot Fleets to Hacking",
-      "link": "https://www.securityweek.com/critical-vulnerability-exposes-industrial-robot-fleets-to-hacking/",
-      "description": "The vulnerability, CVE-2026-8153, affects Universal Robots PolyScope 5 and it can be exploited for OS command injection. The post Critical Vulnerability Exposes Industrial Robot Fleets to Hacking appeared first on SecurityWeek.",
-      "pubDate": "2026-05-19T06:18:51.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/cobot-industrial-robot-arm.jpeg"
     },
     {
       "title": "Popular GitHub Action Tags Redirected to Imposter Commit to Steal CI/CD Credentials",
@@ -701,15 +710,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVcSUDrpIZyFrHqIlIGnXfIShsEamRNviaM6TguPwmQI9KkhrIXOQbQ0WVKiOkcBGkFqKTKZmK16zPChmlcCbZHIkX3K_C0sjnyXYJjpZuJXO3OiIhUe7Ez8jCNiTxh0FGYS2-RR6HKsl9pWJVgc_uXAtHXj0hgU-mLSsOh-QHft6A92KtgWPQhk1OVPA/s1600/Attack-Surface.jpg"
-    },
-    {
-      "title": "TanStack Supply Chain Attack Hits Two OpenAI Employee Devices, Forces macOS Updates",
-      "link": "https://thehackernews.com/2026/05/tanstack-supply-chain-attack-hits-two.html",
-      "description": "OpenAI has disclosed that two of its employee devices in its corporate environment were impacted via the Mini Shai-Hulud supply chain attack on TanStack, but noted that no user data, production systems, or intellectual property were compromised or modified in an unauthorized manner. \"Upon identification of the malicious activity, we worked quickly to investigate, contain, and take steps to",
-      "pubDate": "2026-05-15T10:54:44.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1l4Vq20M4553fkDfGbO9VqLV9Au-6EefivLp8HT2W5QxJvgWf1mr6pg5xsbC5j3FCJzOOCJv_CImY1LjjFYIN_25ajki1iS_EVPvTyeVY7bC3ogcQFzHmE1Xyaz3cRXneilC0rWcb8dLbUapLI_jZ-uBaUkku48absoxM6TG16jS3xxtw9lhhtCvJmemK/s1600/chatgpt.jpg"
     },
     {
       "title": "Gremlin Stealer's Evolved Tactics: Hiding in Plain Sight With Resource Files",
