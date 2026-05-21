@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-21T18:06:49.627Z",
+  "generatedAt": "2026-05-21T20:20:37.281Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Google accidentally exposed details of unfixed Chromium flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/google-accidentally-exposed-details-of-unfixed-chromium-flaw/",
+      "description": "Google has accidentally leaked details about an unfixed issue in Chromium that keeps JavaScript running in the background even when the browser is closed, allowing remote code execution on the device. [...]",
+      "pubDate": "2026-05-21T18:13:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/13/Google_Chrome.jpg"
     },
     {
       "title": "Defenders fall behind, as AI rewrites the rules of a data breach",
@@ -280,6 +289,15 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/21/GitHub_headpic.jpg"
     },
     {
+      "title": "New Claude Integration Brings Audit Data into the Falcon Platform",
+      "link": "https://www.crowdstrike.com/en-us/blog/new-claude-integration-brings-audit-data-into-the-falcon-platform/",
+      "description": "",
+      "pubDate": "2026-05-21T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "GitHub Internal Repositories Breached via Malicious Nx Console VS Code Extension",
       "link": "https://thehackernews.com/2026/05/github-internal-repositories-breached.html",
       "description": "GitHub on Wednesday officially confirmed that the breach of its internal repositories was the result of a compromise of an employee device involving a poisoned version of the Nx Console Microsoft Visual Studio Code (VS Code) extension. The development comes as the Nx team revealed that the extension, nrwl.angular-console, was breached after one of its developers' systems was hacked in the",
@@ -403,7 +421,7 @@
       "pubDate": "2026-05-20T15:46:37.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/grafana.jpg"
+      "image": null
     },
     {
       "title": "Quantum Bridge Raises $8 Million for Quantum-Safe Key Distribution Solution",
@@ -457,7 +475,7 @@
       "pubDate": "2026-05-20T14:02:12.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/05/18/identity-alone-isnt-enough-why-device-security-has-to-share-the-load.png"
+      "image": null
     },
     {
       "title": "Drupal critical update to fix bug with high exploitation risk",
@@ -466,7 +484,7 @@
       "pubDate": "2026-05-20T12:52:29.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/drupal.jpg"
+      "image": null
     },
     {
       "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
@@ -502,7 +520,7 @@
       "pubDate": "2026-05-20T10:52:31.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/linux.jpg"
+      "image": null
     },
     {
       "title": "Typosquatting Is No Longer a User Problem. It's a Supply Chain Problem",
@@ -539,15 +557,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8DmW5nAG63-9iR2RmnP7i3GVJ9EBtLznscnnjROZ-DWRALYo0zsPNjUm2J6khkqSDJiX5Gmwb8sxPh4jHRcsJWFhKSdxZzz4D2f5bOahbfcnmQrUdvhyphenhyphenNVrE-LFMUhhf6rvSyxG2CoVhEFxbZSpEc0y52PM-qxwn02cDP3K3hEzf1nqcRNZEG1wOTjAiQ/s1600/bitlocker-exploit.png"
-    },
-    {
-      "title": "GitHub confirms breach of 3,800 repos via malicious VSCode extension",
-      "link": "https://www.bleepingcomputer.com/news/security/github-confirms-breach-of-3-800-repos-via-malicious-vscode-extension/",
-      "description": "GitHub has confirmed that roughly 3,800 internal repositories were breached after one of its employees installed a malicious VS Code extension. [...]",
-      "pubDate": "2026-05-20T08:14:08.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/GitHub.jpg"
     },
     {
       "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
@@ -1187,15 +1196,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/marines.jpeg"
-    },
-    {
-      "title": "Defending Against CORDIAL SPIDER and SNARKY SPIDER with Falcon Shield",
-      "link": "https://www.crowdstrike.com/en-us/blog/defending-against-cordial-spider-and-snarky-spider-with-falcon-shield/",
-      "description": "",
-      "pubDate": "2026-04-30T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Smashing Security podcast #465: This developer wanted to cheat at Roblox. It cost millions",
