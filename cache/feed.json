@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-22T09:33:44.648Z",
+  "generatedAt": "2026-05-22T12:23:21.500Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,33 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Canadian Man Arrested for Operating Kimwolf Botnet",
+      "link": "https://www.securityweek.com/canadian-man-arrested-for-operating-kimwolf-botnet/",
+      "description": "Jacob Butler, 23, has been arrested in Canada and US authorities are seeking his extradition on computer hacking charges. The post Canadian Man Arrested for Operating Kimwolf Botnet appeared first on SecurityWeek.",
+      "pubDate": "2026-05-22T12:11:03.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/hacker-arrested.jpeg"
+    },
+    {
+      "title": "Ubiquiti patches three max severity UniFi OS vulnerabilities",
+      "link": "https://www.bleepingcomputer.com/news/security/ubiquiti-patches-three-max-severity-unifi-os-vulnerabilities/",
+      "description": "Ubiquiti has released security updates to patch three maximum severity vulnerabilities in Unify OS that can be exploited by remote attackers without privileges. [...]",
+      "pubDate": "2026-05-22T12:00:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/22/Ubiquiti-red.jpg"
+    },
+    {
+      "title": "Paved With Intent: ROADtools and Nation-State Tactics in the Cloud",
+      "link": "https://unit42.paloaltonetworks.com/roadtools-cloud-attacks/",
+      "description": "Open-source framework ROADtools is being misused by threat actors for cloud intrusions. Learn how to identify its malicious use. The post Paved With Intent: ROADtools and Nation-State Tactics in the Cloud appeared first on Unit 42.",
+      "pubDate": "2026-05-22T10:00:24.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/10_Cloud_cybersecurity_research_Overview_1920x900-1.jpg"
     },
     {
       "title": "‘First VPN’ Cybercrime Service Disrupted, Administrator Arrested",
@@ -111,7 +138,7 @@
     {
       "title": "Google API Keys Remain Active After Deletion",
       "link": "https://www.darkreading.com/identity-access-management-security/google-api-keys-active-after-deletion",
-      "description": "A security researcher discovered the API keys can still be used for 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
+      "description": "A security researcher discovered the API keys can still be used for up to 23 minutes after deletion, even though the cloud provider claims deletion is immediate.",
       "pubDate": "2026-05-21T20:07:47.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -334,15 +361,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Microsoft-Defender.jpg"
     },
     {
-      "title": "Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI",
-      "link": "https://www.securityweek.com/googles-surge-in-chrome-vulnerability-discoveries-likely-driven-by-ai/",
-      "description": "More than 200 vulnerabilities patched in recent Chrome releases are marked as ‘reported by Google’. The post Google’s Surge in Chrome Vulnerability Discoveries Likely Driven by AI appeared first on SecurityWeek.",
-      "pubDate": "2026-05-21T09:37:08.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg"
-    },
-    {
       "title": "Microsoft warns of new Defender zero-days exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-new-defender-zero-days-exploited-in-attacks/",
       "description": "On Wednesday, Microsoft started rolling out security patches for two Defender vulnerabilities that have been exploited in zero-day attacks. [...]",
@@ -539,15 +557,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/posts/2026/05/18/identity-alone-isnt-enough-why-device-security-has-to-share-the-load.png"
-    },
-    {
-      "title": "Drupal critical update to fix bug with high exploitation risk",
-      "link": "https://www.bleepingcomputer.com/news/security/drupal-critical-update-to-fix-bug-with-high-exploitation-risk/",
-      "description": "Drupal has announced a \"core security release\" scheduled for later today, warning that threat actors might develop exploits within hours of the update disclosure. [...]",
-      "pubDate": "2026-05-20T12:52:29.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/20/drupal.jpg"
     },
     {
       "title": "Webworm Deploys EchoCreep and GraphWorm Backdoors Using Discord and MS Graph API",
@@ -1331,15 +1340,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/0c034da7-4e9c-4369-87f4-aa7c60adef5d.jpg"
-    },
-    {
-      "title": "A Deep Dive Into Attempted Exploitation of CVE-2023-33538",
-      "link": "https://unit42.paloaltonetworks.com/exploitation-of-cve-2023-33538/",
-      "description": "CVE-2023-33538 allows for command injection in TP-Link routers. We discuss exploitation attempts with payloads characteristic of Mirai botnet malware. The post A Deep Dive Into Attempted Exploitation of CVE-2023-33538 appeared first on Unit 42.",
-      "pubDate": "2026-04-16T22:00:13.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/04_Vulnerabilities_1920x900.jpg"
     },
     {
       "title": "Sometimes changing the password on your email mailbox isn’t enough",
