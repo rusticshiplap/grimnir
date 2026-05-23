@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-05-23T18:34:25.939Z",
-  "count": 180,
+  "generatedAt": "2026-05-23T20:07:29.154Z",
+  "count": 205,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -1459,6 +1459,33 @@
       "image": null
     },
     {
+      "title": "Top 10 web hacking techniques of 2025",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025",
+      "description": "Welcome to the Top 10 Web Hacking Techniques of 2025, the 19th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
+      "pubDate": "2026-02-05T15:28:08.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/08/b9/185c-twittercard-top_10_wht_2025_results_x(1).png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2025: call for nominations",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
+      "description": "Update: nominations are now closed, and voting is live! Cast your vote here Over the last year, security researchers have shared a huge amount of work with the community through blog posts, presentati",
+      "pubDate": "2026-01-06T15:31:28.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/fa/0c/ba98-twittercard-top_10_wht_2025_nom_x.png"
+    },
+    {
+      "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+      "link": "https://portswigger.net/research/the-fragile-lock",
+      "description": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
+      "pubDate": "2025-12-10T12:32:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/1d/b6/e1f2-twittercard-twitter-card.png"
+    },
+    {
       "title": "Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation",
       "link": "https://www.sophos.com/en-us/blog/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation",
       "description": "A major milestone: Sophos XDR delivers 100% detection 1 coverage in the latest ATT&CK Evaluation. Categories: Products & Services, Security Operations Tags: MITRE ATT&CK, Sophos Endpoint, Sophos EDR, Sophos XDR",
@@ -1504,6 +1531,15 @@
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltc093370e4ed703e5/693946bafbd5155e8bf64a10/blog-sophos-intelix-copilot.png"
     },
     {
+      "title": "Introducing HTTP Anomaly Rank",
+      "link": "https://portswigger.net/research/introducing-http-anomaly-rank",
+      "description": "HTTP Anomaly Rank If you've ever used Burp Intruder or Turbo Intruder, you'll be familiar with the ritual of manually digging through thousands of responses by repeatedly sorting the table via length,",
+      "pubDate": "2025-11-11T14:41:53.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net"
+    },
+    {
       "title": "Detecting fraudulent North Korean hires: A CISO playbook",
       "link": "https://www.sophos.com/en-us/blog/detecting-fraudulent-north-korean-hires-a-ciso-playbook",
       "description": "Has a North Korean threat actor applied for a position at your organization, or even been hired? We’re sharing a toolkit to help you detect and avoid that risk. Categories: Security Operations Tags: CISO, Featured, North Korea, playbook, toolkit",
@@ -1531,6 +1567,51 @@
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
     },
     {
+      "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
+      "link": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
+      "description": "Many testers and tools give up the moment a protocol upgrade to WebSocket occurs, or only perform shallow analysis. This is a huge blind spot, leaving many bugs like Broken Access Controls, Race condi",
+      "pubDate": "2025-09-17T12:40:06.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a8/06/be9f-twittercard-twitter-ws.png"
+    },
+    {
+      "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+      "link": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+      "description": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
+      "pubDate": "2025-09-03T14:46:23.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/21/b7/c07c-twittercard-cookie-chaos-twitter-card.png"
+    },
+    {
+      "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
+      "link": "https://portswigger.net/research/inline-style-exfiltration",
+      "description": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
+      "pubDate": "2025-08-26T12:54:03.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/9b/73/22f5-twittercard-twitter.png"
+    },
+    {
+      "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
+      "link": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
+      "description": "Sometimes people think they've found HTTP request smuggling, when they're actually just observing HTTP keep-alive or pipelining. This is usually a false positive, but sometimes there's actually a real",
+      "pubDate": "2025-08-19T14:30:44.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a5/0d/27b0-twittercard-http_pipelining_twitter.png"
+    },
+    {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "link": "https://portswigger.net/research/http1-must-die",
+      "description": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
+      "pubDate": "2025-08-06T22:20:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/03/e6/ab75-twittercard-1.1_whitepaper_twitter.png"
+    },
+    {
       "title": "Rubrik & Sophos Enhance Cyber Resilience for Microsoft 365",
       "link": "https://www.sophos.com/en-us/blog/rubrik-sophos-enhance-cyber-resilience-for-microsoft-365",
       "description": "Categories: Products & Services, Security news, Security Operations Tags: MDR, Partners",
@@ -1547,6 +1628,150 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
+    },
+    {
+      "title": "Repeater Strike: manual testing, amplified",
+      "link": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
+      "description": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
+      "pubDate": "2025-07-15T13:46:37.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/8e/11/0c91-twittercard-twitter.png"
+    },
+    {
+      "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
+      "link": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+      "description": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
+      "pubDate": "2025-04-30T12:37:11.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a9/75/db78-twittercard-ascii-control-characters_x_(1).png"
+    },
+    {
+      "title": "Document My Pentest: you hack, the AI writes it up!",
+      "link": "https://portswigger.net/research/document-my-pentest",
+      "description": "Tired of repeating yourself? Automate your web security audit trail. In this post I'll introduce a new Burp AI extension that takes the boring bits out of your pen test. Web security testing can be a",
+      "pubDate": "2025-04-23T13:17:24.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/d6/69/18fa-twittercard-twitter.png"
+    },
+    {
+      "title": "SAML roulette: the hacker always wins",
+      "link": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
+      "description": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
+      "pubDate": "2025-03-18T14:55:43.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/af/32/5b4c-twittercard-x.png"
+    },
+    {
+      "title": "Shadow Repeater:AI-enhanced manual testing",
+      "link": "https://portswigger.net/research/shadow-repeater-ai-enhanced-manual-testing",
+      "description": "Have you ever wondered how many vulnerabilities you've missed by a hair's breadth, due to a single flawed choice? We've just released Shadow Repeater, which enhances your manual testing with AI-powere",
+      "pubDate": "2025-02-20T13:20:19.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/53/94/ffe0-twittercard-shadow_repeater_twitter.png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2024",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024",
+      "description": "Welcome to the Top 10 Web Hacking Techniques of 2024, the 18th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
+      "pubDate": "2025-02-04T15:01:48.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/cc/24/f90b-twittercard-top_10_web_hacking_techniques_2024_results_twitter_2.png"
+    },
+    {
+      "title": "Bypassing character blocklists with unicode overflows",
+      "link": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
+      "description": "Unicode codepoint truncation - also called a Unicode overflow attack - happens when a server tries to store a Unicode character in a single byte. Because the maximum value of a byte is 255, an overflo",
+      "pubDate": "2025-01-28T13:58:28.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/6e/d6/e5b5-twittercard-bypass-character-blocklists-with-unicode-overflows.png"
+    },
+    {
+      "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
+      "link": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+      "description": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
+      "pubDate": "2025-01-22T14:45:11.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/38/f5/ffaa-twittercard-tweetstststs.png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2024: nominations open",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
+      "description": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
+      "pubDate": "2025-01-08T14:07:27.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/bf/3c/e22b-twittercard-top10-twitter.png"
+    },
+    {
+      "title": "Bypassing WAFs with the phantom $Version cookie",
+      "link": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
+      "description": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
+      "pubDate": "2024-12-04T15:03:35.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/5c/91/f7f8-twittercard-twitter-card-orange.png"
+    },
+    {
+      "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet",
+      "link": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+      "description": "The strength of our URL Validation Bypass Cheat Sheet lies in the contributions from the web security community, and today’s update is no exception. We are excited to introduce a new and improved IP a",
+      "pubDate": "2024-10-29T13:59:13.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/64/c6/9fed-twittercard-81a7457a-352e-4be5-a489-adfa890fc960.png"
+    },
+    {
+      "title": "Concealing payloads in URL credentials",
+      "link": "https://portswigger.net/research/concealing-payloads-in-url-credentials",
+      "description": "Last year Johan Carlsson discovered you could conceal payloads inside the credentials part of the URL . This was fascinating to me especially because the payload is not actually visible in the URL in",
+      "pubDate": "2024-10-23T12:59:05.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a1/af/aea1-twittercard-twitter.png"
+    },
+    {
+      "title": "Introducing the URL validation bypass cheat sheet",
+      "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "description": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
+      "pubDate": "2024-09-03T14:52:12.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/b7/9f/d69c-twittercard-twitter.png"
+    },
+    {
+      "title": "Gotta cache 'em all: bending the rules of web cache exploitation",
+      "link": "https://portswigger.net/research/gotta-cache-em-all",
+      "description": "Through the years, we have seen many attacks exploiting web caches to hijack sensitive information or store malicious payloads. However, as CDNs became more popular, new discrepancies between propriet",
+      "pubDate": "2024-08-08T22:27:46.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/51/1c/42da-twittercard-gotta-cache-em-all-image-twitter.png"
+    },
+    {
+      "title": "Splitting the email atom: exploiting parsers to bypass access controls",
+      "link": "https://portswigger.net/research/splitting-the-email-atom",
+      "description": "Some websites parse email addresses to extract the domain and infer which organisation the owner belongs to. This pattern makes email-address parser discrepancies critical. Predicting which domain an",
+      "pubDate": "2024-08-07T21:32:47.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/99/3d/3b00-twittercard-splitting-the-email-atom-twitter.png"
+    },
+    {
+      "title": "Listen to the whispers: web timing attacks that actually work",
+      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
+      "description": "Websites are riddled with timing oracles eager to divulge their innermost secrets. It's time we started listening to them. In this paper, I'll unleash novel attack concepts to coax out server secrets",
+      "pubDate": "2024-08-07T18:10:21.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/39/7f/e41b-twittercard-listen-to-the-whispers-twitter.png"
     },
     {
       "title": "Student Loan Breach Exposes 2.5M Records",
