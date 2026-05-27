@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-26T22:49:46.081Z",
+  "generatedAt": "2026-05-27T00:10:29.065Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/26/poisoned-search-results-gpu-mining-cryptojacking-campaign-abusing-screenconnect-microsoft-net-utilities/",
+      "description": "Microsoft exposes a cryptojacking campaign using SEO poisoning and ScreenConnect to target high-performance PCs, with malicious sites also surfaced through AI chatbots. The post From poisoned search results to GPU mining: A cryptojacking campaign abusing ScreenConnect and Microsoft .NET utilities appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-05-26T21:35:34.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-107.webp"
     },
     {
       "title": "KnowledgeDeliver flaw exploited as a zero-day to install web shells",
@@ -296,6 +305,24 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZKxsveHlyTguEODsRiYVuCPiOkIgyd3imCYdnpwwV2NQ0pw9oPEQoVw-2T98HW0KgZvRqQ_zeZIT-4E3b6WH6hE-fxJeZ9YN2S9T5769SS11QP-Pf8E1kf8kk0mbwyX_sjXTgrqKDzbDivmQRRmB_qGQmTKkB673oTFD-gWDet_ptXihujQMioqvryplT/s1600/KnowledgeDeliver.jpg"
+    },
+    {
+      "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-in-identity-threat-detection-and-response/",
+      "description": "",
+      "pubDate": "2026-05-26T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "Disrupting Glassworm: Inside CrowdStrike&rsquo;s Takedown of a Developer-Targeting Botnet",
+      "link": "https://www.crowdstrike.com/en-us/blog/inside-crowdstrike-takedown-of-a-developer-targeting-botnet/",
+      "description": "",
+      "pubDate": "2026-05-26T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Welcoming the Bhutanese Government to Have I Been Pwned",
@@ -946,15 +973,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-79.webp"
     },
     {
-      "title": "How to better protect your growing business in an AI-powered world",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/18/how-to-better-protect-your-growing-business-in-an-ai-powered-world/",
-      "description": "See how built-in security helps keep your growing business running, protect customer trust, and support growth. The post How to better protect your growing business in an AI-powered world appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-18T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Picture1-2-1024x683.webp"
-    },
-    {
       "title": "Zero-Day Exploit Against Windows BitLocker",
       "link": "https://www.schneier.com/blog/archives/2026/05/zero-day-exploit-against-windows-bitlocker.html",
       "description": "It’s nasty, but it requires physical access to the computer: The exploit, named YellowKey, was published earlier this week by a researcher who goes by the alias Nightmare-Eclipse. It reliably bypasses default Windows 11 deployments of BitLocker, the full-volume encryption protection Microsoft provides to make disk contents off-limits to anyone without the decryption key, which is stored in a secured piece of hardware known as a trusted platform module (TPM). BitLocker is a mandatory protection for many organizations, including those that contract with governments. Slashdot thread. And here’s N",
@@ -1189,15 +1207,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/05_Vulnerabilities_1920x900-2-1.jpg"
     },
     {
-      "title": "CrowdStrike Launches Falcon OverWatch for Defender",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-launches-falcon-overwatch-for-defender/",
-      "description": "",
-      "pubDate": "2026-05-05T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Teenager alleged to be Scattered Spider hacker arrested in Finland, faces US extradition",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/alleged-scattered-spider-hacker-extradition",
       "description": "Here's a tip for you all. Unless you want to draw attention to yourself as a cybercriminal, don't flaunt your diamond-encrusted \"HACK THE PLANET\" necklace on Snapchat, or pose as a Sopranos crime boss while the FBI is reportedly closing in. Read more in my article on the Hot for Security blog.",
@@ -1205,15 +1214,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/spider.jpeg"
-    },
-    {
-      "title": "CrowdStrike Technical Risk Assessments Reveal Common Exposure Patterns",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-technical-risk-assessments-reveal-common-exposure-patterns/",
-      "description": "",
-      "pubDate": "2026-05-04T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Essential Data Sources for Detection Beyond the Endpoint",
