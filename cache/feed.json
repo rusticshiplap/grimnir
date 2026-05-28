@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-27T21:02:09.599Z",
+  "generatedAt": "2026-05-28T08:43:50.052Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,42 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta212ce7bfdb601e7/6a0dbacd3c21f6a4c08ba686/Infosecurity_Europe_2026.png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Nordic CISOs Handle Rising Cyber Threats Remarkably Well",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/nordic-cisos-rising-cyber-threats",
+      "description": "Artificial intelligence notwithstanding, the vast majority of CISOs in northern Europe say they're facing no more serious cyberattacks than they did two years ago.",
+      "pubDate": "2026-05-28T07:01:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt70c6acdf0ad722a2/6a17391e011a18831c6e30bd/Nordic_flags-Eric_D_ricochet69-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Smashing Security podcast #469: What your Oura ring won’t tell you",
+      "link": "https://grahamcluley.com/smashing-security-podcast-469/",
+      "description": "CISA, the US government agency whose entire job is keeping America's critical infrastructure safe from hackers, has had a contractor publish dozens of plain-text credentials to a public GitHub profile. Meanwhile, your Oura ring is quietly transmitting some of its data unencrypted - and when one journalist asked the company how often it hands user data to law enforcement, the answer was quite telling. Plus don't miss our featured interview with OPSWAT's Benny Czarny about his new book \"Cybersecurity Upside Down.\" All this and more in episode 469 of the \"Smashing Security\" podcast with cybersecu",
+      "pubDate": "2026-05-27T23:05:09.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-469.webp"
+    },
+    {
+      "title": "Out of the Crypt: The Evolving Cyber Extortion Economy",
+      "link": "https://unit42.paloaltonetworks.com/cyber-extortion-economy/",
+      "description": "Unit 42 explores trends in data theft and extortion, outlining key strategies for organizations as frontier AI models advance. The post Out of the Crypt: The Evolving Cyber Extortion Economy appeared first on Unit 42.",
+      "pubDate": "2026-05-27T22:00:46.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/05_Listicle_Category_1505x922.jpg"
+    },
+    {
+      "title": "GPU mining malware spreads via SEO poisoning, AI chatbots",
+      "link": "https://www.bleepingcomputer.com/news/security/gpu-mining-malware-spreads-via-seo-poisoning-ai-chatbots/",
+      "description": "Threat actors are targeting systems with high-performance computers in an ongoing cryptojacking campaign spread through a coordinated SEO poisoning operation that also manipulated AI chatbot recommendations. [...]",
+      "pubDate": "2026-05-27T21:31:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/10/Hacker_bitcoin.jpg"
     },
     {
       "title": "Ransomware Actors Show Up In Person to Steal Law Firm Data",
@@ -228,7 +264,7 @@
     {
       "title": "Gitea Vulnerability Exposes Private Container Images without Authentication",
       "link": "https://thehackernews.com/2026/05/gitea-vulnerability-exposes-private.html",
-      "description": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: N/A), affects all versions of Gitea prior to 1.26.2",
+      "description": "Cybersecurity researchers have disclosed a security flaw in Gitea, an open-source, self-hosted platform for version control, that allows unauthenticated remote attackers to pull private container images from Gitea deployments without requiring an account, password, or other credentials. The vulnerability, tracked as CVE-2026-27771 (CVSS score: 8.2), affects all versions of Gitea prior to 1.26.2",
       "pubDate": "2026-05-27T10:06:32.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -521,15 +557,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Artboard-1-1.png"
-    },
-    {
-      "title": "Anthropic’s restricted Claude Mythos model may be coming to Claude Code",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropics-restricted-claude-mythos-model-may-be-coming-to-claude-code/",
-      "description": "Anthropic appears to be preparing for the public rollout of the Mythos model, which was announced in April as a restricted model that poses major security risks to private and public software. [...]",
-      "pubDate": "2026-05-25T17:07:33.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
     },
     {
       "title": "⚡ Weekly Recap: Linux Flaws, Defender 0-Days, Router Botnets, and Supply Chain Chaos",
@@ -937,15 +964,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/canvas-fbi.jpeg"
     },
     {
-      "title": "Interpol's 'Operation Ramz' Pioneers Cross-Region Collabs in Middle East",
-      "link": "https://www.darkreading.com/cybersecurity-operations/interpol-operation-ramz-cross-region-middle-east",
-      "description": "While the numbers are modest, the crackdown on cybercrime involved 13 countries in the MENA region, the largest law enforcement collaboration to date.",
-      "pubDate": "2026-05-20T07:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0be6af563749ef53/6a0cb6c6fc6d781d0eb34f55/rams-at-luxor-in-Egypt-Yuliia24-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "How to Protect Identities and Sessions from Infostealers",
       "link": "https://www.crowdstrike.com/en-us/blog/how-to-protect-identities-and-sessions-from-infostealers/",
       "description": "",
@@ -1342,15 +1360,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/Splash-Template@1x_1-1.jpg"
     },
     {
-      "title": "Fracturing Software Security With Frontier AI Models",
-      "link": "https://unit42.paloaltonetworks.com/ai-software-security-risks/",
-      "description": "Unit 42 finds frontier AI models enhance vulnerability discovery, acting as full-spectrum security researchers. They enable autonomous zero-day discovery and faster N-day patching. The post Fracturing Software Security With Frontier AI Models appeared first on Unit 42.",
-      "pubDate": "2026-04-20T10:00:14.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/06_General_Overview_1920x900.jpg"
-    },
-    {
       "title": "Singer loses life savings to fake wallet downloaded from the Apple App Store",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/singer-loses-life-savings-fake-wallet",
       "description": "If you hold cryptocurrency, there's a very simple golden rule that you should always follow. Never hand over your seed phrase. Garrett Dutton, better known as G. Love - the front man of blues-hip-hop outfit G. Love & Special Sauce - has learnt that lesson the hard way. Read more in my article on the Hot for Security blog.",
@@ -1376,15 +1385,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Smashing Security podcast #463: This AI company leaked its own code. It’s also built something terrifying",
-      "link": "https://grahamcluley.com/smashing-security-podcast-463/",
-      "description": "A hacking group claims to have broken into the flood defence system protecting Venice's Piazza San Marco - and is offering to sell access to whoever wants it. The asking price? A frankly insulting $600. Meanwhile, Anthropic accidentally leaked the source code for Claude Code via a basic packaging mistake. Oh, and by the way, they've also just revealed they've built an AI model called Mythos that can find and chain together software vulnerabilities faster than any human. Sleep well. All this and more in episode 463 of the “Smashing Security” podcast with cybersecurity expert and keynote speaker",
-      "pubDate": "2026-04-15T23:24:44.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/04/ss-episode-463.webp"
     },
     {
       "title": "Weekly Update 499",
@@ -1627,7 +1627,7 @@
       "pubDate": "2025-07-28T06:00:24.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
+      "image": null
     },
     {
       "title": "Repeater Strike: manual testing, amplified",
