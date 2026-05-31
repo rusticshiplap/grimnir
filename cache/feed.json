@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-31T12:12:50.733Z",
+  "generatedAt": "2026-05-31T14:18:09.700Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,24 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "WP Maps Pro bug exploited to create admin accounts on WordPress sites",
+      "link": "https://www.bleepingcomputer.com/news/security/wp-maps-pro-bug-exploited-to-create-admin-accounts-on-wordpress-sites/",
+      "description": "Hackers are targeting WordPress websites running a vulnerable version of the WP Maps Pro plugin, which allows creating rogue administrator accounts without authentication. [...]",
+      "pubDate": "2026-05-31T14:06:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg"
+    },
+    {
+      "title": "Dutch Authorities Dismantle Botnet Linked to 17 Million Infected Devices",
+      "link": "https://thehackernews.com/2026/05/dutch-authorities-dismantle-botnet.html",
+      "description": "Dutch authorities have announced the takedown of a botnet that enslaved millions of infected devices, including computers, tablets, smartphones, and IoT devices, to carry out malicious attacks. The bot network, per the Dutch Politie and the National Cyber Security Center (NCSC), consisted of at least 17 million infected devices. More than 200 servers located in the Netherlands acted as the",
+      "pubDate": "2026-05-31T12:22:12.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiU44Ejz__EFKfpIrEypTxhK3KW7XV3oiEIJEWAC-_PyhbhUvOZzmv3SCAmiuGZdFNdzYIDR2GLwOAhX9nIaAoOD4iFXucpEpB4Ym2vMAqvayyi1JkYyqj2uEYAXPGbXe5dzYNw5a__5KnXvrnJsEVtwnJJs6v_zBlfl3sKo0J83QwylgCL1A2Vck1HktJ8/s1600/botnet.png"
     },
     {
       "title": "Palo Alto GlobalProtect VPN auth bypass flaw now exploited in attacks",
@@ -367,7 +385,7 @@
       "pubDate": "2026-05-29T00:21:03.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
+      "image": null
     },
     {
       "title": "As Global Powers Explore Humanoid Robots, Cyber-Risk Looms",
@@ -385,7 +403,7 @@
       "pubDate": "2026-05-28T22:24:49.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/06/Russian-spies.jpg"
+      "image": null
     },
     {
       "title": "BTMOB Android malware service generates custom phishing payloads",
@@ -394,7 +412,7 @@
       "pubDate": "2026-05-28T21:10:11.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/android.jpg"
+      "image": null
     },
     {
       "title": "FBI warns of fake FIFA websites running World Cup fraud schemes",
@@ -403,7 +421,7 @@
       "pubDate": "2026-05-28T19:08:10.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/28/worldcup.jpg"
+      "image": null
     },
     {
       "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
@@ -422,15 +440,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2026/03/Shadow-AI_Risks.jpg"
-    },
-    {
-      "title": "Hackers exploit FortiClient EMS flaw to push infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-forticlient-ems-flaw-to-push-infostealer-malware/",
-      "description": "Hackers are exploiting an authentication bypass vulnerability (CVE-2026-35616) in FortiClient Enterprise Management Server (EMS) to deliver an undocumented credential stealer called EKZ. [...]",
-      "pubDate": "2026-05-28T17:25:43.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/12/19/Fortinet.jpg"
     },
     {
       "title": "Critical Gogs RCE Vulnerability Lets Any Authenticated User Execute Arbitrary Code",
@@ -462,7 +471,7 @@
     {
       "title": "Threat Actors Exploit Critical FortiClient EMS Flaw to Deploy Credential Stealer",
       "link": "https://thehackernews.com/2026/05/threat-actors-exploit-critical.html",
-      "description": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver credential-stealing malware. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer payload as a Fortinet endpoint",
+      "description": "Threat actors are continuing to exploit a critical, now-patched security flaw impacting FortiClient Endpoint Management Server (EMS) deployments to deliver a credential-stealing malware family dubbed EKZ Infostealer. \"The campaign abused trusted endpoint management infrastructure to deliver malware across managed endpoints,\" Arctic Wolf said. \"Threat actors disguised the credential stealer",
       "pubDate": "2026-05-28T15:26:04.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -800,15 +809,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtums9LZoPXx5AzbNIYmdrNPI6vAAWAnYGfW6NzZ4DkICva0wX2GjMPvmYoq4EVuhvWUc6FyLrgJJ0Hvh8w0TBJ4MLkQplbffUwg89oiQxoJhV-93mboD0D2rdkrrhsblZ2tLJv-auc2GBNjIMsg8wGUCYOkZHNDHaQoqhDbLXrFC3-rD3cz0pI12U7rR2/s1600/prompt-1.jpg"
-    },
-    {
-      "title": "CERT-In Recommends 12-Hour Patching for Internet-Facing Flaws Amid AI-Assisted Attacks",
-      "link": "https://thehackernews.com/2026/05/cert-in-mandates-12-hour-patching-for.html",
-      "description": "The Indian Computer Emergency Response Team (CERT-In) has issued new guidelines requiring organizations to patch critical security vulnerabilities in internet-exposed systems within 12 hours of being flagged where \"feasible\" to safeguard against potential threats stemming from threat actors' abuse of artificial intelligence (AI) tools and large language models (LLMs) to automate vulnerability",
-      "pubDate": "2026-05-26T09:13:02.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg9yN2AliOVdy0oCCMNYXnnrLjE6yWRz_eXVGFhiIw9vxnia2BMUxqhMrI8Q23Y2hHcF-hjqbw4aIqJTvO4zDD1k_WlKzEqx_FZ7P45mn8RiQ1UEqNUgqXv4DqrkzyyjjjgjKcPnNjzKHTTX8NIelTf4L_Cbx4XyYK6piDr1oPFfSmtk-59NCbU3cGCQEcQ/s1600/indian-cert.jpg"
     },
     {
       "title": "CrowdStrike Named a Leader in Identity Threat Detection and Response",
