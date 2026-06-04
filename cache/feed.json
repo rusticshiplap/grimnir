@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-04T10:47:27.551Z",
-  "count": 180,
+  "generatedAt": "2026-06-04T17:28:34.916Z",
+  "count": 205,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -28,13 +28,184 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "title": "Cisco Patches CVE-2026-20230 in Unified CM as Exploit Code Goes Public",
+      "link": "https://thehackernews.com/2026/06/cisco-patches-cve-2026-20230-in-unified.html",
+      "description": "Cisco has patched a bug in Unified Communications Manager that lets an unauthenticated attacker on the network write files to the box and, from there, climb to root. It is tracked as CVE-2026-20230, and proof-of-concept exploit code is already public. Cisco's PSIRT says it has not seen the flaw used in attacks yet. The PoC shortens that runway. The flaw is a server-side request forgery.",
+      "pubDate": "2026-06-04T16:55:51.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6_xkmI_c8KreZ4cr2oC9gHJERU9xWsLGDrCNCaB11IQVGmJ-r0MYUjqGllvOFc0IVwGYBqnzLJl96WBTSVXUr5Z8KRym9SsnoUlNN6oEditbTFqW3kTfOhujPEPN-KIzGJmxaJGh9mCvY1TadCVfJJfIBoTjbXn2TCcbQE8NHsKhe8ld53YHYsG5MTYg/s1600/cisco-flaw.jpg"
+    },
+    {
+      "title": "UN food agency discloses breach affecting 600,000 Gaza households",
+      "link": "https://www.bleepingcomputer.com/news/security/un-world-food-programme-breach-affects-600-000-gaza-households/",
+      "description": "The United Nations' World Food Programme (WFP), the world's largest humanitarian organization, revealed over the weekend that its self-registration application (SRA) for Palestine was breached. [...]",
+      "pubDate": "2026-06-04T16:38:49.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/04/UN_WFP_World_Food_Programme.jpg"
+    },
+    {
+      "title": "New IronWorm malware hits 36 packages in npm supply-chain attack",
+      "link": "https://www.bleepingcomputer.com/news/security/new-ironworm-malware-hits-36-packages-in-npm-supply-chain-attack/",
+      "description": "A new supply-chain attack has infected 36 packages on the Node Package Manager (npm) index with infostealer malware called IronWorm. [...]",
+      "pubDate": "2026-06-04T15:25:37.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/04/npm.jpg"
+    },
+    {
+      "title": "Claude Code GitHub Action Flaw Let One Malicious Issue Hijack Repositories",
+      "link": "https://thehackernews.com/2026/06/claude-code-github-action-flaw-let-one.html",
+      "description": "A security researcher found a flaw in Anthropic's Claude Code GitHub Action that let an attacker take over vulnerable public repositories running it, with nothing more than a single opened GitHub issue. Because Anthropic's own action repo used the same workflow, a working attack could have pushed malicious code into the action itself and onto the projects downstream that pull it. RyotaK of GMO",
+      "pubDate": "2026-06-04T15:15:26.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhiaBF9jAklPh1ncr_eVPGnV229BSTNgAjkScVm-yTXAn4IcBjjZoLIglasRdu1XEPafCxJhqVZrC3zkNWilyAhN-6Ox8z2HBRjNg2D4aqJsDiRDg02BgAy4zgwU2100ZLIO8yTOtarI0Vxa3AGUQk0GZq1_zKSFQOhNiNoyVsP2AldJZoW8ZJ1rY936ZI/s1600/claude-code-hack.jpg"
+    },
+    {
+      "title": "Agentic AI Is Transforming Defense, But Only Secure IT Infrastructure Will Maximize It",
+      "link": "https://thehackernews.com/2026/06/agentic-ai-is-transforming-defense-but.html",
+      "description": "Over the past several weeks, the cybersecurity community has been reminded how quickly frontier and agentic AI in defense networks can challenge our assumptions. When Anthropic's Claude Mythos model was made available to a limited set of organizations as a technical preview, it was reported that an unauthorized group claimed that it had gained access within hours. The incident, if true, was",
+      "pubDate": "2026-06-04T15:10:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi6i36LXqSESJrnuYOf6ULo2Hijp9l8i9UTGbRzCLuWImPpfPJ6cKQgBFGhS8yx3_qn8IoM0MgY0pmL4mZfzegatvhQWDKV5OQ3MfOWvPzYIokXaFDUvBM3EYsMOqtQoxx0AmeiakeocpBIlaNeCiBkPcnK1OW8abfIz0_8zuybqKQvWuriVC97Ir259Sw/s1600/agentic-ai.jpg"
+    },
+    {
+      "title": "Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk",
+      "link": "https://www.securityweek.com/offroad-emerges-from-stealth-with-7-million-to-tackle-enterprise-identity-risk/",
+      "description": "As AI agents, machine identities, and third-party applications multiply across enterprises, Offroad is betting autonomous security agents can restore control over an increasingly unmanageable identity landscape. The post Offroad Emerges From Stealth With $7 Million to Tackle Enterprise Identity Risk appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T15:05:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+    },
+    {
+      "title": "Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond",
+      "link": "https://www.securityweek.com/webinar-today-third-party-risk-in-practice-where-programs-break-down-and-to-respond/",
+      "description": "Join this live webinar as we examine the gap between how organizations think their third-party risk programs are performing and what’s actually happening in practice. The post Webinar Today: Third-Party Risk in Practice – Where Programs Break Down and How to Respond appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T14:40:44.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Process-Unity-Webinar.jpg"
+    },
+    {
+      "title": "Willow Raises $7 Million for Securing Autonomous AI Agents",
+      "link": "https://www.securityweek.com/willow-raises-7-million-for-securing-autonomous-ai-agents/",
+      "description": "Willow (formerly Webrix) emerged from stealth mode with an access platform designed to secure enterprise AI agents. The post Willow Raises $7 Million for Securing Autonomous AI Agents appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T14:22:43.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/funding-investment.jpeg"
+    },
+    {
+      "title": "Hackers Are After the Gaps in Your Vulnerability Program: Here's Their Playbook",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-are-after-the-gaps-in-your-vulnerability-program-heres-their-playbook/",
+      "description": "Threat actors are actively teaching newcomers how to find, exploit, and profit from vulnerable systems. Flare explores what a popular underground hacking tutorial reveals about modern attacker workflows. [...]",
+      "pubDate": "2026-06-04T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/06/03/hacker-header-image.jpg"
+    },
+    {
+      "title": "ThreatsDay Bulletin: AI Agents Gone Wrong, Sketchy C2 Tools, ClickFix Tricks, JS Backdoors & 20+ New Stories",
+      "link": "https://thehackernews.com/2026/06/threatsday-bulletin-ai-agents-gone.html",
+      "description": "It got stupid again. The internet still feels held together with tape. Bad plugins, old bugs, fake tools, trusted apps doing shady things. Same mess, new wrapper. And now the weird stuff is normal. Forums go down and come back worse. Cheap hackers get better toys. AI starts breaking real systems. Great. Read the whole thing before it ruins your week anyway. Unauthenticated",
+      "pubDate": "2026-06-04T14:00:49.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOsPH2SzhBWTxhXi2KCJw0YY29azn2hLkDQwQhyrjmwaRIXQfCAPNIjej3_TBd6VJm1JqWSs2EoI2jiWyVHENmhtd1alqSEqlJC8WxUk4b5zWUqszQ8akhGzRmCHf8OL7wMTZiWLYZDzHRXY8unPcsh2QMTfyTH0XeRszrwCunK2DazuZIF9oNKQUFxlqN/s1600/thh.jpg"
+    },
+    {
+      "title": "Microsoft blames unexpected Windows driver updates on caching issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-blames-unexpected-windows-driver-updates-on-caching-issue/",
+      "description": "On Wednesday, Microsoft fixed an issue that caused some Windows devices to install driver updates without notice despite policies configured to prevent auto-updates. [...]",
+      "pubDate": "2026-06-04T13:41:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/22/Windows.jpg"
+    },
+    {
+      "title": "Gemini Voice Assistant Hijacked via Messaging Notifications",
+      "link": "https://www.securityweek.com/gemini-voice-assistant-hijacked-via-messaging-notifications/",
+      "description": "Attackers could have triggered dangerous actions, including controlling smart home devices via Google Home and starting Zoom video calls. The post Gemini Voice Assistant Hijacked via Messaging Notifications appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T12:57:37.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Gemini.jpeg"
+    },
+    {
+      "title": "Police dismantles fake ID marketplace used by migrant smugglers",
+      "link": "https://www.bleepingcomputer.com/news/security/police-dismantles-fake-id-marketplace-used-by-migrant-smugglers/",
+      "description": "French and Spanish authorities took down an online marketplace selling fake identity documents to migrant smuggling rings operating within the European Union. [...]",
+      "pubDate": "2026-06-04T12:29:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/10/28/law-enforcement-arrest-bright.jpg"
+    },
+    {
+      "title": "China-Linked TA4922 Expands Phishing Attacks to U.K., Germany, Italy, and South Africa",
+      "link": "https://thehackernews.com/2026/06/china-linked-ta4922-expands-phishing.html",
+      "description": "A new China-linked cybercrime group known as TA4922 has expanded its targeting focus to target European organizations in the U.K., Germany, Italy, and South Africa. These efforts have been complemented by a \"rapid operational tempo\" and a continually evolving malware arsenal comprising known families like ValleyRAT (aka Winos 4.0) and Atlas RAT (aka AtlasCross RAT), as well as previously",
+      "pubDate": "2026-06-04T12:22:25.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq_JkP80d1IA8rz-SoYEBmuGqK_K7OpGrqiki4vB1ShMW5mFBVSMvl8H5MnYylZMl3AWeqdAmp19oZIL_7amYErNxBGiUAJqrOqGO0zjHH2jxCKCNdiGH_nqjHlksD9dlu4QGCq9KzMRfnWAi7YnPQQ86pnCypNupFDn_h-hSJdfhWT0Y4s01w6Cw-s6Od/s1600/phishing-hook.jpg"
+    },
+    {
+      "title": "Mirasvit Vulnerability Exploited to Execute Code on Magento Servers",
+      "link": "https://www.securityweek.com/mirasvit-vulnerability-exploited-to-execute-code-on-magento-servers/",
+      "description": "A flaw in the Full Page Cache Warmer extension can be exploited without authentication via serialized PHP object payloads. The post Mirasvit Vulnerability Exploited to Execute Code on Magento Servers appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T12:10:02.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Magento.jpeg"
+    },
+    {
+      "title": "Chinese Cybercrime Group in Spotlight for Record Campaign Pace",
+      "link": "https://www.securityweek.com/chinese-cybercrime-group-ta4922-in-spotlight-for-record-campaign-pace/",
+      "description": "Relying on social engineering, the hacking group engages in credential phishing, malware distribution, and fraud activities. The post Chinese Cybercrime Group in Spotlight for Record Campaign Pace appeared first on SecurityWeek.",
+      "pubDate": "2026-06-04T11:29:28.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/Chinese-hacker.jpeg"
+    },
+    {
+      "title": "FlutterShell Backdoor Spreads to macOS via Malicious Google and YouTube Ads",
+      "link": "https://thehackernews.com/2026/06/fluttershell-backdoor-spreads-to-macos.html",
+      "description": "Cybersecurity researchers have shed light on a macOS malvertising campaign codenamed Operation FlutterBridge that spreads a new backdoor called FlutterShell. According to Palo Alto Networks Unit 42, the campaign is said to be the next stage of a previously reported activity cluster dubbed JSCoreRunner (aka FileRipple) in late August 2025. The cybercrime group behind the two attack chains is",
+      "pubDate": "2026-06-04T11:19:53.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFQkJElJQpI5ODTBzh1EzrxsRYamFN0ntC9V6vF4b4FfEJ0svPhI_1TnKm960eIsewSFT-DR1RtNk3M511OQK6I-k3UQNNLut1f_fjM9wB4NHxdvJzJQ3VvhIGO9ja0hNIzRAOZLVMngS4R8hQxXfV-_DO71x0CU0YSnxpclCnV0DGX6TdNmr32ongewk/s1600/macos.jpg"
+    },
+    {
+      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
+      "description": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
+      "pubDate": "2026-06-04T11:09:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco.jpg"
+    },
+    {
+      "title": "Hacking Meta’s AI Chatbot",
+      "link": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
+      "description": "Hackers are convincing Meta’s AI support chatbot to let them take over other peoples’ accounts: A video posted on X showed the step-by-step process to hack someone’s Instagram account. The hacker allegedly used a VPN to spoof the targets’ presumed location to avoid triggering Instagram’s automated account protections. Then, the hacker opened a chat with Meta AI Support Assistant and asked the bot to add a new email address to the target’s account. The chatbot can be seen sending a verification code to the email address provided by the hacker; the hacker then shares the verification code with t",
+      "pubDate": "2026-06-04T11:04:09.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
       "title": "Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown",
       "link": "https://www.securityweek.com/over-1-4-million-accounts-disrupted-in-cybercrime-crackdown/",
       "description": "Law enforcement and tech companies disrupted infrastructure linked to scammers operating across Southeast Asia. The post Over 1.4 Million Accounts Disrupted in Cybercrime Crackdown appeared first on SecurityWeek.",
       "pubDate": "2026-06-04T10:44:41.000Z",
       "source": "SecurityWeek",
       "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/takedown-law-enforcement.jpeg"
     },
     {
       "title": "Fake Sites Mimicking Open-Source Tools Rank High on Google to Deliver Malware via TDS",
@@ -71,15 +242,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg"
-    },
-    {
-      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
-      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
-      "pubDate": "2026-06-04T07:19:33.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P5o_wfJsxsTaxY4OONIm2y5N5x9heoFeLchfLU13YA36tGQGJtu00tOCQSKhCTBFobAAWfhXLtNGMu8ZCG7ozeLVggi1tnQVRK_1mJHd6eq1YSb5AlRZq5eDp3rGDL2Uli_b3aBPMBsLfMJ5QEm_XW1MF43_dcCf64rSbVrhsUakhaOAn5-GOmuLiq0s/s1600/mag.jpg"
     },
     {
       "title": "DoJ Disrupts Southeast Asia Crypto Fraud Networks, Freezes $3.8 Million in Assets",
@@ -190,6 +352,15 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
+      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
+      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
+      "description": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
+      "pubDate": "2026-06-03T17:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
+    },
+    {
       "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
       "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
       "description": "Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability. The post Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform appeared first on SecurityWeek.",
@@ -197,6 +368,24 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg"
+    },
+    {
+      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
+      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
+      "description": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
+      "pubDate": "2026-06-03T16:40:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png"
+    },
+    {
+      "title": "CISA Adds Exploited Magento RCE Flaw CVE-2026-45247 to KEV Catalog",
+      "link": "https://thehackernews.com/2026/06/cisa-adds-exploited-magento-rce-flaw.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical flaw impacting Mirasvit Cache Warmer, a popular Magento full-page cache extension, to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-45247 (CVSS score: 9.8), is a case of deserialization of untrusted",
+      "pubDate": "2026-06-03T16:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8P5o_wfJsxsTaxY4OONIm2y5N5x9heoFeLchfLU13YA36tGQGJtu00tOCQSKhCTBFobAAWfhXLtNGMu8ZCG7ozeLVggi1tnQVRK_1mJHd6eq1YSb5AlRZq5eDp3rGDL2Uli_b3aBPMBsLfMJ5QEm_XW1MF43_dcCf64rSbVrhsUakhaOAn5-GOmuLiq0s/s1600/mag.jpg"
     },
     {
       "title": "Google DoubleClick Abused in New Malspam Campaign to Deliver DesckVB RAT",
@@ -244,60 +433,6 @@
       "image": "https://www.bleepstatic.com/content/posts/2026/06/02/sprocket-header.jpg"
     },
     {
-      "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
-      "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
-      "description": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
-      "pubDate": "2026-06-03T13:47:09.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjTV6zPqD9KC3Rc5Mz9c8XENLiJntboDT6LIoD3L2FXlTUVC3rsWZ_3YLfe_jmhhyphenhyphenjb5RCwkTsdoyypD9VXxYgj_2GYaAupNMlOyZkycm94qr7XiarmBCpYQdZDN_Gwq6KrOmomzx1dmbz4hpUkw4OZparqEbydJneNKaWQI0fcP5tctpKxsZ7kFP5FCv0/s1600/redis-db.png"
-    },
-    {
-      "title": "Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs",
-      "link": "https://www.securityweek.com/kirki-burst-statistics-wordpress-plugin-flaws-in-attackers-crosshairs/",
-      "description": "Threat actors are exploiting vulnerable Kirki and Burst Statistics deployments to elevate privileges and take over websites. The post Kirki, Burst Statistics WordPress Plugin Flaws in Attackers’ Crosshairs appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T13:00:04.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
-    },
-    {
-      "title": "Security of 100 AI Agents Tested and Ranked – What You Need to Know",
-      "link": "https://www.securityweek.com/security-of-100-ai-agents-tested-and-ranked-what-you-need-to-know/",
-      "description": "The AI Risk Quadrant evaluates AI agents based on three factors: how vulnerable they are to compromise, the potential impact of a breach, and the strength of their security defenses. The post Security of 100 AI Agents Tested and Ranked – What You Need to Know appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T13:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Agent-AI-Security.jpg"
-    },
-    {
-      "title": "One-Click GitHub Dev Attack Lets Attackers Steal Full GitHub OAuth Tokens",
-      "link": "https://thehackernews.com/2026/06/one-click-github-dev-attack-lets.html",
-      "description": "Cybersecurity researchers have disclosed a one-click attack via Microsoft Visual Studio Code (VS Code) that makes it possible to steal a user's GitHub token. \"Just by clicking a link, it's possible for an attacker to steal a GitHub token that can read and write to your repos, including private ones,\" security researcher Ammar Askar said. GitHub supports a feature called GitHub.dev that runs as",
-      "pubDate": "2026-06-03T12:58:22.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
-    },
-    {
-      "title": "Hackers Target Global Stock Exchange in Espionage Operation",
-      "link": "https://www.securityweek.com/hackers-target-global-stock-exchange-in-espionage-operation/",
-      "description": "The attackers had access to a senior executive’s email account for 150 days and exfiltrated data for months. The post Hackers Target Global Stock Exchange in Espionage Operation appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T12:46:53.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/stock-exchange.jpeg"
-    },
-    {
-      "title": "IMA Diligence Services Data Breach Impacts 525,000 People",
-      "link": "https://www.securityweek.com/ima-diligence-services-data-breach-impacts-525000-people/",
-      "description": "The affected individuals’ personal information was stolen from a legacy server managed by a third party. The post IMA Diligence Services Data Breach Impacts 525,000 People appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T12:08:25.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/bank-finance-lender-credit-union-hack.jpeg"
-    },
-    {
       "title": "Malicious Notifications Could Trick Google Gemini Users",
       "link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
       "description": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
@@ -316,15 +451,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiuT21gubKVL2cAsQrEiju_yAE3Pxe1IPxsl9RlGfhMEeis2IuQglnZjwTme6xM1_IJNymXFY1kZsouMGecR2lQnzvMDXyjnY1Y7CT1Dz_xf0pRVkwJEJG9o1EfOlPMfgfZ0MO6eyKGKJDwRHrEsw2-Cai9QO3pfrryeSENy5kH4C_pdjDgsXVOO80TPy8/s1600/orchid.jpg"
     },
     {
-      "title": "Organizations Warned of Exploited Linux Kernel Vulnerability",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-linux-kernel-vulnerability/",
-      "description": "An improper authentication bug allows attackers to escalate their privileges and escape containers. The post Organizations Warned of Exploited Linux Kernel Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T11:56:43.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/03/kubernetes-cloud.jpeg"
-    },
-    {
       "title": "Acer working to patch max severity zero-days in Wave 7 routers",
       "link": "https://www.bleepingcomputer.com/news/security/acer-warns-of-max-severity-zero-days-affecting-wave-7-routers/",
       "description": "Acer is working to address two maximum-severity zero-day vulnerabilities affecting its Wave 7 mesh routers. [...]",
@@ -341,15 +467,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds",
-      "link": "https://www.securityweek.com/http-2-bomb-exploit-knocks-web-servers-offline-in-seconds/",
-      "description": "The default HTTP/2 configuration of major web servers is vulnerable to an attack chain combining a compression bomb and a Slowloris-style hold. The post ‘HTTP/2 Bomb’ Exploit Knocks Web Servers Offline in Seconds appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T10:52:08.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/HTTP-request-smuggling-internet-traffic.jpg"
     },
     {
       "title": "Unpatched Windows Search URI Vulnerability Lets Attackers Steal NTLMv2 Hashes",
@@ -397,15 +514,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif"
     },
     {
-      "title": "VS Code zero-day lets hackers steal GitHub tokens in one click",
-      "link": "https://www.bleepingcomputer.com/news/security/vs-code-zero-day-lets-hackers-steal-github-tokens-in-one-click/",
-      "description": "A security researcher has released exploit code for a Visual Studio Code (VS Code) zero-day vulnerability that allows attackers to steal GitHub authentication tokens by tricking users into clicking a link. [...]",
-      "pubDate": "2026-06-03T06:50:30.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/03/Visual_Studio_Code_VS_Code.jpg"
-    },
-    {
       "title": "Weedhack Attacks Minecraft Users, CountLoader Hits 86K, Miners Spread via Pirated Content",
       "link": "https://thehackernews.com/2026/06/weedhack-attacks-minecraft-users.html",
       "description": "Cybersecurity researchers have flagged a new campaign targeting Minecraft players via YouTube to spread malware capable of gaining control of victims' systems. The Minecraft-focused malware-as-a-service (MaaS) campaign has been codenamed Weedhack by McAfee Labs, stating the activity has been active since January 2026 and impersonates Minecraft clients and mods to infect users. In all, 3820",
@@ -433,42 +541,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Artboard-1-2.png"
     },
     {
-      "title": "Microsoft's Coreutils project brings Linux commands to Windows",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsofts-coreutils-project-brings-linux-commands-to-windows/",
-      "description": "Microsoft announced today at its Build 2026 developer conference the release of Coreutils for Windows, bringing many commonly used Linux command-line utilities to Windows as native applications. [...]",
-      "pubDate": "2026-06-02T22:52:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/05/14/Linux.jpg"
-    },
-    {
-      "title": "OpenAI upgrades GPT-5.5, as it plans to retire legacy ChatGPT models",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-upgrades-gpt-55-as-it-plans-to-retire-legacy-chatgpt-models/",
-      "description": "OpenAI says it's rolling out a new update that improves the existing GPT-5.5 Instant model, and this move comes ahead of the scheduled retirement of multiple legacy models, including o3. [...]",
-      "pubDate": "2026-06-02T22:44:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg"
-    },
-    {
-      "title": "Critical Kirki flaw exploited to hijack WordPress admin accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-kirki-flaw-exploited-to-hijack-wordpress-admin-accounts/",
-      "description": "Hackers are exploiting a critical privilege escalation vulnerability (CVE-2026-8206) in the Kirki plugin for WordPress to take over any user account, including those belonging to administrators. [...]",
-      "pubDate": "2026-06-02T22:12:57.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/WordPress.jpg"
-    },
-    {
-      "title": "Over 116,000 Minecraft systems infected in WeedHack malware campaign",
-      "link": "https://www.bleepingcomputer.com/news/security/over-116-000-minecraft-systems-infected-in-weedhack-malware-campaign/",
-      "description": "A large-scale malware campaign dubbed WeedHack is targeting Minecraft players and has infected more than 116,000 systems since January. [...]",
-      "pubDate": "2026-06-02T21:54:49.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/02/Minecraft.jpg"
-    },
-    {
       "title": "Zoom CISO: AI as a Security Enabler, Not Role-Replacer",
       "link": "https://www.darkreading.com/cybersecurity-operations/zoom-ciso-ai-security-enabler-role-replacer",
       "description": "Zoom CISO Sandra McLeod discusses the challenges of securing a global communication platform, the promise of AI-driven security workflows, and her advice for aspiring cybersecurity leaders.",
@@ -494,15 +566,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltffc3f8961236e781/6a1ebc8da5c0c3c931d33c0f/browser_Tada_Images_shutterstock.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "AI-built ransomware toolkit automates EDR evasion, AD discovery",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-built-ransomware-toolkit-automates-edr-evasion-ad-discovery/",
-      "description": "A threat actor is using an AI-built ransomware attack toolkit that automates Active Directory discovery and helps evade endpoint detection and response (EDR) solutions. [...]",
-      "pubDate": "2026-06-02T20:01:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/30/AI-phish.jpg"
     },
     {
       "title": "China Uses Dual-Method Cyberattack on Czech Orgs",
@@ -622,15 +685,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Malware_Category_1920x900.jpg"
     },
     {
-      "title": "Pakistan-Linked SideCopy Targets Afghanistan Finance Ministry with Xeno RAT",
-      "link": "https://thehackernews.com/2026/06/pakistan-linked-sidecopy-targets.html",
-      "description": "Cybersecurity researchers have disclosed details of a spear-phishing campaign likely undertaken by the Pakistan-aligned SideCopy group targeting Afghanistan's Ministry of Finance with an open-source remote access trojan called Xeno RAT. \"The campaign opens with a spear phishing delivery - a ZIP archive containing a malicious LNK file bearing a carefully crafted Pashto-language filename,\"",
-      "pubDate": "2026-06-02T09:05:40.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiilTEadDjLrLdKByKVP6n_zfNSbhTTutHu-9BbbIDTBotobmqmIOI7fDdGGHZQQB7wTo00L66NAKZBA3iRBLQpSf_NgH9hKe9Xd-WUoijt7y-CUbdZore_qSZpTmuBhExaAxeXn39EPCVPYugMnJ85c15e161ttOMRmbSAv7NcbUlYrqDV4NnbzHZvw0A5/s1600/paki.gif"
-    },
-    {
       "title": "How to Stop AI-Driven Data Loss",
       "link": "https://www.crowdstrike.com/en-us/blog/how-to-stop-ai-driven-data-loss/",
       "description": "",
@@ -638,15 +692,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Dashlane Discloses Brute-Force Attack, Encrypted Vaults of Fewer Than 20 Users Downloaded",
-      "link": "https://thehackernews.com/2026/06/dashlane-discloses-brute-force-attack.html",
-      "description": "Password manager Dashlane has disclosed that \"fewer than\" 20 users on the personal subscription plan had their encrypted vaults downloaded following a brute-force attack launched by an unknown party. On May 31, 2026, the company said an \"external\" threat actor launched a brute-force attack against certain Dashlane user accounts with the aim of breaking two-factor authentication (2FA)",
-      "pubDate": "2026-06-02T03:55:25.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMY3oQNaqfV2_sMYMZJ_EbUA90VD_t0w342aOV-tTDXEui63NgSB0SPYPhGVW9e5i8ZcEk7P5uudw6PJOi5od9rdsq9GzG0npc8FiqXuQ33r-zg81AMHW53prz_ovs2YbKrjaNfOOAp1tpmjhE3ADsjVymKPDGf4TyikPb1z18MOWk2YH-BteUQ6EUqYFI/s1600/dashlane.png"
     },
     {
       "title": "Anthropic to Open Mythos AI to EU's ENISA",
@@ -667,15 +712,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt110b7f1326599f0b/6a1dd3554d48bfcf20ade268/RMmicrosoft-DrewAngerer-Getty-675949746.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Miasma Supply Chain Attack Compromises Red Hat npm Packages with Credential-Stealing Worm",
-      "link": "https://thehackernews.com/2026/06/miasma-supply-chain-attack-compromises.html",
-      "description": "A new Mini Shai-Hulud supply chain attack campaign, codenamed Miasma, has compromised @redhat-cloud-services packages to steal credentials and secrets from developer machines and deliver a self-propagating worm. \"This is effectively a Mini Shai-Hulud campaign: it uses the same core tactics of install-time execution, credential harvesting, CI/CD targeting, encrypted exfiltration, and potential",
-      "pubDate": "2026-06-01T17:40:28.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOyc2NTiIl0XKOTZBsFh1bTPqNpVXfDhASWkCsYz17d-nbiWVKlxCzoq3WthMD8kMomrRPPOYLM-XRmSdtXNKAxtk1QLtmZH47y2RExMGohBaBDPkpFp2PteUgaA16VcCs7tK-ImqCiLnpqyLg8Pwp6cWE5d9QT2_v0-QBduT7ovYrs7WSZ9t1MnQJ4EuO/s1600/redhat.png"
-    },
-    {
       "title": "Vulnerability Disclosure in the Age of AI",
       "link": "https://www.schneier.com/blog/archives/2026/06/vulnerability-disclosure-in-the-age-of-ai.html",
       "description": "New article: “Responsible Disclosure in the Age of AI: A Call for Urgent Action,” by Melissa Hathaway. Abstract: Artificial intelligence is fundamentally reshaping the balance between vulnerability discovery and remediation. Frontier AI models are now capable of autonomously identifying exploitable software vulnerabilities at unprecedented speed and scale. This development exposes decades of accumulated technical debt created by a software industry that prioritized rapid deployment over secure-by-design engineering practices. Drawing on the evolution of software assurance, vulnerability disclo",
@@ -692,33 +728,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt225868f85dab8e5a/6a1d6cdb688dd44956baf7b6/Vulnerability_(1800)_Sergey_Tarasov_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "⚡ Weekly Recap: New Linux Flaw, PAN-OS Exploit, AI-Powered Attacks, OAuth Phishing and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-new-linux-flaw-pan-os.html",
-      "description": "Monday hit like a cron job with anger issues. A busted auth path here, a repo-side faceplant there, some \"patched-ish\" thing already getting chewed on in the wild, and then the usual bonus round: poisoned dev tools, sketchy forum chatter, phishing kits pretending to be productivity, and AI lowering the bar for people who already thought 'curl | sh' had a personality. The vibe is simple: old",
-      "pubDate": "2026-06-01T13:59:54.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiV-leTG-MQremNN5Ju342L6LQMn36xeD4jiS4YWT7EdYluHOtFDqIN8y3bQuV-A0D0wtsO5sRpG3Bpy5xdHhMs_sO_w3WoiiJzCd7o-7Hxw736ERxQs4WDd71EQEBIHLzT_UNFMwCDvC8Nij-gDNpMhsRnpsqoDHkuxUWLUEZSSTfDc4aXpx2qlpsaqlgH/s1600/cyberrecap.png"
-    },
-    {
-      "title": "China-Aligned Groups Ramp Up Attacks: Dragon Weave Hits Czech Republic & Taiwan",
-      "link": "https://thehackernews.com/2026/06/china-aligned-groups-ramp-up-attacks.html",
-      "description": "A new cyber espionage campaign codenamed Operation Dragon Weave has been observed targeting officials and citizens in the Czech Republic and Taiwan to deliver an AdaptixC2 agent. According to Seqrite Labs, targets of the campaign include government, research, academic, technology, and financial services sectors. The activity entails distributing spear-phishing emails containing ZIP attachments",
-      "pubDate": "2026-06-01T11:54:24.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhUhiw46hdnhoY05E-0EyhOX5AxQrqJeNM0WDEWiYHAi5pPt4kIFPbvqGZhyAK4NxlAF7KJKxPfWlbGLbZUJJD9PgGmazvyhzaSgBXokM_6eYQfWXQ1HDv2heSDTnps4EGhjKqwCbuQOl0d9QN25tmn85xLujp-htCwLhhywI4A6BKJxkOOKb9FSu02AMjX/s1600/china.jpg"
-    },
-    {
-      "title": "The Security Growth Platform: Why MSPs Are Moving Beyond vCISO Tools",
-      "link": "https://thehackernews.com/2026/06/the-security-growth-platform-why-msps.html",
-      "description": "Three years ago, the practical question for an MSP building a cybersecurity practice was which \"vCISO platform\" to buy. The term was good shorthand for the work at the time: assessments, advisory, reporting, maybe a compliance module bolted on the side. The work has since outgrown the descriptor. A Security Growth Platform is the more precise name for what MSPs and MSSPs need from the software",
-      "pubDate": "2026-06-01T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOvm8XaHJ9FBjwjKyTkm_2pt81tT-4sHdK9UDWm7_hCk4rA95U0peF3Zi7kO_fmJioaGKKloqru4yC-AwrSOdZ17v7m8K2K-t4lyYOGfC66J8r3cSi_v09IPRAfknHSeRBv13kjrk6XBzqpCvKS6ujugm4cR6Xrt1LK40bC091c0k_SgptQnGYIznwWwQ/s1600/cynomi.jpg"
     },
     {
       "title": "1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever",
@@ -1061,15 +1070,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Microsoft-Security-success-stories.jpg"
-    },
-    {
-      "title": "CISA Security Leak",
-      "link": "https://www.schneier.com/blog/archives/2026/05/cisa-security-leak.html",
-      "description": "Crazy story: Until this past weekend, a contractor for the Cybersecurity & Infrastructure Security Agency (CISA) maintained a public GitHub repository that exposed credentials to several highly privileged AWS GovCloud accounts and a large number of internal CISA systems. Security experts said the public archive included files detailing how CISA builds, tests and deploys software internally, and that it represents one of the most egregious government data leaks in recent history. News article.",
-      "pubDate": "2026-05-22T13:58:30.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Tracking Iranian APT Screening Serpens’ 2026 Espionage Campaigns",
@@ -1459,6 +1459,33 @@
       "image": null
     },
     {
+      "title": "Top 10 web hacking techniques of 2025",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025",
+      "description": "Welcome to the Top 10 Web Hacking Techniques of 2025, the 19th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
+      "pubDate": "2026-02-05T15:28:08.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/08/b9/185c-twittercard-top_10_wht_2025_results_x(1).png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2025: call for nominations",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2025-nominations-open",
+      "description": "Update: nominations are now closed, and voting is live! Cast your vote here Over the last year, security researchers have shared a huge amount of work with the community through blog posts, presentati",
+      "pubDate": "2026-01-06T15:31:28.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/fa/0c/ba98-twittercard-top_10_wht_2025_nom_x.png"
+    },
+    {
+      "title": "The Fragile Lock:&nbsp;Novel Bypasses For SAML Authentication",
+      "link": "https://portswigger.net/research/the-fragile-lock",
+      "description": "TLDR This post shows how to achieve a full authentication bypass in the Ruby and PHP SAML ecosystem by exploiting several parser-level inconsistencies: including attribute pollution, namespace confusi",
+      "pubDate": "2025-12-10T12:32:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/1d/b6/e1f2-twittercard-twitter-card.png"
+    },
+    {
       "title": "Sophos achieves its best-ever results in the MITRE ATT&CK Enterprise 2025 Evaluation",
       "link": "https://www.sophos.com/en-us/blog/sophos-achieves-its-best-ever-results-in-the-mitre-attck-enterprise-2025-evaluation",
       "description": "A major milestone: Sophos XDR delivers 100% detection 1 coverage in the latest ATT&CK Evaluation. Categories: Products & Services, Security Operations Tags: MITRE ATT&CK, Sophos Endpoint, Sophos EDR, Sophos XDR",
@@ -1504,6 +1531,15 @@
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltc093370e4ed703e5/693946bafbd5155e8bf64a10/blog-sophos-intelix-copilot.png"
     },
     {
+      "title": "Introducing HTTP Anomaly Rank",
+      "link": "https://portswigger.net/research/introducing-http-anomaly-rank",
+      "description": "HTTP Anomaly Rank If you've ever used Burp Intruder or Turbo Intruder, you'll be familiar with the ritual of manually digging through thousands of responses by repeatedly sorting the table via length,",
+      "pubDate": "2025-11-11T14:41:53.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net"
+    },
+    {
       "title": "Detecting fraudulent North Korean hires: A CISO playbook",
       "link": "https://www.sophos.com/en-us/blog/detecting-fraudulent-north-korean-hires-a-ciso-playbook",
       "description": "Has a North Korean threat actor applied for a position at your organization, or even been hired? We’re sharing a toolkit to help you detect and avoid that risk. Categories: Security Operations Tags: CISO, Featured, North Korea, playbook, toolkit",
@@ -1531,6 +1567,51 @@
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
     },
     {
+      "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
+      "link": "https://portswigger.net/research/websocket-turbo-intruder-unearthing-the-websocket-goldmine",
+      "description": "Many testers and tools give up the moment a protocol upgrade to WebSocket occurs, or only perform shallow analysis. This is a huge blind spot, leaving many bugs like Broken Access Controls, Race condi",
+      "pubDate": "2025-09-17T12:40:06.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a8/06/be9f-twittercard-twitter-ws.png"
+    },
+    {
+      "title": "Cookie Chaos: How to bypass __Host and __Secure cookie prefixes",
+      "link": "https://portswigger.net/research/cookie-chaos-how-to-bypass-host-and-secure-cookie-prefixes",
+      "description": "Browsers added cookie prefixes to protect your sessions and stop attackers from setting harmful cookies. In this post, you’ll see how to bypass cookie defenses using discrepancies in browser and serve",
+      "pubDate": "2025-09-03T14:46:23.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/21/b7/c07c-twittercard-cookie-chaos-twitter-card.png"
+    },
+    {
+      "title": "Inline Style Exfiltration: leaking data with chained CSS conditionals",
+      "link": "https://portswigger.net/research/inline-style-exfiltration",
+      "description": "I discovered how to use CSS to steal attribute data without selectors and stylesheet imports! This means you can now exploit CSS injection via style attributes! Learn how below: Someone asked if you c",
+      "pubDate": "2025-08-26T12:54:03.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/9b/73/22f5-twittercard-twitter.png"
+    },
+    {
+      "title": "Beware the false false-positive: how to distinguish HTTP pipelining from request smuggling",
+      "link": "https://portswigger.net/research/how-to-distinguish-http-pipelining-from-request-smuggling",
+      "description": "Sometimes people think they've found HTTP request smuggling, when they're actually just observing HTTP keep-alive or pipelining. This is usually a false positive, but sometimes there's actually a real",
+      "pubDate": "2025-08-19T14:30:44.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a5/0d/27b0-twittercard-http_pipelining_twitter.png"
+    },
+    {
+      "title": "HTTP/1.1 must die: the desync endgame",
+      "link": "https://portswigger.net/research/http1-must-die",
+      "description": "Abstract Upstream HTTP/1.1 is inherently insecure and regularly exposes millions of websites to hostile takeover. Six years of attempted mitigations have hidden the issue, but failed to fix it. This p",
+      "pubDate": "2025-08-06T22:20:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/03/e6/ab75-twittercard-1.1_whitepaper_twitter.png"
+    },
+    {
       "title": "Rubrik & Sophos Enhance Cyber Resilience for Microsoft 365",
       "link": "https://www.sophos.com/en-us/blog/rubrik-sophos-enhance-cyber-resilience-for-microsoft-365",
       "description": "Categories: Products & Services, Security news, Security Operations Tags: MDR, Partners",
@@ -1547,6 +1628,150 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt88dc9b857fc4a50a/690e1749d64dff291cf07948/shutterstock_1909533559.jpg"
+    },
+    {
+      "title": "Repeater Strike: manual testing, amplified",
+      "link": "https://portswigger.net/research/repeater-strike-manual-testing-amplified",
+      "description": "Manual testing doesn't have to be repetitive. In this post, we're introducing Repeater Strike - a new AI-powered Burp Suite extension designed to automate the hunt for IDOR and similar vulnerabilities",
+      "pubDate": "2025-07-15T13:46:37.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/8e/11/0c91-twittercard-twitter.png"
+    },
+    {
+      "title": "Drag and Pwnd: Leverage ASCII characters to exploit VS Code",
+      "link": "https://portswigger.net/research/drag-and-pwnd-leverage-ascii-characters-to-exploit-vs-code",
+      "description": "Control characters like SOH, STX, EOT and ETX were never meant to run your code - but in the world of modern terminal emulators, they sometimes do. In this post, I'll dive into the forgotten mechanics",
+      "pubDate": "2025-04-30T12:37:11.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a9/75/db78-twittercard-ascii-control-characters_x_(1).png"
+    },
+    {
+      "title": "Document My Pentest: you hack, the AI writes it up!",
+      "link": "https://portswigger.net/research/document-my-pentest",
+      "description": "Tired of repeating yourself? Automate your web security audit trail. In this post I'll introduce a new Burp AI extension that takes the boring bits out of your pen test. Web security testing can be a",
+      "pubDate": "2025-04-23T13:17:24.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/d6/69/18fa-twittercard-twitter.png"
+    },
+    {
+      "title": "SAML roulette: the hacker always wins",
+      "link": "https://portswigger.net/research/saml-roulette-the-hacker-always-wins",
+      "description": "Introduction In this post, we’ll show precisely how to chain round-trip attacks and namespace confusion to achieve unauthenticated admin access on GitLab Enterprise by exploiting the ruby-saml library",
+      "pubDate": "2025-03-18T14:55:43.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/af/32/5b4c-twittercard-x.png"
+    },
+    {
+      "title": "Shadow Repeater:AI-enhanced manual testing",
+      "link": "https://portswigger.net/research/shadow-repeater-ai-enhanced-manual-testing",
+      "description": "Have you ever wondered how many vulnerabilities you've missed by a hair's breadth, due to a single flawed choice? We've just released Shadow Repeater, which enhances your manual testing with AI-powere",
+      "pubDate": "2025-02-20T13:20:19.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/53/94/ffe0-twittercard-shadow_repeater_twitter.png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2024",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024",
+      "description": "Welcome to the Top 10 Web Hacking Techniques of 2024, the 18th edition of our annual community-powered effort to identify the most innovative must-read web security research published in the last year",
+      "pubDate": "2025-02-04T15:01:48.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/cc/24/f90b-twittercard-top_10_web_hacking_techniques_2024_results_twitter_2.png"
+    },
+    {
+      "title": "Bypassing character blocklists with unicode overflows",
+      "link": "https://portswigger.net/research/bypassing-character-blocklists-with-unicode-overflows",
+      "description": "Unicode codepoint truncation - also called a Unicode overflow attack - happens when a server tries to store a Unicode character in a single byte. Because the maximum value of a byte is 255, an overflo",
+      "pubDate": "2025-01-28T13:58:28.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/6e/d6/e5b5-twittercard-bypass-character-blocklists-with-unicode-overflows.png"
+    },
+    {
+      "title": "Stealing HttpOnly cookies with the cookie sandwich technique",
+      "link": "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique",
+      "description": "In this post, I will introduce the \"cookie sandwich\" technique which lets you bypass the HttpOnly flag on certain servers. This research follows on from Bypassing WAFs with the phantom $Version cookie",
+      "pubDate": "2025-01-22T14:45:11.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/38/f5/ffaa-twittercard-tweetstststs.png"
+    },
+    {
+      "title": "Top 10 web hacking techniques of 2024: nominations open",
+      "link": "https://portswigger.net/research/top-10-web-hacking-techniques-of-2024-nominations-open",
+      "description": "Nominations are now open for the top 10 new web hacking techniques of 2024! Every year, security researchers from all over the world share their latest findings via blog posts, presentations, PoCs, an",
+      "pubDate": "2025-01-08T14:07:27.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/bf/3c/e22b-twittercard-top10-twitter.png"
+    },
+    {
+      "title": "Bypassing WAFs with the phantom $Version cookie",
+      "link": "https://portswigger.net/research/bypassing-wafs-with-the-phantom-version-cookie",
+      "description": "HTTP cookies often control critical website features, but their long and convoluted history exposes them to parser discrepancy vulnerabilities. In this post, I'll explore some dangerous, lesser-known",
+      "pubDate": "2024-12-04T15:03:35.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/5c/91/f7f8-twittercard-twitter-card-orange.png"
+    },
+    {
+      "title": "New crazy payloads in the URL Validation Bypass Cheat Sheet",
+      "link": "https://portswigger.net/research/new-crazy-payloads-in-the-url-validation-bypass-cheat-sheet",
+      "description": "The strength of our URL Validation Bypass Cheat Sheet lies in the contributions from the web security community, and today’s update is no exception. We are excited to introduce a new and improved IP a",
+      "pubDate": "2024-10-29T13:59:13.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/64/c6/9fed-twittercard-81a7457a-352e-4be5-a489-adfa890fc960.png"
+    },
+    {
+      "title": "Concealing payloads in URL credentials",
+      "link": "https://portswigger.net/research/concealing-payloads-in-url-credentials",
+      "description": "Last year Johan Carlsson discovered you could conceal payloads inside the credentials part of the URL . This was fascinating to me especially because the payload is not actually visible in the URL in",
+      "pubDate": "2024-10-23T12:59:05.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/a1/af/aea1-twittercard-twitter.png"
+    },
+    {
+      "title": "Introducing the URL validation bypass cheat sheet",
+      "link": "https://portswigger.net/research/introducing-the-url-validation-bypass-cheat-sheet",
+      "description": "URL validation bypasses are the root cause of numerous vulnerabilities including many instances of SSRF, CORS misconfiguration, and open redirection. These work by using ambiguous URLs to trigger URL",
+      "pubDate": "2024-09-03T14:52:12.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/b7/9f/d69c-twittercard-twitter.png"
+    },
+    {
+      "title": "Gotta cache 'em all: bending the rules of web cache exploitation",
+      "link": "https://portswigger.net/research/gotta-cache-em-all",
+      "description": "Through the years, we have seen many attacks exploiting web caches to hijack sensitive information or store malicious payloads. However, as CDNs became more popular, new discrepancies between propriet",
+      "pubDate": "2024-08-08T22:27:46.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/51/1c/42da-twittercard-gotta-cache-em-all-image-twitter.png"
+    },
+    {
+      "title": "Splitting the email atom: exploiting parsers to bypass access controls",
+      "link": "https://portswigger.net/research/splitting-the-email-atom",
+      "description": "Some websites parse email addresses to extract the domain and infer which organisation the owner belongs to. This pattern makes email-address parser discrepancies critical. Predicting which domain an",
+      "pubDate": "2024-08-07T21:32:47.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/99/3d/3b00-twittercard-splitting-the-email-atom-twitter.png"
+    },
+    {
+      "title": "Listen to the whispers: web timing attacks that actually work",
+      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
+      "description": "Websites are riddled with timing oracles eager to divulge their innermost secrets. It's time we started listening to them. In this paper, I'll unleash novel attack concepts to coax out server secrets",
+      "pubDate": "2024-08-07T18:10:21.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/39/7f/e41b-twittercard-listen-to-the-whispers-twitter.png"
     },
     {
       "title": "Student Loan Breach Exposes 2.5M Records",
