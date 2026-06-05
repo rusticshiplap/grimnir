@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-04T21:43:23.944Z",
+  "generatedAt": "2026-06-05T06:27:09.943Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,13 +19,40 @@
   ],
   "items": [
     {
-      "title": "Name That Toon Contest",
-      "link": "https://www.darkreading.com/events/celebrate-20-years-of-dark-reading-name-that-toon-contest",
-      "description": "",
-      "pubDate": "2026-06-26T11:00:00.000Z",
+      "title": "Cisco warns of unpatched SD-WAN zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-cisco-sd-wan-flaw-exploited-in-zero-day-attacks-to-gain-root/",
+      "description": "On Thursday, Cisco warned of a high-severity, unpatched zero-day in the Cisco Catalyst SD-WAN Manager (tracked as CVE-2026-20245) actively exploited in attacks enabling root privilege escalation. [...]",
+      "pubDate": "2026-06-05T06:24:20.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg"
+    },
+    {
+      "title": "Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026",
+      "link": "https://www.securityweek.com/cisco-warns-of-7th-sd-wan-zero-day-exploited-in-2026/",
+      "description": "The vulnerability is tracked as CVE-2026-20245 and it can allow arbitrary command execution as root, but no patch yet. The post Cisco Warns of 7th SD-WAN Zero-Day Exploited in 2026 appeared first on SecurityWeek.",
+      "pubDate": "2026-06-05T05:47:09.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg"
+    },
+    {
+      "title": "PCPJack Hijacks 230 AWS, Google Cloud, and Azure Servers for Covert SMTP Relay Network",
+      "link": "https://thehackernews.com/2026/06/pcpjack-hijacks-230-aws-google-cloud.html",
+      "description": "The threat actor known as PCPJack has hijacked cloud servers associated with Amazon Web Services (AWS), Google Cloud, and Microsoft Azure to create a covert SMTP email relay network. \"Compromised business servers across the U.S., Europe, and Asia were quietly converted into SMTP proxies, verified for mail relay capability, and synced to a downstream consumer every five minutes,\" Hunt.io said in",
+      "pubDate": "2026-06-05T05:34:19.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
+    },
+    {
+      "title": "Rust-Written IronWorm Hits NPM Supply Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
+      "description": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
+      "pubDate": "2026-06-04T21:47:06.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638feb7893167b94/6a186a557f1d278d580dc037/Remove_InformationWeek_Logo_from_Header_(1).png?width=1280&auto=webp&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Brave Software releases Origin for a paid, bloat-free browsing experience",
@@ -44,6 +71,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/04/Hola.jpg"
+    },
+    {
+      "title": "China's TA4922 Expands Cybercrime Attacks Globally",
+      "link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
+      "description": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
+      "pubDate": "2026-06-04T21:23:59.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a874a07e705cab8/6a21d83653660505464e0115/China-filo-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "4 Critical Threats Where Attackers Have the Advantage",
@@ -71,6 +107,15 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
+    },
+    {
+      "title": "Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/04/updating-taxonomy-failure-modes-agentic-ai-systems-year-red-teaming-taught-us/",
+      "description": "A surge in real-world attacks against agentic AI systems is reshaping how we think about risk. Based on 12 months of red teaming, this update introduces seven new failure modes, from supply chain compromise to goal hijacking, and the practical mitigations teams need now. The post Updating the taxonomy of failure modes in agentic AI systems: What a year of red teaming taught us appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-04T19:14:42.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_AI.png"
     },
     {
       "title": "DentaQuest data breach  exposed info of 2.6 million accounts",
@@ -433,15 +478,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgeHvqmNHvAhdxgoBLbfFWsFBMdvH5SbJovunxx8AYHRkq7HOQ2l6I_ZaJGi_PF5WHKOlHEQHK4HyPBhmzOpYNhPS4HJSna2uLVlEwUV9i2j5YuRqGOLUqgKIrhx2ndFm1OSME7usiLk_ohtIBYyR5Xpq5Pzc2eHAjCK0OA_89JwPNxVrrBVDbTDRVbRG6e/s1600/github.jpg"
     },
     {
-      "title": "Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform",
-      "link": "https://www.securityweek.com/coralogix-raises-200m-at-1-6b-valuation-to-scale-ai-observability-platform/",
-      "description": "Coralogix offers a full-stack observability platform that unifies logs, metrics, traces, security, and AI observability. The post Coralogix Raises $200M at $1.6B Valuation to Scale AI Observability Platform appeared first on SecurityWeek.",
-      "pubDate": "2026-06-03T17:32:57.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg"
-    },
-    {
       "title": "Autonomous AI Tool Finds 2-Year-Old RCE Flaw in Redis (CVE-2026-23479)",
       "link": "https://thehackernews.com/2026/06/autonomous-ai-tool-finds-2-year-old-rce.html",
       "description": "Redis has patched a use-after-free in its blocking-client code that lets an authenticated user run arbitrary OS commands on the machine hosting the database. The flaw was found by an autonomous AI tool built to hunt bugs in large codebases. Tracked as CVE-2026-23479, the flaw was introduced in Redis 7.2.0 and remained in every stable branch until the May 5 fixes, unnoticed for over two years.",
@@ -467,15 +503,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpQ6QXxFH4zkfeHGdcm1WXVcNXMpyJm-1dlZLbFCdp6rKDRhuwICzYaKaR-rCpn61qod6A1F98PZejZbmYuxaUXPJLXQffoaniCkqgyqR1-p7gClpj4PYibjzIDHk8_Vw4ag00EYPCM3Nz1G0Hvzuf6wBV-HzDFoSiYDEEdjPU45Bk_rIlGk9dJ_MMVuue/s1600/ad-malware.jpg"
-    },
-    {
-      "title": "CISA warns of active attacks exploiting Android, Linux bugs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-active-attacks-exploiting-android-linux-bugs/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning that hackers are exploiting vulnerabilities in the Linux kernel and Android operating system. [...]",
-      "pubDate": "2026-06-03T15:36:16.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
     },
     {
       "title": "Beyond the Zero-Day: See Your Network Like an Attacker | Webinar with HD Moore",
@@ -703,15 +730,6 @@
       "image": null
     },
     {
-      "title": "How Leading Organizations Are Turning EDR Into Operational Resilience",
-      "link": "https://thehackernews.com/2026/06/how-leading-organizations-are-turning.html",
-      "description": "Most organizations now recognize that endpoint protection alone is no longer sufficient. That's why adoption of endpoint detection and response (EDR) has accelerated rapidly in recent years. Organizations understand that modern attacks move faster, evade traditional prevention controls, and require continuous visibility into suspicious activity across the environment. But owning EDR",
-      "pubDate": "2026-06-02T10:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdciYseLWNtSuIlPrhxjKI4HId3_-g3E9nr2PmvF-sdPELDdug8zPHASf-hJwZKEUXi9n0pjN08mhpoe-BB_wi241-xBwfKPT8YeJdo41fnHHC9phaZR4TrLiGfTXS8X2SKdlKJMMcwbTuh0LYSbdsHJtNgTfVD5AZU9Y6XzCTqdTg8Vy8qSAVXq254AM/s1600/alert.png"
-    },
-    {
       "title": "Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor",
       "link": "https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/",
       "description": "Operation FlutterBridge is a malvertising campaign targeting macOS users. It distributed the new backdoor FlutterShell, built using the Flutter framework. The post Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor appeared first on Unit 42.",
@@ -928,15 +946,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-171.webp"
     },
     {
-      "title": "Dutch Raid Fails to Dent Russian Bulletproof Host",
-      "link": "https://www.darkreading.com/cyber-risk/dutch-raid-russian-bulletproof-host",
-      "description": "Dutch law enforcement seized 800 servers and arrested two operators of THE.Hosting but left the hosting provider's core IP address space intact.",
-      "pubDate": "2026-05-28T19:04:37.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt75939e9e57fa1b91/6a1777b27e488fa22d7404ec/bulletproof_Viktollio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "The Gentlemen ransomware: Dissecting a self-propagating Go encryptor",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/the-gentlemen-ransomware-dissecting-a-self-propagating-go-encryptor/",
       "description": "Microsoft Threat Intelligence presents a comprehensive analysis of The Gentlemen, a Go-based ransomware deployed by affiliates of Storm-2697 that combines per-file ephemeral key encryption with an aggressive self-propagation module to deploy itself across an entire network using series of simultaneous lateral movement techniques per target. The post The Gentlemen ransomware: Dissecting a self-propagating Go encryptor appeared first on Microsoft Security Blog.",
@@ -970,7 +979,7 @@
       "pubDate": "2026-05-27T23:05:09.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-469.webp"
+      "image": null
     },
     {
       "title": "Out of the Crypt: The Evolving Cyber Extortion Economy",
@@ -1081,15 +1090,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-105.webp"
     },
     {
-      "title": "Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/22/microsoft-security-success-stories-how-st-lukes-and-manpowergroup-are-securing-ai-foundations/",
-      "description": "How Frontier firms secure AI at scale: read how Microsoft customers embed governance, identity, and cloud security to make protection an enabler of AI growth. The post Microsoft Security success stories: How St. Luke’s and ManpowerGroup are securing AI foundations appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-22T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/Microsoft-Security-success-stories.jpg"
-    },
-    {
       "title": "Tracking Iranian APT Screening Serpens’ 2026 Espionage Campaigns",
       "link": "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
       "description": "Unit 42 details Screening Serpens' use of AppDomainManager hijacking and new RAT variants to target tech and defense sectors in recent campaigns. The post Tracking Iranian APT Screening Serpens’ 2026 Espionage Campaigns appeared first on Unit 42.",
@@ -1132,7 +1132,7 @@
       "pubDate": "2026-05-20T23:04:42.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-468.webp"
+      "image": null
     },
     {
       "title": "Tracking TamperedChef Clusters via Certificate and Code Reuse",
