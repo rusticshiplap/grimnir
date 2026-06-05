@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T18:58:15.704Z",
+  "generatedAt": "2026-06-05T20:53:49.955Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "CISA: Hackers now exploit SolarWinds Serv-U flaw to crash servers",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-hackers-now-exploit-solarwinds-serv-u-flaw-to-crash-servers/",
+      "description": "CISA warned today that hackers are now actively exploiting a recently patched high-severity SolarWinds Serv-U flaw to crash servers. [...]",
+      "pubDate": "2026-06-05T19:15:30.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/01/28/SolarWinds.jpg"
+    },
+    {
+      "title": "Exposed Fuel Tank Gauges Under Attack in the US",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/exposed-fuel-tank-gauges-attack-us",
+      "description": "Threat actors are taking advantage of Internet-exposed tank gauges by breaching gas stations, opening the door to disruption.",
+      "pubDate": "2026-06-05T19:04:36.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt638e463ae5f7293b/6a231e099ba4ae078482ebfa/Fire_industrial_site-Yauhen_Akulich-Getty.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
       "title": "Chinese APT deploys new malware to keep access to hacked networks",
       "link": "https://www.bleepingcomputer.com/news/security/chinese-apt-deploys-new-malware-to-keep-access-to-hacked-networks/",
       "description": "A Chinese espionage group tracked as UNC5221 has been accessing Microsoft 365 environments using the Brickstorm backdoor and previously undocumented malware named Plenet and AgentPSD. [...]",
@@ -26,6 +44,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/China.jpg"
+    },
+    {
+      "title": "IronWorm and New Miasma Worm Variant Hit npm in Supply Chain Attacks",
+      "link": "https://thehackernews.com/2026/06/ironworm-and-new-miasma-worm-variant.html",
+      "description": "Multiple software supply chain attacks have hit the npm ecosystem, with threat actors using both malicious and poisoned versions of over 50 legitimate packages to distribute a Rust-based information stealer and a self-spreading worm, respectively. According to JFrog, the information stealer \"scrapes every secret it can find on a developer's machine, hides behind an eBPF kernel rootkit, and",
+      "pubDate": "2026-06-05T18:05:30.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFimSGBOnvlCj_r6fiLdzK6V8DLTIQYjROKxHgQH8QxyRVIL3NDpQe9lBISjqCSjcZNl6VPhHVFtdJ8gPe2FfNjR9kGND1GSZmgx9T_32_Aii5nf_fMLkmBxwkKrJKbmZpcAG8xyj868aHfZ9RePlwlPDfMbI4uDlOCknlGH62Ifdf-nak6qmy4u-9i7X3/s1600/npm-worm.jpg"
     },
     {
       "title": "Dark web Nemesis Market vendor gets 26 years for selling drugs",
@@ -244,15 +271,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibu0mX9Tusu3siXFJzPskfA1ZYZ2OdRJTegsJFkffBc9cBBPGWguTUAI3PPAaFy-WIjziA9PIrMrZNVuFVNmbFhOSPLv6mMBPvjWnR-WQGBD2fvGFTJT358yWFFTxeFSS87aQ_fj30G2VdsGlBjy2KJiby4CS-k3X9FjjpyTGxljOo373cUaZKhdBvWZ_a/s1600/cloud-emails.jpg"
     },
     {
-      "title": "3 Principles to Safely Scale Agentic AI",
-      "link": "https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/",
-      "description": "",
-      "pubDate": "2026-06-05T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Rust-Written IronWorm Hits NPM Supply Chain",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
       "description": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
@@ -460,15 +478,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjwFQkJElJQpI5ODTBzh1EzrxsRYamFN0ntC9V6vF4b4FfEJ0svPhI_1TnKm960eIsewSFT-DR1RtNk3M511OQK6I-k3UQNNLut1f_fjM9wB4NHxdvJzJQ3VvhIGO9ja0hNIzRAOZLVMngS4R8hQxXfV-_DO71x0CU0YSnxpclCnV0DGX6TdNmr32ongewk/s1600/macos.jpg"
     },
     {
-      "title": "Cisco warns of critical Unified CM flaw with PoC exploit code",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-critical-unified-cm-flaw-with-poc-exploit-code/",
-      "description": "Cisco has released security updates to patch a critical-severity Unified Communications Manager (Unified CM) flaw that allows attackers to gain root privileges. [...]",
-      "pubDate": "2026-06-04T11:09:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco.jpg"
-    },
-    {
       "title": "Hacking Meta’s AI Chatbot",
       "link": "https://www.schneier.com/blog/archives/2026/06/hacking-metas-ai-chatbot.html",
       "description": "Hackers are convincing Meta’s AI support chatbot to let them take over other peoples’ accounts: A video posted on X showed the step-by-step process to hack someone’s Instagram account. The hacker allegedly used a VPN to spoof the targets’ presumed location to avoid triggering Instagram’s automated account protections. Then, the hacker opened a chat with Meta AI Support Assistant and asked the bot to add a new email address to the target’s account. The chatbot can be seen sending a verification code to the email address provided by the hacker; the hacker then shares the verification code with t",
@@ -674,15 +683,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5908b752b625e143/6a1ef59f4a4fc7dbba150b40/Stocks_down-nagelestock.net-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "New HTTP/2 Bomb Vulnerability Allows Remote DoS on NGINX, Apache, IIS, Envoy & Cloudflare",
-      "link": "https://thehackernews.com/2026/06/new-http2-bomb-vulnerability-allows.html",
-      "description": "Cybersecurity researchers have discovered a remote denial-of-service exploit that affects major web servers, including NGINX, Apache HTTPD, Microsoft IIS, Envoy, and Cloudflare Pingora. The vulnerability has been codenamed HTTP/2 Bomb by Calif. \"The vulnerable behavior exists in each server's default HTTP/2 configuration,\" the company said, adding it was discovered by OpenAI Codex by chaining",
-      "pubDate": "2026-06-03T08:33:35.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhP07q0cgsa0a9VyTU6oPpxqvoZ5Gg2spx-ClmUIzn9LjYzDfuKNxnLXNuXMexiMB8GjKewhk7CnAL5HXgpCL_wq5eaU8VK2mTxxcKJHAZ9eLBskg516sBn4SV5XHWOuZIozDzBD_0MUCAMcVpGyqOEWITNKi2mQFxFLl9gqg_3UxPlwmXCkRfm2JERftyN/s1600/http2.gif"
     },
     {
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -937,15 +937,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd919de1e6eb08bb9/6a18cae74c25b5264e1e240f/Terminator-Over_There_Pics-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Asia's Cyber Insurance Market Shows Signs of Life",
-      "link": "https://www.darkreading.com/cybersecurity-operations/asias-cyber-insurance-market-signs-of-life",
-      "description": "The cyber insurance industry has made relatively weak inroads into Asia due to a variety of factors, but that could be changing.",
-      "pubDate": "2026-05-29T14:35:33.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9e3fbe8c75eb597/6a19745b69143b73c43502c5/Blue_globe_Asia_Jimmie_Tolliver_Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "Chilling Effects",
       "link": "https://www.schneier.com/blog/archives/2026/05/chilling-effects.html",
       "description": "Younger Americans have soured on the second Donald Trump presidency, but they are not protesting it. Despite an unpopular Iran war and an even more unpopular Trump administration, college campus protests nationwide have gone silent. And at many schools, student activism is virtually nonexistent. This silence comes in the wake of a relentless Trump administration war on campus speech that has involved lawsuits, arrests, deportations and expulsions. Reports cite a range of complicated factors for the restraint, from apathy to technology-induced incapacity. But as public policy and law and social",
@@ -1133,6 +1124,15 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/10_Cloud_cybersecurity_research_Overview_1920x900-1.jpg"
+    },
+    {
+      "title": "Measuring AI-Enabled Success: 3 KPIs Leaders Should Track",
+      "link": "https://www.crowdstrike.com/en-us/blog/measuring-ai-enabled-success-three-kpis-cios-should-track/",
+      "description": "",
+      "pubDate": "2026-05-22T07:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Defenders fall behind, as AI rewrites the rules of a data breach",
