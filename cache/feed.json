@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-10T19:35:30.028Z",
+  "generatedAt": "2026-06-11T04:44:50.587Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
+      "description": "North Korea's gross domestic product (GDP) has grown, in part because of the cybercrime gains of groups linked to the nation, which target business and financial firms.",
+      "pubDate": "2026-06-11T00:01:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "Smashing Security podcast #471: This AI worm just rewrote its own rules",
+      "link": "https://grahamcluley.com/smashing-security-podcast-471/",
+      "description": "Researchers at the University of Toronto have built a worm that thinks for itself. Using free off-the-shelf AI models it works out how to break into each new computer it encounters, and hijacks the powerful ones to host its own AI brain. And then the researchers discovered their creation had quietly removed the list of machines it wasn't supposed to attack. Meanwhile, Meta's shiny new AI customer support agent has been cheerfully helping hackers help themselves to other people's Instagram accounts. Just keep asking, politely but firmly, to have a password reset sent to a different email addres",
+      "pubDate": "2026-06-10T23:15:08.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-471.webp"
+    },
+    {
+      "title": "Path traversal flaw in AI dev platform Langflow exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/path-traversal-flaw-in-ai-dev-platform-langflow-exploited-in-attacks/",
+      "description": "Attackers are actively exploiting CVE-2026-5027, a high-severity path traversal vulnerability in the AI development platform Langflow, to write arbitrary files on exposed servers. [...]",
+      "pubDate": "2026-06-10T21:23:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Langflow.jpg"
+    },
+    {
+      "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
+      "link": "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era",
+      "description": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
+      "pubDate": "2026-06-10T21:17:12.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "The ‘Miasma’ worm source code briefly leaked on GitHub",
+      "link": "https://www.bleepingcomputer.com/news/security/the-miasma-worm-source-code-briefly-leaked-on-github/",
+      "description": "The Miasma credential-stealing attack framework, which has recently targeted open-source ecosystems through supply-chain attacks, was briefly open-sourced on GitHub. [...]",
+      "pubDate": "2026-06-10T20:27:08.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/box.jpg"
+    },
+    {
+      "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
+      "description": "Bug bounty research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
+      "pubDate": "2026-06-10T20:07:53.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt290942caaad1a625/6a29bb178ad5d7051c4e33ad/ServiceNow_Office-JHVEPhoto-Getty-2198127643.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
+    {
+      "title": "GitHub announces npm security changes to tackle supply-chain attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/github-announces-npm-security-changes-to-tackle-supply-chain-attacks/",
+      "description": "GitHub has announced that npm v12, expected next month, will introduce several security-focused changes aimed at blocking supply-chain attacks abusing behaviors triggered by the 'npm install' command. [...]",
+      "pubDate": "2026-06-10T19:41:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/npm.jpg"
+    },
+    {
+      "title": "AI Risk Worries Insurers and Businesses Alike",
+      "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
+      "description": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
+      "pubDate": "2026-06-10T19:34:43.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
+    },
     {
       "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
       "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
@@ -334,9 +406,9 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Cloud_cybersecurity_research_Overview_1920x900.jpg"
     },
     {
-      "title": "The Invisible Battlefield: How Cyber War Is Reshaping Everyday Life",
+      "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
       "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
-      "description": "Former National Cyber Director Chris Inglis warns that cyber attacks threaten hospitals, utilities and essential services.",
+      "description": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
       "pubDate": "2026-06-09T21:57:11.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -397,24 +469,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9546d1e599a35cc3/6a285616b7d91f888c29b825/RMmicrosoft-DrewAngerer-Getty-967210856.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft releases Windows 10 KB5094127 extended security update",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5094127-extended-security-update/",
-      "description": "Microsoft has released the Windows 10 KB5094127 extended security update, which fixes the June 2026 Patch Tuesday vulnerabilities and adds new functionality to monitor the rollout of updated Secure Boot certificates that replace those expiring this month. [...]",
-      "pubDate": "2026-06-09T18:35:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg"
-    },
-    {
-      "title": "Microsoft June 2026 Patch Tuesday fixes 6 zero-days, 200 flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-june-2026-patch-tuesday-fixes-6-zero-days-200-flaws/",
-      "description": "Today is Microsoft's June 2026 Patch Tuesday, with security updates for 200 flaws, including five publicly disclosed zero-day vulnerabilities and one actively exploited in attacks. [...]",
-      "pubDate": "2026-06-09T17:57:59.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
-    },
-    {
       "title": "Reconstructing AI activity in investigations",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
       "description": "Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster. The post Reconstructing AI activity in investigations appeared first on Microsoft Security Blog.",
@@ -422,15 +476,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_AI.png"
-    },
-    {
-      "title": "Windows 11 KB5094126 & KB5093998 cumulative updates released",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5094126-and-kb5093998-cumulative-updates-released/",
-      "description": "Microsoft has released Windows 11 KB5094126 and KB5093998 cumulative updates for versions 25H2/24H2 and 23H2 to fix security vulnerabilities, bugs, and add new features. [...]",
-      "pubDate": "2026-06-09T17:32:32.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows-11.jpg"
     },
     {
       "title": "Meta to Use Off-Site Business Data for Feed and AI Personalization",
@@ -874,33 +919,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaa97395bb0805f7f/6a1f49d4c6f2ac73df1ebf16/old-globe-showing-south-america-jhonny_marcell_oportus-shutterstock.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
-      "title": "Cyber Insurance Rates Are Dropping, but Exclusions Widen",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-insurance-rates-drop-exclusions-widen",
-      "description": "Cyber insurance coverage is slowly changing, and some policies may not provide coverage for social engineering attacks like ClickFix.",
-      "pubDate": "2026-06-03T19:10:58.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltccb00eced4dc6fb5/6a204f532928e1ceac7b3c4c/cyberinsurance-Poca_Wander_Stock-getty-1470986827.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Coding Gaffe Exposes Microsoft 365 Accounts to Widespread Takeover",
-      "link": "https://www.darkreading.com/application-security/coding-gaffe-exposes-microsoft-365-accounts-takeover",
-      "description": "A disabled security setting meant to protect authentication across Android versions of key apps like Word, PowerPoint, and Excel paved the way for attackers to steal logins and data.",
-      "pubDate": "2026-06-03T19:00:41.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta6d9216f2cd41b4b/6a2015f94a4fc7d0bb15144e/Authentication_Zoonar_GmbH_Alamy.png?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
-      "title": "Malicious Notifications Could Trick Google Gemini Users",
-      "link": "https://www.darkreading.com/application-security/malicious-notifications-could-trick-google-gemini-users",
-      "description": "A prompt injection flaw in Google Gemini's voice assistant let attackers hide malicious commands in notifications, enabling social engineering and more.",
-      "pubDate": "2026-06-03T12:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b11efb4c67c9e8c/6a1f2620668c359305c948cc/AIappsphone-Nazar_Rybak-getty-2198117815.jpg?width=1280&auto=webp&quality=80&disable=upscale"
-    },
-    {
       "title": "AI Used to Decrypt Medieval Ciphers",
       "link": "https://www.schneier.com/blog/archives/2026/06/ai-used-to-decrypt-medieval-ciphers.html",
       "description": "Researchers are using machine learning algorithms to decrypt historical pencil-and-paper ciphers.",
@@ -908,15 +926,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Global Stock Exchange Hit by Monthslong Email Campaign",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/global-stock-exchange-hit-monthslong-email-campaign",
-      "description": "A threat actor got a near-continuous view into an influential finance executive's email inbox, thanks to clever use of legitimate, native Windows tools.",
-      "pubDate": "2026-06-03T10:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5908b752b625e143/6a1ef59f4a4fc7dbba150b40/Stocks_down-nagelestock.net-Alamy.jpg?width=1280&auto=webp&quality=80&disable=upscale"
     },
     {
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -1376,15 +1385,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/13_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Iran-linked Handala hackers leak US Marines data, send chilling WhatsApp threats",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/iran-handala-hackers-leak-us-marines-data-chilling-whatsapp-threats",
-      "description": "US Marines stationed around the Persian Gulf have been receiving WhatsApp messages from strangers suggesting they call home and make their final goodbyes. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-04-30T08:13:48.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/04/marines.jpeg"
     },
     {
       "title": "Weekly Update 501",
