@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T20:35:36.064Z",
+  "generatedAt": "2026-06-12T22:26:14.534Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
+      "link": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
+      "description": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. The post Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered appeared first on Unit 42.",
+      "pubDate": "2026-06-12T22:00:14.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Listicle_Category_1505x922.jpg"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid-Inspired Fluid Pump",
+      "link": "https://www.schneier.com/blog/archives/2026/06/friday-squid-blogging-squid-inspired-fluid-pump.html",
+      "description": "This fluid pump was inspired by the way squids propel themselves through the water. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-06-12T21:05:03.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
       "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
       "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
       "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
@@ -37,10 +55,10 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2021/02/03/data-breach-header.jpg"
     },
     {
-      "title": "400+ Arch Linux AUR Packages Hijacked to Install Rust Credential Stealer",
-      "link": "https://thehackernews.com/2026/06/400-arch-linux-aur-packages-hijacked-to.html",
+      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
+      "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
       "description": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
-      "pubDate": "2026-06-12T19:24:50.000Z",
+      "pubDate": "2026-06-12T19:33:25.000Z",
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
@@ -1027,15 +1045,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Security-2.jpg"
     },
     {
-      "title": "The Intersection of Encryption and AI",
-      "link": "https://www.schneier.com/blog/archives/2026/06/the-intersection-of-encryption-and-ai.html",
-      "description": "As part of their 20th Anniversary celebration, Dark Reading asked five cybersecurity industry leaders who wrote blogs or columns for them over the years to select their favorite piece and share their reflections on the topic today. This is my section. Renowned technologist and author Bruce Schneier contributed a column on June 20, 2010, warning about cryptography’s inability to secure modern networks, a point he says he has been trying to argue since 2000. “For a while now, I’ve pointed out that cryptography is singularly ill-suited to solve the major network security problems of today: denial",
-      "pubDate": "2026-06-02T11:06:25.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor",
       "link": "https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/",
       "description": "Operation FlutterBridge is a malvertising campaign targeting macOS users. It distributed the new backdoor FlutterShell, built using the Flutter framework. The post Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor appeared first on Unit 42.",
@@ -1376,15 +1385,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Splash-Template.jpg"
-    },
-    {
-      "title": "Copy Fail: What You Need to Know About the Most Severe Linux Threat in Years",
-      "link": "https://unit42.paloaltonetworks.com/cve-2026-31431-copy-fail/",
-      "description": "Copy Fail (CVE-2026-31431) is a critical Linux kernel LPE that allows stealthy root access. This flaw impacts millions of systems. Read our analysis. The post Copy Fail: What You Need to Know About the Most Severe Linux Threat in Years appeared first on Unit 42.",
-      "pubDate": "2026-05-05T23:00:33.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/05_Vulnerabilities_1920x900-2-1.jpg"
     },
     {
       "title": "Weekly Update 501",
