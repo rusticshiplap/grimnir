@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-12T05:14:58.260Z",
+  "generatedAt": "2026-06-12T09:52:36.576Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,69 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Ivanti Sentry Exploitation Attempts Hitting Honeypots",
+      "link": "https://www.securityweek.com/ivanti-sentry-exploitation-attempts-hitting-honeypots/",
+      "description": "The critical-severity OS command injection vulnerability allows attackers to execute arbitrary code with root privileges. The post Ivanti Sentry Exploitation Attempts Hitting Honeypots appeared first on SecurityWeek.",
+      "pubDate": "2026-06-12T09:44:16.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/Ivanti-Risks-Exploits.jpg"
+    },
+    {
+      "title": "Chrome 149 Update Patches 28 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-149-update-patches-28-vulnerabilities/",
+      "description": "The browser refresh resolved critical and high-severity security defects, including a dozen use-after-free bugs. The post Chrome 149 Update Patches 28 Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-06-12T09:27:08.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg"
+    },
+    {
+      "title": "Anthropic Disputes Fable 5 AI Jailbreak",
+      "link": "https://www.securityweek.com/anthropic-disputes-fable-5-ai-jailbreak/",
+      "description": "An AI hacker claims to have achieved a prompt-based jailbreak shortly after Fable 5’s launch, but Anthropic says it’s not a real jailbreak. The post Anthropic Disputes Fable 5 AI Jailbreak appeared first on SecurityWeek.",
+      "pubDate": "2026-06-12T08:43:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+    },
+    {
+      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
+      "pubDate": "2026-06-12T08:26:55.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
+    },
+    {
+      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
+      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
+      "description": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
+      "pubDate": "2026-06-12T07:09:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/12/Tchap.jpg"
+    },
+    {
+      "title": "Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters",
+      "link": "https://www.securityweek.com/google-confirms-exploitation-of-oracle-peoplesoft-zero-day-by-shinyhunters/",
+      "description": "Oracle has mitigated CVE-2026-35273, but it has not publicly confirmed the vulnerability’s in-the-wild exploitation. The post Google Confirms Exploitation of Oracle PeopleSoft Zero-Day by ShinyHunters appeared first on SecurityWeek.",
+      "pubDate": "2026-06-12T06:44:36.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Oracle-PeopleSoft.jpeg"
+    },
+    {
+      "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
+      "link": "https://thehackernews.com/2026/06/europol-disrupts-audia6-crypto.html",
+      "description": "Authorities in Europe have disrupted AudiA6, a cryptocurrency laundering service used by ransomware gangs and cybercriminal networks. Europol, in a statement issued Thursday, said the dismantling of AudiA6 cut off a \"key financial pipeline used to wash hundreds of millions in illicit profits.\" The service is estimated to have been used to launder more than €336 million (~$389 million) since the",
+      "pubDate": "2026-06-12T06:38:41.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8Of2v3fH68mBon8j-FkHg2vnpmDnEko0AOFIqTz07PQRxQdYgAO78dWxylFMVzJT4Z4Q8WI88zsOr6mRyBIW1Ym4gVAE21meQ3GqosaIn9f6i8u2bIuiq9Nn-pa0vYFqLK1Cy_evX4KEP_lfBD9UlmiqAl9SDjuXWbRTe8pnDnFDwgiMXEFcHi5lvDryQ/s1600/dark2web.jpg"
+    },
     {
       "title": "Phishing Attack Volume Down 20%, but Risk Still Rising",
       "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
@@ -226,15 +289,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimJQm5XK5zijXnauJNV2_6v7g0bNYcdYLA-SuZZHbWZgQWB523V2Z7IgfYMu16QIc-JHnMg_8dXFY-TJ4dK9FpU4iAn2-8S4mE_ZE3M-z2XITVq6X2hF0e5Ngq33PcyeYSOlDceniRcY98Y8JNQwI5MWYbEor7h-h4kQLvaoeQ0OvJmg-UZTG82dv9nZI/s1600/ai-broke.jpg"
     },
     {
-      "title": "FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers",
-      "link": "https://www.securityweek.com/fbi-seizes-13-websites-that-officials-say-were-used-by-china-to-target-and-recruit-us-workers/",
-      "description": "The 13 websites purported to be affiliated with consulting companies that advertised job openings for current and former holders of security clearances The post FBI Seizes 13 Websites That Officials Say Were Used by China to Target and Recruit US Workers appeared first on SecurityWeek.",
-      "pubDate": "2026-06-11T11:06:22.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/VC-Funding_China-tech.jpg"
-    },
-    {
       "title": "Enhanced License Plate Tracking",
       "link": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
       "description": "The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially letting law enforcement identify specific drivers or passengers. The technology, called SignalTrace, would turn ALPR cameras from devices focused on tracking cars to ones that can more readily track the location of particular people. ALPR camer",
@@ -244,15 +298,6 @@
       "image": null
     },
     {
-      "title": "Splunk, Palo Alto Networks Patch Severe Vulnerabilities",
-      "link": "https://www.securityweek.com/splunk-palo-alto-networks-patch-severe-vulnerabilities/",
-      "description": "The security defects could allow attackers to create or modify arbitrary files and access and modify protected resources. The post Splunk, Palo Alto Networks Patch Severe Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-06-11T10:47:48.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/software-vulnerability-patch-update.jpg"
-    },
-    {
       "title": "Trust No Skill: Integrity Verification for AI Agent Supply Chains",
       "link": "https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/",
       "description": "Protect enterprise AI agents from supply chain risks by auditing third-party skills for hidden vulnerabilities and multi-stage attack chains. The post Trust No Skill: Integrity Verification for AI Agent Supply Chains appeared first on Unit 42.",
@@ -260,15 +305,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_429594706.jpg"
-    },
-    {
-      "title": "‘GreatXML’ Zero-Day Exploit Bypasses BitLocker",
-      "link": "https://www.securityweek.com/greatxml-zero-day-exploit-bypasses-bitlocker/",
-      "description": "The PoC exploits Microsoft Defender’s offline scan to spawn a SYSTEM shell when rebooting in Recovery Mode. The post ‘GreatXML’ Zero-Day Exploit Bypasses BitLocker appeared first on SecurityWeek.",
-      "pubDate": "2026-06-11T09:56:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg"
     },
     {
       "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
@@ -287,15 +323,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/Windows_Server.jpg"
-    },
-    {
-      "title": "University of Nottingham Confirms Breach After Hackers Leak Data",
-      "link": "https://www.securityweek.com/university-of-nottingham-confirms-breach-after-hackers-leak-data/",
-      "description": "The ShinyHunters hacker group has taken credit for the attack, leaking more than 450,000 email addresses and other information. The post University of Nottingham Confirms Breach After Hackers Leak Data appeared first on SecurityWeek.",
-      "pubDate": "2026-06-11T08:30:02.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/University-Hack.jpeg"
     },
     {
       "title": "Nottingham University data breach affects over 450,000 students",
@@ -323,6 +350,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Ivanti-headpic.jpg"
+    },
+    {
+      "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
+      "description": "",
+      "pubDate": "2026-06-11T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
@@ -397,15 +433,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Oracle PeopleSoft servers hacked in ShinyHunters data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/oracle-peoplesoft-servers-hacked-in-shinyhunters-data-theft-attacks/",
-      "description": "Oracle PeopleSoft servers are being targeted in ongoing data theft attacks by the ShinyHunters extortion gang, which claims to have stolen data from over 100 organizations. [...]",
-      "pubDate": "2026-06-10T18:31:57.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/21/Oracle.jpg"
-    },
-    {
       "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
       "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
       "description": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
@@ -449,15 +476,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidDfz-Q5s2ON-nc6gW-4Lgw1yMocr3YiLP82vXcoWHcs6-_ICHWHZsciCnM2aU4kBZ2yyCJ622deCwKAXZdOFVyIoG41JC7SHyXIG6soj-RrFySsKHp2N51PpbGb7LxJWXvqOXE6GTap75h_QIjH78l0Ys__M_4EtgxMgymWgCS1vfdmWmwgpkW1TIq61I/s1600/lang.png"
-    },
-    {
-      "title": "China-linked JDY botnet expands targeting of U.S. military networks",
-      "link": "https://www.bleepingcomputer.com/news/security/china-linked-jdy-botnet-expands-targeting-of-us-military-networks/",
-      "description": "The JDY botnet, a malware network previously associated with Chinese threat actors like Volt Typhoon, has significantly expanded its targeting scope and reconnaissance efforts. [...]",
-      "pubDate": "2026-06-10T15:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/05/chinese-hacker-flag.jpg"
     },
     {
       "title": "CISA Adds Cisco, Chrome, and Arista Flaws to KEV Catalog Amid Active Exploitation",
@@ -683,15 +701,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2H1xd7_K6KgUGsDu0E9YGBOLVgXF4DX0rDhf_pUhDRujatedeTJFwy0e_JxsMGGpQB80HOn4wTXRSxCB2DrxNo0nHYVUJC2ehyphenhyphenum_Cyjg-5bVXOIuGahdDFIIa9NBleTGfYDXQuqf005BOME3HAXVxVQw1OXNJNZwpZ4Tgke2qUK2TITR0qFMgaAH8Mf9/s1600/worm.gif"
-    },
-    {
-      "title": "Chrome V8 Zero-Day CVE-2026-11645 Exploited in the Wild - Patch Now",
-      "link": "https://thehackernews.com/2026/06/chrome-v8-zero-day-cve-2026-11645.html",
-      "description": "Google has released security updates to address 74 vulnerabilities, including one that has come under active exploitation in the wild. The high-severity vulnerability, tracked as CVE-2026-11645 (CVSS score: 8.8), has been described as an out-of-bounds memory access in V8, Chrome's JavaScript and WebAssembly engine. \"Out-of-bounds read and write in V8 in Google Chrome prior to 149.0.7827.103",
-      "pubDate": "2026-06-09T11:58:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjy9c53f3p1HHGx7jqu0BsfiQG9IExXm0FN2TErZuX0bEb-QuwP4-_1WCoEBEWu976cmqjbnjTJl04uxbLJIP3P0pzSXNqjLNOz_gbfLMilYwJswWq-lMAPWJ1FxaZB_jmcsJaBFO4E5oXd3cdhDPlnDc2TblqooNQ9Btxfak9W8cXEhyphenhyphenXzjEfSluORQ1Ty/s1600/chrome-zero-day.jpg"
     },
     {
       "title": "CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks",
@@ -1047,15 +1056,6 @@
     {
       "title": "CrowdStrike Scales AI-Native Agents Across Falcon Exposure Management with NVIDIA",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-nvidia-collaborate-to-scale-ai-native-agents-across-falcon-exposure-management/",
-      "description": "",
-      "pubDate": "2026-06-01T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Secure Shadow AI at the Control Plane with Falcon for IT",
-      "link": "https://www.crowdstrike.com/en-us/blog/secure-shadow-ai-at-the-control-plane-with-falcon-for-it/",
       "description": "",
       "pubDate": "2026-06-01T05:00:00.000Z",
       "source": "CrowdStrike Blog",
