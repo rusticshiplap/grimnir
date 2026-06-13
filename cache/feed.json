@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-13T13:05:59.098Z",
+  "generatedAt": "2026-06-13T18:15:48.934Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks",
+      "link": "https://www.securityweek.com/npm-12-will-change-script-execution-behavior-to-prevent-supply-chain-attacks/",
+      "description": "By default, npm install will no longer execute scripts from dependencies, unless explicitly allowed. The post NPM 12 Will Change Script Execution Behavior to Prevent Supply Chain Attacks appeared first on SecurityWeek.",
+      "pubDate": "2026-06-13T15:52:58.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
+    },
+    {
+      "title": "Chinese hackers hijack auth flow, spy on isolated network for a decade",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-hijack-auth-flow-spy-on-isolated-network-for-a-decade/",
+      "description": "Chinese hackers took control of a target organization's authentication stack and maintained persistence for 10 years, with full visibility into the administrative activity. [...]",
+      "pubDate": "2026-06-13T14:06:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/China.jpg"
+    },
+    {
+      "title": "Critical Splunk Enterprise Flaw Lets Attackers Run Code Without Authentication",
+      "link": "https://thehackernews.com/2026/06/critical-splunk-enterprise-flaw-lets.html",
+      "description": "Splunk has released security updates to address a critical security flaw in Splunk Enterprise that could be exploited to conduct unauthenticated file operations and even remote code execution. The vulnerability, tracked as CVE-2026-20253, is rated 9.8 on the CVSS scoring system. \"In Splunk Enterprise versions below 10.2.4 and 10.0.7, an unauthenticated user could create or truncate arbitrary",
+      "pubDate": "2026-06-13T13:23:03.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
+    },
     {
       "title": "US Gov asks Anthropic to ban 'foreign national' access to Fable, Mythos",
       "link": "https://www.bleepingcomputer.com/news/security/us-gov-asks-anthropic-to-ban-foreign-national-access-to-fable-mythos/",
@@ -433,15 +460,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66e63404f64fc223/6a2ae36e50e5a268a265c05a/GettyImages-2260705467.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Why AI-driven threats are exposing the limits of MSP security stacks",
-      "link": "https://www.bleepingcomputer.com/news/security/why-ai-driven-threats-are-exposing-the-limits-of-msp-security-stacks/",
-      "description": "AI-driven attacks are exposing the limits of fragmented MSP security stacks and slow response workflows. Kaseya breaks down why integrated security, automation, and recovery are becoming essential. [...]",
-      "pubDate": "2026-06-11T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg"
-    },
-    {
       "title": "Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks",
       "link": "https://www.securityweek.com/oracle-addresses-peoplesoft-vulnerability-amid-reports-of-zero-day-attacks/",
       "description": "Oracle has released mitigations for CVE-2026-35273, but it has not said whether it’s a zero-day exploited in ShinyHunters attacks. The post Oracle Addresses PeopleSoft Vulnerability Amid Reports of Zero-Day Attacks appeared first on SecurityWeek.",
@@ -449,15 +467,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Oracle-PeopleSoft.jpeg"
-    },
-    {
-      "title": "Alert Fatigue Is Becoming a Security Threat of Its Own",
-      "link": "https://www.securityweek.com/alert-fatigue-is-becoming-a-security-threat-of-its-own/",
-      "description": "As alert volumes outpace human capacity, organizations are turning to AI, automation, and deeper context to separate real threats from the noise. The post Alert Fatigue Is Becoming a Security Threat of Its Own appeared first on SecurityWeek.",
-      "pubDate": "2026-06-11T13:45:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/04/Threat-Intelligence-SOC.jpg"
     },
     {
       "title": "Cybersecurity Stars Awards 2026: Winners Announced Across 95 Categories",
@@ -665,15 +674,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDOIX9PorKjXDciuKmL8xLL9vrOVtBou5tBhn4T-u7cgllDKei3HRDr8vsXGM-MllL1eb6E_pdEID5s_sRUxbjHiA6AhlLUQLFi6vDXM5v0Mq0hM43eWSh8Pc_qdYtcjqushm7Wl-S64w6qEGg5P6ETD_o9l5VGGoflzGo3VpgFqmL9NhIe2RUuilVAB0c/s1600/windows-patch.jpg"
-    },
-    {
-      "title": "Anthropic Releases Claude Fable 5, Its Most Powerful AI Yet, With Cyber Safeguards",
-      "link": "https://thehackernews.com/2026/06/anthropic-releases-claude-fable-5-its.html",
-      "description": "On June 9, Anthropic released Claude Fable 5, the most capable model it has ever made, generally available. It also did something unusual: it shipped one model as two products, split not by capability but by a layer of safety classifiers. Fable 5 goes to the public. Its twin, Claude Mythos 5, the same underlying model with the cyber safeguards lifted, stays locked to a vetted group of cyber",
-      "pubDate": "2026-06-10T07:37:59.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjQYvpTDJ-P39EdhVGhwg0QbEd9xU2yd2194Va1QAQaegDG_yW45yTaKCGYCZ7fe-olcVpP-cLSczkES4VDO8IIPOGXXMdL8aOU0mFBOBwPX6b-HHBVDZYcCFLpwm2P11_Xaqc4csTJ2UWLAq2hpGY1TnZMBVNDt1D0P3gkflmAvv8ifdFZbMbcna3oFeo/s1600/claude-fable.jpg"
     },
     {
       "title": "Weekly Update 507",
