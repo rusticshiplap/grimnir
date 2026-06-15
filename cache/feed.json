@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-15T11:39:54.245Z",
+  "generatedAt": "2026-06-15T17:32:01.633Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,177 @@
   ],
   "items": [
     {
+      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
+      "description": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
+      "pubDate": "2026-06-15T17:12:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Cisco.jpg"
+    },
+    {
+      "title": "China-Nexus Actor Spy on US Researchers Undetected for a Year",
+      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
+      "description": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to target numerous institutions and exfiltrate sensitive data.",
+      "pubDate": "2026-06-15T17:00:45.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteadcaa63427e8544/6a2fdfdcfd223c5f3b3a26d0/chinaspying_BeeBright_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
+      "link": "https://thehackernews.com/2026/06/litellm-vulnerability-chain-lets-low.html",
+      "description": "A default low-privilege account on a LiteLLM proxy can climb to full admin and run code on the server by chaining three vulnerabilities, researchers at Obsidian Security disclosed LiteLLM is a widely deployed open-source AI gateway that brokers calls to more than 100 model providers behind one OpenAI-compatible interface. A server takeover exposes every provider key it holds, the secrets that",
+      "pubDate": "2026-06-15T16:39:01.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjiH9LcMRhk5Li59rG05yXoOOofNzGpeG1MMSKQqhFCGW_28n0SjLKd9D4MC68N7jPP6dF2h2l8gW1OE7Y7akY2fckld2w1UKa3itsrCKeDjo_2vgzuvL3HxZpJ5naBx5LgPdjxhekaFONzBtR9SoJw-ugGVXOuceLQQPvJzcj7SSCgbRsqurOgnIgZppo/s1600/litellm.jpg"
+    },
+    {
+      "title": "Council of Europe investigates ShinyHunters data breach claims",
+      "link": "https://www.bleepingcomputer.com/news/security/council-of-europe-investigates-shinyhunters-data-breach-claims/",
+      "description": "The Council of Europe, the continent's oldest intergovernmental body, is probing claims of a data breach made by the ShinyHunters extortion group over the weekend. [...]",
+      "pubDate": "2026-06-15T16:37:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/Council-of--Europe.jpg"
+    },
+    {
+      "title": "Microsoft Defender email security benchmarking: Key insights from one year of data",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/15/microsoft-defender-email-security-benchmarking-key-insights-from-one-year-of-data/",
+      "description": "See how Microsoft Defender performed in one year of real-world email security benchmarking against SEG and ICES vendors. The post Microsoft Defender email security benchmarking: Key insights from one year of data appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-15T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Picture1.webp"
+    },
+    {
+      "title": "FBI: Fraudsters use couriers to steal money in crypto scams",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-fraudsters-use-couriers-to-steal-money-in-crypto-scams/",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) warned that criminals are using couriers to collect money from victims of cryptocurrency investment scams, also known as pig butchering or romance baiting. [...]",
+      "pubDate": "2026-06-15T15:30:23.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/Hacker-Bitcoin-Dollars.jpg"
+    },
+    {
+      "title": "Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer",
+      "link": "https://www.securityweek.com/ransomware-attack-shuts-down-mills-of-australias-second-largest-sugar-producer/",
+      "description": "Mackay Sugar was targeted in a cyberattack carried out by a threat group known as The Gentlemen. The post Ransomware Attack Shuts Down Mills of Australia’s Second-Largest Sugar Producer appeared first on SecurityWeek.",
+      "pubDate": "2026-06-15T15:15:55.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/sugar-mill.jpeg"
+    },
+    {
+      "title": "One-Click Microsoft 365 Copilot Flaw Could Have Let Attackers Steal Emails, Files, and MFA Codes",
+      "link": "https://thehackernews.com/2026/06/one-click-microsoft-365-copilot-flaw.html",
+      "description": "A single click on a trusted Microsoft link could have let an attacker pull emails, calendar details, and indexed files out of Microsoft 365 Copilot Enterprise Search. Researchers at Varonis Threat Labs chained three bugs into a one-click exfiltration path they call SearchLeak. Because the link pointed to a real microsoft.com domain, traditional anti-phishing and URL filtering tools were",
+      "pubDate": "2026-06-15T15:09:05.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
+    },
+    {
+      "title": "The Beginning of the End of Social Engineering",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
+      "description": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
+      "pubDate": "2026-06-15T15:08:32.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b60582de22ac501/6a2c8cf58294cd8665300914/Stop_Button_Ruangrit_Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Chinese Hackers Target Medical, Military, and AI Research in North America",
+      "link": "https://www.securityweek.com/chinese-hackers-target-medical-military-and-ai-research-in-north-america/",
+      "description": "Google’s Threat Intelligence Group has been tracking the cyberespionage group as UNC6508 since early 2025. The post Chinese Hackers Target Medical, Military, and AI Research in North America appeared first on SecurityWeek.",
+      "pubDate": "2026-06-15T14:07:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/China-APT-AI-artificial-intelligence.jpeg"
+    },
+    {
+      "title": "Vibe coders are gonna vibe code: How CISOs are tackling code sprawl",
+      "link": "https://www.bleepingcomputer.com/news/security/vibe-coders-are-gonna-vibe-code-how-cisos-are-tackling-code-sprawl/",
+      "description": "Employees are increasingly building automations, agents, and apps with AI tools outside traditional security oversight. Tines explores how CISOs are handling AI-driven code sprawl, shadow tooling, and governance challenges. [...]",
+      "pubDate": "2026-06-15T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/06/10/tines-workflow.jpg"
+    },
+    {
+      "title": "Chinese hackers breach REDCap servers, steal medical research",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-breach-redcap-servers-steal-medical-research/",
+      "description": "A China-linked espionage campaign targeted exposed REDCap servers to deploy the InfiniteRed malware and steal sensitive data from a medical institution in North America. [...]",
+      "pubDate": "2026-06-15T14:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/05/hacker-china-flag.jpg"
+    },
+    {
+      "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
+      "description": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
+      "pubDate": "2026-06-15T13:49:29.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOtdohah5P1Lv9egIZCwwxpEdcV4phYigmhvgzB3ulDhSeeffe4qDsVoowrzaTD6WsgwyjKIdJ_vzvnsUJ78zn5oxOl83qUj5ie8NN_MF8pMbdcikrPpV9vAUgm-7NLOztqN17uTx-dktpkgcQSFrmulSyCtE3MCGHOe5yQRVDFbsrx0DUjoHTa76k4Oos/s1600/thn-recap.jpg"
+    },
+    {
+      "title": "Maine forced to take down data breach portal after fake notices filed with authorities",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal",
+      "description": "The US state of Maine has taken its public data breach notification portal offline after someone submitted fraudulent breach disclosures impersonating two well-known technology companies. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-06-15T13:23:44.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/fake-data-breach-notice.jpeg"
+    },
+    {
+      "title": "New attack turned Microsoft 365 Copilot into 1-click data theft tool",
+      "link": "https://www.bleepingcomputer.com/news/security/new-attack-turned-microsoft-365-copilot-into-1-click-data-theft-tool/",
+      "description": "A critical vulnerability chain dubbed SearchLeak in Microsoft 365 Copilot Enterprise could allow attackers to steal sensitive data from a target's mailbox, OneDrive, or SharePoint account through a specially crafted URL. [...]",
+      "pubDate": "2026-06-15T13:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/Copilot.jpg"
+    },
+    {
+      "title": "NewCore Emerges From Stealth Mode With $66 Million in Funding",
+      "link": "https://www.securityweek.com/newcore-emerges-from-stealth-mode-with-66-million-in-funding/",
+      "description": "The startup has built a security-first identity platform to protect humans, machines, and AI agents. The post NewCore Emerges From Stealth Mode With $66 Million in Funding appeared first on SecurityWeek.",
+      "pubDate": "2026-06-15T13:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-1.jpeg"
+    },
+    {
+      "title": "Infinite Campus data breach affects 137,000 school staff accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/infinite-campus-data-breach-affects-137-000-school-staff-accounts/",
+      "description": "The ShinyHunters extortion gang stole personal information from more than 137,000 school staff accounts in a Salesforce data theft attack that targeted the widely used Infinite Campus K-12 student information system in March. [...]",
+      "pubDate": "2026-06-15T12:38:55.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/04/School_hacker.jpg"
+    },
+    {
+      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
+      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
+      "description": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
+      "pubDate": "2026-06-15T12:17:22.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc8a7bcad0a752a44/6a2ecc83523ab2b32c0badfb/caged-lion-Bratislav-Kostic-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Webinar: How behavioral AI stops phishing and account takeovers",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-behavioral-ai-stops-phishing-and-account-takeovers/",
+      "description": "Modern phishing, BEC, and account takeover attacks increasingly bypass traditional email defenses and create operational strain for security teams. This webinar explores how behavioral AI can help automate detection, investigation, and remediation to reduce alert fatigue and accelerate response times. [...]",
+      "pubDate": "2026-06-15T12:12:20.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/08/23/phishing-hook.jpg"
+    },
+    {
       "title": "Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges",
       "link": "https://www.securityweek.com/ukrainian-man-pleads-guilty-in-us-to-conti-ransomware-charges/",
       "description": "Oleksii Oleksiyovych Lytvynenko admitted to working on the development of a loader for the Conti gang. The post Ukrainian Man Pleads Guilty in US to Conti Ransomware Charges appeared first on SecurityWeek.",
@@ -26,6 +197,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2024/03/hacker-sentenced-prison.jpeg"
+    },
+    {
+      "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
+      "link": "https://thehackernews.com/2026/06/the-onboarding-password-mistake-that.html",
+      "description": "Employee onboarding is a busy time for IT teams. New starters need devices, accounts, access permissions, and passwords, all delivered within a tight timeframe. That usually means sharing a temporary \"first-day\" password so employees can access systems for the first time. The issue is that these passwords don't always stay temporary. They may be sent over email or SMS, reused across accounts,",
+      "pubDate": "2026-06-15T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgDj2pDJr4F9HBYmRTjOtetTz0h0vViw1lMZp6N0YAS5bGKv8ELJ1hjEcSffQg4xCTqhpIEkLchZxDXn-JNCQdUELSWNW5FcfHceLFvjAvVFXNJq5tClyqJ4onrgYp4lX3axgc2u0QU_k9MQoyjLfZt1RV3ZPapqVaZXrJy6H2wn4dw1dYWS1S4iou-dDI/s1600/outpost24.jpg"
     },
     {
       "title": "Ozempic Maker Novo Nordisk Says Hackers Breached IT Systems",
@@ -190,15 +370,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
     },
     {
-      "title": "Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls",
-      "link": "https://www.securityweek.com/anthropic-says-it-has-taken-its-latest-ai-models-offline-to-comply-with-new-export-controls/",
-      "description": "Anthropic takes Fable 5 and Mythos 5 offline to comply with a directive from the Trump administration to prevent use by foreign nationals. The post Anthropic Says It Has Taken Its Latest AI Models Offline to Comply With New Export Controls appeared first on SecurityWeek.",
-      "pubDate": "2026-06-13T06:38:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg"
-    },
-    {
       "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
       "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
       "description": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
@@ -298,49 +469,13 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2022/03/01/Conti_headpic.jpg"
     },
     {
-      "title": "Over 400 Arch Linux packages compromised to push rootkit, infostealer",
-      "link": "https://www.bleepingcomputer.com/news/security/over-400-arch-linux-packages-compromised-to-push-rootkit-infostealer/",
-      "description": "More than 400 packages in the Arch User Repository (AUR) are distributing a Linux rootkit and infostealer malware targeting credentials and access tokens. [...]",
-      "pubDate": "2026-06-12T17:03:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/07/18/arch-linux-white.jpg"
-    },
-    {
-      "title": "In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine",
-      "link": "https://www.securityweek.com/in-other-news-google-security-layoffs-audia6-takedown-400-million-coupang-fine/",
-      "description": "Other noteworthy stories that might have slipped under the radar: ICS device exposure remains flat as attack surface widens, Microsoft issues incident response playbook for AI, IBM and AT&T accused of hack cover-ups. The post In Other News: Google Security Layoffs, AudiA6 Takedown, $400 Million Coupang Fine appeared first on SecurityWeek.",
-      "pubDate": "2026-06-12T16:17:26.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-      "title": "Early Warning Signs of Supply-Chain Attacks Live in the Dark Web",
-      "link": "https://www.bleepingcomputer.com/news/security/early-warning-signs-of-supply-chain-attacks-live-in-the-dark-web/",
-      "description": "GitHub access sales, leaked repositories, and stolen API keys can all become supply-chain attack footholds. Flare explores how underground forums expose early signals tied to software supply-chain risk. [...]",
-      "pubDate": "2026-06-12T14:01:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/06/11/supply-chain-attack-header.jpg"
-    },
-    {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-      "description": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explained.",
+      "description": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
       "pubDate": "2026-06-12T13:01:00.000Z",
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte968bc333f7d9aab/6a2b0449b2248a454686bdf2/Tortoise_and_Hare-Walter_B._McKenzie-Getty-200291947-001.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Industry Reactions to Claude Fable 5: Feedback Friday",
-      "link": "https://www.securityweek.com/industry-reactions-to-claude-fable-5-feedback-friday/",
-      "description": "Industry professionals comment on various aspects of Fable 5, including dual-use capabilities, safeguards, and tiered access. The post Industry Reactions to Claude Fable 5: Feedback Friday appeared first on SecurityWeek.",
-      "pubDate": "2026-06-12T12:30:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Feedback-Friday.jpeg"
     },
     {
       "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
@@ -350,15 +485,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg"
-    },
-    {
-      "title": "Microsoft fixes Windows update failures linked to WUSA installer",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-update-failures-linked-to-wusa-installer/",
-      "description": "Microsoft has fixed a known issue that caused Windows updates released since May 2025 to fail when installed via the Windows Update Standalone Installer (WUSA) from a network share. [...]",
-      "pubDate": "2026-06-12T11:44:58.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
     },
     {
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
@@ -379,15 +505,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WauAS1qxBj0Oziu-jmgn34YGvKsu9xISK-gtccFv-0WkcX6EC6e-ge9UF2PCZINf9RW5cN40GWijtbnZOvADSJKZ4ErYKX_Iqoo9AO9nk3E0548I07_5PNz6vWA13UMKwU1jGjXCQJLBFyXj_RPEgiVvCuEZZyijeNBxgaiIB1itadpRaDzzoyR_DcA/s1600/mdr.jpg"
     },
     {
-      "title": "Pharma giant Novo Nordisk discloses breach of clinical trials data",
-      "link": "https://www.bleepingcomputer.com/news/security/pharmaceutical-giant-novo-nordisk-discloses-security-breach/",
-      "description": "Danish pharmaceutical giant Novo Nordisk, the world's largest producer of insulin, disclosed a data breach affecting patient information from some clinical trials. [...]",
-      "pubDate": "2026-06-12T10:13:19.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/12/Novo_Nordisk.jpg"
-    },
-    {
       "title": "LangGraph Flaw Chain Exposes Self-Hosted AI Agents to Remote Code Execution",
       "link": "https://thehackernews.com/2026/06/langgraph-flaw-chain-exposes-self.html",
       "description": "Cybersecurity researchers have disclosed details of three now-patched security flaws impacting LangGraph, including a critical vulnerability chain that could result in remote code execution. LangGraph is an open-source framework created by LangChain to build complex, stateful, and multi-agent artificial intelligence (AI) agentic applications. \"An SQL injection in LangGraph's function could",
@@ -404,24 +521,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqcWT1xHrfFw79S9Oy4jvo4Uw-tcziRPU4yzf1sySQQHWcn2S1Q-ke0f75hujKSNOkS375t93N6FrNzo0JXtXBm4lmsk4DQxVQyb8WVWOrQ2QSVBTMKjOexXV5394bYytXtS6putjNb8A0hqLqu7uvuKhGarI8TmwaxtxJebZJJDu6sEP17k6ic0tPSFiB/s1600/phish.jpg"
-    },
-    {
-      "title": "CISA orders feds to patch actively exploited Ivanti flaw by Sunday",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-gives-feds-3-days-to-patch-ivanti-flaw-exploited-in-attacks/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered government agencies to patch an actively exploited Ivanti Sentry flaw within three days, as mandated by the newly issued Binding Operational Directive (BOD) 26-04. [...]",
-      "pubDate": "2026-06-12T08:26:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA--headpic.jpg"
-    },
-    {
-      "title": "Over 73,000 French govt employees affected in Tchap messenger breach",
-      "link": "https://www.bleepingcomputer.com/news/security/french-govt-says-tchap-breach-affected-over-73-000-accounts/",
-      "description": "The French government revealed that a recent breach of its Tchap encrypted messaging platform affects the accounts of over 73,000 employees in the French public sector. [...]",
-      "pubDate": "2026-06-12T07:09:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/12/Tchap.jpg"
     },
     {
       "title": "Europol Disrupts AudiA6 Crypto Laundering Service Used by Ransomware Gangs",
@@ -449,24 +548,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93b107611e96e744/6a2beaf16b9ea711f9a55d27/zenith-live26-zscaler.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Japanese energy firm loses drive with data of 10.9 million clients",
-      "link": "https://www.bleepingcomputer.com/news/security/japanese-energy-firm-loses-drive-with-data-of-109-million-clients/",
-      "description": "Kyushu Electric Power Co., Inc. has disclosed a physical security incident that affects private data of more than 10 million customers. [...]",
-      "pubDate": "2026-06-11T23:14:16.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/kyushu.jpg"
-    },
-    {
-      "title": "Maine breach portal abused to publish fake data breach disclosures",
-      "link": "https://www.bleepingcomputer.com/news/security/maine-breach-portal-abused-to-publish-fake-data-breach-disclosures/",
-      "description": "In an unusual misinformation campaign, fraudulent data breach disclosures were submitted to Maine's official breach portal and publicly posted before their legitimacy could be verified, prompting companies to deny the claims. [...]",
-      "pubDate": "2026-06-11T22:44:58.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/DataBreach_MaineAG.png"
     },
     {
       "title": "ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities",
@@ -577,24 +658,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_429594706.jpg"
     },
     {
-      "title": "OceanLotus Hits Vietnam Investors With SPECTRALVIPER in FireAnt Attack",
-      "link": "https://thehackernews.com/2026/06/oceanlotus-hits-vietnam-investors-with.html",
-      "description": "The Vietnam-aligned threat actor known as OceanLotus has been attributed to two distinct campaigns that targeted domestic entities and stock investors with a backdoor known as SPECTRALVIPER. The campaigns involve a prolonged cyber espionage operation aimed at a Vietnamese infrastructure and transport construction corporation between mid-2024 and February 2026, as well as a supply chain attack",
-      "pubDate": "2026-06-11T09:45:58.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2WExeCWTOdaaW7iQfV9dxGz0_rzPShImjBUQfoeRsJeTLg09lrGsSEgA2k05q-weIqQaQ_VVP25lTObup7E0xtcnxj3AtK1HHkNIAkI_hykxraL74qXTPwCRlRCdTB3S5QJO-e2j5zPGxgvCBg9SyRFl9QD2gwVtOqgg3eNF7_ZXGI9JgFSE4LGPjwoS3/s1600/cyberattacks.jpg"
-    },
-    {
-      "title": "GitHub to Disable npm Install Scripts by Default to Stop Supply Chain Attacks",
-      "link": "https://thehackernews.com/2026/06/github-to-disable-npm-install-scripts.html",
-      "description": "GitHub has announced what it said are \"breaking changes\" coming to npm version 12, one of which turns off install scripts by default to combat software supply chain threats. The changes aim to combat attack techniques that abuse the \"npm install\" command to trigger the execution of malicious code using npm lifecycle hooks. \"Npm install\" is used to download and install all the necessary",
-      "pubDate": "2026-06-11T06:23:03.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi_yyoUTLr71Ug2Ge0R7qFSnlGjB3TzlrQ-2NDR5jpPSBjivUSxhxRV1eCg5E6Af15RbJLZpqg9Ohp9ZW9YC9D2oc3VcHrNYQetavvvarn-Pn1P4VWnMw2C-hXbFgplFW9O8pe-zSP9ABGkkR-LM8hhu370dXMgeV-TGQT2p9N7hd7Friim3UkdK5FfyHHp/s1600/npm-github.jpg"
-    },
-    {
       "title": "CrowdStrike Named an Innovation and Growth Leader in the 2026 Frost Radar&trade;: Cloud and Application Runtime Security",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-leads-2026-frost-radar-cloud-runtime-security/",
       "description": "",
@@ -658,15 +721,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "China-Linked JDY Botnet Expands to 1,500+ Devices for Cyber Reconnaissance",
-      "link": "https://thehackernews.com/2026/06/china-linked-jdy-botnet-expands-to-1500.html",
-      "description": "Cybersecurity researchers have warned of a \"resurgence and expansion\" of JDY, a covert network associated with China-nexus state-sponsored threat actors. \"The JDY botnet comprises over 1,500 SOHO [small office and home office] and IoT devices and operates as a centrally controlled, high-performance scanner used to discover, fingerprint, and continuously map exposed services at scale,\" Lumen's",
-      "pubDate": "2026-06-10T16:08:42.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQC0_BYMuNpY7re4OHHsytEfC6fW3KsonxN6e2X0Dj03fJoMazI6EZnvPj_hOUZ99yJLq6RrH3ZSCsfDWOB6AgDJVk_1LY5TzgSpP7QFKcI_grjRI7Pm9QGputoI0LM4LH8ZCOAVb_PnzXAs_bMP6n_3u__fPEmxEKVUv5ZZjG5vOJT_fmhvAy551gjCmi/s1600/bot.png"
-    },
-    {
       "title": "Turn specs into evals for any agent with ASSERT",
       "link": "https://commandline.microsoft.com/assert-written-intent-executable-evals/",
       "description": "Adaptive Spec-driven Scoring for Evaluation and Regression Testing (ASSERT) is an open-source framework for converting natural language behavior requirements into executable evaluations of AI models and agents. The post Turn specs into evals for any agent with ASSERT appeared first on Microsoft Security Blog.",
@@ -674,15 +728,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://commandline.microsoft.com/wp-content/uploads/2026/06/UPDATED_ASSERT_Evaluation_Framework.jpg-1024x591.jpeg"
-    },
-    {
-      "title": "Ivanti, Fortinet, and SAP Release Patches for Multiple Critical Vulnerabilities",
-      "link": "https://thehackernews.com/2026/06/ivanti-fortinet-and-sap-release-patches.html",
-      "description": "Fortinet, Ivanti, and SAP have released security updates to address multiple critical security vulnerabilities that could result in arbitrary code execution and information disclosure. The security flaw patched by Fortinet relates to a command injection vulnerability in FortiSandbox, FortiSandbox Cloud, and FortiSandbox PaaS WEB UI. It's tracked as CVE-2026-25089 (CVSS score: 9.1). \"An",
-      "pubDate": "2026-06-10T15:10:59.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs2l0GUUy91D4hHU067eYWpRzvSJGcfOkHce2jcVXZGWI9sld0hgaomhoKTc3dYEXEbz05oZQ5mFzo34eXp-wNJ2j_ofUjXjR7ZR5obszwH7bCRRmah9Q9HY3RSDrwrAf8QD162ca7nvxTRELWzcVW8AbbVMpXJfHXtaYEiSxXAw49VpCG8ep33SbGeLSF/s1600/ivanti.jpg"
     },
     {
       "title": "Why schools remain one of cybercriminals’ favourite targets",
@@ -955,15 +1000,6 @@
       "image": null
     },
     {
-      "title": "Trump AI Order Seeks Voluntary Frontier Model Testing",
-      "link": "https://www.darkreading.com/cybersecurity-operations/trump-ai-order-seeks-voluntary-frontier-model-testing",
-      "description": "The White House's executive order establishes voluntary framework for early government access to frontier models while investing in federal security.",
-      "pubDate": "2026-06-05T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35b8e66ce856430b/6a21d4c69f92ca3dfa08c2dd/RMTrump_Signs_Executive_Order-Kevin_Dietsch-getty-2279671771.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "3 Principles to Safely Scale Agentic AI",
       "link": "https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/",
       "description": "",
@@ -971,24 +1007,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Rust-Written IronWorm Hits NPM Supply Chain",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/rust-written-ironworm-npm-supply-chain",
-      "description": "Like Shai-Hulud, the campaign targets developers to steal credentials and reuses them to propagate across the software supply channel.",
-      "pubDate": "2026-06-04T21:47:06.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt705e8d4cc3766735/6a21e18d9f92ca732208c2ed/supplychain_Efkaysim_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "China's TA4922 Expands Cybercrime Attacks Globally",
-      "link": "https://www.darkreading.com/threat-intelligence/china-ta4922-cybercrime-attacks-globally",
-      "description": "One of the world's most diverse, least-focused cybercrime groups is enlarging its footprint beyond East Asia.",
-      "pubDate": "2026-06-04T21:23:59.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7a874a07e705cab8/6a21d83653660505464e0115/China-filo-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Meta’s own AI chatbot to blame for Instagram accounts being stolen in seconds",
@@ -1133,15 +1151,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/ajax.jpeg"
-    },
-    {
-      "title": "Typosquatted npm packages used to steal cloud and CI/CD secrets",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/28/typosquatted-npm-packages-used-steal-cloud-ci-cd-secrets/",
-      "description": "The Mini Shai-Hulud campaign used malicious npm packages to target cloud and CI/CD credentials across developer environments. This report details the attack chain, detection opportunities, and mitigation guidance to help organizations identify and disrupt related activity. The post Typosquatted npm packages used to steal cloud and CI/CD secrets appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-29T03:04:52.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-171.webp"
     },
     {
       "title": "MyPillow listed on ransomware gang’s leak site, but denies it has been breached",
@@ -1367,15 +1376,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/department-4.jpeg"
-    },
-    {
-      "title": "Sri Lanka makes 37 arrests as it raids another scam centre",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/sri-lanka-37-arrests-scam-centre",
-      "description": "You don't need to live near a scam compound for it to wreck your life. Americans lost $5.8 billion to crypto investment scams last year alone - and a raid in Sri Lanka this month shows exactly how the operations behind them keep finding new places to hide. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-05-08T09:30:20.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/sri-lanka-scam.jpeg"
     },
     {
       "title": "Threat Brief: Exploitation of PAN-OS Captive Portal Zero-Day for Unauthenticated Remote Code Execution",
