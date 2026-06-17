@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T18:42:31.251Z",
+  "generatedAt": "2026-06-17T22:59:45.311Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Google to use UK and EU user IP addresses for ad personalization",
+      "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
+      "description": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
+      "pubDate": "2026-06-17T21:02:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/04/Google-headpic.jpg"
+    },
+    {
+      "title": "INC Ransomware Thrives by Mastering the Basics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/inc-ransomware-thrives-by-mastering-the-basics",
+      "description": "And one of those basics is focusing on sectors where a ransomware disruption creates immediate pressure to pay up, like with healthcare.",
+      "pubDate": "2026-06-17T19:46:25.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": null
+    },
+    {
+      "title": "Beyond the benchmark: Advancing security at AI speed",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
+      "description": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems. The post Beyond the benchmark: Advancing security at AI speed appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-17T19:30:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/MDASH-diagram-1.webp"
+    },
+    {
+      "title": "​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/forrester-names-microsoft-a-leader-in-the-2026-extended-detection-and-response-platforms-wave-report/",
+      "description": "Microsoft has been named a Leader in The Forrester Wave™: Extended Detection and Response Platforms, Q2 2026. The post ​​Forrester names Microsoft a Leader in the 2026 Extended Detection and Response Platforms Wave™ report appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-17T18:30:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Picture1-2.webp"
+    },
     {
       "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
       "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
@@ -440,15 +476,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisozpc0YfCvHjGAyEZf7c1G10iEOgszA-mkIIrhG3A4VYcq8_Hih8U0hO66iBoDPPJZhfq7Dc3fGTsMLDiFiGSk6-xS7ltGORLe0_sC8VyhZHlfIkeGpOkMTcbQ0R7BeDtDmZFb-VB_GF3le8p0mx2ZMD-CLZb5eWlMJPiBhdu9ljzlh_E01hIon9dA-Y3/s1600/Fortinet.png"
-    },
-    {
-      "title": "Ransomware gang abuses Microsoft Teams relays to hide malicious traffic",
-      "link": "https://www.bleepingcomputer.com/news/security/ransomware-gang-abuses-microsoft-teams-relays-to-hide-malicious-traffic/",
-      "description": "DragonForce ransomware used a custom malware named 'Backdoor.Turn' to hide command-and-control traffic inside Microsoft Teams relay infrastructure. [...]",
-      "pubDate": "2026-06-16T10:18:48.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft-Teams.jpg"
     },
     {
       "title": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
@@ -937,15 +964,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltad4e69f41e4f26c2/6a295351effe64868b4092ca/cyberwar-Pablo_Lagarto-RW91RR-Alamy-CP.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
-      "description": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
-      "pubDate": "2026-06-09T21:42:57.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeb60ddfa47148e7/6a28821ad6dfcc1cd1233fa8/bugs_Andrii_Yalanskyi_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Reconstructing AI activity in investigations",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
       "description": "Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster. The post Reconstructing AI activity in investigations appeared first on Microsoft Security Blog.",
@@ -1087,7 +1105,7 @@
       "pubDate": "2026-06-03T23:15:58.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-470.webp"
+      "image": null
     },
     {
       "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
@@ -1117,15 +1135,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg"
     },
     {
-      "title": "Microsoft Build 2026: Securing code, agents, and models across the development lifecycle",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/microsoft-build-2026-securing-code-agents-and-models-across-the-development-lifecycle/",
-      "description": "Discover how Microsoft enables fast, secure AI development with MDASH and new security capabilities. The post Microsoft Build 2026: Securing code, agents, and models across the development lifecycle appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-02T17:15:18.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Security-2.jpg"
-    },
-    {
       "title": "Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor",
       "link": "https://unit42.paloaltonetworks.com/flutterbridge-new-fluttershell-backdoor/",
       "description": "Operation FlutterBridge is a malvertising campaign targeting macOS users. It distributed the new backdoor FlutterShell, built using the Flutter framework. The post Operation FlutterBridge: macOS Malvertising Campaign Spreads New FlutterShell Backdoor appeared first on Unit 42.",
@@ -1151,15 +1160,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template.jpg"
-    },
-    {
-      "title": "Malicious npm packages abuse dependency confusion to profile developer environments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/05/29/33-malicious-npm-packages-abuse-dependency-confusion-profile-developer-environments/",
-      "description": "A dependency confusion campaign leveraged 33 malicious npm packages to collect reconnaissance data from developer and build environments. This report details the attack chain, observed tradecraft, and detection opportunities to help organizations identify and disrupt related activity. The post Malicious npm packages abuse dependency confusion to profile developer environments appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-05-30T00:06:20.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/image-180.webp"
     },
     {
       "title": "Police arrest man following hack of Ajax football club",
@@ -1195,7 +1195,7 @@
       "pubDate": "2026-05-27T23:05:09.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-469.webp"
+      "image": null
     },
     {
       "title": "Out of the Crypt: The Evolving Cyber Extortion Economy",
@@ -1267,7 +1267,7 @@
       "pubDate": "2026-05-20T23:04:42.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-468.webp"
+      "image": null
     },
     {
       "title": "Tracking TamperedChef Clusters via Certificate and Code Reuse",
@@ -1339,7 +1339,7 @@
       "pubDate": "2026-05-13T23:05:09.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-467.webp"
+      "image": null
     },
     {
       "title": "Welcoming the Bangladesh Government to Have I Been Pwned",
