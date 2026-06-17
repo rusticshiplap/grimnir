@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T02:02:17.613Z",
+  "generatedAt": "2026-06-17T10:21:55.392Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,114 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
+      "pubDate": "2026-06-17T10:09:24.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Joomla.jpg"
+    },
+    {
+      "title": "Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day",
+      "link": "https://www.securityweek.com/microsoft-working-on-patch-for-rogueplanet-zero-day/",
+      "description": "The public PoC code exploits a race condition in Microsoft Defender to spawn a command prompt with System privileges. The post Microsoft Working on Patch for ‘RoguePlanet’ Zero-Day appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T09:41:07.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg"
+    },
+    {
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "description": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
+      "pubDate": "2026-06-17T09:38:46.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
+    },
+    {
+      "title": "Oracle’s Second Monthly Security Updates Deliver 245 Patches",
+      "link": "https://www.securityweek.com/oracles-second-monthly-security-updates-deliver-245-patches/",
+      "description": "Oracle has released its June 2026 Critical Security Patch Update to fix vulnerabilities in Communications, EBS, Enterprise Manager and other products. The post Oracle’s Second Monthly Security Updates Deliver 245 Patches appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T09:04:43.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle.jpeg"
+    },
+    {
+      "title": "Microsoft working on Defender patch for RoguePlanet zero-day",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-on-defender-patch-for-rogueplanet-zero-day/",
+      "description": "Microsoft confirmed that it's working on a security patch for a Defender zero-day vulnerability named \"RoguePlanet,\" disclosed one week ago. [...]",
+      "pubDate": "2026-06-17T08:32:29.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft-Defender.jpg"
+    },
+    {
+      "title": "Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-and-firefox-updated-to-patch-critical-high-severity-vulnerabilities/",
+      "description": "The browser updates address multiple memory safety bugs that could potentially lead to remote code execution. The post Chrome and Firefox Updated to Patch Critical, High-Severity Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T08:21:05.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg"
+    },
+    {
+      "title": "UK Social Media Ban for Minors Has Privacy Experts Worried",
+      "link": "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried",
+      "description": "The UK will ban adolescents under 16 years old from user-to-user social-media platforms, despite age-verification issues and privacy concerns.",
+      "pubDate": "2026-06-17T08:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
+      "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
+      "description": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero) mass-published more",
+      "pubDate": "2026-06-17T07:38:24.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKLWn0zHFuJ8rkb2bqILIyAGxt_-VJ13Ytmv1TRWtGJkI6Rva5Oag5LdLasE2rmenokuRvoEI2wH0Ayfe_P4_5q1Qc5FQ2MrQgUHrgD9wY6DTlYugAtj8CP7Fh0OPjKkU5LbeRKWvPEh0Ol0CmLTe4QVayeZiNlVFvU7MO5tWl-b8Lbn80hKd45q9Z1yOd/s1600/npms.jpg"
+    },
+    {
+      "title": "Joomla, LiteSpeed Vulnerabilities Exploited in Attacks",
+      "link": "https://www.securityweek.com/joomla-litespeed-vulnerabilities-exploited-in-attacks/",
+      "description": "The flaws allow attackers to execute arbitrary PHP code and gain root privileges on shared hosting servers. The post Joomla, LiteSpeed Vulnerabilities Exploited in Attacks appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T07:28:20.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/04/Vulnerability-Databases.jpg"
+    },
+    {
+      "title": "Kodak confirms data breach claimed by ShinyHunters extortion gang",
+      "link": "https://www.bleepingcomputer.com/news/security/kodak-confirms-data-breach-claimed-by-shinyhunters-extortion-gang/",
+      "description": "Kodak has confirmed that it's working with external cybersecurity experts to investigate a security breach after hackers gained access to some of the company's data. [...]",
+      "pubDate": "2026-06-17T07:07:56.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Kodak_headpic.jpg"
+    },
+    {
+      "title": "3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs",
+      "link": "https://www.securityweek.com/3-recently-patched-fortinet-fortisandbox-vulnerabilities-in-hacker-crosshairs/",
+      "description": "SOCRadar has detected 30,000 compromised Fortinet firewalls that expose networks to hacking. The post 3 Recently Patched Fortinet FortiSandbox Vulnerabilities in Hacker Crosshairs appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T06:53:58.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/fortinet.jpg"
+    },
+    {
+      "title": "CISA Warns of Actively Exploited Joomla JCE Flaw Allowing PHP Code Execution",
+      "link": "https://thehackernews.com/2026/06/cisa-warns-of-actively-exploited-joomla.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added a maximum-severity security flaw impacting Widget Factory Joomla Content Editor (JCE) to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-48907 (CVSS score: 10.0), is a case of improper access control that could facilitate arbitrary",
+      "pubDate": "2026-06-17T05:50:46.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg"
+    },
     {
       "title": "Fileless Phantom Stealer Targets Browser Credentials",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
@@ -190,42 +298,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-4.jpeg"
     },
     {
-      "title": "Cybercrime Group Claims Novo Nordisk Hack",
-      "link": "https://www.securityweek.com/cybercrime-group-claims-novo-nordisk-hack/",
-      "description": "The hack-and-leak group FulcrumSec claims to have stolen 1.3TB of data from the pharmaceutical giant. The post Cybercrime Group Claims Novo Nordisk Hack appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T12:32:27.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Novo-Nordisk.jpeg"
-    },
-    {
-      "title": "Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire",
-      "link": "https://www.securityweek.com/can-cisos-trust-their-applications-trustcloud-wants-to-replace-the-questionnaire/",
-      "description": "By continuously analyzing security, infrastructure, and governance data, TrustCloud aims to give CISOs a real-time view of application risk and board-ready assurance. The post Can CISOs Trust Their Applications? TrustCloud Wants to Replace the Questionnaire appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T12:15:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/TrustCloud-Application-Assurance.webp"
-    },
-    {
-      "title": "Cal Water Investigating Iranian Hackers’ Claims",
-      "link": "https://www.securityweek.com/cal-water-investigating-iranian-hackers-claims/",
-      "description": "California Water Service says there is no indication of operational disruptions to its water and wastewater systems. The post Cal Water Investigating Iranian Hackers’ Claims appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T11:53:11.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/water-treatment-utility.jpeg"
-    },
-    {
-      "title": "White House Issues Memo to Bolster NSS Cybersecurity",
-      "link": "https://www.securityweek.com/white-house-issues-memo-to-bolster-nss-cybersecurity/",
-      "description": "NSPM-12 establishes a clear structure for NSS cybersecurity governance and accountability and reestablishes CNSS. The post White House Issues Memo to Bolster NSS Cybersecurity appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T11:41:46.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Whitehouse-Cybersecurity.jpg"
-    },
-    {
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
       "link": "https://thehackernews.com/2026/06/survey-94-of-incidents-involve.html",
       "description": "Security teams have never had more IP data at their disposal. Every day, analysts ingest enrichment feeds, geolocation data, reputation scores, telemetry, and threat intelligence from a growing ecosystem of vendors and platforms. Yet despite this abundance of information, many organizations continue to face a fundamental challenge: sifting through the noise to understand who is behind an IP and",
@@ -242,15 +314,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages",
-      "link": "https://www.securityweek.com/atomic-arch-supply-chain-attack-hits-1500-aur-packages/",
-      "description": "Arch Linux suspended account registrations in response to the wave of malicious packages being uploaded to AUR. The post Atomic Arch Supply Chain Attack Hits 1,500 AUR Packages appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T10:51:49.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
     },
     {
       "title": "CISA warns of another cPanel plugin flaw exploited in attacks",
@@ -379,15 +442,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/03/18/AI_Artificial_Intelligence.jpg"
     },
     {
-      "title": "SimpleHelp bug lets hackers create rogue remote support accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/simplehelp-bug-lets-hackers-create-rogue-remote-support-accounts/",
-      "description": "A vulnerability in the SimpleHelp remote management software allows unauthenticated attackers to create privileged technician accounts on servers using the OpenID Connect (OIDC) authentication protocol. [...]",
-      "pubDate": "2026-06-15T20:06:52.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/simplehelp.jpg"
-    },
-    {
       "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
       "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
       "description": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
@@ -422,24 +476,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd943e9204f974e51/6a3053a98a78d25c2f29ab90/leaking_faucet-igorwheeler-Getty-511928310.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OptinMonster WordPress plugin hacked in CDN supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/optinmonster-wordpress-plugin-hacked-in-cdn-supply-chain-attack/",
-      "description": "WordPress plugins OptinMonster, TrustPulse, and PushEngage have been compromised in a supply-chain attack impacting Awesome Motive-s content distribution network (CDN). [...]",
-      "pubDate": "2026-06-15T17:37:07.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/15/OptinMonster.jpg"
-    },
-    {
-      "title": "Cisco fixes SD-WAN vManage flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-fixes-sd-wan-vmanage-flaw-exploited-in-zero-day-attacks/",
-      "description": "Cisco has released security updates to address a vulnerability in the Catalyst SD-WAN Manager, tracked as CVE-2026-20262, that was exploited in attacks to escalate to root privileges. [...]",
-      "pubDate": "2026-06-15T17:12:42.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/18/Cisco.jpg"
     },
     {
       "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
@@ -658,15 +694,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
     },
     {
-      "title": "Google Sues Chinese Smishing Network Accused of Using Gemini AI in Phishing",
-      "link": "https://thehackernews.com/2026/06/google-sues-chinese-smishing-network.html",
-      "description": "Google on Friday said it's pursuing legal action against a Chinese cybercrime network, accusing it of using its Gemini artificial intelligence (AI) agent to send phishing text messages targeting Americans. The network is said to be behind the development and management of a phishing-as-a-service (PhaaS) software kit called Outsider, per the tech giant. \"The operation weaponized Gemini to help",
-      "pubDate": "2026-06-12T18:59:32.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2VG_lHXgOeahfKoUs6hQ7fOmh-dK1ZGloqzAWilTU73LKJF5mBDqw4OSpU8ViE0NEI1iW4cNS5vyz4TpqoJ_aGjHYt4-qJXfmZP2a3mi8GILe4OeP7qSFKeqDWrbHyoMmf49EtaDTylhnpLvem5LCwqX2e8MRSR5rQC5cNv9qH-H_ySeUT5uYHWRLGa5P/s1600/gemini-phishing.jpg"
-    },
-    {
       "title": "Privacy own-goal: World Cup blunder leaks Lionel Messi’s passport details",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details",
       "description": "Argentina's World Cup squad had their passport numbers leaked before a ball was kicked - not by hackers, but by someone who failed to redact a document properly. document. It's a mistake that has been made many times in the past... Read more in my article on the Hot for Security blog.",
@@ -676,15 +703,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/messi-passport.jpeg"
     },
     {
-      "title": "China-Linked Hackers Backdoored Linux Login Software to Hide for Nearly a Decade",
-      "link": "https://thehackernews.com/2026/06/china-linked-hackers-backdoored-linux.html",
-      "description": "Instead of hiding on the laptops and servers defenders watch most closely, a China-nexus group spent close to a decade hidden inside the Linux login system itself. Sygnia, which tracks the group as Velvet Ant, says it backdoored the PAM and OpenSSH components that decide who is allowed to sign in, planting its access where ordinary cleanup could not reach it. The network it targeted had no",
-      "pubDate": "2026-06-12T18:17:55.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhxJqmKAQv_I_7JkmQwoIVSx2BkRPUEb9TTNOd2RkNqTg3tcLyZszN8KiXfUUeIBSPSoxjzMAn2inE6TL791l5B_CbQaHqG708c2tgN-kSUmz_fTuewdcrWHS8u-xdWKIr6fEhx2W7_JDszsJ1oXO9v47JxU81490QKz0ZRL2OOFoljevoD8f6OMozfMZU/s1600/linux-backdoor.jpg"
-    },
-    {
       "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
       "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
       "description": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
@@ -692,15 +710,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte968bc333f7d9aab/6a2b0449b2248a454686bdf2/Tortoise_and_Hare-Walter_B._McKenzie-Getty-200291947-001.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Agentjacking Attack Tricks AI Coding Agents Into Running Malicious Code",
-      "link": "https://thehackernews.com/2026/06/agentjacking-attack-tricks-ai-coding.html",
-      "description": "Cybersecurity researchers have described what they say is a new class of attack that can trick artificial intelligence (AI) coding agents into running arbitrary code on developer machines. Called Agentjacking by Tenet Security, the attack can be triggered by means of a fake error report crafted using Sentry, an open-source error-tracking and performance-monitoring platform. \"The attack",
-      "pubDate": "2026-06-12T12:04:33.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhs-B-d2AZdbTGExalcZiBwa9fNa999-EQ1GrAeytHP6tpnC3WmKL4IcKV5voUs-MRq5WGVwwf2NFPyJxdJUPlgzBL8huaGFqRbXgR_qPOSh-5Ef2oZz8E2H38ZMjVipV7XyXpefY2PgDlWomgJ4RW6YJ4Z3tYMGRQh2z8xwpvOa9_LQWHT706ZCvKpaBxP/s1600/Agentjacking.jpg"
     },
     {
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
@@ -917,15 +926,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4ca3dbbeb264ba/6a286a746ec9d64778379e83/ghost-HadelProductions-getty-965743624.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Miasma Supply Chain Worm Burrows Into 73 Microsoft Repositories",
-      "link": "https://www.darkreading.com/application-security/miasma-supply-chain-worm-73-microsoft-repositories",
-      "description": "The attacks stemmed from a GitHub account that was also compromised in a previous Miasma attack on Microsoft last month.",
-      "pubDate": "2026-06-09T19:33:45.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9546d1e599a35cc3/6a285616b7d91f888c29b825/RMmicrosoft-DrewAngerer-Getty-967210856.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Reconstructing AI activity in investigations",
