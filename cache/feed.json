@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-06-17T10:21:55.392Z",
-  "count": 205,
+  "generatedAt": "2026-06-17T16:13:08.970Z",
+  "count": 180,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -19,6 +19,123 @@
   ],
   "items": [
     {
+      "title": "FortiBleed leak exposes Fortinet VPN credentials for 73,000 devices.",
+      "link": "https://www.bleepingcomputer.com/news/security/fortibleed-leak-exposes-fortinet-vpn-credentials-for-73-000-devices/",
+      "description": "A newly discovered data leak dubbed \"FortiBleed\" has exposed what appears to be a collection of Fortinet and FortiGate VPN credentials for 73,932 firewall URLs at organizations worldwide. [...]",
+      "pubDate": "2026-06-17T15:12:57.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/13/Fortinet.jpg"
+    },
+    {
+      "title": "Webinar Today: How Modern Breaches Bypass MFA and Evade Detection",
+      "link": "https://www.securityweek.com/webinar-today-how-modern-breaches-bypass-mfa-and-evade-detection/",
+      "description": "Attendees will learn how attackers evade conventional detection methods, why legacy MFA alone is no longer sufficient, and how organizations can strengthen their defenses. The post Webinar Today: How Modern Breaches Bypass MFA and Evade Detection appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T14:07:16.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/ID-Attack-Chain-Webinar-scaled.jpg"
+    },
+    {
+      "title": "Why Account Takeovers Are Rising and How to Stop Them",
+      "link": "https://www.bleepingcomputer.com/news/security/why-account-takeovers-are-rising-and-how-to-stop-them/",
+      "description": "Account takeovers are rising as attackers bypass traditional defenses through phishing, session hijacking, and MFA fatigue. Specops Software explores how device trust and continuous verification help reduce account takeover risk. [...]",
+      "pubDate": "2026-06-17T14:00:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/06/11/cyber-laptop.jpg"
+    },
+    {
+      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
+      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
+      "description": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
+      "pubDate": "2026-06-17T13:51:58.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
+    },
+    {
+      "title": "India's Telegram ban hit the UAE too. Here's how to get around it",
+      "link": "https://www.bleepingcomputer.com/news/security/indias-telegram-ban-hit-the-uae-too-heres-how-to-get-around-it/",
+      "description": "India has banned Telegram until June 22 after the app was used to circulate leaked exam papers. CEO Pavel Durov accuses telecom Reliance of BGP hijacking that disrupted the app as far away as the UAE. Here's what happened, and how to get around the block with an MTProto proxy. [...]",
+      "pubDate": "2026-06-17T13:12:45.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2021/12/08/Telegram_headpic.jpg"
+    },
+    {
+      "title": "1Password Acquires Apono in Reported $250M-$300M Deal",
+      "link": "https://www.securityweek.com/1password-acquires-apono-in-reported-250m-300m-deal/",
+      "description": "Apono specializes in just-in-time access governance technology for humans, machines, and AI agents. The post 1Password Acquires Apono in Reported $250M-$300M Deal appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T12:36:46.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-mergers-and-acquisitions.jpeg"
+    },
+    {
+      "title": "Tenet Security Emerges From Stealth With $6 Million Seed Funding",
+      "link": "https://www.securityweek.com/tenet-security-emerges-from-stealth-with-6-million-seed-funding/",
+      "description": "Tenet aims to detect and stop dangerous AI agentic behavior in real time. The post Tenet Security Emerges From Stealth With $6 Million Seed Funding appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T12:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Tenet-Security-logo.png"
+    },
+    {
+      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
+      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
+      "description": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks",
+      "pubDate": "2026-06-17T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg"
+    },
+    {
+      "title": "Microsoft confirms Office apps launch issues after June updates",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-confirms-office-apps-launch-issues-after-june-updates/",
+      "description": "Microsoft is investigating a new issue preventing third-party applications from launching Microsoft Office applications or opening documents on up-to-date Windows systems. [...]",
+      "pubDate": "2026-06-17T11:54:21.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft--Office.jpg"
+    },
+    {
+      "title": "Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software",
+      "link": "https://www.securityweek.com/rockwell-automation-patches-vulnerabilities-in-ics-controllers-and-software/",
+      "description": "The industrial automation giant has fixed security holes in Logix, CompactLogix, Flex, RSLinx, and FactoryTalk products. The post Rockwell Automation Patches Vulnerabilities in ICS Controllers and Software appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T11:32:44.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/05/Rockwell-Automation-e1738149646812.jpg"
+    },
+    {
+      "title": "AI Use by the US Government",
+      "link": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
+      "description": "On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden administration, and includes many disturbing-seeming plans to hand over sensitive governmental functions to AI. Scanning this list, many readers may find many causes for alarm. It represents a transfer of decision processes from human to machine on a massive sc",
+      "pubDate": "2026-06-17T11:04:04.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack",
+      "link": "https://www.securityweek.com/microsoft-teams-relay-servers-abused-in-dragonforce-ransomware-attack/",
+      "description": "The attackers deployed a new Go-based backdoor that uses Microsoft Teams servers for command-and-control. The post Microsoft Teams Relay Servers Abused in DragonForce Ransomware Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-06-17T10:38:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/05/Ransomware-Alert-threat.jpg"
+    },
+    {
+      "title": "The Top 10 Attack Surface Exposures in 2026",
+      "link": "https://thehackernews.com/2026/06/the-top-10-attack-surface-exposures-in.html",
+      "description": "Breaches don't always start with a zero-day. An exposed admin panel can get brute-forced, or credentials reused from a previous attack. But when a vulnerability does drop — like MongoBleed earlier this year, which let attackers pull credentials and session tokens from server memory without authentication — anything internet-facing is immediately at risk. With time-to-exploit now down to a",
+      "pubDate": "2026-06-17T10:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiM2DfFAWIuQ6v6hyh32CXcT_wKU72aTUxixyWIcnjW04ydv40r8RtVXjDrxKJzksW6zzqYciPMxgYAwcDGRz8kahhZVZXoi0FySWg5o8LpWo_KkHdX4wRX4Qgk6ONxHqyb7_cF5TN5qQp-9B4hOQpB3WljI8sDbHMlOh6n2jyTjV30kxC-ccJVJHu4bTs/s1600/INTRUDER.jpg"
+    },
+    {
       "title": "CISA orders feds to patch max severity Joomla plugin flaw by Friday",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-max-severity-joomla-plugin-flaw-by-friday/",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has ordered federal agencies to patch a maximum-severity flaw in the Widget Factory Joomla Content Editor (JCE) plugin that is being actively exploited in the wild. [...]",
@@ -35,15 +152,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Windows-10.jpeg"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "description": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
-      "pubDate": "2026-06-17T09:38:46.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
     },
     {
       "title": "Oracle’s Second Monthly Security Updates Deliver 245 Patches",
@@ -73,18 +181,9 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg"
     },
     {
-      "title": "UK Social Media Ban for Minors Has Privacy Experts Worried",
-      "link": "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried",
-      "description": "The UK will ban adolescents under 16 years old from user-to-user social-media platforms, despite age-verification issues and privacy concerns.",
-      "pubDate": "2026-06-17T08:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "144 Mastra npm Packages Compromised via Hijacked Contributor Account",
       "link": "https://thehackernews.com/2026/06/144-mastra-npm-packages-compromised-via.html",
-      "description": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero) mass-published more",
+      "description": "As many as 144 npm packages associated with the Mastra namespace (\"@mastra/*\"), a popular open-source JavaScript and TypeScript framework for building artificial intelligence (AI) applications, have been compromised as part of a software supply chain attack codenamed easy-day-js, per findings from Endor Labs, JFrog, SafeDep, Socket, and StepSecurity. \"A single npm account (ehindero)",
       "pubDate": "2026-06-17T07:38:24.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -127,24 +226,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisS71RYEu_1Sts3eqAt878RoohdLgeUzyTbRQgFqUYQcwBxzKB1ug6AvOBRXqZvWcChuLVj6KFbIt7nO9RX66ZJZyMEIADvIXe-fdNDrQIYXGtcMt3StDzbK4lF9ZLpF9pqCR1cGEa4lLkFFRVqIyD5w0JqwhVgr-C9ga7pZ6IQWpFmbsojcsGePBnzsGW/s1600/joomla.jpg"
     },
     {
-      "title": "Fileless Phantom Stealer Targets Browser Credentials",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
-      "description": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to frustrate detection.",
-      "pubDate": "2026-06-16T22:26:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltadd77c0d4b04586d/6a31b475a17ff4000802a374/browser_Wirestock_Creators_shutterstpck.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
-      "description": "An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
-      "pubDate": "2026-06-16T22:00:06.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9052366ce100fbde/6a319e7db95bcb00087d45a5/containers_and_fence-takenobu-getty-503860814.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Malicious JetBrains Marketplace plugins steal AI API keys from developers",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-jetbrains-marketplace-plugins-steal-ai-api-keys-from-developers/",
       "description": "At least 15 malicious plugins found on the JetBrains Marketplace were designed to steal AI API keys from developers. [...]",
@@ -152,15 +233,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/06/11/JetBrains.jpg"
-    },
-    {
-      "title": "SprySOCKS Windows Variant Abuses Kernel Drivers to Evade Detection",
-      "link": "https://www.darkreading.com/threat-intelligence/sprysocks-windows-variant-kernel-drivers",
-      "description": "FishMonger, a China-nexus threat group, has deployed an undocumented version of the Linux backdoor against government targets in Honduras, Taiwan, Thailand, and Pakistan.",
-      "pubDate": "2026-06-16T20:11:48.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe5e902d31634190/6a317c8da9a64d0008e8660f/backdoor-BeeBright-Getty-823310866.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "New Rokarolla Android malware targets 217 banking, crypto apps",
@@ -199,33 +271,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEilHq1gG2gCazQF6_B9H-W3ck6nmgu3L4IPuzaMg9RMEAbpHyVqfYmFOquQ9_ldT1kG2r1kYUqt-WlpWWvD3DA4vNH6S-lv6fbsDbSCkB55NP3TtRJA4l5lLCMzosdM1OJiDOatfx4zG284ftwuE9ahYlGfcIpnAy1PkVSfWloFY0zD9Cbh3CkHhNQHgqwF/s1600/clickfix-attacks.jpg"
     },
     {
-      "title": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence",
-      "link": "https://www.darkreading.com/endpoint-security/rokarolla-android-trojan",
-      "description": "The emerging malware, spread via fake TikTok and Chrome downloads, demonstrates an evolution by combining banking fraud with extensive device surveillance and remote control.",
-      "pubDate": "2026-06-16T17:32:32.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte944aecde0e52350/6a31316af04b690008856967/androidmalware_rafapress_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Lorem Ipsum' Malware Pivots to ClickFix Delivery",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/lorem-ipsum-malware-clickfix-delivery",
-      "description": "New analysis shows the campaign, which uses compromised WordPress sites, may be linked to the ransomware and data extortion group Vice Society.",
-      "pubDate": "2026-06-16T15:10:48.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe24b349ccd004b9/6a30716a4159275a05cb9773/loremipsum_M_rehan330_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "iRhythm Confirms Data Stolen in Hack",
-      "link": "https://www.securityweek.com/irhythm-confirms-data-stolen-in-hack/",
-      "description": "The digital health company said it learned of the breach on June 8 and the attackers demanded a ransom. The post iRhythm Confirms Data Stolen in Hack appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T15:06:24.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/iRhythm.jpeg"
-    },
-    {
       "title": "UK to require ID or face scan before you can make social media accounts",
       "link": "https://www.bleepingcomputer.com/news/security/uk-to-require-id-or-face-scan-before-you-can-make-social-media-accounts/",
       "description": "Opening a new social media account in the UK will soon mean proving you're over 16 with an ID upload or a facial age scan, under a government ban on under-16s taking effect in spring 2027. Security experts warn the age checks are easy to circumvent and create new data-breach risks. [...]",
@@ -233,15 +278,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/16/uk-age-checks-for-social-media.jpg"
-    },
-    {
-      "title": "Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker",
-      "link": "https://www.securityweek.com/hacker-conversations-isira-adithya-the-evolution-of-an-ethical-hacker/",
-      "description": "From building LED bulbs to graduating college and buying a house with money earned from bug bounties. The post Hacker Conversations: Isira Adithya, the Evolution of an Ethical Hacker appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T14:27:45.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Hacker-Conversations-Isira-Adithya.jpeg"
     },
     {
       "title": "GhostTree Attack Abused Recursive Windows Junctions to Hide Malware",
@@ -262,24 +298,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/16/scammer-impersonator.jpg"
     },
     {
-      "title": "Magnitude Emerges From Stealth Mode With $10 Million in Funding",
-      "link": "https://www.securityweek.com/magnitude-emerges-from-stealth-mode-with-10-million-in-funding/",
-      "description": "The company is enhancing third-party risk management (TPRM) through autonomous AI agents. The post Magnitude Emerges From Stealth Mode With $10 Million in Funding appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T13:34:57.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg"
-    },
-    {
-      "title": "AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask",
-      "link": "https://www.securityweek.com/ai-and-cybersecurity-everything-you-wanted-to-know-but-were-afraid-to-ask/",
-      "description": "From defending networks to enabling attacks, artificial intelligence is changing every aspect of cybersecurity. Here's what dozens of experts say security leaders need to understand now. The post AI and Cybersecurity – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T13:15:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/AI_GenAI-Apps.jpg"
-    },
-    {
       "title": "New Rokarolla Android Malware Steals PINs, SMS Codes, and Crypto Wallet Funds",
       "link": "https://thehackernews.com/2026/06/new-rokarolla-android-malware-steals.html",
       "description": "Security researchers at Zimperium's zLabs have documented a new Android banking trojan, Rokarolla, that targets 217 banking and cryptocurrency apps and packs 137 remote commands. Together, they give an operator near-total control of an infected phone: it lifts lock-screen PINs, reads and sends SMS, rewrites the clipboard to redirect crypto payments, and switches off Google Play",
@@ -287,15 +305,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjF_U2JZgjmQGUfV3q90DEMUgqHK2kqloGQR5lBYn_8UUC2DUIFpJPpCnETlOUh1IldJXcWdr9YZ5hA3yUtZETvviRousyQt7En5mNSjwoJiD_gJ9_kjS7L8ujw_y6CN3NeygZWa-sXCEG1zo5PBmuB5CkSP-EYxBWsUEtUq4iYJ3AYXHVM_TscyngMwPU/s1600/android-banking-trojan.jpg"
-    },
-    {
-      "title": "Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round",
-      "link": "https://www.securityweek.com/endpoint-security-startup-ent-emerges-from-stealth-with-100-million-seed-round/",
-      "description": "Ent has developed an intent-aware platform designed to interpret user and agent behavior before risky actions are carried out. The post Endpoint Security Startup Ent Emerges From Stealth With $100 Million Seed Round appeared first on SecurityWeek.",
-      "pubDate": "2026-06-16T12:53:19.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-4.jpeg"
     },
     {
       "title": "Survey: 94% of Incidents Involve Anonymized Infrastructure. Teams Are Still Reactive",
@@ -361,24 +370,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjxym2hiE83TbiNOrIeH3s4QCF0wQ_BYcSYPKlC3m9LGSuJnH7UNicbkgIk4kQTbpPiLRul9dSxQ180XW656_9NPtlqWoTGivTamDVl24ZfUQFPgUleakZq6aZI5kZqszNz3GpVyJQnPiXis_kjlMqAxKBxGKZsDdAvb-rX20fxszdd0pCKRO9GqK3CSu-p/s1600/chinese-proxy.png"
     },
     {
-      "title": "Critical Fortinet FortiSandbox flaws now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-fortinet-fortisandbox-flaws-now-exploited-in-attacks/",
-      "description": "Attackers are now exploiting several critical vulnerabilities in Fortinet's FortiSandbox cyber threat detection platform, according to threat intelligence company Defused. [...]",
-      "pubDate": "2026-06-16T09:19:51.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/12/29/Fortinet.jpg"
-    },
-    {
-      "title": "Windows version of SprySOCKS Linux malware used to attack govt orgs",
-      "link": "https://www.bleepingcomputer.com/news/security/windows-version-of-sprysocks-linux-malware-used-to-attack-govt-orgs/",
-      "description": "Windows variants for the SprySOCKS Linux malware have been used in attacks targeting government organizations in at least four countries. [...]",
-      "pubDate": "2026-06-16T09:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/01/06/china.jpg"
-    },
-    {
       "title": "Fake Microsoft Alerts Used to Deploy North Korean NarwhalRAT Malware",
       "link": "https://thehackernews.com/2026/06/fake-microsoft-alerts-used-to-deploy.html",
       "description": "The North Korean state-sponsored hacking group known as ScarCruft (aka APT37) has been observed using spear-phishing messages impersonating Microsoft Account security notifications to deliver malware called NarwhalRAT. \"The attack email contained a message impersonating an MS account security alert,\" the Genians Security Center (GSC) said. \"It was designed to create concern over possible",
@@ -386,15 +377,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3Lf-lxaztGp4Ov5_hu7TmA6AEoqhh2oBADVLVEbA1HTzmsAyX9ePZtZvvBlBzNym1RiifCmOnb-pf604J7plqPdarQxnW-m6Ds0Wi-kT1Ytqm1KlGsf4hWmL8YPa17MXv4yxcEN0CwkA_9qwbEGn74XdX4Y0J4t1rR3oflfW5cpy2tXo65kVMFI3oRFxr/s1600/ms-alert.jpg"
-    },
-    {
-      "title": "iRhythm discloses data breach, says hackers stole patient info",
-      "link": "https://www.bleepingcomputer.com/news/security/irhythm-discloses-data-breach-says-hackers-stole-patient-info/",
-      "description": "Digital healthcare company iRhythm Holdings has disclosed a data breach after hackers stole patients' personal and health information stored on third-party-hosted business applications. [...]",
-      "pubDate": "2026-06-16T06:31:59.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/16/iRhythm.jpg"
     },
     {
       "title": "Cisco Releases Security Updates for Actively Exploited SD-WAN Manager Flaw",
@@ -433,15 +415,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Interview_Overview_1920x900.jpg"
     },
     {
-      "title": "DOJ seizes CFAKE, SOCFAKE deepfake nude sites under TAKE IT DOWN Act",
-      "link": "https://www.bleepingcomputer.com/news/security/doj-seizes-cfake-socfake-deepfake-nude-sites-under-take-it-down-act/",
-      "description": "The U.S. Department of Justice announced Friday that it has seized the CFAKE.com and SOCFAKE.com websites, which allegedly hosted nonconsensual AI-generated nude images and videos of women, in what appears to be the first publicly announced domain seizure under the TAKE IT DOWN Act. [...]",
-      "pubDate": "2026-06-15T21:56:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/03/18/AI_Artificial_Intelligence.jpg"
-    },
-    {
       "title": "Chinese Hackers Abused Google Workspace Rules to Steal Research and Defense Emails",
       "link": "https://thehackernews.com/2026/06/chinese-hackers-abused-google-workspace.html",
       "description": "A China-linked espionage group hid inside North American medical, academic, and military research networks for more than a year, quietly stealing sensitive research and defense email. The way in was a backdoor on their REDCap research servers that stole login credentials. The exfiltration was the unusual part: the attackers rewired the victims' own Google Workspace rules to copy any message",
@@ -458,42 +431,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaqLMLYAQa1ICXVdOhmxnFqqoh_YonevmQPjEtYbmqLsdFC7JJnGc_F7K1no96DjZhTicVxI7sJUO04JM3e64Ko2eh1X6NlEqpKO2Nc1MKCzDPdqlmPZzTphhJlL7ibJ1CLRsIaVBZZvWtm7mv_jXLT53iwjlRVjBnyKCypFigPA0mZzFew-02Xp_aKu9o/s1600/northkorea.jpg"
-    },
-    {
-      "title": "HTTP/2 Bomb Attacks Put Telcos, Healthcare Orgs at Risk",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/http-2-bomb-attacks-telcos-healthcare",
-      "description": "The denial-of-service (DoS) exploit takes advantage of two features in HTTP/2 that were designed to save Internet bandwith, not power massive amplification attacks.",
-      "pubDate": "2026-06-15T19:31:37.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt544afdc4276297e7/6a307eff99b973302bb6b118/HTTP2-zakokor-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Copilot 'SearchLeak' Attack Allows 1-Click Data Theft",
-      "link": "https://www.darkreading.com/application-security/copilot-searchleak-attack-1-click-data-theft",
-      "description": "The critical, three-stage attack is now patched, but it's part of a new group of AI prompt-injection issues that use hidden URLs and other variables.",
-      "pubDate": "2026-06-15T19:27:48.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd943e9204f974e51/6a3053a98a78d25c2f29ab90/leaking_faucet-igorwheeler-Getty-511928310.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "China-Nexus Actor Spies on US Researchers Undetected for a Year",
-      "link": "https://www.darkreading.com/threat-intelligence/china-nexus-actor-us-researchers-undetected",
-      "description": "Google discovered and disrupted the sprawling campaign, which stole RedCAP credentials to breach numerous institutions and exfiltrate sensitive data.",
-      "pubDate": "2026-06-15T17:00:45.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteadcaa63427e8544/6a2fdfdcfd223c5f3b3a26d0/chinaspying_BeeBright_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Most CISOs Report Pressure to Bury Bad Security News",
-      "link": "https://www.darkreading.com/cyber-risk/most-cisos-report-pressure-to-bury-bad-security-news",
-      "description": "Executive leaders may not be saying it aloud, but business objectives and priorities don't always promote timely disclosures.",
-      "pubDate": "2026-06-15T16:45:59.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4d75b7856e57ab33/6a3040e6fa8a9d40861b150d/GettyImages-1609425039.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "LiteLLM Vulnerability Chain Lets Low-Privilege Users Take Over AI Gateway Servers",
@@ -523,15 +460,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH3B8zgsVZmHEyLi8McE-eOrGvwf6Uh3zyqWrttvaEddXJCot7sybI1o-Ly5Q1TtuEJx9BzXol3oaXSFdzFif_5fg0TE3bFA7cuuNewVB2QiZC9HuWNsVDLZlpANK_qnbk_DfBgO1fRgpUbYbc_dL60zHQFxxFN4DgYDVI-D1LsA-8dkcVKpNjAStg9b4/s1600/ms365.jpg"
     },
     {
-      "title": "The Beginning of the End of Social Engineering",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/beginning-end-social-engineering",
-      "description": "AI-native operating systems are shifting the responsibility to stay vigilant against social engineering cyberattacks from the user onto the system itself.",
-      "pubDate": "2026-06-15T15:08:32.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b60582de22ac501/6a2c8cf58294cd8665300914/Stop_Button_Ruangrit_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "⚡ Weekly Recap: Chrome 0-Day, UniFi Exploits, macOS Stealers, VPN Flaw and More",
       "link": "https://thehackernews.com/2026/06/weekly-recap-chrome-0-day-unifi.html",
       "description": "Stuff broke again. Not in a movie way. An old tool was left exposed. An abandoned package was abused. A deprecated feature was still running in prod. This week is the same lesson in a new form: phishing kits are easier to rent, AI names are useful bait, old login paths still fail, and forgotten software keeps becoming someone else's entry point. Scroll through the full Monday Cybersecurity",
@@ -548,15 +476,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/fake-data-breach-notice.jpeg"
-    },
-    {
-      "title": "US Cracks Down on Anthropic AI Models Amid Abuse Concerns",
-      "link": "https://www.darkreading.com/cyber-risk/us-cracks-down-anthropic-ai-models-abuse-concerns",
-      "description": "Anthropic abruptly suspended all access to Fable 5 and Mythos 5 after receiving an export control directive that banned foreign nationals from using the technology.",
-      "pubDate": "2026-06-15T12:17:22.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc8a7bcad0a752a44/6a2ecc83523ab2b32c0badfb/caged-lion-Bratislav-Kostic-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "The Onboarding Password Mistake That Creates Unnecessary Risk",
@@ -649,15 +568,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7NRzSRKbGdsTj1TIWcks4nX5u6n1U2vl5hxJ8KKFZ-JCAKlMQPXQNHA1i0otd63wcKJoZbeEc3oVa9o4uYNTRkRyZaJsJVGV7JUmlqjY5mQkrOXFQJXmUT1kOIZPU6CRdlwx6X7lyi7Iffz7gUIC-nYc2N1dzmiuo2hyphenhyphenPURZ3nKdQcsbLACKidjOeTbRh/s1600/splunk.jpg"
     },
     {
-      "title": "U.S. Orders Anthropic to Suspend Fable 5 and Mythos 5 Access for Foreign Nationals",
-      "link": "https://thehackernews.com/2026/06/us-orders-anthropic-to-suspend-fable-5.html",
-      "description": "Anthropic said on Friday it will \"abruptly disable\" its most advanced artificial intelligence (AI) models, Claude Fable 5 and Mythos 5, for all users after the U.S. government ordered it to suspend access to the models for foreign nationals, whether inside or outside the U.S., citing national security concerns. The AI company said it received an order at 5:21 p.m. ET, instructing it to suspend",
-      "pubDate": "2026-06-13T05:42:50.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitE4uRkPKzQw_uUTSEzPgbuTByOaSNQeEHcANQCdYOtD8HJxqjIy9e0TIkkYeMN5QQghbvb1Nc4RJdwpGUD4ttQ8FqBpDAIMBe5Biw4zXIF-iYgl-vZPCGL1b5VNZpajQ8_cCPj7jx0DFABYuXLpyHYUSOe3jBKPsSej0y7TxrIHZwG_4m56TrDdTS9Ap1/s1600/Anthropic-claude.jpg"
-    },
-    {
       "title": "Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered",
       "link": "https://unit42.paloaltonetworks.com/new-macos-artifact-discovered/",
       "description": "Unit 42 has discovered a new macOS Tahoe 26 forensic artifact that tracks user menu selections across the operating system. Learn more here. The post Tracing Digital Intent: New MacOS Tahoe 26 Artifact Discovered appeared first on Unit 42.",
@@ -676,24 +586,6 @@
       "image": null
     },
     {
-      "title": "ShinyHunters Uses Oracle Zero-Day to Rampage Higher Ed",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/shinyhunters-oracle-zero-day-higher-ed",
-      "description": "A major bug in Oracle's ERP software disproportionately affected American universities, and hackers have capitalized by stealing gobs of data.",
-      "pubDate": "2026-06-12T20:26:32.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt31e3255d2f669774/6a2c5022812b3c9f6a8ed16c/Oracle-mtcurado-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Over 400 Arch Linux AUR Packages Hijacked to Deploy Infostealer and eBPF Rootkit",
-      "link": "https://thehackernews.com/2026/06/over-400-arch-linux-aur-packages.html",
-      "description": "Attackers took over more than 400 packages in the Arch User Repository (AUR) this week and rewrote their build scripts to install a credential stealer on any machine that built them. The malware is a Rust binary built to harvest developer secrets. When it lands with root, it can also load an eBPF rootkit to hide itself. The AUR is Arch Linux's community package collection, and it is separate",
-      "pubDate": "2026-06-12T19:33:25.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoaB3XILLCN-oMr8vicgye6mcqKGYsgqgxPAGunmwASyrP3c7XgAxJTV8tsVPuRSmJ8ia7SZdS8hyphenhyphenb6moPI2QiwkdKoI2E_zchlBfqx1KnfFpb3yKHQQY6qCWyKmkSK_12texqsHTxtYnv8kMMpzJ-SEFxR7Ougz0axLPVr5zDAWQiZY8pEtUUL8L4hmri/s1600/arch-hack.jpg"
-    },
-    {
       "title": "Privacy own-goal: World Cup blunder leaks Lionel Messi’s passport details",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details",
       "description": "Argentina's World Cup squad had their passport numbers leaked before a ball was kicked - not by hackers, but by someone who failed to redact a document properly. document. It's a mistake that has been made many times in the past... Read more in my article on the Hot for Security blog.",
@@ -701,15 +593,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/messi-passport.jpeg"
-    },
-    {
-      "title": "Claude Fable 5 Doesn't Change the Mythos Security Story",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-fable-5-doesnt-change-mythos-security-story",
-      "description": "Stay cool: Mythos 5 is an upgrade over Mythos Preview while Fable 5 is Mythos \"made safe for general use,\" Anthropic explains.",
-      "pubDate": "2026-06-12T13:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte968bc333f7d9aab/6a2b0449b2248a454686bdf2/Tortoise_and_Hare-Walter_B._McKenzie-Getty-200291947-001.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Bernie Sanders’ AI Sovereign Wealth Fund Plan",
@@ -730,24 +613,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Phishing Attack Volume Down 20%, But Risk Still Rising",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/phishing-volume-down-20-risk-rising",
-      "description": "Hackers are valuing quality over quantity, using AI to upgrade their phishing attacks rather than multiply them.",
-      "pubDate": "2026-06-12T00:58:07.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93b107611e96e744/6a2beaf16b9ea711f9a55d27/zenith-live26-zscaler.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "pubDate": "2026-06-11T18:43:57.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93702e2124ff952d/6a2b02be878b01264829203a/vulnerability-gorodenkoff-Getty-817486068.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Silent Ransom Group: what you need to know",
       "link": "https://www.fortra.com/blog/silent-ransom-group-what-you-need-know",
       "description": "Most extortion gangs hide behind a keyboard. Silent Ransom Group will phone your staff pretending to be IT support - and if that fails, send someone to your office in person to plug in a USB stick. Read more in my article on the Fortra blog.",
@@ -755,15 +620,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Segmentation Works for OT If Operators Are Paying Attention",
-      "link": "https://www.darkreading.com/cybersecurity-operations/segmentation-works-for-ot-if-operators-are-paying-attention",
-      "description": "Even the best segmentation strategy will fall apart without constant oversight and disciplined operations.",
-      "pubDate": "2026-06-11T14:51:48.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66e63404f64fc223/6a2ae36e50e5a268a265c05a/GettyImages-2260705467.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Enhanced License Plate Tracking",
@@ -793,15 +649,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Chinese, N. Korean Threat Groups Build on Asia-Pacific Success",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-korean-threat-groups-asia-pacific-success",
-      "description": "North Korea's gross domestic product (GDP) has grown, in part because of the nation's state-sponsored cybercrime groups, which target financial firms and other businesses.",
-      "pubDate": "2026-06-11T00:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf9a31e03506d8e24/682cf11744afb6bd8a3b90a5/asia-night-lights-kmls-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Smashing Security podcast #471: This AI worm just rewrote its own rules",
       "link": "https://grahamcluley.com/smashing-security-podcast-471/",
       "description": "Researchers at the University of Toronto have built a worm that thinks for itself. Using free off-the-shelf AI models it works out how to break into each new computer it encounters, and hijacks the powerful ones to host its own AI brain. And then the researchers discovered their creation had quietly removed the list of machines it wasn't supposed to attack. Meanwhile, Meta's shiny new AI customer support agent has been cheerfully helping hackers help themselves to other people's Instagram accounts. Just keep asking, politely but firmly, to have a password reset sent to a different email addres",
@@ -809,42 +656,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-471.webp"
-    },
-    {
-      "title": "CISA Rewrites Federal Patching Requirements for AI Threat Era",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-rewrites-federal-patching-requirements-ai-threat-era",
-      "description": "The new directive gives federal agencies three days to fix the most dangerous flaws, while less severe issues can be deferred.",
-      "pubDate": "2026-06-10T21:17:12.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf078d399b77e8beb/6a29cba95f1b730af79d399f/usecyber_DC_Studio_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Bug Bounty Research Triggers ServiceNow Security Alert",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/bug-bounty-research-triggers-servicenow-security-alert",
-      "description": "Security research inadvertently led organizations to believe they were being breached through their ServiceNow instances.",
-      "pubDate": "2026-06-10T20:07:53.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt290942caaad1a625/6a29bb178ad5d7051c4e33ad/ServiceNow_Office-JHVEPhoto-Getty-2198127643.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "AI Risk Worries Insurers &amp; Businesses Alike",
-      "link": "https://www.darkreading.com/cyber-risk/ai-risk-worries-insurers-businesses-alike",
-      "description": "As companies adopt AI, many insurance firms are explicitly excluding AI risks, while others are forging ahead to create the right framework. What risks can firms reasonably manage?",
-      "pubDate": "2026-06-10T19:34:43.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e0ea1e027e86d13/668c59f3ea2a358fd7724488/insurance(1800)_MUNGKHOOD_STUDIO_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Nightmare-Eclipse Drops Yet Another Microsoft Exploit, RoguePlanet",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nightmare-eclipse-microsoft-exploit-rogueplanet",
-      "description": "The disgruntled researcher released yet another PoC for a Windows Defender bug that allows for system takeover, showing no signs of abandoning their ongoing feud with Microsoft.",
-      "pubDate": "2026-06-10T16:31:02.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9f04666615ec204/6a2945035f1b736c589d3726/zeroday_Profit_Image_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Turn specs into evals for any agent with ASSERT",
@@ -899,33 +710,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "The Invisible Battlefield: How Cyberwar Is Reshaping Everyday Life",
-      "link": "https://www.darkreading.com/endpoint-security/invisible-battlefield-cyber-war-reshaping-everyday-life",
-      "description": "Former National Cyber Director Chris Inglis warns that cyberattacks threaten hospitals, utilities, and essential services.",
-      "pubDate": "2026-06-09T21:57:11.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltad4e69f41e4f26c2/6a295351effe64868b4092ca/cyberwar-Pablo_Lagarto-RW91RR-Alamy-CP.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Blame AI: Patch Tuesday Hits Record 206 CVEs",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/blame-ai-patch-tuesday-record-206-cves",
-      "description": "Voluminous patch updates could soon be the norm, as artificial intelligence accelerates the speed and scale of vulnerability discovery.",
-      "pubDate": "2026-06-09T21:42:57.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfeb60ddfa47148e7/6a28821ad6dfcc1cd1233fa8/bugs_Andrii_Yalanskyi_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft Exchange Flaw Lets Attackers Spoof Any Email Address",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/exchange-flaw-attackers-spoof-email-address",
-      "description": "“Ghost-Sender\" is the result of a widespread misconfiguration, according to researchers, and evidence indicates it's being actively abused in the wild.",
-      "pubDate": "2026-06-09T20:20:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4ca3dbbeb264ba/6a286a746ec9d64778379e83/ghost-HadelProductions-getty-965743624.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Reconstructing AI activity in investigations",
@@ -998,15 +782,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Fig1n-Attack-chain-ChatGPT.webp"
-    },
-    {
-      "title": "Anthropic’s Project Glasswing Update",
-      "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-project-glasswing-update.html",
-      "description": "In April, Anthropic initated Project Glasswing. The idea was to let companies use their new model to find and fix vulnerabilities in their own software. It was a fantastic PR move, and so many press outlets have uncritically parroted Anthropic’s claims that it’s now common wisdom that Mythos is better at finding software vulnerabilities than other models. Which is just not true. In any case, Anthropic has published a Project Glasswing status report. It’s finding a lot of vulnerabilities in software—yay! Some of them are even dangerous. But almost none of them has been patched. It’s weird. Ther",
-      "pubDate": "2026-06-08T11:01:47.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access",
