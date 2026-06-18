@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-17T22:59:45.311Z",
+  "generatedAt": "2026-06-18T00:23:49.323Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "Crypto Clipper uses Tor and worm-like propagation for persistence and control",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/crypto-clipper-uses-tor-worm-like-propagation-for-persistence-control/",
+      "description": "Microsoft Threat Intelligence analyzed a cryptocurrency clipper campaign that combines clipboard theft, wallet replacement, Tor-based communications, and worm-like propagation. Beyond stealing cryptocurrency transactions, the malware establishes persistent access and enables follow-on activity through a lightweight backdoor capability. The post Crypto Clipper uses Tor and worm-like propagation for persistence and control appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-17T23:11:43.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-21.webp"
+    },
+    {
+      "title": "Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed",
+      "link": "https://grahamcluley.com/smashing-security-podcast-472/",
+      "description": "What if your AI coding assistant could be tricked into stealing your own company's secrets - by reading a single booby-trapped bug report? No phishing email. No malware. No password ever stolen. Just an AI doing exactly what it was told. Meanwhile, someone themselves Nightmare Eclipse has decided to teach Microsoft a lesson. The result? Three zero-days dropped on the internet, one of which lets a thief with a USB stick walk straight past BitLocker. Microsoft is furious. Plus don't miss our featured interview with Son Nguyen Kim of Proton Pass, who explains why plugging AI agents into your emai",
+      "pubDate": "2026-06-17T23:10:17.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-472.webp"
+    },
+    {
       "title": "Google to use UK and EU user IP addresses for ad personalization",
       "link": "https://www.bleepingcomputer.com/news/security/google-to-use-uk-and-eu-user-ip-addresses-for-ad-personalization/",
       "description": "From August 3, 2026, Google will use IP addresses from UK, EEA and Switzerland users for ad measurement and personalization. It lands as the ICO weighs new consent rules, and years after Google itself called using such signals to identify devices \"wrong.\" [...]",
@@ -34,7 +52,7 @@
       "pubDate": "2026-06-17T19:46:25.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": null
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30281bed62eec4f7/6a32fc8a38f14f046f5b0e20/ransomware_lock-Just_Super-getty-2161221526.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Beyond the benchmark: Advancing security at AI speed",
@@ -1105,16 +1123,7 @@
       "pubDate": "2026-06-03T23:15:58.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/02/preinstall-persistence-inside-red-hat-npm-miasma-credential-stealing-campaign/",
-      "description": "A large-scale npm supply chain attack compromised over 90 versions of @redhat-cloud-services packages, silently infecting CI/CD environments and developer systems. The malicious code steals credentials from GitHub, cloud platforms, and local machines, then spreads like a worm by republishing trusted packages. Discover how the attack works, what data is at risk, and the steps you can take to protect your organization. The post Preinstall to persistence: Inside the Red Hat npm Miasma credential-stealing campaign appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-03T04:45:06.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image.webp"
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-470.webp"
     },
     {
       "title": "Welcoming the Philippine Government to Have I Been Pwned",
@@ -1195,7 +1204,7 @@
       "pubDate": "2026-05-27T23:05:09.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": null
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-469.webp"
     },
     {
       "title": "Out of the Crypt: The Evolving Cyber Extortion Economy",
@@ -1267,7 +1276,7 @@
       "pubDate": "2026-05-20T23:04:42.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": null
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-468.webp"
     },
     {
       "title": "Tracking TamperedChef Clusters via Certificate and Code Reuse",
@@ -1339,7 +1348,7 @@
       "pubDate": "2026-05-13T23:05:09.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": null
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-467.webp"
     },
     {
       "title": "Welcoming the Bangladesh Government to Have I Been Pwned",
@@ -1376,15 +1385,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Inside Department 4: Russia’s secret school for hackers",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/inside-department-4-russias-secret-school-for-hackers",
-      "description": "Most universities have a careers fair. At Bauman Moscow State Technical University, however, an elite group of students appear to have something rather more unusual: a direct pipeline into some of the world's most notorious state-sponsored hacking groups. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-05-08T14:36:50.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/department-4.jpeg"
     },
     {
       "title": "Weekly Update 502",
