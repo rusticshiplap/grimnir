@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T00:09:57.388Z",
+  "generatedAt": "2026-06-19T05:34:10.372Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure",
+      "link": "https://www.securityweek.com/splunk-enterprise-vulnerability-exploited-in-attacks-days-after-disclosure/",
+      "description": "CISA has given federal agencies only three days to patch CVE-2026-20253, which can be exploited for unauthenticated remote code execution. The post Splunk Enterprise Vulnerability Exploited in Attacks Days After Disclosure appeared first on SecurityWeek.",
+      "pubDate": "2026-06-19T04:10:34.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/03/Splunk.jpeg"
+    },
+    {
+      "title": "AutoJack: How a single page can RCE the host running your AI agent",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/18/autojack-single-page-rce-host-running-ai-agent/",
+      "description": "AutoJack is a novel exploit chain showing how a single malicious webpage can turn an AI browsing agent into a remote code execution vector on the host machine. By abusing trust in localhost, missing authentication, and unsafe parameter handling, attackers can trigger arbitrary process execution through AutoGen Studio’s MCP WebSocket. The research highlights a broader pattern - when agents can browse untrusted content and access local services, traditional boundaries like localhost are no longer secure. The post AutoJack: How a single page can RCE the host running your AI agent appeared first o",
+      "pubDate": "2026-06-19T00:17:54.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-43.webp"
+    },
     {
       "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
       "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
@@ -334,15 +352,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-merger-acquisition.webp"
     },
     {
-      "title": "Kodak Admits Data Breach After ShinyHunters Hack Claims",
-      "link": "https://www.securityweek.com/kodak-admits-data-breach-after-shinyhunters-hack-claims/",
-      "description": "Kodak told SecurityWeek it believes there is no threat to its systems or operations as a result of the cybersecurity incident. The post Kodak Admits Data Breach After ShinyHunters Hack Claims appeared first on SecurityWeek.",
-      "pubDate": "2026-06-18T07:18:51.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/bank-finance-lender-credit-union-hack.jpeg"
-    },
-    {
       "title": "EU Gets a Head Start in Developing 6G Network Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/eu-6g-network-security",
       "description": "\"Shield-6G\" will combine AI threat detection, digital twins, honeypots, and more, to help carriers protect 6G networks against the threats of tomorrow.",
@@ -350,6 +359,24 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33b4e7692876cca3/6a32ecc56477b80e26a57063/6G-I_m_love_photography_and_art._This_is_me.-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever",
+      "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-two/",
+      "description": "",
+      "pubDate": "2026-06-18T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "New Abuse of the ClickOnce Technology, Part 1: The Inner Workings of ClickOnce Application Deployment",
+      "link": "https://www.crowdstrike.com/en-us/blog/new-abuse-of-the-clickonce-technology-part-one/",
+      "description": "",
+      "pubDate": "2026-06-18T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "From package to postinstall payload: Inside the Mastra npm supply chain compromise",
@@ -1072,24 +1099,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Opinion_Overview_1920x900.jpg"
     },
     {
-      "title": "AI brands as bait: How threat actors are using the AI hype in social engineering",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/08/ai-brands-as-bait-how-threat-actors-are-using-the-ai-hype-in-social-engineering/",
-      "description": "As threat actors operationalize AI to accelerate attacks, they are also leveraging the wider global interest around AI itself as a social engineering lure. The post AI brands as bait: How threat actors are using the AI hype in social engineering appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-08T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Fig1n-Attack-chain-ChatGPT.webp"
-    },
-    {
-      "title": "CrowdStrike and Zscaler Bring Continuous Identity to Zero Trust Access",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-zscaler-bring-continuous-identity-security-to-zero-trust-access/",
-      "description": "",
-      "pubDate": "2026-06-08T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Got a LinkedIn message from a recruiter? It might be Chinese intelligence, warn FBI and MI5",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-recruiter-chinese-intelligence-fbi-mi5",
       "description": "If you've ever received an out-of-the-blue message via LinkedIn from a recruiter offering some well-paid consultancy work, intelligence agencies have a message for you: be very careful. Read more in my article on the Hot for Security blog.",
@@ -1097,15 +1106,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/linkedin-china.jpeg"
-    },
-    {
-      "title": "3 Principles to Safely Scale Agentic AI",
-      "link": "https://www.crowdstrike.com/en-us/blog/three-principles-to-safely-scale-agentic-ai/",
-      "description": "",
-      "pubDate": "2026-06-05T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Meta’s own AI chatbot to blame for Instagram accounts being stolen in seconds",
