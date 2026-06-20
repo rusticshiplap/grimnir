@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-20T08:02:18.845Z",
+  "generatedAt": "2026-06-20T10:58:30.936Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Hackers Exploit Gravity SMTP WordPress Plugin Bug to Expose API Keys",
+      "link": "https://thehackernews.com/2026/06/hackers-exploit-gravity-smtp-wordpress.html",
+      "description": "Threat actors are exploiting a recently patched security flaw impacting Gravity SMTP, a WordPress plugin that's installed on about 100,000 sites. The vulnerability, tracked as CVE-2026-4020 (CVSS score: 5.3), is a medium-severity information disclosure flaw that can allow unauthenticated attackers to extract sensitive data, such as configuration data, API keys, secrets, and OAuth tokens",
+      "pubDate": "2026-06-20T09:56:04.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjL1kN23KhnFjdjHcR0i-iySK1Zv-kkApPs6yBq11670ubXx0NiAbgDMoYSfwQNyq9asso5AG9KcPRXEL4LU8-BmcsC0Q_1YIYDfY89hIFd_hSNJ2yZJRAO5l6JaQbpItuI8cpwIvNDBOqNfc-0d1DMv_DOh04J5_2EvpEcxCtoQUziipbjfNod-tzdH1__/s1600/1000082862.jpg"
+    },
+    {
+      "title": "French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation",
+      "link": "https://www.securityweek.com/french-president-urges-us-to-share-cutting-edge-ai-and-democracies-to-cooperate-on-regulation/",
+      "description": "French President Emmanuel Macron urged the world’s wealthy democracies to work together on regulating advanced AI systems. The post French President Urges US to Share Cutting-Edge AI and Democracies to Cooperate on Regulation appeared first on SecurityWeek.",
+      "pubDate": "2026-06-20T09:48:40.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/AI-assistant-chatbot-artificial-intelligence.jpg"
+    },
     {
       "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
       "link": "https://unit42.paloaltonetworks.com/large-scale-credential-attacks/",
@@ -496,15 +514,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf40ec834941ac23f/6a330df60dee4e9a56befb5d/tech_debt_yaom_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "No Exploits Required",
-      "link": "https://www.securityweek.com/no-exploits-required/",
-      "description": "Four decades of incident response experience suggest that exploits are often the symptom, not the root cause, of today’s cybersecurity failures. The post No Exploits Required appeared first on SecurityWeek.",
-      "pubDate": "2026-06-18T12:30:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PHP.jpeg"
-    },
-    {
       "title": "Embedding Forbidden Text in Spyware to Discourage AI Analysis",
       "link": "https://www.schneier.com/blog/archives/2026/06/embedding-forbidden-text-in-spyware-to-discourage-ai-analysis.html",
       "description": "At least one malware developer is adding text about nuclear and biological weapons to their spyware, in an effort to stop automatic AI analysis. Details: The _index.js payload begins with a large JavaScript block comment containing fake system instructions and policy-triggering content. Because it is inside a comment, it does not affect JavaScript execution. The runtime skips it. The real malware begins after the comment with a try{eval(…)} wrapper around a large character-code array and a ROT-style substitution function. This header appears designed for AI-mediated analysis, not for Node, Bun",
@@ -737,15 +746,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfe5e902d31634190/6a317c8da9a64d0008e8660f/backdoor-BeeBright-Getty-823310866.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Google Vertex AI SDK Flaw Let Attackers Hijack Model Uploads via Bucket Squatting",
-      "link": "https://thehackernews.com/2026/06/google-vertex-ai-sdk-flaw-let-attackers.html",
-      "description": "A flaw in the Google Cloud Vertex AI SDK for Python let an attacker with no access to a victim's project hijack the victim's machine learning model upload and run code inside Google's serving infrastructure. Palo Alto Networks Unit 42, which found and reported the bug through Google's bug bounty program, calls the technique \"Pickle in the Middle\" and said it saw no exploitation in the wild.",
-      "pubDate": "2026-06-16T19:05:41.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpiAGZTnvo43enaVYkna4ZSp217mwwW5kW8kZOhaSiLAxicjvHQY-3d8rdLN47bsRvxUIj6R0h_Ttr8NcIJrgz6k_mbcx94KLuPD29KdhFcYQsrV8htgg_iDYMV9aXbr21kv6BdYTzLNOOqQLpsCfpDC4XxDPnu77uVQ3oCYbIUfIpUKdmqx-rZZWj6P0/s1600/Google-Vertex-AI.jpg"
     },
     {
       "title": "Rokarolla Android Trojan Levels Up to Full Device Control, Persistence",
