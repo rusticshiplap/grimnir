@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-22T10:42:06.394Z",
+  "generatedAt": "2026-06-22T19:33:56.503Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,150 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "ShapedPlugin WordPress Pro Plugins Backdoored in Supply Chain Attack",
+      "link": "https://thehackernews.com/2026/06/shapedplugin-wordpress-pro-plugins.html",
+      "description": "Multiple WordPress plugins from ShapedPlugin were compromised in a supply chain attack after unknown threat actors managed to tamper with the official release channels and push backdoor code. \"Attackers compromised the vendor's build and distribution pipeline, injecting backdoor code into Pro plugin releases distributed through official licensed update channels,\" Wordfence said in an analysis",
+      "pubDate": "2026-06-22T18:00:48.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgd4DchiVkQLBMvGHgWrojoZUdyk2SwEhEj5q6cOYzKCUWF1Lz3Mxeizurg1O-SLVi2jg319ib4SJsSoVWixAkl5WLPu4rL1cMoYXUM6EziOVyt42ESt1zmMo_iLEfHx9XSAXpsDd1FEtRSgKk4AhDzA7DjJN8c__pUgogxTQgaGjsxM04WNiesgRnbEVHN/s1600/wordpress-plugin.jpg"
+    },
+    {
+      "title": "Microsoft says Windows 11 26H2 is coming soon, details upgrade process",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-says-windows-11-26h2-is-coming-soon-details-upgrade-process/",
+      "description": "Microsoft has confirmed that Windows 11 version 26H2 will be the next feature update and that devices running Windows 11 24H2 and 25H2 will be able to upgrade using a small enablement package. [...]",
+      "pubDate": "2026-06-22T17:41:31.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/02/13/0_Windows_11.jpg"
+    },
+    {
+      "title": "Microsoft fixes AutoGen Studio flaw that enabled code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-autogen-studio-flaw-that-enabled-code-execution/",
+      "description": "A vulnerability chain dubbed AutoJack in Microsoft's AutoGen Studio interface for prototyping AI agents could let attackers manipulate an agent into executing arbitrary commands on its host system simply by visiting a malicious webpage. [...]",
+      "pubDate": "2026-06-22T17:28:57.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/11/ai-extract.jpg"
+    },
+    {
+      "title": "Researchers Detail DifyTap Flaws in Dify That Could Expose AI Chats Across Tenants",
+      "link": "https://thehackernews.com/2026/06/researchers-detail-difytap-flaws-in.html",
+      "description": "Cybersecurity researchers have disclosed details of four vulnerabilities in Dify, an open-source agentic workflow platform with more than 146,000 GitHub stars, that could allow attackers to stealthily read artificial intelligence (AI) conversions from other customers' applications without requiring authentication. The vulnerabilities have been collectively codenamed DifyTap by Zafran Security.",
+      "pubDate": "2026-06-22T16:13:28.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrjCumekV1hjkgdgebp4RqfYc_Yt9Swv4lG7ds3XMDHG9f-JxSuJSWY3UcWIoivJoJkJjdlBvtiQAHKy7NNgApCoD8ADtOpicXvKf9RJwAZT1DEGUkgX87bmSR8cO75Ss__mnLn8MyDEddnzhyphenhyphenRfcf_gWEtoLiKu53yXNQJtT0DP7nZufqBhB3P8VmvV48/s1600/dify.png"
+    },
+    {
+      "title": "Crypto Heist Fueled by Elaborate Fake Reputation-Boosting Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/crypto-heist-fake-reputation-boosting-campaign",
+      "description": "Attackers are using multiple online channels — including GitHub, YouTube, and VirusTotal — to build an illusion of trust to spread a cross-platform clipboard hijacker.",
+      "pubDate": "2026-06-22T16:10:10.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt488625da6dcc5e36/6a3956fde4fc4e3dbf65d2b3/bitcoinstolen_KeremYucel-Getty-902191710.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "One intrusion, two cyberattackers: Uncovering parallel threat activity",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/one-intrusion-two-cyberattackers-uncovering-parallel-threat-activity/",
+      "description": "Ransomware case reveals two parallel threat actors, blending tactics and evasion—showing why isolated signals can often miss modern, overlapping cyberattacks. The post One intrusion, two cyberattackers: Uncovering parallel threat activity appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-22T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/word-image-148144-1.png"
+    },
+    {
+      "title": "29-Year-Old Squid Proxy Bug 'Squidbleed' Can Leak Cleartext HTTP Requests",
+      "link": "https://thehackernews.com/2026/06/29-year-old-squid-proxy-bug-squidbleed.html",
+      "description": "A heap over-read in the Squid web proxy can leak another user's cleartext HTTP request, including any credentials or session tokens it carries, to anyone already allowed to send traffic through the same proxy. The bug traces to a 1997 FTP-parsing change and is still live in Squid's default configuration. Researchers at Calif.io disclosed it in June and named it Squidbleed (",
+      "pubDate": "2026-06-22T14:29:46.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA4IfKMjQxVhpOYdrcCC4ty0vlGBDg_qCZuuvSTvyVWXYPXQlli7qyCZkPdHHuGJp-HVH1s-HGmf_Zqn97o2Qz5JOHaZ-Mk1mecm4W4yUBiCaejJL5guczISx2Q8ZH7RvS_4fXiNdHemr1aWKwz0CcyBJI_4_jFjQhY5JedBz_-pSiSQ1eQCF_BPYEbRs/s1600/sq.jpg"
+    },
+    {
+      "title": "A Glimpse into the “Search Your Target” Market for Stolen Credentials",
+      "link": "https://www.bleepingcomputer.com/news/security/a-glimpse-into-the-search-your-target-market-for-stolen-credentials/",
+      "description": "Attackers no longer need to sift through massive credential dumps. They can pay others to do it for them. Flare explores how an emerging underground market searches stolen credential databases for specific companies, domains, and accounts. [...]",
+      "pubDate": "2026-06-22T14:05:15.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2021/05/01/hacking.jpg"
+    },
+    {
+      "title": "Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data",
+      "link": "https://www.securityweek.com/decades-old-squid-proxy-flaw-squidbleed-can-expose-user-data/",
+      "description": "Squidbleed, discovered with the aid of Claude Mythos Preview, has been described as a Heartbleed-style vulnerability. The post Decades-Old Squid Proxy Flaw ‘Squidbleed’ Can Expose User Data appeared first on SecurityWeek.",
+      "pubDate": "2026-06-22T13:22:31.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/SquidBleed.jpeg"
+    },
+    {
+      "title": "New OXLOADER Loader Uses Malicious Google Ads to Deliver CastleStealer",
+      "link": "https://thehackernews.com/2026/06/new-oxloader-loader-uses-malicious.html",
+      "description": "Cybersecurity researchers have disclosed details of a new campaign that delivers CastleStealer by means of a previously unreported malware loader dubbed OXLOADER. According to Elastic Security Labs, the campaign leverages malicious Google Ads as a starting point to distribute the malware. Evidence indicates that the threat actor is likely Russian-speaking and financially motivated, owing to the",
+      "pubDate": "2026-06-22T13:20:12.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1600/loader.jpg"
+    },
+    {
+      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
+      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
+      "description": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app",
+      "pubDate": "2026-06-22T12:45:08.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
+    },
+    {
+      "title": "Stop Your Legacy Infrastructure from Hijacking Your AI Agents",
+      "link": "https://thehackernews.com/2026/06/stop-your-legacy-infrastructure-from.html",
+      "description": "Earlier this month, I spoke at the Gartner Security & Risk Management Summit about a blind spot most security programs are still not accounting for - how attackers are circumventing AI security programs by using legacy infrastructure to hijack AI agents. AI adoption is moving faster than security programs can account for. Roughly 71% of organizations are piloting AI agents across their",
+      "pubDate": "2026-06-22T11:58:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSdS_7552zEvsn5xVfDcVMG2u8ponFIE1E65j5A8Wx-qUroU49h-f6qF7FPCABA063IjNnw-JntL-L1iZjHpiuqATqkDv-2vpi6lCVG1idXkg_elRJkyoUgASk4uYCTJ95EHfVQLJngVLKOxM2H5zLkdeFY7kpzveHUuKFoks0_ujNo9tJNQxm7XVgYb4/s1600/xmcyber.jpg"
+    },
+    {
+      "title": "Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data",
+      "link": "https://www.securityweek.com/attackers-exploit-gravity-smtp-plugin-flaw-to-harvest-valuable-wordpress-data/",
+      "description": "Vulnerable WordPress plugin iterations leak API keys, secrets, tokens, server information, and other data. The post Attackers Exploit Gravity SMTP Plugin Flaw to Harvest Valuable WordPress Data appeared first on SecurityWeek.",
+      "pubDate": "2026-06-22T11:45:43.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
+    },
+    {
+      "title": "North Korean Hackers Blamed for Mastra NPM Supply Chain Attack",
+      "link": "https://www.securityweek.com/north-korean-hackers-blamed-for-mastra-npm-supply-chain-attack/",
+      "description": "A malicious dependency the attackers added to over 140 Mastra packages fetches a payload targeting cryptocurrency extensions. The post North Korean Hackers Blamed for Mastra NPM Supply Chain Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-06-22T11:10:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/North-Korea-hacking.jpeg"
+    },
+    {
+      "title": "Professional Athletes and Wearables",
+      "link": "https://www.schneier.com/blog/archives/2026/06/professional-athletes-and-wearables.html",
+      "description": "I haven’t thought about the privacy issues surrounding professional athletes and wearables. Wearables present serious privacy issues for “Average Joe” consumers, who are entrusting tech companies to safely store and protect their biometric data. Imagine the stakes for a professional athlete, whose entire livelihood could be affected by a single biometric data point. To give one of many realistic hypotheticals: a basketball player has a terrible game, and the coach wonders if they showed up to the gym hungover. The coach has access to the player’s wearable data, and checks to see when they went",
+      "pubDate": "2026-06-22T11:02:55.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "⚡ Weekly Recap: Browser Bugs, EDR Killers, TV Botnet, OpenBSD Flaw, Android Trojan, and More",
+      "link": "https://thehackernews.com/2026/06/weekly-recap-browser-bugs-edr-killers.html",
+      "description": "It’s Monday again. This week’s threat list looks painfully familiar: abused integrations, fake tools, poisoned websites, ransomware crews trying to shut down security tools, and mobile malware asking for way too much control. The annoying part is how little of this feels new. Weak credentials, sketchy downloads, browser extensions with too much access, and WordPress sites are used to push more",
+      "pubDate": "2026-06-22T10:55:10.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjWTle5JU3HMoV1yUzXt6nAYO-EtyfOp22bJldi9N4fwakWmzrwwjBKfQNkprStB3B9K5HyUchIUCoNpGs-Kn2EHwClO7xJOV-qZQeDKFllNQrZ-TYq6OiikJkwi65NdfFcR7XhMTuIpmwSdoglwRcMcI43rLGB1B462ZXhd7nkh-q-FNnpPKoeUyL7bUqs/s1600/recap-main.gif"
+    },
     {
       "title": "What the Latest ShinyHunters Breaches Reveal About Modern Cyberattacks",
       "link": "https://www.securityweek.com/what-the-latest-shinyhunters-breaches-reveal-about-modern-cyberattacks/",
@@ -52,7 +196,7 @@
       "pubDate": "2026-06-22T09:11:37.000Z",
       "source": "The Hacker News",
       "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhKdFZ8X3qY44sjGFbQxJtogYdOcHTqy6L8zM5WrFEIcBfNui5A5cDTdrf932hfXB-Ugw_Uluy31ujP1EGMDy5d5_G-C0tpfQ02iFhQ4H0kNnK8MNujfZPVZpPjVFXzi6IeRfHb2TXJl5dKnC14l8addqgYJ2_KyMiweZema7rUu2JIUZM_hqX1ro-czjHQ/s1600/canada.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLwfeNp6y7paVA9a8F1NvROjNla494WBkRnt8JfQrDpxLCB-cEiewUAhyQeD9_xw1xL_KQkfXp5EnMImW7_js9HDTAjN5b-Sf5uIV4RghVuxpHYvd0YdAeJMXuRsm-xJldrNnBnoRK1lfZNT3aFUd-re2yS6X5Q05F2k7_RXQb1sPkhQp3_faoocFqayvj/s1600/cn.jpg"
     },
     {
       "title": "More Cybersecurity Firms Disclose Impact From Klue Hack",
@@ -89,6 +233,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Texas-Parks-Wildlife.jpeg"
+    },
+    {
+      "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-state-of-cdr-survey-key-takeaways/",
+      "description": "",
+      "pubDate": "2026-06-22T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "AryStinger botnet infected thousands of D-Link routers worldwide",
@@ -298,15 +451,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
     },
     {
-      "title": "CryptoBandits Malware Doubles as a Backdoor, Abuses Tor",
-      "link": "https://www.securityweek.com/cryptobandits-malware-doubles-as-a-backdoor-abuses-tor/",
-      "description": "CryptoBandits uses a local SOCKS5 proxy for traffic routing, blending data theft with remote code execution. The post CryptoBandits Malware Doubles as a Backdoor, Abuses Tor appeared first on SecurityWeek.",
-      "pubDate": "2026-06-19T11:19:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/malware.jpeg"
-    },
-    {
       "title": "Anthropic’s Fable and the State of AI",
       "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-and-the-state-of-ai.html",
       "description": "On June 9th, Anthropic released its Fable generative AI model. Three days later, the US government classified it as a dangerous munition, and used its export-control authority to prohibit any foreign nationals from accessing it. Unable to differentiate between Americans and foreigners, the company shut off access for everyone. The government’s actions won’t help. The problem isn’t any one particular model; it’s the general trend of increasing AI capabilities. And any real solution requires the sort of collective action that just isn’t possible right now. Fable is the constrained version of Myt",
@@ -314,15 +458,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "FortiBleed: 86,000 Fortinet Device Credentials Compromised",
-      "link": "https://www.securityweek.com/fortibleed-86000-fortinet-device-credentials-compromised/",
-      "description": "The large-scale credential theft campaign hit roughly half of the internet-accessible Fortinet firewalls and VPNs. The post FortiBleed: 86,000 Fortinet Device Credentials Compromised appeared first on SecurityWeek.",
-      "pubDate": "2026-06-19T10:48:08.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg"
     },
     {
       "title": "CISA: Splunk Enterprise flaw actively exploited, patch by Sunday",
@@ -341,15 +476,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6R48ZeaNtIzMVc6atNjuxbNYFUfiFCJ_cE1qE_85yGOOavsX0ijvQGdv9QZ2-4Lky8mTOPhrNIydUvLS2DtGkkFXYJFRTT99Vbb03s3Rtk9pTariHdQ2on2RGxiAsMQnySj7AJfxUtBxO1aJTupjkQvDvt5jp1klznY9_WHckqm64F-BbCtCR2UoJ968/s1600/tines-main.jpg"
-    },
-    {
-      "title": "Cybersecurity Firms Impacted by Klue Supply Chain Attack",
-      "link": "https://www.securityweek.com/cybersecurity-firms-impacted-by-klue-supply-chain-attack/",
-      "description": "The hackers exfiltrated data from Salesforce instances of Klue customers, such as Huntress and Recorded Future. The post Cybersecurity Firms Impacted by Klue Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-06-19T09:19:06.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
     },
     {
       "title": "Salesforce Disables Klue App Integration After OAuth Token Abuse Exposes Customer Data",
@@ -397,16 +523,7 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-43.webp"
     },
     {
-      "title": "Gentlemen ransomware uses multiple EDR killers to disable defenses",
-      "link": "https://www.bleepingcomputer.com/news/security/gentlemen-ransomware-uses-multiple-edr-killers-to-disable-defenses/",
-      "description": "The Gentlemen ransomware-as-a-service (RaaS) is actively developing and maintaining a suite of endpoint detection and response (EDR) killers to help affiliates evade detection in attacks. [...]",
-      "pubDate": "2026-06-18T22:31:52.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/gentlemen.jpg"
-    },
-    {
-      "title": "Novo Nordisk Breach Exposes Software Development Pipeline Risk",
+      "title": "Novo Nordisk Breach Highlights Software Development Pipeline Risk",
       "link": "https://www.darkreading.com/cyber-risk/novo-nordisk-breach-exposes-dev-pipeline-risk",
       "description": "A leaked GitHub token underscores what most organizations get wrong: Treating secrets management as a tooling problem rather than an identity problem.",
       "pubDate": "2026-06-18T20:05:47.000Z",
@@ -431,15 +548,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt88a9f0679bb37c41/6a342e3add6052e430952745/National_Palace_Mexico_City-stockcam-getty-171587268.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Nintendo confirms data stolen in WebMD subsidiary cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/nintendo-confirms-data-stolen-in-webmd-subsidiary-cyberattack/",
-      "description": "Nintendo of America has confirmed to BleepingComputer that threat actors stole survey data from the third-party TinyPulse service used internally, but its systems were not compromised. [...]",
-      "pubDate": "2026-06-18T18:31:36.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/01/17/Nintendo.jpg"
     },
     {
       "title": "FIFA Bug Exposes World Cup Streams to Remote Takeover",
@@ -467,15 +575,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt01c4ba5b9c6be1e4/6a340ef008391b84d4284c57/rmsalesforce-BenjaminFanjoy-Getty-2262985812.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "USB worm spreads crypto-stealing malware via Windows shortcut files",
-      "link": "https://www.bleepingcomputer.com/news/security/usb-worm-spreads-crypto-stealing-malware-via-windows-shortcut-files/",
-      "description": "Threat actors targeting cryptocurrency wallets have been distributing clipboard-stealing malware with self-spreading capabilities and using the Tor network to conceal communication. [...]",
-      "pubDate": "2026-06-18T16:20:06.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Cryptocurrency-bitcoin.jpg"
     },
     {
       "title": "Orphaned AI Agents: How to Find Hidden Access Risks Inside Your Network",
@@ -512,24 +611,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2MOms1DiyvYE-L_zXvrgrL_4cDaNBZwrhVFPq7ee58uPMORAF9v60xW8_QZbjJ05C34E2F5u9xKXBal4_DbVvUjcg8aDAvQ9iKSgWss6vnvlk4f1tgLYwb3a5xNc6T3lbGeE1pcTf35vf320No6XzS4mkw_5dTTILKfc0w6VpcTHX5VitEodFJBKMWzjA/s1600/ransomware-malware.jpg"
-    },
-    {
-      "title": "The Scripts on Your Checkout Page Are Now a PCI DSS Problem",
-      "link": "https://thehackernews.com/2026/06/the-scripts-on-your-checkout-page-are.html",
-      "description": "An independent PCI assessor tested Reflectiz against the new PCI DSS rules. Here is the verdict: See the full QSA assessment here → When a customer types their card number into your checkout, their browser is running far more than your code. Analytics tags, a tag manager, a support widget, a payment iframe: a modern checkout loads dozens of third-party scripts, and any one of them can be turned",
-      "pubDate": "2026-06-18T13:58:39.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjHJHzi-rQqSIiD4wXw_HQpgvXGNTNgvJnxt42OupMrchYSmQPyeXbtsuH62zLqPHDq3bywvirdcqKSq9VQ-pZyL02RAw2IYYh1f4qcpUH4NZu50XLSDsQSSYvyqMAEwSN-8PQMcpwXZMtLC_pVYzqZMYm7qkygfMQeZEIHVWpIkYfUifJvX3oUMSBs3w0/s1600/reflectiz.jpg"
-    },
-    {
-      "title": "DragonForce Hackers Abuse Microsoft Teams Relays to Hide Backdoor.Turn C2 Traffic",
-      "link": "https://thehackernews.com/2026/06/dragonforce-hackers-abuse-microsoft.html",
-      "description": "Threat actors associated with the DragonForce ransomware have been observed using a custom Go-based remote access trojan (RAT) called Backdoor.Turn to conceal command-and-control (C2) traffic inside Microsoft Teams relay infrastructure. According to findings from Broadcom-owned Symantec and Carbon Black, the backdoor was deployed against a major U.S. services firm. The name of the company was",
-      "pubDate": "2026-06-18T13:30:07.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEidEg1Q-FcDTwCPci3OMxGy0TghiI1dbWJoaJVc88gpGgO2ia6bgne18KfS3A9qAzBnMX2rGY9H78ewtofXQO22RRpzHxWXmvQJvRZ1nsvwj37aZBtLOXXltzd1KkNRKhu2N5LpIro5Fi0BBkftPqP_IO6B3HCKx5WPtFXZKA1bfbP3xV71CpEqpT7H6RPN/s1600/teams.jpg"
     },
     {
       "title": "Get Out of Security Debt by Tackling the Exposure Problem",
@@ -631,24 +712,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Picture1-2.webp"
     },
     {
-      "title": "Crypto Clipper Campaign Abuses Fake Reviews, AI Narrators, and VirusTotal Comments",
-      "link": "https://thehackernews.com/2026/06/crypto-clipper-campaign-abuses-fake.html",
-      "description": "An unknown threat actor has been observed leveraging paid or promoted posts on legitimate news websites to drum up buzz for their warez, according to new findings from Check Point Research. The threat actor also has at their disposal a dedicated WordPress phishing page that acts as the central hub, alongside GitHub and SourceForge projects promoted by fake accounts, a YouTube channel, and a",
-      "pubDate": "2026-06-17T18:14:24.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbbJOofP7P7zruPGvktMERgtQqGnu5msB1iDGyfukJA9g72QHXmHx9eJNbQaF7VIGcUqB76e5bGpnBnfg9AE4-F5kJQnY2fKtfHoi9zggEgteLN6rpYJeYE2nPlHFHWfj58a_DmklTT0x0GcWmRAxJsVGeysX9CUadCIygZTpDzBxCWZ4HvrPqhPwQy6Ng/s1600/scam.jpg"
-    },
-    {
-      "title": "Microsoft Confirms RoguePlanet Defender Zero-Day, Says Patch is in Development",
-      "link": "https://thehackernews.com/2026/06/microsoft-confirms-rogueplanet-defender_02022423645.html",
-      "description": "Microsoft has formally disclosed that it's working to release a patch to address a Defender zero-day codenamed RoguePlanet. The vulnerability has now been assigned the CVE identifier CVE-2026-50656 (CVSS score: 7.8), with the tech giant describing it as a privilege escalation flaw. \"Microsoft is aware of an elevation of privilege in the Microsoft Malware Protection Engine in Microsoft Defender",
-      "pubDate": "2026-06-17T17:36:28.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy3ayOlDb3vsL747G9hStxxjTd3N5i2u8hegcT_hTs4RlNqylS_HyYH4mGLQEavD-QwH3G4l-p2tE5xrXoeK-Btj5YjbENpZcnqRZ7mXCjnJgqHKaoqyE3I3yqy3tYxafbDGNOMrDsvTnJ8UKkn7DDQ8PY_sQNZI6TsNTV0lOmSqs1uxUKm3pgpmkSDpeZ/s1600/ms-patch.jpg"
-    },
-    {
       "title": "AI is accelerating cyberattacks—here’s how to stay ahead",
       "link": "https://techcommunity.microsoft.com/blog/microsoft-entra-blog/ai-is-accelerating-cyberattacks%E2%80%94here%E2%80%99s-how-to-stay-ahead/4528592",
       "description": "See how Microsoft unifies identity and security signals to help teams prevent, detect, and respond to AI-accelerated attacks faster. The post AI is accelerating cyberattacks—here’s how to stay ahead appeared first on Microsoft Security Blog.",
@@ -658,24 +721,6 @@
       "image": "https://techcommunity.microsoft.com/t5/s/gxcuf89792/images/bS00NTI4NTkyLXBpcTBYRw?image-dimensions=999x474&amp;revision=11"
     },
     {
-      "title": "Junior Hacker Used Tailscale and OpenSSH to Keep Access After His C2 Went Offline",
-      "link": "https://thehackernews.com/2026/06/junior-hacker-used-tailscale-and.html",
-      "description": "A French-speaking attacker broke into a small French automotive business, planted a keylogger, and stole banking and email credentials. Ordinary stuff, until one move near the end. Before his command-and-control server went dark, he installed OpenSSH and Tailscale on a victim's machine, building a way back in that did not run through the C2 at all. When the Havoc server went offline the next",
-      "pubDate": "2026-06-17T16:00:56.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN4ptzzF7u-dzNyOc4F1HsCUbEszvkkeD1ZVl7MHQNXXcUtgqb40Wgodu3aj61QDzaNsX0eJjRDGK1eNJLCbud-4iWHJjnpHPuCfTak2m9UydSW4DEJErr5L2V_KwD39P__6iVxgaOhH8mYtY2LhPFnyCavP8eJ_1N3QpGo4NkZaFJYVRc-LX0droem8Q/s1600/cyber.jpg"
-    },
-    {
-      "title": "Adversarial Exposure Validation Turns Security Visibility into Confident Prioritization",
-      "link": "https://thehackernews.com/2026/06/adversarial-exposure-validation-turns.html",
-      "description": "For security teams, the findings never stop, but confidence in knowing which ones matter is becoming harder to maintain. The problem is no longer visibility. It's validation. Security teams must decide which findings warrant action while operating under constant pressure and incomplete information. Increasingly, the challenge is not discovering potential risks. It is determining which risks",
-      "pubDate": "2026-06-17T14:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_8P-dioPWCAX94ha33KAWjvP0RvBHHCxI4ZAMnMHYY66XUQUFK_FZFkQJ3nW8XYlG6U5GxLL-o21CvZFNeOkZsHH41KlaVGYR3Ne26PZjeyK318yCFpZnxqFgp-e7qU1XitrcF7ODwc1znYAw2r2MioIePdJs4eQdHMmdBEmDqbq-YicStLUsU1_842g/s1600/breachlock.jpg"
-    },
-    {
       "title": "Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
       "description": "Attackers are actively targeting various sectors across nearly 200 countries and already have compiled a list of working credentials for tens of thousands of compromised devices.",
@@ -683,15 +728,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6769d2c3991b5331/6a3282b9bd5a9a1a504483c3/fortinet_Lutsenko_Oleksandr_shutterstock.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Malicious JetBrains Plugins Steal AI API Keys as Chrome Extensions Capture Chatbot Chats",
-      "link": "https://thehackernews.com/2026/06/malicious-jetbrains-plugins-steal-ai.html",
-      "description": "Cybersecurity researchers have flagged a \"coordinated malware campaign\" on the JetBrains Marketplace that has published no less than 15 malicious plugins capable of exfiltrating artificial intelligence (AI) provider keys. \"Every plugin poses as an AI coding assistant built on DeepSeek and other large language models, offering chat, commit messages, code review, bug finding, and unit tests,\"",
-      "pubDate": "2026-06-17T13:51:58.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2aRb82ydrk_lAXr6Yy-GmrPfQSaIuCNYTtB8dFm02DZWhJVj3bmjB3WLhWDUtiFmrGC3lHdeLfA2NtC6oHKJDAdW7ot4f3HQDyLw2Ep3q49BnOkuBWOPP2OuN1I1HNFknxPyQNpEZEnEt-8KhV2nx_HcaEiBm8Rdh7blevc3I1GjuBMLL1xOpJThFuJpE/s1600/hi.jpg"
     },
     {
       "title": "AI Use by the US Government",
@@ -982,29 +1018,11 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93b107611e96e744/6a2beaf16b9ea711f9a55d27/zenith-live26-zscaler.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Max-Severity Ivanti Flaw Exploited 24 Hours After Disclosure",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/max-severity-ivanti-sentry-flaw-exploited-24-hours",
-      "description": "Initial methods suggest attackers had likely mapped out Ivanti's asset landscape upfront and acted quickly once the exploit became public.",
-      "pubDate": "2026-06-11T18:43:57.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt93702e2124ff952d/6a2b02be878b01264829203a/vulnerability-gorodenkoff-Getty-817486068.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Silent Ransom Group: what you need to know",
       "link": "https://www.fortra.com/blog/silent-ransom-group-what-you-need-know",
       "description": "Most extortion gangs hide behind a keyboard. Silent Ransom Group will phone your staff pretending to be IT support - and if that fails, send someone to your office in person to plug in a USB stick. Read more in my article on the Fortra blog.",
       "pubDate": "2026-06-11T15:43:50.000Z",
       "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Enhanced License Plate Tracking",
-      "link": "https://www.schneier.com/blog/archives/2026/06/enhanced-license-plate-tracking.html",
-      "description": "The surveillance company Leonardo wants more data: A surveillance company plans to add sensors to automatic license plate readers (ALPRs) that would mean the devices, as well as capture the license plate of passing vehicles, would also sweep up unique identifiers of mobile phones, wearables, and other Bluetooth-enabled devices in those cars, potentially letting law enforcement identify specific drivers or passengers. The technology, called SignalTrace, would turn ALPR cameras from devices focused on tracking cars to ones that can more readily track the location of particular people. ALPR camer",
-      "pubDate": "2026-06-11T11:01:19.000Z",
-      "source": "Schneier on Security",
       "category": "opinion",
       "image": null
     },
@@ -1081,15 +1099,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Cloud_cybersecurity_research_Overview_1920x900.jpg"
     },
     {
-      "title": "Reconstructing AI activity in investigations",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/09/reconstructing-ai-activity-investigations/",
-      "description": "Learn how to investigate AI activity in Microsoft 365 Copilot and Azure AI services using a structured, telemetry-driven approach. This playbook helps security teams reconstruct events, assess data exposure, and detect potential threats faster. The post Reconstructing AI activity in investigations appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-09T17:35:06.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/05/MS_Actional-Insights_AI.png"
-    },
-    {
       "title": "Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257",
       "link": "https://unit42.paloaltonetworks.com/active-exploitation-of-pan-os-cve-2026-0257/",
       "description": "We include indicators of activity and mitigations for PAN-OS vulnerability CVE-2026-0257. The post Threat Brief: Active Exploitation of PAN-OS CVE-2026-0257 appeared first on Unit 42.",
@@ -1101,15 +1110,6 @@
     {
       "title": "CrowdStrike 2026 Technology Threat Landscape Report: China&rsquo;s Ambitions Fuel Attacks",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-2026-technology-threat-landscape-report/",
-      "description": "",
-      "pubDate": "2026-06-09T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "June 2026 Patch Tuesday: Microsoft Patches 206 Vulnerabilities Including Three Publicly Disclosed Zero-Days",
-      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-june-2026/",
       "description": "",
       "pubDate": "2026-06-09T05:00:00.000Z",
       "source": "CrowdStrike Blog",
