@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-24T00:01:16.913Z",
+  "generatedAt": "2026-06-24T08:24:07.757Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Webinar Today: Modern Exposure Validation in the AI Era",
+      "link": "https://www.securityweek.com/webinar-today-modern-exposure-validation-in-the-ai-era/",
+      "description": "The exploit timeline collapsed. Make sure your validation didn't. The post Webinar Today: Modern Exposure Validation in the AI Era appeared first on SecurityWeek.",
+      "pubDate": "2026-06-24T08:04:37.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/picus_security_624-scaled.jpg"
+    },
+    {
+      "title": "Cisco Unified CM Flaw Exploited After PoC Reveals File-Write Path to Root",
+      "link": "https://thehackernews.com/2026/06/cisco-unified-cm-flaw-exploited-after.html",
+      "description": "Threat actors have begun to exploit a recently disclosed critical security flaw impacting Cisco Unified Communications Manager (Unified CM) and Unified Communications Manager Session Management Edition (Unified CM SME). The vulnerability, tracked as CVE-2026-20230 (CVSS score: 8.6), is a case of improper input validation for specific HTTP requests that could allow an unauthenticated, remote",
+      "pubDate": "2026-06-24T06:50:38.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEivauBSNOsDqBHvUFSnF1NdlWJ8BAt2JVgIo_ZUQhBkVppSz0PvkEmrc9RP1hMf2-oFFRgr5PNm7pxLmPngAJHcxV6-F3e43bEqmdEg38013JmlUKDlGVOLQTj6bYbyk_R7WXBqbW3o2yPHdosqz7nncLivqDqXGAuiTFcHkPqiVPBJuDHlsvYWtEreVmk_/s1600/cc.jpg"
+    },
+    {
+      "title": "Hackers Exploiting Cisco Unified CM Vulnerability",
+      "link": "https://www.securityweek.com/hackers-exploiting-cisco-unified-cm-vulnerability/",
+      "description": "Cisco noted that a PoC had been available for CVE-2026-20230 when it announced patches in early June. The post Hackers Exploiting Cisco Unified CM Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-06-24T05:44:15.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Cisco-network-switch-exploit.webp"
+    },
+    {
+      "title": "Weekly Update 509",
+      "link": "https://www.troyhunt.com/weekly-update-509/",
+      "description": "I know enough about home cinema audiovisual to know there's a lot I don't know. It's conscious incompetence, if you like, which is different to the unconscious incompetence most people have on the topic. That's not to sound derogatory (it's",
+      "pubDate": "2026-06-24T05:17:32.000Z",
+      "source": "Troy Hunt",
+      "category": "opinion",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template-1.jpg"
+    },
+    {
+      "title": "Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says",
+      "link": "https://www.securityweek.com/anthropics-mythos-model-found-vulnerabilities-in-classified-us-government-systems-official-says/",
+      "description": "Come vulnerabilities were found within hours, but that does not mean the model was able to exploit them within that time, the official said. The post Anthropic’s Mythos Model Found Vulnerabilities in Classified US Government Systems, Official Says appeared first on SecurityWeek.",
+      "pubDate": "2026-06-24T03:29:58.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Claude-Mythos.jpeg"
+    },
     {
       "title": "OpenClaw’s Skill Marketplace and the Emerging AI Supply Chain Threat",
       "link": "https://unit42.paloaltonetworks.com/openclaw-ai-supply-chain-risk/",
@@ -271,24 +316,6 @@
       "image": null
     },
     {
-      "title": "Russian Initial Access Broker Behind FortiBleed Campaign",
-      "link": "https://www.securityweek.com/russian-initial-access-broker-behind-fortibleed-campaign/",
-      "description": "Using a custom sniffer, the threat actor has captured over 110 million credentials since at least February 2026. The post Russian Initial Access Broker Behind FortiBleed Campaign appeared first on SecurityWeek.",
-      "pubDate": "2026-06-23T10:30:46.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Russian-hacking.jpeg"
-    },
-    {
-      "title": "Canadian Electricity Provider London Hydro Discloses Data Breach",
-      "link": "https://www.securityweek.com/canadian-electricity-provider-london-hydro-discloses-data-breach/",
-      "description": "Hackers stole customers’ names, addresses, email addresses, phone numbers, and account information. The post Canadian Electricity Provider London Hydro Discloses Data Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-06-23T09:25:22.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2021/01/Powerplant.jpg"
-    },
-    {
       "title": "Malicious npm Packages Pose as PostCSS Tools to Deliver Windows RAT",
       "link": "https://thehackernews.com/2026/06/malicious-npm-packages-pose-as-postcss.html",
       "description": "Cybersecurity researchers have discovered a set of malicious npm packages that are designed to deliver a Windows-based remote access trojan (RAT). The list of identified packages, is below - aes-decode-runner-pro (145 downloads) postcss-minify-selector (256 downloads) postcss-minify-selector-parser (615 downloads) All the packages were published over the past month by an npm user named",
@@ -296,15 +323,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiENcFC1DFPXKuRCT_WmSwq-wpzC8IcZUdZzu5IHi597n77W8LFs9qSUdDPCuMK9QzkRZEBMbBh4p2xhnI1OXZu4akIgR5suIv_yRA7AtEkojDcyXaU5x0UiZKRDRvTn0n0wy9HIQnhJj9zUO0rpemNOFNZEmMl4NQsCj5aDEpDrqXUkivsOX1QoLRqeKZh/s1600/npmm.jpg"
-    },
-    {
-      "title": "Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration",
-      "link": "https://www.securityweek.com/trump-signs-executive-order-accelerating-post-quantum-cryptography-migration/",
-      "description": "Federal agencies are required to transition high-value assets and high-impact systems to use PQC by the end of 2030 and 2031. The post Trump Signs Executive Order Accelerating Post-Quantum Cryptography Migration appeared first on SecurityWeek.",
-      "pubDate": "2026-06-23T08:43:05.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/quantum.jpg"
     },
     {
       "title": "WhatsApp VBScript Campaign Uses Fake Documents to Install ManageEngine RMM Tool",
@@ -638,15 +656,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt368fb61be2c4bf64/6a34273238f14f38f45b132a/sliced-pie-Pixel-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "From Assistive to Agentic: The AI Shift That's Redefining Threat Management",
-      "link": "https://thehackernews.com/2026/06/from-assistive-to-agentic-ai-shift.html",
-      "description": "Introduction The average enterprise security team has 40 or more security tools, giving a lot of visibility into internal telemetry and asset data. But often, these tools are working in siloes, generating (overlapping) alerts and data. And yet, breach dwell times remain stubbornly long (~43 days), response windows keep closing before teams can act, and analysts burn out triaging noise instead",
-      "pubDate": "2026-06-19T11:58:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaBfyINQL8sJZiLP4VnJgWMBOmH-8zY01vQ3E7OWZM9sdPvFQzOrFgaEpJOcRqODwrKDMXjt1HiKZmYYKF4pr22BBcbVBqx31coqBTKsgsf43CPEoW430X177toxpnfpVBTogjlrBMOrsLJgpERpCliEP4h5_2gyu3h2Dy_hJwiV6AI3nbKyp5NvNVgzQ/s1600/filigran-main.png"
     },
     {
       "title": "Anthropic’s Fable and the State of AI",
@@ -1412,15 +1421,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": null
-    },
-    {
-      "title": "Weekly Update 500",
-      "link": "https://www.troyhunt.com/weekly-update-500/",
-      "description": "Looking back at this milestone video, it's the audience question towards the end I liked most: \"are you happy\"? Charlotte and I have chosen a path that's non-traditional, intense and at times, pretty stressful. There's no clear delineation of when work",
-      "pubDate": "2026-04-21T23:51:44.000Z",
-      "source": "Troy Hunt",
-      "category": "opinion",
-      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/04/Splash-Template@1x_1-1.jpg"
     },
     {
       "title": "Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation",
