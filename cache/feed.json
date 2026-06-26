@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-26T00:14:28.258Z",
+  "generatedAt": "2026-06-26T08:46:01.450Z",
   "count": 204,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild",
+      "link": "https://www.securityweek.com/first-ever-exploitation-of-ptc-windchill-vulnerability-discovered-in-the-wild/",
+      "description": "CISA has added the remote code execution flaw CVE-2026-12569 to its Known Exploited Vulnerabilities catalog. The post First-Ever Exploitation of PTC Windchill Vulnerability Discovered in the Wild appeared first on SecurityWeek.",
+      "pubDate": "2026-06-26T08:15:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PLC-HMI-SCADA-ICS-industrial.jpeg"
+    },
+    {
+      "title": "New Enterprise-Ready MCP Specification Brings New Security Challenges",
+      "link": "https://www.securityweek.com/new-enterprise-ready-mcp-specification-brings-new-security-challenges/",
+      "description": "A major overhaul of the Model Context Protocol shifts critical security responsibilities from the protocol itself to developers and platform operators. The post New Enterprise-Ready MCP Specification Brings New Security Challenges appeared first on SecurityWeek.",
+      "pubDate": "2026-06-26T08:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/MCP_Vulnerability.jpg"
+    },
+    {
+      "title": "Google Details Turla's New STOCKSTAY Backdoor Used in Ukraine Espionage Attacks",
+      "link": "https://thehackernews.com/2026/06/google-details-turlas-new-stockstay.html",
+      "description": "The Russian state-sponsored threat actor known as Turla has been attributed to a previously undocumented .NET backdoor called STOCKSTAY that has been deployed against government and military organizations in Ukraine, and entities that have an interest in Italian foreign policy. Describing the Windows backdoor as continually developed by the hacking group, Google Threat Intelligence Group (",
+      "pubDate": "2026-06-26T07:15:46.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9SthtlfUvEkaX0iZanYdYTAOV5hgm44yCwHu_3GCaoa11rO-GkO9oc0_qN9JGw2n86dsEsN_sdaYt2ra_4I_dQ57ja0kiUeYtkg1eY8ZJtu45oKtN-TqWLdKudnJPFQQFGPReCfu1xcfHGgfqgtLe8zyFlEoMnO2AwnsEsosf9LCZS9gJHq58Q8OcPlWP/s1600/STOCKSTAY.jpg"
+    },
+    {
+      "title": "Philip Martin Joins Uber as Chief Information Security Officer",
+      "link": "https://www.securityweek.com/philip-martin-joins-uber-as-chief-information-security-officer/",
+      "description": "Martin brings experience from Coinbase, Palantir, Amazon, and the U.S. Army to lead Uber's cybersecurity and enterprise security organization. The post Philip Martin Joins Uber as Chief Information Security Officer appeared first on SecurityWeek.",
+      "pubDate": "2026-06-26T05:13:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/05/Uber-CSO_Convicted-Joe-Sullivan.jpg"
+    },
     {
       "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
@@ -298,24 +334,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2023/08/NIST_CSF.jpg"
     },
     {
-      "title": "Chrome 149 Update Resolves 18 Severe Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-149-update-resolves-18-severe-vulnerabilities/",
-      "description": "More than half of the bugs are use-after-free defects, which can potentially lead to remote code execution. The post Chrome 149 Update Resolves 18 Severe Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-06-25T07:56:03.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Chrome.jpeg"
-    },
-    {
-      "title": "Cisco SD-WAN Zero-Day Exploited Months Before Patching",
-      "link": "https://www.securityweek.com/cisco-sd-wan-zero-day-exploited-months-before-patching/",
-      "description": "CVE-2026-20245, the 7th Cisco SD-WAN vulnerability exploited in 2026, was used for months prior to its disclosure and patching. The post Cisco SD-WAN Zero-Day Exploited Months Before Patching appeared first on SecurityWeek.",
-      "pubDate": "2026-06-25T06:08:43.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Cisco-switches-network.jpeg"
-    },
-    {
       "title": "Cisco Catalyst SD-WAN Zero-Day CVE-2026-20245 Exploited to Gain Root Access",
       "link": "https://thehackernews.com/2026/06/cisco-catalyst-sd-wan-zero-day-cve-2026.html",
       "description": "An unknown threat actor exploited a recently disclosed high-severity security flaw impacting Cisco Catalyst SD-WAN as a zero-day at least two months before it was publicly disclosed, according to new findings from Google-owned Mandiant. The vulnerability, tracked as CVE-2026-20245 (CVSS score: 7.8), allows an authenticated, local attacker to execute arbitrary commands with elevated privileges",
@@ -404,15 +422,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/Security-2.webp"
-    },
-    {
-      "title": "When Information Becomes the Attack Surface – Understanding AI Agent Traps",
-      "link": "https://www.securityweek.com/when-information-becomes-the-attack-surface-understanding-ai-agent-traps/",
-      "description": "From hidden content injections to cognitive state poisoning, attackers are turning trusted data sources into traps for autonomous AI. The post When Information Becomes the Attack Surface – Understanding AI Agent Traps appeared first on SecurityWeek.",
-      "pubDate": "2026-06-24T17:37:57.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/AI_Risk-970x250-v2.jpg"
     },
     {
       "title": "CISA Warns Critical Lantronix EDS5000 Flaw Is Being Actively Exploited",
@@ -764,15 +773,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8sz7SHbQd4E8HNEKbvGGSYhPpJrUydP_gCRt_mWYYTr6QHLmChyphenhyphenca6BXhLBXA4OyKw-eS9xbqRqpKcYWFqDp4HoLBYKjVdWzhF0K1pqjX2bPtB91y1P1PZ8gh5r7Bpp-PIeUJVi_Hki91Qf6YjFAtFmf-qh7V9gNzmbEh_A2lISCvCDnNMALAuiqAlkL_/s1600/loader.jpg"
-    },
-    {
-      "title": "Google Sets Sept. 30 Deadline for Android Developer Verification in Four Countries",
-      "link": "https://thehackernews.com/2026/06/google-sets-sept-30-deadline-for.html",
-      "description": "Google has set September 30, 2026, as the day it begins enforcing Android developer verification in the first four countries, and the major device-maker app stores are in from the start. On that date, certified Android phones in Brazil, Indonesia, Singapore, and Thailand will block normal installs of apps whose developers have not registered an identity with Google, whether the app",
-      "pubDate": "2026-06-22T12:45:08.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEisV9q8kKe0eopbInTHgwScUvzjKlnPTpk74j7M6F-6BH46hVr9wcadvztA2RYJdKDQDzpV89bN4wH0hEL9qTfIh2_4f3FEIT1OWwSeYehcOb-sVNNkEshTBBC6qviBMlFuwMXQL2iG_VVVBaT6NoGnbdcVBfcMm61T6NosKLtOdMgIebKCRh7hukQxIOk/s1600/playstore.jpg"
     },
     {
       "title": "Professional Athletes and Wearables",
