@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-25T19:28:02.923Z",
+  "generatedAt": "2026-06-26T00:14:28.258Z",
   "count": 204,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,87 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Anthropic is testing desktop-like Claude Cowork for mobile",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-is-testing-desktop-like-claude-cowork-for-mobile/",
+      "description": "Anthropic appears to be testing Claude Cowork support on mobile, allowing you to manage long-running Claude tasks from your phone. [...]",
+      "pubDate": "2026-06-25T22:53:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
+    },
+    {
+      "title": "Poland busts SIM-swapping gang tied to millions in crypto theft",
+      "link": "https://www.bleepingcomputer.com/news/security/poland-busts-sim-swapping-gang-tied-to-millions-in-crypto-theft/",
+      "description": "Authorities in Poland have arrested four members of an organized cybercrime group accused of breaching telecommunications partners and hijacking email accounts to carry out SIM-swapping attacks. [...]",
+      "pubDate": "2026-06-25T22:37:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/arrest.jpg"
+    },
+    {
+      "title": "Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/25/photo-zip-campaign-targeting-hospitality-industry-delivers-node-js-implant-persistent-access/",
+      "description": "Microsoft Threat Intelligence identified an active multi-stage intrusion campaign targeting hospitality organizations in Europe and Asia. The campaign uses photo-themed ZIP archives and fake image shortcut files to deliver a persistent Node.js implant and evade detection. The post Photo ZIP campaign targeting hospitality industry delivers Node.js implant for persistent access appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-06-25T22:30:29.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-52.webp"
+    },
+    {
+      "title": "CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure",
+      "link": "https://unit42.paloaltonetworks.com/cl-sta-1062-tinyrct-backdoor/",
+      "description": "Government entities and critical infrastructure were targeted for espionage in SE Asia by attackers using a hybrid toolkit, including custom TinyRCT backdoor. The post CL-STA-1062 Targets Southeast Asian Governments and Critical Infrastructure appeared first on Unit 42.",
+      "pubDate": "2026-06-25T22:00:52.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg"
+    },
+    {
+      "title": "In Less Than 24 Hours, Attackers Weaponize Cisco CUCM Flaw",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/less-than-24-hours-attackers-weaponize-cisco-cucm-flaw",
+      "description": "The flaw enables server-side request forgery (SSRF) and escalates privileges to root, impacting Cisco Unified CM and Unified CM SME deployments.",
+      "pubDate": "2026-06-25T21:54:34.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfdd5607b561f0591/6a3d9511d5c6b885ac175e9e/cisco_Sergiy_Palamarchuk_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Russian APT 'Gamaredon' Upgrades Its Arsenal, Requiring New Defenses",
+      "link": "https://www.darkreading.com/threat-intelligence/russia-apt-gamaredon-arsenal-defense",
+      "description": "The FSB state-sponsored operation has gotten a lot better at loading its malware and hiding its servers.",
+      "pubDate": "2026-06-25T21:12:01.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd750a2c59eb07ea7/6a3d78c6918bcf634cc30013/Russia_Ukraine-Gwengoat-Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "EdTech Attackers Shift From Schools to Their Software Suppliers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/edtech-attackers-shift-schools-software-suppliers",
+      "description": "Educational institutions, the edtech companies they rely on, and, more concerningly, the challenges they pose for schools are the focus of the latest Reporters' Notebook video series.",
+      "pubDate": "2026-06-25T20:34:14.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaf3f5c478af04e8e/64f15f8a4aa0fc4337f57a56/school_data_.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Order-tracking app Shop abused to push callback phishing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/order-tracking-app-shop-abused-to-push-callback-phishing-attacks/",
+      "description": "Threat actors are increasingly abusing Shop, the order-tracking app from Shopify, by adding fake purchase receipts in users' order histories to trick them into providing sensitive data or installing remote access software. [...]",
+      "pubDate": "2026-06-25T19:45:48.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/25/shop.jpg"
+    },
+    {
+      "title": "Local Police Collusion Hampers Crackdown on Asian Scam Centers",
+      "link": "https://www.darkreading.com/threat-intelligence/police-collusion-crackdown-asian-scam-centers",
+      "description": "With tens of billions of dollars flowing into regional economies from cybercrime, scam centers continue to flourish, despite international and law-enforcement efforts.",
+      "pubDate": "2026-06-25T19:07:41.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt721fdc64be81c12c/6a3c4c65fdbe062a481b8a46/scam-compound-T01c-SEZ-Amnesty_International.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Microsoft quietly extends free Windows 10 ESU support to October 2027",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-quietly-extends-free-windows-10-esu-support-to-october-2027/",
@@ -379,15 +460,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2022/05/05/malware-header.jpg"
     },
     {
-      "title": "Securing the service desk: Why social engineering attacks keep succeeding",
-      "link": "https://www.bleepingcomputer.com/news/security/securing-the-service-desk-why-social-engineering-attacks-keep-succeeding/",
-      "description": "Service desks have become a favored target for attackers seeking password resets, MFA changes, and access to corporate accounts. Specops Software breaks down how service desk social engineering attacks work and how organizations can defend against them. [...]",
-      "pubDate": "2026-06-24T14:02:12.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/06/16/specops-help-desk-header.jpg"
-    },
-    {
       "title": "Cordyceps CI/CD Flaws Expose 300+ GitHub Repositories to Supply-Chain Attacks",
       "link": "https://thehackernews.com/2026/06/cordyceps-cicd-flaws-expose-300-github.html",
       "description": "Cybersecurity researchers have flagged a new class of CI/CD workflow weakness that allows attackers to hijack workflows and compromise open-source supply chains. The \"critical exploitable pattern\" has been codenamed Cordyceps by Novee Security. The issue can allow full attacker control of repositories at dozens of the largest organizations worldwide, including Microsoft, Google, Apache, and",
@@ -433,15 +505,6 @@
       "image": null
     },
     {
-      "title": "Stealthy Mistic backdoor linked to ransomware access broker KongTuke",
-      "link": "https://www.bleepingcomputer.com/news/security/stealthy-mistic-backdoor-linked-to-ransomware-access-broker-kongtuke/",
-      "description": "A new backdoor dubbed Mistic has been observed in financially motivated attacks targeting organizations in the insurance, education, IT, and professional services sectors. [...]",
-      "pubDate": "2026-06-24T10:41:51.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/02/12/ransomware-3.jpg"
-    },
-    {
       "title": "DoJ Seizes Huione Cloud Account Tied to Cyber Scam Money Laundering",
       "link": "https://thehackernews.com/2026/06/doj-seizes-huione-cloud-account-tied-to.html",
       "description": "The U.S. Department of Justice (DoJ) on Tuesday announced the seizure of a cloud computing account put to use by subsidiaries of Cambodia-based corporate conglomerate HuiOne Group, as the Treasury unveiled fresh sanctions against nine individuals and 26 entities linked to Prince Group. \"These subsidiaries are alleged to have assisted individuals and organizations in transferring proceeds of",
@@ -485,15 +548,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_768915868-1.jpg"
-    },
-    {
-      "title": "Cisco Unified CM flaw CVE-2026-20230 now exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-unified-cm-sme-flaw-cve-2026-20230-now-exploited-in-attacks/",
-      "description": "A high-severity SSRF vulnerability, tracked as CVE-2026-20230, in Cisco Unified Communications Manager Server is now being exploited in attacks. [...]",
-      "pubDate": "2026-06-23T21:48:32.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/01/Cisco-logo.jpg"
     },
     {
       "title": "Scope of Salesforce Attacks Expands as Icarus Leaks Data",
@@ -919,24 +973,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30281bed62eec4f7/6a32fc8a38f14f046f5b0e20/ransomware_lock-Just_Super-getty-2161221526.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Beyond the benchmark: Advancing security at AI speed",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/17/beyond-the-benchmark-advancing-security-at-ai-speed/",
-      "description": "Read how Microsoft Security has advanced its agentic vulnerability detection system, codename MDASH, integrating into real-world workflows across Windows, Azure, and identity systems. The post Beyond the benchmark: Advancing security at AI speed appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-17T19:30:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/MDASH-diagram-1.webp"
-    },
-    {
-      "title": "Sweeping Credential-Harvesting Heist Compromises 30K+ Fortinet Devices",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/sweeping-credential-harvesting-heist-compromises-30k-fortinet-devices",
-      "description": "Attackers are actively targeting various sectors across nearly 200 countries and already have compiled a list of working credentials for tens of thousands of compromised devices.",
-      "pubDate": "2026-06-17T14:06:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6769d2c3991b5331/6a3282b9bd5a9a1a504483c3/fortinet_Lutsenko_Oleksandr_shutterstock.png?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "AI Use by the US Government",
       "link": "https://www.schneier.com/blog/archives/2026/06/ai-use-by-the-us-government.html",
       "description": "On 14 April, the Trump administration quietly acknowledged the widespread use of AI to automate government processes. The office of management and budget (OMB) disclosed a staggering 3,611 active or planned use cases for AI across the federal government. The list has ballooned by 70% from the one published in the final year of the Biden administration, and includes many disturbing-seeming plans to hand over sensitive governmental functions to AI. Scanning this list, many readers may find many causes for alarm. It represents a transfer of decision processes from human to machine on a massive sc",
@@ -946,15 +982,6 @@
       "image": null
     },
     {
-      "title": "UK Social Media Ban for Minors Has Privacy Experts Worried",
-      "link": "https://www.darkreading.com/cyber-risk/uk-social-media-ban-privacy-experts-worried",
-      "description": "The UK will ban adolescents under 16 years old from user-to-user social media platforms, despite age verification issues and privacy concerns.",
-      "pubDate": "2026-06-17T08:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt383eb6c33af28ca3/6a31c223a9a64d0008e86652/social-media-ban-UK-Samuel_Boivin-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "After Executive Order 14409: Next Steps for Securing AI",
       "link": "https://www.crowdstrike.com/en-us/blog/after-executive-order-14409-next-steps-for-securing-ai/",
       "description": "",
@@ -962,24 +989,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Fileless Phantom Stealer Targets Browser Credentials",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/fileless-phantom-stealer-targets-browser-credentials",
-      "description": "In addition to executing entirely in memory, the malware's infection chain incorporates other anti-analysis techniques designed to evade detection.",
-      "pubDate": "2026-06-16T22:26:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltadd77c0d4b04586d/6a31b475a17ff4000802a374/browser_Wirestock_Creators_shutterstpck.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Security Community Slams US Ban on Exporting Mythos, Fable",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/security-community-slams-us-ban-on-exporting-mythos-fable",
-      "description": "An open letter signed by dozens of security experts asked the government to reverse export restrictions on Anthropic's Claude Fable 5 and Mythos 5 models.",
-      "pubDate": "2026-06-16T22:00:06.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9052366ce100fbde/6a319e7db95bcb00087d45a5/containers_and_fence-takenobu-getty-503860814.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Flock Cameras Are Being Used for Stalking",
@@ -1304,15 +1313,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "Tracking Iranian APT Screening Serpens’ 2026 Espionage Campaigns",
-      "link": "https://unit42.paloaltonetworks.com/tracking-iran-apt-screening-serpens/",
-      "description": "Unit 42 details Screening Serpens' use of AppDomainManager hijacking and new RAT variants to target tech and defense sectors in recent campaigns. The post Tracking Iranian APT Screening Serpens’ 2026 Espionage Campaigns appeared first on Unit 42.",
-      "pubDate": "2026-05-22T13:00:42.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/05/Serpens-Iran-A-1920x900-2.png"
     },
     {
       "title": "Defenders fall behind, as AI rewrites the rules of a data breach",
