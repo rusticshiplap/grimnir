@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T09:25:08.557Z",
+  "generatedAt": "2026-07-01T15:19:32.120Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,132 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Turning Indicators into Intelligence in OpenCTI with Criminal IP",
+      "link": "https://www.bleepingcomputer.com/news/security/turning-indicators-into-intelligence-in-opencti-with-criminal-ip/",
+      "description": "Threat intelligence is only as useful as the context behind it. Criminal IP explains how its integration enriches threat indicators in OpenCTI with risk scoring, infrastructure intelligence, and phishing analysis. [...]",
+      "pubDate": "2026-07-01T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/06/27/opencti-criminalip-header-image.jpg"
+    },
+    {
+      "title": "Progress Kemp LoadMaster Pre-Auth RCE Flaw Faces Active Exploitation Attempts",
+      "link": "https://thehackernews.com/2026/07/latest-progress-kemp-loadmaster-pre.html",
+      "description": "A recently disclosed critical security flaw impacting Progress Kemp LoadMaster is seeing active exploitation attempts, according to an advisory from eSentire's Threat Response Unit (TRU). The Canadian cybersecurity company said it identified exploitation attempts targeting CVE-2026-8037 (CVSS score: 9.6), an operating system (OS) command injection flaw that could be exploited to achieve",
+      "pubDate": "2026-07-01T13:56:18.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
+    },
+    {
+      "title": "Safe Events Start With Threat Intel and Digital Security",
+      "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
+      "description": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
+      "pubDate": "2026-07-01T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb5a54e9ec66608df/6a441c188b73521f66a1d1a5/Dog_in_fourth_of_july_parade_Nathan_Bilow_Getty_Images.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
+      "description": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
+      "pubDate": "2026-07-01T12:59:19.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
+    },
+    {
+      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
+      "description": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
+      "pubDate": "2026-07-01T12:30:01.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/Oracle.jpg"
+    },
+    {
+      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
+      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
+      "description": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
+      "pubDate": "2026-07-01T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
+    },
+    {
+      "title": "Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-campaign-classic-vulnerabilities/",
+      "description": "Seven of the security defects have a maximum severity rating of 10/10 and could lead to arbitrary code execution. The post Adobe Patches Critical ColdFusion, Campaign Classic Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-07-01T11:27:07.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg"
+    },
+    {
+      "title": "Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack",
+      "link": "https://www.securityweek.com/citrix-patches-netscaler-vulnerabilities-including-new-http-2-bomb-attack/",
+      "description": "Citrix urges customers to patch NetScaler after fixing six vulnerabilities, including the HTTP/2 Bomb flaw and a high-severity CitrixBleed-style information disclosure bug. The post Citrix Patches NetScaler Vulnerabilities, Including New ‘HTTP/2 Bomb’ Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-07-01T11:20:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Citrix-zero-day.jpg"
+    },
+    {
+      "title": "Papa Johns Surveillance-Based Advertising",
+      "link": "https://www.schneier.com/blog/archives/2026/07/papa-johns-surveillance-based-advertising.html",
+      "description": "Papa Johns is spying on people’s buying activities to predict when they are low on food: The pizza chain recently tapped NBCUniversal, Instacart and the dentsu-owned media agency Carat for help reaching consumers when they’re low on groceries—and thus more likely to be swayed by a mouth-watering ad. The idea is to reach hungry consumers by “knowing what is in their fridge without being too creepy,” said Carrie Drinkwater, chief investment officer at Carat. To achieve that goal, NBCU and Instacart created a custom audience of shoppers who regularly purchase grocery staples on Instacart, such as",
+      "pubDate": "2026-07-01T10:53:23.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
+      "description": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
+      "pubDate": "2026-07-01T10:52:26.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
+    },
+    {
+      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
+      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
+      "description": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
+      "pubDate": "2026-07-01T10:41:36.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg"
+    },
+    {
+      "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
+      "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
+      "description": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype. The post Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors appeared first on SecurityWeek.",
+      "pubDate": "2026-07-01T10:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg"
+    },
+    {
+      "title": "Amazon fined $2.25M for withholding evidence from fraud victims",
+      "link": "https://www.bleepingcomputer.com/news/security/amazon-fined-225m-for-withholding-evidence-from-fraud-victims/",
+      "description": "The U.S. Federal Trade Commission (FTC) says Amazon will pay a $2.25 million civil penalty to settle charges that it blocked identity theft victims' access to transaction records. [...]",
+      "pubDate": "2026-07-01T09:43:27.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/15/amazon-logo.jpg"
+    },
+    {
+      "title": "Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari",
+      "link": "https://www.securityweek.com/apple-patches-dozens-of-vulnerabilities-across-ios-macos-and-safari/",
+      "description": "The updates fix vulnerabilities in WebKit, the kernel, WebRTC, Web Extensions, and other components affecting iPhone, iPad, Mac, and Safari users. The post Apple Patches Dozens of Vulnerabilities Across iOS, macOS, and Safari appeared first on SecurityWeek.",
+      "pubDate": "2026-07-01T09:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Apple-MacBook-iPhone.jpeg"
+    },
     {
       "title": "Dawnguard Raises $6.3 Million for Security Architecture Automation Platform",
       "link": "https://www.securityweek.com/dawnguard-raises-6-3-million-for-security-architecture-automation-platform/",
@@ -181,9 +307,9 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/PyPI.jpg"
     },
     {
-      "title": "Attackers Hijack Exposed AI Endpoints to Power Offensive Ops",
+      "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
       "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
-      "description": "Attackers don't need any special authentication to reach a target endpoint — they just need to know where it is.",
+      "description": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
       "pubDate": "2026-06-30T21:01:58.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -361,24 +487,6 @@
       "image": null
     },
     {
-      "title": "Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat",
-      "link": "https://www.securityweek.com/hacker-conversations-chris-thompson-former-head-of-ibm-x-force-red-co-founder-of-remotethreat/",
-      "description": "Chris Thompson's journey took him from hacking game controls as a teenager to founding IBM’s X-Force Red team. The post Hacker Conversations: Chris Thompson, Former Head of IBM X-Force Red, Co-Founder of RemoteThreat appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T12:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Hacker-Conversations-Chris-Thompson.jpeg"
-    },
-    {
-      "title": "Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History",
-      "link": "https://www.securityweek.com/supreme-court-rules-constitutional-privacy-protections-apply-to-cellphone-users-location-history/",
-      "description": "The ruling was made in the case of a bank robber whose identity was discovered through a geofence warrant. The post Supreme Court Rules Constitutional Privacy Protections Apply to Cellphone Users’ Location History appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T11:48:40.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/law-court-order-lawsuit-e1782819788980.jpg"
-    },
-    {
       "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
       "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
       "description": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
@@ -386,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
-    },
-    {
-      "title": "Exploitation of Recent Oracle E-Business Suite Vulnerability Begins",
-      "link": "https://www.securityweek.com/exploitation-of-recent-oracle-e-business-suite-vulnerability-begins/",
-      "description": "The critical-severity defect allows unauthenticated attackers to take over the E-Business Suite’s Payments product. The post Exploitation of Recent Oracle E-Business Suite Vulnerability Begins appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T11:29:48.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle-E-Business-Suite.jpeg"
     },
     {
       "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
@@ -433,15 +532,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/usb-drive-japan-flag.jpeg"
     },
     {
-      "title": "The AI Token Costs That Can Break Cybersecurity",
-      "link": "https://www.securityweek.com/the-ai-token-costs-that-can-break-cybersecurity/",
-      "description": "As cybersecurity platforms embrace agentic AI, organizations must balance detection performance against the escalating costs of token consumption, deployment architecture, and AI credits. The post The AI Token Costs That Can Break Cybersecurity appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T10:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Social_Engineering-Cyber-Insights.jpg"
-    },
-    {
       "title": "Kali Linux 2026.2 released with 9 new tools, NetHunter updates",
       "link": "https://www.bleepingcomputer.com/news/linux/kali-linux-20262-released-with-9-new-tools-nethunter-updates/",
       "description": "Kali Linux 2026.2, the second release of the year, is now available for download, featuring 9 new tools and numerous Kali NetHunter improvements. [...]",
@@ -451,15 +541,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Kali-Linux.jpg"
     },
     {
-      "title": "Blackfield ransomware asks Nidec Corporation for $2 million ransom",
-      "link": "https://www.bleepingcomputer.com/news/security/blackfield-ransomware-asks-nidec-corporation-for-2-million-ransom/",
-      "description": "The Blackfield ransomware gang is asking for a $2 million ransom from Nidec Corporation, a large Japanese manufacturer of electronic components for automotive and computing applications. [...]",
-      "pubDate": "2026-06-30T09:41:05.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/29/nidec.jpg"
-    },
-    {
       "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
       "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
       "description": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt. The same research found Quick Share flaws that",
@@ -467,15 +548,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
-    },
-    {
-      "title": "CISA: Windows BlueHammer flaw now exploited by ransomware gangs",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-windows-bluehammer-flaw-now-exploited-by-ransomware-gangs/",
-      "description": "CISA confirmed on Monday that ransomware gangs are now exploiting a Microsoft Defender privilege escalation vulnerability, dubbed BlueHammer, that has previously been abused in zero-day attacks. [...]",
-      "pubDate": "2026-06-30T08:53:13.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
     },
     {
       "title": "New BioShocking Attack Tricks AI Browsers Into Leaking User Credentials",
@@ -539,24 +611,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e7f8fc00f3ce97c/6a42c5e6f990b60082e51b44/India_cockroach_mask-Ritesh_Shukla-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Nissan discloses employee data breach linked to Oracle zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/nissan-discloses-employee-data-breach-linked-to-oracle-zero-day-attacks/",
-      "description": "Nissan is warning that it suffered a data breach affecting current and former employees after threat actors exploited an Oracle PeopleSoft vulnerability in data theft attacks previously linked to the ShinyHunters extortion group. [...]",
-      "pubDate": "2026-06-29T20:40:44.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/12/06/Nissan-1.jpg"
-    },
-    {
-      "title": "NAIC says public data stolen in ShinyHunters' PeopleSoft breach",
-      "link": "https://www.bleepingcomputer.com/news/security/naic-says-public-data-stolen-in-shinyhunters-peoplesoft-breach/",
-      "description": "The National Association of Insurance Commissioners (NAIC) says the ShinyHunters extortion group stole only publicly available data, outdated logs, and configuration files after breaching its systems by exploiting a zero-day vulnerability in an Oracle PeopleSoft server. [...]",
-      "pubDate": "2026-06-29T20:30:28.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/29/DataLeak.jpg"
     },
     {
       "title": "Can Clothes Make You Invisible to Facial Recognition?",
@@ -631,24 +685,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4479X60pqma2HNkNzrVQuQlGImd-48w4eYTTW-wylTLfK7XfLPtmNOMi79oy48LNiFg-4a_vqF378ZobR2Dy6VTO38VxbsFc_l8xQypwe-V43txSB7f73JS142E4uBXjrLKx0lcS-UOUMZ45kLeYgaqCjg2Je2TElLosoBvARIQpzam5q3ckk5CVXsoAF/s1600/india-china.jpg"
     },
     {
-      "title": "⚡ Weekly Recap: Linux Kernel Flaws, AI Malware Tricks, Turla Backdoor, Infostealers and More",
-      "link": "https://thehackernews.com/2026/06/weekly-recap-linux-kernel-flaws-ai.html",
-      "description": "This week was a reminder that attackers do not always need big tricks. One small mistake, one old access path, one missed patch, and suddenly the door is open. The noise is not all noise, either. Forums are talking, researchers are finding easy cracks, and defenders have more cleanup waiting. Here’s the full Monday recap. ⚡ Threat of the Week New DirtyClone Linux Kernel Flaw Lets Local",
-      "pubDate": "2026-06-29T14:41:07.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFXmUW2VYnBd5oSyq6V328rZOIdanacqm-k4Wae2x53iAvPb7YvO7rqDcfWTklR_skhgLDVTThASQvf4UATgFVoVy1iHddO0Nxp9zkhuVEROXkqDAEyyWZZWzMZLNy1apXbCj1xttx9kYI_jPbLmV5hmUHJEkS_Efo9GiFAg5snM_JNwWKDDbMW5wuvwyl/s1600/thn-recap-main.jpg"
-    },
-    {
-      "title": "236,000 DCloud Uni-App Sites Used in Crypto Scams, Phishing, and Wallet Drainers",
-      "link": "https://thehackernews.com/2026/06/236000-dcloud-uni-app-sites-used-in.html",
-      "description": "New findings unearthed by Infoblox show that more than 236,000 websites are using investment scam templates built using a legitimate Chinese open-source, cross-platform application development framework called DCloud Uni-App. The templates power bogus cryptocurrency exchanges, multi-language pig-butchering operations, WhatsApp phishing networks, fake gambling platforms, brand-impersonation",
-      "pubDate": "2026-06-29T11:57:40.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhK82zgZh0edVIi1z4Rs0V9v_8tn_Mh_X6_H5TQYnFwEtbrE1dhjw5Z-9U99Lojet5RdcrIgwJK0bZusY4u22qKVFBzpCuHihAzXd4RNuJQGSxEfdNlBH4GFZYedXXohyQdbfNYIxr9LV6KFgUyX3CWVjfsOiIQRq3JEXmGRrR9afqsfMoeR-BH_kZmTCKd/s1600/phish-uni.jpg"
-    },
-    {
       "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
       "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
       "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
@@ -656,24 +692,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739efb26c97e2c21/6a4262393ad9ac7b4208de76/AI_agents_(1800)_Kiattisak_Lamchan_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Why Post-Quantum Cryptography Starts With Credentials",
-      "link": "https://thehackernews.com/2026/06/why-post-quantum-cryptography-starts.html",
-      "description": "Today’s encrypted data, such as credentials, may no longer remain confidential in the future because the public-key cryptography protecting it will soon be broken by quantum computers. Although no machine today can break elliptic curve cryptography or RSA, quantum hardware is advancing rapidly and will inevitably change how organizations protect their data. Ciphertext and credentials captured by",
-      "pubDate": "2026-06-29T11:42:16.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgufw7UrtG2RgRTMvdhUaNVywdIBuSIRFLngtWMIY_3fzq7gzTZnlL7KMi_kzPhfpdny4vP5Rd9QVLpkX9xR5Vpk0cVvDV8Xsy4wljRyA5TjKvojsoBsYJt7yhhk1VK46OegGewBgqi-c41Z5mX5Ivos1PMrgrrmgLZKUJ8hqb4xl8o85sB7jQJLvI3gj0/s1600/keeper.jpg"
-    },
-    {
-      "title": "Gamaredon Expands Ukraine Attacks with New Malware and Cloud Service Abuse",
-      "link": "https://thehackernews.com/2026/06/gamaredon-expands-ukraine-attacks-with.html",
-      "description": "A Russian advanced persistent threat (APT) group has continued to evolve and expand its malware arsenal as part of its ongoing cyber onslaught against Ukraine throughout 2025. Slovakian cybersecurity company ESET said it observed 35 distinct spear-phishing campaigns mounted by Gamaredon against new targets, with most of them taking place in the second half of the year. Primary targets of these",
-      "pubDate": "2026-06-29T11:40:24.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijvTMs5lEwRQ2ndqc7YNsz1eNQK0XuR_q4uSjl8tLZ8Nh8vA4WRKZsQhyphenhyphenUx1O0gR-QJtdvAj8LDEUaGscAEXAlA9_e9c0LNtEeV-6NJzdqEdGt0gb7mDEUBNmlMNI2L05YQ8lPXA6kNBFL4s7BsjiJSPD72fyhQq2fmYJwZBPQhyHI4PN_zvSrnxtRbRtI/s1600/uk.jpg"
     },
     {
       "title": "Robot Police Officers",
@@ -757,7 +775,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb28e347d4c1f6e89/678529a3a527d254da4ed749/open_source_(1800)_Wavebreakmedia_Ltd_FUS1407_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "AI Won't Wipe-Out Entry-Level Cybersecurity Jobs",
+      "title": "AI Won't Wipe Out Entry-Level Cybersecurity Jobs",
       "link": "https://www.darkreading.com/cybersecurity-operations/ai-wont-wipe-out-entry-level-cybersecurity-jobs",
       "description": "Instead of eliminating jobs for early-career cyber pros, AI is creating new opportunities for candidates with strong human decision-making skills.",
       "pubDate": "2026-06-26T16:00:00.000Z",
@@ -883,15 +901,6 @@
       "image": null
     },
     {
-      "title": "Europe Evolves Into Ransomware's Favorite Region",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/europe-evolves-ransomware-favorite-region",
-      "description": "After a global lull, ransomware gangs are setting sights on a rich new arena: attacking EU organizations and their suppliers.",
-      "pubDate": "2026-06-25T10:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7ef4b56117367b12/6a39ffe932b8b46be16e5a3d/Europe-imaginima-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Smashing Security podcast #473: How a hacker could have Rickrolled the entire World Cup",
       "link": "https://grahamcluley.com/smashing-security-podcast-473/",
       "description": "A polite caller from your bank says there is a problem with your account. Don't worry - they'll send someone round to help. They'll even take your cards away to keep them safe. The scam has run rampant, until Dutch police plastered blurred photos of 100 suspects across billboards, supermarkets, and TikTok, with a two-week ultimatum to turn themselves in... or else. Meanwhile, a security researcher called Bob DaHacker got her hands on the live broadcast controls for every match of the 2026 FIFA World Cup. She could have Rickrolled the entire planet, but actually spent days trying to find anyone",
@@ -962,15 +971,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/emergency-alert.jpeg"
-    },
-    {
-      "title": "Anthropic’s Fable 5 Model Jailbroken Within Days",
-      "link": "https://www.schneier.com/blog/archives/2026/06/anthropics-fable-5-model-jailbroken-within-days.html",
-      "description": "Fable 5 is the supposed safe version of Anthropic’s Mythos Preview, with guardrails to ensure that it can’t be used to create cyberattacks. Well, that restriction was bypassed within days.",
-      "pubDate": "2026-06-23T11:03:07.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
