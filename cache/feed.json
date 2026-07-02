@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-01T22:47:45.254Z",
+  "generatedAt": "2026-07-02T08:12:56.430Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
+      "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
+      "description": "Attackers are hiding a data-stealing trojan inside fake exploit code aimed at the people who hunt bugs for a living. The malware, called ChocoPoC, travels in Python proof-of-concept (PoC) repositories on GitHub that claim to exploit hot new CVEs. Run one, and it quietly lifts your saved passwords, browser cookies, and files, then hands the attacker a shell on your machine. YesWeHack and",
+      "pubDate": "2026-07-02T07:24:23.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjd_BdKzn7-7TCZJfnsZBy25kGm8xiQTrJquj8vMVsjlRXf7LXqMiJLQs8ic-lNLRc51whJzP-B4Nv9OOzfgOSHKzmIjZFv0krEDBuSeuXXNj-OccwbpBBBBIofZFMBT4DaThqLeE2Bsx-Nkp8aZZfEs6tVB43kby1L5UbtPjauqfedlANNzOYGrNB7ec5o/s1600/fake.jpg"
+    },
+    {
+      "title": "SharePoint RCE CVE-2026-45659 Added to CISA KEV After Active Exploitation",
+      "link": "https://thehackernews.com/2026/07/sharepoint-rce-cve-2026-45659-added-to.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a high-severity flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. The vulnerability, tracked as CVE-2026-45659 (CVSS score: 8.8), is a case of remote code execution arising from the deserialization of untrusted data. The issue",
+      "pubDate": "2026-07-02T05:46:45.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgMEHDpcGNoddFf8yfkJ1L21X61VSA66xZiVjYA5qdfJpZ8tyWxzRy7Il8fwcY59pRUm7mlNChrPHhjySmFLV-dHEIdZiOXj0ZDQ9Wv8yxgfU8qKm_ga3kYcNer9z85cj7KwtYkRuxGtPaNUL0ebiuM2SILSWMVr-fZtnVFejlJ24h48ECds-iMQBTW3vHb/s1600/cisa-ms.jpg"
+    },
+    {
+      "title": "Medtronic notifies customers impacted by ShinyHunters data breach",
+      "link": "https://www.bleepingcomputer.com/news/security/medtronic-notifies-customers-impacted-by-shinyhunters-data-breach/",
+      "description": "Healthcare device firm Medtronic is notifying affected customers about a data breach that exposed their personal data to an unauthorized third party. [...]",
+      "pubDate": "2026-07-02T04:25:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/Medtronic.jpg"
+    },
+    {
+      "title": "Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?",
+      "link": "https://grahamcluley.com/smashing-security-podcast-474/",
+      "description": "Polymarket has built an entire business on predicting the future. So how did it manage to spectacularly fail to predict its own hack? Plus, the Google engineer with a million-dollar secret, and the curious case of the airport hairdryer. Meanwhile, \"FortiBleed\" sees 75,000 Fortinet firewalls thrown wide open - and the real damage is going to roll on for years. All this and more in episode 474 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Quentyn Taylor.",
+      "pubDate": "2026-07-01T23:12:11.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-474.webp"
+    },
     {
       "title": "FortiBleed credential-theft campaign linked to Lynx ransomware",
       "link": "https://www.bleepingcomputer.com/news/security/fortibleed-credential-theft-campaign-linked-to-lynx-ransomware/",
@@ -208,7 +244,7 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb5a54e9ec66608df/6a441c188b73521f66a1d1a5/Dog_in_fourth_of_july_parade_Nathan_Bilow_Getty_Images.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows and Android",
+      "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "description": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
       "pubDate": "2026-07-01T12:59:19.000Z",
@@ -442,15 +478,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1ba7210c1f0edf4a/6a442df2e749ef69cda01e97/agent_forestgraphic_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft accelerates quantum-safe roadmap as risks grow",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-accelerates-quantum-safe-roadmap-as-risks-grow/",
-      "description": "Microsoft announced today that it is accelerating its quantum-safe security roadmap, saying advances in quantum computing are bringing the need to replace today's encryption standards sooner than previously expected. [...]",
-      "pubDate": "2026-06-30T21:20:06.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/07/Microsoft.jpg"
-    },
-    {
       "title": "Scammers race to cash in on Venezuelan earthquake disaster",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/scammers-cash-in-venezuela-earthquake",
       "description": "Scammers wasted no time exploiting Venezuela's devastating earthquake, with researchers uncovering 212 newly-registered relief-themed domains in just five days. Read more in my article on the Hot for Security blog.",
@@ -622,15 +649,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
     },
     {
-      "title": "Attackers Exploit SimpleHelp CVE-2026-48558 to Deploy TaskWeaver and Djinn Stealer",
-      "link": "https://thehackernews.com/2026/06/attackers-exploit-simplehelp-cve-2026.html",
-      "description": "An unknown threat actor has been observed exploiting a recently disclosed maximum-severity security flaw in SimpleHelp to deliver two previously unreported malware families, TaskWeaver and Djinn Stealer. The intrusion involves the exploitation of CVE-2026-48558 (CVSS score: 10.0), a critical authentication bypass vulnerability impacting the OpenID Connect (OIDC) flow that an unauthenticated",
-      "pubDate": "2026-06-30T11:18:47.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgEid1CxvsX2dPrKoA1VzJ6PUhwrXxvSC4ehRmgyaRRCJlP_MFSeOxvwrT2ODJSbQx3E-7bBwBG4YpP3CQGLzojfXEveOgwZgUlcCSf-trk_G0k0Q1_nz4rb1nbRfhXgijfZ9eLDT8v_ATsmqz5AnbNgBuGX7UIc3YwAw1hYZwvzp5Z0eopWNRqTs4W3bP3/s1600/help-hackers.jpg"
-    },
-    {
       "title": "USB drives carrying China-linked malware infected Japanese military networks for nearly a year",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year",
       "description": "Read more in my article on the Hot for Security blog.",
@@ -638,15 +656,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/usb-drive-japan-flag.jpeg"
-    },
-    {
-      "title": "AirDrop and Quick Share Flaws Let Nearby Attackers Trigger Crashes and Bypass Checks",
-      "link": "https://thehackernews.com/2026/06/airdrop-and-quick-share-flaws-let.html",
-      "description": "Two researchers have found six security flaws in AirDrop and Quick Share, the wireless features that beam files between nearby devices with no cables or shared network. An attacker within wireless range, with just a laptop and no prior connection, can crash the sharing service on a Mac or iPhone set to receive from anyone, with no tap or prompt. The same research found Quick Share flaws that",
-      "pubDate": "2026-06-30T09:27:58.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCyrr25-wXst4kOLIEi1-Q1d5XMVDCvWqUacEoSRsLn6C5CbKoXGLb4nzTB-DVr9cLOkyuIT5wyMrQICAVhQFlTsXrR_Ng9CBBXPZGeK_rLtOVXh5C8CsrZHaGyJ5WukGI3vTpMOw1S09_U9j_s5rzEFcYq55g7ZmOthGTPw5XxJJkALMH9VOxr0DjX8Vi/s1600/share-ai.jpg"
     },
     {
       "title": "Browser Security: Zero-Days Are Only Part of the Problem",
@@ -1351,15 +1360,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Splash-Template@1x_1.jpg"
     },
     {
-      "title": "Defenders fall behind, as AI rewrites the rules of a data breach",
-      "link": "https://www.fortra.com/blog/defenders-fall-behind-ai-rewrites-rules-data-breach",
-      "description": "For almost 20 years, stolen credentials have been the most common route for attackers into organizations, according to the Verizon Data Breach Investigations Report (DBIR). But that's no longer the case. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-05-21T17:13:28.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Weekly Update 504",
       "link": "https://www.troyhunt.com/weekly-update-504/",
       "description": "It's a hot topic, the old \"pay or don't pay\" for hackers not to leak your data. Since recording this a few days ago, we've had Grafana go with the \"no pay\" approach, and I've seen a raft",
@@ -1510,7 +1510,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
+      "image": null
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
