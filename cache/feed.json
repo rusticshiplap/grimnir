@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T13:17:54.531Z",
+  "generatedAt": "2026-07-02T15:41:22.298Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,42 @@
   ],
   "items": [
     {
+      "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
+      "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
+      "description": "This week’s security news is mostly about weak spots. Browsers, bots, sandboxes, AI systems, and email flows all show the same problem in different ways. Everything looks normal until someone tests a small gap and finds a way through. This is not one big break. It is small permissions, weak checks, open systems, and normal tools doing things they were allowed to do. That same pattern runs",
+      "pubDate": "2026-07-02T15:24:18.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMzwXbN53zy07KSkFJL7uOzty4Pj7VgKS6lSwWWGSCppX0wEX5eY0ZLur2NiFcs-ByBBhbd1WZ270Y4VMMGL6WkvOIZ5MhyphenhyphenkDX2B45wiQue-W88oiF_-RZs0HxvrvcxCHI8Zhhv1-fqHDgnX-VLWk00gt463rQhyKY7Mzcd5STMCYeCUcyVri3aBSUpl2t/s1600/threatsday-board.jpg"
+    },
+    {
+      "title": "Google loses final appeal to overturn €4.1 billion EU fine",
+      "link": "https://www.bleepingcomputer.com/news/legal/google-loses-final-appeal-to-overturn-41-billion-eu-fine/",
+      "description": "Court of Justice of the European Union (CJEU) has dismissed Google's final appeal against a €4.1 billion ($4.7 billion) antitrust fine over the company's use of Android to promote its Chrome browser and search service. [...]",
+      "pubDate": "2026-07-02T15:18:51.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/06/Europe.jpg"
+    },
+    {
+      "title": "New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure",
+      "link": "https://www.securityweek.com/new-citrixbleed-vulnerability-exploited-immediately-after-public-disclosure/",
+      "description": "Hackers are targeting NetScaler appliances using public PoC code to retrieve arbitrary memory content in the HTTP response. The post New CitrixBleed Vulnerability Exploited Immediately After Public Disclosure appeared first on SecurityWeek.",
+      "pubDate": "2026-07-02T15:04:22.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+    },
+    {
+      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
+      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
+      "description": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
+      "pubDate": "2026-07-02T14:00:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/06/30/clickfix-header-s.jpg"
+    },
+    {
       "title": "How to Conduct a Successful Audit of AI-Driven Software Development",
       "link": "https://www.securityweek.com/how-to-conduct-a-successful-audit-of-ai-driven-software-development/",
       "description": "As AI-generated code becomes commonplace, CISOs need new audit strategies to measure developer practices, govern AI tool usage, and identify software risks before they reach production. The post How to Conduct a Successful Audit of AI-Driven Software Development appeared first on SecurityWeek.",
@@ -26,6 +62,15 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/09/AI_Jailbreak-LLM.jpeg"
+    },
+    {
+      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
+      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
+      "description": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
+      "pubDate": "2026-07-02T13:04:13.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
     },
     {
       "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
@@ -388,7 +433,7 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
     },
     {
-      "title": "Safe Events Start With Threat Intel and Digital Security",
+      "title": "Safe Events Start With Threat Intel &amp; Digital Security",
       "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
       "description": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
       "pubDate": "2026-07-01T13:00:00.000Z",
@@ -404,15 +449,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
-    },
-    {
-      "title": "Over 900 Oracle E-Business instances exposed to ongoing attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/over-900-oracle-e-business-instances-exposed-to-ongoing-attacks/",
-      "description": "Over 900 Oracle E-Business Suite (EBS) instances have been found exposed online amid ongoing attacks exploiting a critical security flaw. [...]",
-      "pubDate": "2026-07-01T12:30:01.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/Oracle.jpg"
     },
     {
       "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
@@ -451,15 +487,6 @@
       "image": null
     },
     {
-      "title": "Microsoft fixes GIF functionality in the Windows Emoji Panel",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-gif-functionality-in-the-windows-emoji-panel/",
-      "description": "Microsoft has fixed the GIF functionality in the Emoji Panel for Windows 11 users after the provider shut down its service. [...]",
-      "pubDate": "2026-07-01T10:52:26.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
-    },
-    {
       "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
       "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
       "description": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
@@ -467,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg"
-    },
-    {
-      "title": "Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors",
-      "link": "https://www.securityweek.com/frontier-ai-six-questions-every-enterprise-should-ask-security-vendors/",
-      "description": "From model selection and automation to validation and measurable results, the right questions can help enterprises separate genuine AI capabilities from marketing hype. The post Frontier AI: Six Questions Every Enterprise Should Ask Security Vendors appeared first on SecurityWeek.",
-      "pubDate": "2026-07-01T10:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg"
     },
     {
       "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
@@ -570,7 +588,7 @@
     {
       "title": "Why Identity Security Is Your Cyber Career Entry Point",
       "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
-      "description": "As AI reshapes cybersecurity workflows, John Paul Cunningham, CISO at Silverfort, says the technology is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into the essential field.",
+      "description": "In this \"Heard it From a CISO\" video, Silverfort CISO John Paul Cunningham explains that AI in cybersecurity workflows is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into this essential field.",
       "pubDate": "2026-06-30T19:11:40.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -631,15 +649,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-62.webp"
     },
     {
-      "title": "Langflow RCE Exploited to Deploy Monero Miner on Exposed AI App Endpoints",
-      "link": "https://thehackernews.com/2026/06/langflow-rce-exploited-to-deploy-monero.html",
-      "description": "Threat actors are continuing to exploit a critical Langflow vulnerability as part of fresh attacks designed to deliver a Monero cryptocurrency miner. The activity has been found to weaponize CVE-2026-33017 (CVSS score: 9.3), an unauthenticated remote code execution (RCE) vulnerability in Langflow, indicating threat actors are scanning and targeting exposed artificial intelligence (AI)",
-      "pubDate": "2026-06-30T15:47:20.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiA2GvsvmPnHZF-e1GDbhOVW4DxQZr79HzSMLp7-YKaA9DC-V2fVo6cmBig0bxUxWjK0Kz1mTm2Cmg6CrjaKgNhxC7xE6SsBxRx8DW5ljkMWPuJ0-7WUzxYbSrRWFdix8Nks8tobGkIY5cpNjczspeiKYyXYVSgoVct-7u1SFpWXB0mEi8AB5X-Wcp59Vca/s1600/Langflow.jpg"
-    },
-    {
       "title": "Weekly Update 510: Live From Mallorca with Scott Helme",
       "link": "https://www.troyhunt.com/weekly-update-510/",
       "description": "How's the view?! Back to business, it's now 8 years ago that Scott and I thought it would be a cool idea to build Why no HTTPS? We used the site to shame companies for not implementing their transport later security property, and to make it",
@@ -647,15 +656,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template--2-@1x_1.jpg"
-    },
-    {
-      "title": "Silent Swap Crypto Clipper Uses Fake Google Notes Extension to Replace Wallet Addresses",
-      "link": "https://thehackernews.com/2026/06/silent-swap-crypto-clipper-uses-fake.html",
-      "description": "Cybersecurity researchers have flagged an active browser extension campaign that is designed to steal cryptocurrency by stealthily replacing wallet addresses when unsuspecting users initiate a transaction. The cryptocurrency clipper activity has been codenamed Silent Swap by McAfee Labs. \"The campaign is delivered through unsigned installers – observed in both .NET and Golang variants – that",
-      "pubDate": "2026-06-30T15:40:18.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgfz8WYO9wONzogh2V8g9VorZ8Ab_nAUZMD7rOM9xrVUhg3cbKGA5zc73PGQiAkbsNgY-qbm2AFAUjBdeMcpemGmDNWrvnpyjzKiqU8iJHMetkW68d20V_U-96mHOaHF6fff7VKBREN2v6fz1R_ahyIklq-Fd7ILYKxXck5ahL1BoFWC_CDQFrQZqQqg3hm/s1600/chrome-wallet.jpg"
     },
     {
       "title": "AI-Generated Workflows Are a Silent Security Disaster",
