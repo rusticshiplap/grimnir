@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T15:41:22.298Z",
+  "generatedAt": "2026-07-02T19:34:50.614Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,60 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
+      "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
+      "description": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
+      "pubDate": "2026-07-02T19:11:33.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
+      "link": "https://thehackernews.com/2026/07/google-disrupts-netnut-residential.html",
+      "description": "Google has significantly degraded NetNut, one of the biggest networks that turns home devices into rented relays for other people's traffic. Working with the FBI, Lumen, and others, Google's Threat Intelligence Group (GTIG) said this week it had reduced the network's pool of usable devices by millions. Google identifies NetNut, also tracked as Popa, as a network spread across home",
+      "pubDate": "2026-07-02T18:54:06.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAH6tBAe18U0FqA-i5kNNNQYeXjY_LBflzBqVD5rq81OAC6q9c8UsDBsQb5K2F7IAfof5_JZCBpS51DNp63jsXfk4qqwLkckDh4nq-z-Gj0zoRwQu5IZYiNHiBlpp3C-6OR84JeDfPmIr4VLTp2NN6uHRYl0qT273wrbpcnUmd5SbIJH07cPHQxMo6VgI/s1600/proxy.jpg"
+    },
+    {
+      "title": "Ransomware Groups Turn to Citrix Bleed 2, BYOVD, and Supply Chain Credentials",
+      "link": "https://thehackernews.com/2026/07/ransomware-groups-turn-to-citrix-bleed.html",
+      "description": "Threat actors associated with the Anubis ransomware operation have been observed exploiting the Citrix Bleed 2 (CVE-2025-5777) vulnerability to obtain initial access. \"Although tactics differ between affiliates, common patterns emerged in tradecraft through use of legitimate Remote Management and Monitoring (RMM) tooling, credential access, and hands-on-keyboard procedures used for lateral",
+      "pubDate": "2026-07-02T18:30:33.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
+    },
+    {
+      "title": "Ransomware Thugs Masquerade as Interpol to Entice Small Biz",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
+      "description": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
+      "pubDate": "2026-07-02T18:07:40.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt788d90ba1818143b/6a4697d699a6c999ae9e947e/smb_Andrey_Popov_shutterstck.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "The Gentlemen ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/gentlemen-ransomware-what-you-need-know",
+      "description": "Who Are The Gentlemen? Despite the impeccably polite name, there is nothing polite or refined about this particular gang of cybercriminals. Read more in my article on the Fortra blog.",
+      "pubDate": "2026-07-02T16:50:40.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Improving security posture across the Microsoft partner ecosystem",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
+      "description": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices. The post Improving security posture across the Microsoft partner ecosystem appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-07-02T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/10/thumbnail_image.webp"
+    },
     {
       "title": "ThreatsDay: AI Compute Hijacking, Apple Email Flaw, BlueHammer Ransomware + 14 Stories",
       "link": "https://thehackernews.com/2026/07/threatsday-ai-compute-hijacking-apple.html",
@@ -613,24 +667,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt602a68e7af541816/6a43acb31b4f21a79166565a/hotel-Henk_Vrieselaar-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Microsoft Warns Poisoned MCP Tool Descriptions Can Make AI Agents Leak Data",
-      "link": "https://thehackernews.com/2026/06/microsoft-warns-poisoned-mcp-tool.html",
-      "description": "New Microsoft research shows how attackers can hijack AI agents that act on a user's behalf, using nothing more than a poisoned tool description to make the agent quietly hand over company data to an outsider. The trick is that the agent never breaks a rule. Every step looks routine, so in a default setup no alarm may fire. The work comes from Microsoft Incident Response and its",
-      "pubDate": "2026-06-30T17:46:07.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbjfrraZ05p0kN5CedcQSOZYouoHGrdpCvi9TGxEZM_9zlXc_juWZ1F8VsvjV9c-iD7Ejgj0V6b0uYwOb9mLpb7ALcOVk53m2ppmg6mDI3qwANc8KZFMt3X7H7fT_Eym3OJijFmr0CZS6yJNTtf4kef0gOYtbx6A3LYa15PNzpzJuOg-nd6orLosZzfQ8/s1600/ms-ai.jpg"
-    },
-    {
-      "title": "RustDuck Botnet Rebuilds in Rust to Hijack Routers and Servers for DDoS",
-      "link": "https://thehackernews.com/2026/06/rustduck-botnet-rebuilds-in-rust-to.html",
-      "description": "A new two-stage malware family called RustDuck is hijacking home routers, IP cameras, Android boxes, and poorly secured servers, then stitching them into a network built to knock websites and online services offline. Researchers at QiAnXin's XLab have tracked it since February 2026, and say the real story is not how big it is today, but how fast it is changing. The end goal is a",
-      "pubDate": "2026-06-30T17:45:25.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2XzOOqoX4E_CfxUMxd0YAH9MRjvZ8-kBBiVhd2VvCvbie3zla8PA80fO2xZ4Ux3_gmreVKG7ANFrSGpDk1lsURfQZuVVapjqi565oGmkqImmFdiQsQFL5z7V9s7TTkH4KgmGbEFnpdAQz94DrXip4q8Qa-ec9K1B1cmeL3szEBWUq9nX-MWppatyug3A/s1600/RustDuck.jpg"
-    },
-    {
       "title": "​​What’s new in Microsoft Security: June 2026",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/whats-new-in-microsoft-security-june-2026/",
       "description": "This month’s updates help security and IT teams strengthen identity and multicloud foundations, protect data wherever it lives, and secure the developer workflows powering AI innovation. The post ​​What’s new in Microsoft Security: June 2026 appeared first on Microsoft Security Blog.",
@@ -856,24 +892,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta84710e2a296fb51/6a3d8492c8bfcb045af470b0/Graduates_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Meeting Trump's 2030 Quantum Deadline Will be Expensive, Complex",
-      "link": "https://www.darkreading.com/cybersecurity-operations/meeting-2030-quantum-deadline-expensive-complex",
-      "description": "Getting accurate visibility into IT and OT systems will be compounded by multivendor environments, misaligned update life cycles, and interoperability gaps.",
-      "pubDate": "2026-06-26T13:30:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3f96ce16a435deca/6a3d55be62f12d27e415ed3c/quantum_computer-Peter_Hansen-getty-2214879776.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Thanks for Crushing the Submissions Inbox. We're Trying to Keep Up",
-      "link": "https://www.darkreading.com/cybersecurity-operations/submissions-guidelines-reminder",
-      "description": "It might be taking a bit longer than usual to respond to your submissions — here's why.",
-      "pubDate": "2026-06-26T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb0a7aff0c7827ded/6a3c70cdfc46ad1f4754589e/kitten_hanging_on_rope_oksun70_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "One Million Passports Leaked Online",
       "link": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
       "description": "A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential—a passport—was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it’s the low-value system that got hacked, putting the high-value credential at risk.",
@@ -998,15 +1016,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/09_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Guarding AI memory",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/06/22/guarding-ai-memory/",
-      "description": "What happens when threat actors target what AI remembers? Microsoft breaks down the risks and the defenses. The post Guarding AI memory appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-06-22T19:07:28.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/4159551-Copilot-Memory-Attack-SOC-Workflow"
     },
     {
       "title": "94% of Organizations Report Cloud Breaches: CrowdStrike State of CDR Survey",
@@ -1331,15 +1340,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/05/ss-episode-469.webp"
-    },
-    {
-      "title": "FBI warns of Kali365 phishing kit that breaks into Microsoft 365 accounts – no password required",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fbi-kali365-phishing-kit-breaks-microsoft-365-accounts-no-password-required",
-      "description": "So, you've enabled multi-factor authentication. You've taught your staff never to type their passwords into dodgy-looking login pages. Surely your Microsoft 365 accounts are safe now? Well, think again. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-05-26T16:24:02.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/05/microsoft-365-phishing-hooks.jpeg"
     },
     {
       "title": "Welcoming the Bhutanese Government to Have I Been Pwned",
