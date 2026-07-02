@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-02T08:38:03.751Z",
+  "generatedAt": "2026-07-02T11:08:37.622Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,87 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
+      "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
+      "description": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek.",
+      "pubDate": "2026-07-02T11:01:48.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/02/White-House-Cybersecurity.jpg"
+    },
+    {
+      "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-microsoft-sharepoint-rce-flaw-now-actively-exploited/",
+      "description": "CISA warned on Wednesday that attackers have begun exploiting a high-severity Microsoft SharePoint remote code execution vulnerability patched in May. [...]",
+      "pubDate": "2026-07-02T10:52:43.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/19/Microsoft-Sharepoint.jpg"
+    },
+    {
+      "title": "Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability",
+      "link": "https://www.securityweek.com/cisco-confirms-in-the-wild-exploitation-of-unified-cm-vulnerability/",
+      "description": "A PoC exploit has been available since public disclosure, and the first exploitation attempts were observed last week. The post Cisco Confirms In-the-Wild Exploitation of Unified CM Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-07-02T10:48:43.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Cisco-firewall.jpeg"
+    },
+    {
+      "title": "Opera rolls out Paste Protect feature to fight ClickFix attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/opera-rolls-out-paste-protect-feature-to-fight-clickfix-attacks/",
+      "description": "Opera has introduced Paste Protect, a security feature designed to block ClickFix-style attacks that trick users into executing malicious commands through social engineering. [...]",
+      "pubDate": "2026-07-02T10:46:58.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/02/Opera-Headpic.jpg"
+    },
+    {
+      "title": "‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials",
+      "link": "https://www.securityweek.com/bioshocking-attack-tricks-ai-browsers-into-stealing-credentials/",
+      "description": "Researchers show how context manipulation can cause agentic browsers to abandon safety guardrails and exfiltrate sensitive credentials. The post ‘BioShocking’ Attack Tricks AI Browsers Into Stealing Credentials appeared first on SecurityWeek.",
+      "pubDate": "2026-07-02T10:45:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/03/Shadow-AI_Risks.jpg"
+    },
+    {
+      "title": "CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability",
+      "link": "https://www.securityweek.com/cisa-warns-of-actively-exploited-microsoft-sharepoint-vulnerability/",
+      "description": "CISA says threat actors are exploiting a recently patched SharePoint remote code execution vulnerability (CVE-2026-45659). The post CISA Warns of Actively Exploited Microsoft SharePoint Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-07-02T10:30:42.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CVE-2025-53770-SharePoint-Vulnerability.jpg"
+    },
+    {
+      "title": "AI Agent Exploits Langflow RCE to Automate Database Ransomware Attack",
+      "link": "https://thehackernews.com/2026/07/ai-agent-exploits-langflow-rce-to.html",
+      "description": "Security firm Sysdig says it has found what it believes is the first ransomware attack run from start to finish by an AI agent. Its Threat Research Team calls the operator JADEPUFFER and says a large language model handled the whole job: breaking in, stealing credentials, moving deeper into the network, then encrypting and wiping a company's production database. Ransomware has always",
+      "pubDate": "2026-07-02T09:13:13.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirfJNnWRTyyKkXeatZdtLvMsQhba-L0J9yuyASwy4T-6nlbGWnkEl0FUBVO8wS6je9Hc9wPdu01JJ0TETOa1jOjQelGiJY3ZrvsJzFIqpr_gbEvv5F4lnQrJWxTHbpYM6ah6sPJbQ63XtdxlOcFy7KZ06S69LW2escSgSAM-ycKZCqttjAZEcHJ_sO9DdQ/s1600/ai-agent-ransomware.jpg"
+    },
+    {
+      "title": "Alleged Scattered Spider hacker extradited to the United States",
+      "link": "https://www.bleepingcomputer.com/news/security/alleged-scattered-spider-hacker-extradited-to-the-united-states/",
+      "description": "A dual United States and Estonian citizen has been extradited to the U.S. to face charges alleging he was a member of the Scattered Spider hacking collective. [...]",
+      "pubDate": "2026-07-02T08:58:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/20/Hacker-spider-large.jpg"
+    },
+    {
+      "title": "FortiBleed Credential Theft Linked to INC and Lynx Ransomware Operations",
+      "link": "https://thehackernews.com/2026/07/fortibleed-credential-theft-linked-to.html",
+      "description": "The recently discovered financially-motivated FortiBleed campaign has been attributed to INC and Lynx ransomware operations, indicating that the verified, stolen credentials were intended for follow-on intrusions. \"An operator tied to FortiBleed's infrastructure was found actively working negotiation panels for both groups, tying mass FortiGate credential theft directly to ransomware deployment",
+      "pubDate": "2026-07-02T08:00:49.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcA80dQWiuszAlBgwcxzc3suImls2cKOwk_2nYMo7UY5MNSdlKNMgibekQNEhWRuxmX5s1JcLHCd_dsDZ3m9oy_FxN-livXwyMIqre86oK8WIOMKUSZwDBvoN7XQOaV63zVBAIKQCH77-RGxhyLNc0bnip4LoUd0P7HsWQx-bxBu8nHr7St5HKs6T1cS6Z/s1600/bleed-ransomware.jpg"
+    },
     {
       "title": "New ChocoPoC RAT Targets Vulnerability Researchers via Fake PoC Exploit Repos",
       "link": "https://thehackernews.com/2026/07/new-chocopoc-rat-targets-vulnerability.html",
@@ -352,15 +433,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
     },
     {
-      "title": "Massive Password Spray Campaign Targeting Azure CLI",
-      "link": "https://www.securityweek.com/massive-password-spray-campaign-targeting-azure-cli/",
-      "description": "Hackers were seen making over 81 million login attempts originating from systems associated with hosting provider LSHIY. The post Massive Password Spray Campaign Targeting Azure CLI appeared first on SecurityWeek.",
-      "pubDate": "2026-07-01T07:46:33.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Microsoft-Azure.jpeg"
-    },
-    {
       "title": "Adobe patches seven max severity ColdFusion, Campaign flaws",
       "link": "https://www.bleepingcomputer.com/news/security/adobe-patches-seven-max-severity-coldfusion-campaign-flaws/",
       "description": "Adobe has released security patches for seven maximum-severity vulnerabilities in the ColdFusion web app development platform and the Campaign Classic marketing automation platform. [...]",
@@ -386,15 +458,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AmA92QCIqSJfXqC3z9I1jjdJGEkIvN4k-Oc5MlWZb4yZLPg5clokead6q8yXUfeI4DbdsKVn4qbd1sufvo47zyIy-Wcr15xK9oJJyet1vlFGiOKOU0ylMhgXWI0Duuztk7W_YURPKwdgfOyFsm2k3Rj1Db5tEVB9jzNi3xeYD0R_wfOaRKranmNj6kOy/s1600/claude-fable-5.jpg"
-    },
-    {
-      "title": "Google Patches 382 Chrome Vulnerabilities",
-      "link": "https://www.securityweek.com/google-patches-382-chrome-vulnerabilities/",
-      "description": "Fifteen of the newly patched flaws have been rated ‘critical’ and 67 have been rated ‘high severity’. The post Google Patches 382 Chrome Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-07-01T06:14:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg"
     },
     {
       "title": "Azure CLI Password Spray Hits at Least 78 Microsoft Accounts in 81M+ Attempts",
@@ -440,33 +503,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd7b89a20773228a/6a44354dc6acc836378befb8/gas-plant-thailand-DifferR-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Anthropic to restore Claude Fable access on Wednesday",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-to-restore-claude-fable-access-on-wednesday/",
-      "description": "Anthropic has confirmed that the Department of Commerce has lifted export controls on Claude's two most powerful models, Fable 5 and Mythos 5. [...]",
-      "pubDate": "2026-07-01T00:35:14.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude.png"
-    },
-    {
-      "title": "Anthropic rolls out Sonnet 5 with near-Opus 4.8 performance at a lower price",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-sonnet-5-with-near-opus-48-performance-at-a-lower-price/",
-      "description": "Anthropic is now rolling out Sonnet 5, and it's almost as good as the Opus range, but it is designed to be cheaper than the company's flagship model. [...]",
-      "pubDate": "2026-06-30T23:13:07.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
-    },
-    {
-      "title": "New BioShocking attack manipulates AI browser into data theft",
-      "link": "https://www.bleepingcomputer.com/news/security/new-bioshocking-attack-manipulates-ai-browser-into-data-theft/",
-      "description": "A new prompt injection attack dubbed \"BioShocking\" could trick AI-powered browsers into treating real-world risky actions as part of a fictional scenario, causing them to ignore any safety guardrails. [...]",
-      "pubDate": "2026-06-30T21:50:24.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/30/bioshock.jpg"
     },
     {
       "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
@@ -595,24 +631,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR59EidY6iMYv3s9bikjIxpj6_YTaUIesrZ3MyD9OqUbOk262aDW7bCArqr-IjT9CUQUSzE2F_knKKvs4bIJ2d9cuzZ-DKlmkW_Q3SO43HkA79kSVhCELVyKaStWliNZc9l1xxEGEFE5UmT1Abn6XMKTjk-rxBRTTtRAjb-jYDRKj-ODtIYy8dGQvbzDE/s1600/shell-ai.jpg"
     },
     {
-      "title": "BlueHammer Vulnerability Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/bluehammer-vulnerability-exploited-in-ransomware-attacks/",
-      "description": "The Microsoft Defender vulnerability CVE-2026-33825 was exploited in the wild as a zero-day before patches were released. The post BlueHammer Vulnerability Exploited in Ransomware Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T13:56:07.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/05/Ransomware-Alert-threat.jpg"
-    },
-    {
-      "title": "282 iOS AI Apps Leak API Keys and Open AI Proxy Access in Network Traffic Study",
-      "link": "https://thehackernews.com/2026/06/282-ios-apps-found-leaking-llm-api-keys.html",
-      "description": "Researchers tested 444 AI chatbot apps for iPhone and found that 282 of them, nearly two-thirds, exposed paid AI access through their network traffic. In many cases, the path in was visible just by watching what the app sent: a plaintext API key, a reusable token, or a backend server that accepted requests with no key at all. Whoever grabs it can send model requests on the developer's account,",
-      "pubDate": "2026-06-30T13:49:34.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJ9nmTBu_vYBf5fRZV4Jc-qtFGPySofVDYHUd-9-ogdve-M4Qd4j7_CnH9Zmvln6O3nfXSsDqQiMoL3rDYBSXZSrXlkCnSWSQUdAYJX1PkRzmytlVaYAc2AyrFOCpo9doU58gO6Gl5fQ-0SZ5D3yGP2SspNgK0U4f5jViSBnY_PAMUOjr42Nt8OLrhnTsQ/s1600/llm-keys.jpg"
-    },
-    {
       "title": "AI-Generated Workflows Are a Silent Security Disaster",
       "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
       "description": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
@@ -622,15 +640,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca7b936f842a69d1/6a42cdbb63726b86fca0672d/AI_Workflow_da-dunk_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks",
-      "link": "https://www.securityweek.com/decades-old-bash-tricks-expose-ai-coding-agents-to-supply-chain-attacks/",
-      "description": "Decades-old Bash shell tricks can bypass safeguards in most open source AI coding agents, potentially turning malicious repositories into supply chain attack vectors. The post Decades-Old Bash Tricks Expose AI Coding Agents to Supply Chain Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-06-30T13:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg"
-    },
-    {
       "title": "The Realities of AI Video Surveillance",
       "link": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
       "description": "The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that computers and networks enabled mass surveillance. The interesting development in the article is that AI allows people to ask natural language questions about video footage to AIs—and AIs can answer them. In contrast with older tools restricted to a few dozen preset searches, these new tools allow an almost unlimited range of enquiries by enabling langua",
@@ -638,15 +647,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "What the Numbers Say About FIFA 2026 Cyber Risk",
-      "link": "https://thehackernews.com/2026/06/what-numbers-say-about-fifa-2026-cyber.html",
-      "description": "The FIFA World Cup 2026 opened on June 11. By that date, according to Check Point Research, the fraud infrastructure targeting it had already been built, staged, and partially deployed. Threat actor activity was pre-planned, months out, across three sectors and at least ten languages. Check Point Exposure Management published the FIFA World Cup 2026 Cyber Threat Report this month, covering",
-      "pubDate": "2026-06-30T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhEZt1Yxw3eiMzyzPpblDGru8JlEmw-Rr1Lgn8hG9YCvxeCNDpKOCyn5_Evvmc_lB9tKDpcmBLfH3a6mHGkZBMDT8cr9Q39XpMpDhwCrqSieA2wG1BVYDBXTppmPkOJA2Sj8kakQExnh207X99wqRR1nOnYMcWPZ41BNKGhQHdOCkUzzgkRkMjzX-RdvyA/s1600/checkpoint-main.jpg"
     },
     {
       "title": "USB drives carrying China-linked malware infected Japanese military networks for nearly a year",
