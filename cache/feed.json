@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-03T15:17:06.194Z",
+  "generatedAt": "2026-07-03T16:54:39.918Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
+      "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
+      "description": "Threat actors with ties to North Korea have been linked to a fresh set of malicious npm packages that masquerade as Rollup polyfill tooling to facilitate remote access and data theft. According to JFrog, the packages \"rollup-packages-polyfill-core\" and \"rollup-runtime-polyfill-core\" mimic the legitimate \"rollup-plugin-polyfill-node\" project, down to the description, repository metadata, and",
+      "pubDate": "2026-07-03T16:07:15.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4otDF6_5qt7ZmrCLMXmx7sFXfY6RGHHI0BiGRcVkTqLo-l1VokprcvB7FhK5fJdL0j8Ds95uLQxiWKt2YYFV1N9K8WIL3lfONey4wBln2Vee4YTI_9z5_t-2VT1bZ17sEomQdONnVWEB3sc9lj13AJwdhbmn6CNlfx9Lwc7UNxg2C87xKFZPz5UL4lHJE/s1600/npms-malware.jpg"
+    },
     {
       "title": "In Other News: Canadian Hacker Jailed, Open Source Zero-Days, Two Sentenced for ATM Jackpotting",
       "link": "https://www.securityweek.com/in-other-news-canadian-hacker-jailed-open-source-zero-days-two-sentenced-for-atm-jackpotting/",
@@ -638,15 +647,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX2IWQhpupx-U0U70hWTg9afsBb41pslrGP733mXXdBKValODZrPoYD3UQqGVq1j9fSgmgf9rqDyxEAx1iKzblSnc_AcfO_CzQ-CA4G24vKEO5YC9P1vC_K_K01RfbMAvN1eaqgRjJUYRIyWZVLQjxYVleEsgcgD_Ifm04sjBCp08xk6W7QjbX4Rgm2vXp/s1600/ai-domains.jpg"
-    },
-    {
-      "title": "Anthropic Restores Claude Fable 5 After U.S. Lifts Jailbreak-Linked Export Controls",
-      "link": "https://thehackernews.com/2026/07/anthropic-restores-claude-fable-5-after.html",
-      "description": "Anthropic is putting Claude Fable 5 back online worldwide. On June 30, the U.S. Commerce Department lifted the export controls it had imposed on Fable and its more tightly controlled sibling Mythos 5 about two and a half weeks earlier. Fable 5 returns to users on Wednesday, July 1, across Claude.ai, the Claude Platform, Claude Code, and Claude Cowork. Export controls restrict who can",
-      "pubDate": "2026-07-01T06:46:17.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2AmA92QCIqSJfXqC3z9I1jjdJGEkIvN4k-Oc5MlWZb4yZLPg5clokead6q8yXUfeI4DbdsKVn4qbd1sufvo47zyIy-Wcr15xK9oJJyet1vlFGiOKOU0ylMhgXWI0Duuztk7W_YURPKwdgfOyFsm2k3Rj1Db5tEVB9jzNi3xeYD0R_wfOaRKranmNj6kOy/s1600/claude-fable-5.jpg"
     },
     {
       "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
