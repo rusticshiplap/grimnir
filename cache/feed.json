@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-03T16:54:39.918Z",
-  "count": 205,
+  "generatedAt": "2026-07-04T04:12:29.542Z",
+  "count": 180,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Unpatched Flaws Disclosed in Filesystem Bundled Into Millions of Embedded Devices",
+      "link": "https://thehackernews.com/2026/07/unpatched-flaws-disclosed-in-filesystem.html",
+      "description": "Security firm runZero has disclosed seven vulnerabilities in FatFs, a small filesystem library that lets a device read and write the FAT and exFAT formats used on USB drives and SD cards. The flaws matter because FatFs is nearly everywhere. It ships inside the firmware that runs security cameras, drones, industrial controllers, hardware crypto wallets, and other devices built on",
+      "pubDate": "2026-07-03T20:19:31.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJGo3ti2B3O-v3XpxdiFLMhvMVB_Ee5mmTlis-Qls6K8auWLQtPb4DSLL4snqvuZSxEvYXbGVBiUvRH1wBiw53ovRi-KTpdb0WqPwkZMkA_eHTSkTQVPkexu02-I2u7wc7PKESGKFZxlKRjR1SAkgOK50kIfpqZ9wcEjZCYBWIh6u_L82tXa8WfgUIhmA/s1600/fatfs.jpg"
+    },
+    {
+      "title": "New \"Bad Epoll\" Linux Kernel Flaw Lets Unprivileged Users Gain Root, Hits Android",
+      "link": "https://thehackernews.com/2026/07/new-bad-epoll-linux-kernel-flaw-lets.html",
+      "description": "A newly disclosed Linux kernel flaw called Bad Epoll (CVE-2026-46242) lets an ordinary user with no special access take full control of a machine as root. It affects Linux desktops, servers, and Android, and a fix is out. Bad Epoll sits in the same small stretch of kernel code where Anthropic's most powerful AI model, Mythos, recently found a different bug. The AI caught one flaw and missed",
+      "pubDate": "2026-07-03T19:40:01.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEggOXDckpE46PYIzBnXsx_kyHzFvlcB3l8qEr6feRNBhRQMKc2p5r2pQArl-NrsoB2z6vE917nXVHpuuMZOgZcRDMlwbVYC0ocK3uIsb-h59qed_kuvDKwvukQCAs-VDcE5Ail8mTRSPpnNfrPzKv5oAMQ9fJCDNE_2PpPrN9a9mOwGUIs0TnWq6_r58HM/s1600/root-linux.gif"
+    },
+    {
+      "title": "New Avalon Malware Framework Packs CrownX Ransomware Capabilities",
+      "link": "https://thehackernews.com/2026/07/new-avalon-malware-framework-packs.html",
+      "description": "Cybersecurity researchers have discovered a previously undocumented modular malware framework codenamed Avalon that's distributed by means of a multi-stage phishing chain capable of bypassing traditional security controls. Avalon combines credential collection, lateral movement, remote access, recovery disruption, and ransomware execution, bringing together diverse functions under one",
+      "pubDate": "2026-07-03T18:55:24.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5mmILhD28NLaA8Et883gOLxFJ1rWUi5CyqZ_kxNNLKCuHMAyw05kAFpUAduQrMQePiXa8j9hQkpBwkd4d6ZizYsIUWii41-htjXE10JEwfrMWA9LYeFj0CNm3yr91TZW2smhgUb-X7xTU5IBCOpgqSFhzlYbLhL3e_M7Gg_49-YiiqTOSwGytIMLKSPg7/s1600/crown-ransomware.jpg"
+    },
+    {
+      "title": "NetNut proxy network disrupted, 2 million infected devices cut off",
+      "link": "https://www.bleepingcomputer.com/news/security/netnut-proxy-network-disrupted-2-million-infected-devices-cut-off/",
+      "description": "A joint operation involving Google has disrupted NetNut, a residential proxy network that gave access to millions of compromised Android devices, including smart TVs and streaming boxes. [...]",
+      "pubDate": "2026-07-03T17:50:04.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/05/09/world-internet-network.jpg"
+    },
     {
       "title": "North Korea-Linked npm Packages Mimic Rollup Polyfills to Steal Developer Secrets",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-npm-packages-mimic.html",
@@ -53,15 +89,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTOYmjevwtg2njZKRnBeTtT1fSpmOD45a_apqSQWJJQH8N0HtftQ_Tj3mCC6dfysokuddsTPVCKKM4hd4Trjs6dPn1tvUNi4gWvj_OQevLSDqNfuGOK87WNAQSRVZSEOOLoo0Ip4IQQTa14eqh7J7rPo-8edHwoNORqqrcgtFAT-LySviPfbahvJDMDk_T/s1600/power.jpg"
-    },
-    {
-      "title": "Chinese LLMs Broaden the Gap Between Attackers &amp; Defenders",
-      "link": "https://www.darkreading.com/cyber-risk/chinese-llms-broaden-gap-between-attackers-and-defenders",
-      "description": "Two new models from Chinese firms compete with top US mainstream and frontier models. Should cyber-defenders be worried?",
-      "pubDate": "2026-07-03T13:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0617bd7899766864/6a46aac83cc4ed702aef33b2/castle-of-the-moors-Gabriela_Beres-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Flock Cameras Can Surveil Cars Without License Plates",
@@ -163,15 +190,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
     },
     {
-      "title": "Aussies Face Reduced Cybercrime Risk, as Pressure Shifts to SMBs",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/aussies-face-reduced-cybercrime-risk-pressure-shifts-smbs",
-      "description": "Improved institutional safeguards and stricter regulations have pushed the burdens of protection and risk reduction on to Australian businesses.",
-      "pubDate": "2026-07-02T23:01:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef5cf25552ad1b17/6a46744dec9caa31e05a16a8/Australia-imaginima-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "How We Added WebAuthn to a Browser-Based RDP Client",
       "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
       "description": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection. The post How We Added WebAuthn to a Browser-Based RDP Client appeared first on Unit 42.",
@@ -179,24 +197,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Apple Reverses Age-Old Patch Policy to Keep Up With AI",
-      "link": "https://www.darkreading.com/cybersecurity-operations/apple-patch-policy-ai",
-      "description": "Expect more compressed patching cycles from Apple going forward, as attackers leverage artificial intelligence to reduce time to exploit.",
-      "pubDate": "2026-07-02T19:31:58.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb900b57271d6fc24/6a46a07ecef8a87304f980df/Apple_bandage-imtmphoto-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "FortiBleed Actors Collaborating With Inc, Lynx Ransomware Gangs",
-      "link": "https://www.darkreading.com/threat-intelligence/fortibleed-actors-inc-lynx-ransomware-gangs",
-      "description": "After gaining a foothold in thousands of Fortinet firewalls, the attackers are starting to monetize that access, and are also piling on a Nextcloud zero-day bug.",
-      "pubDate": "2026-07-02T19:11:33.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Google Disrupts NetNut Residential Proxy Network Spanning 2 Million Home Devices",
@@ -215,15 +215,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh5gkjf1FwB4__nC6-pLZYnDv2rJA29UAL9mxfCv4BNSl1FxNpat9jD-OiMRLewjXJXyiSGvqiLYcewN_b1lLFHh0FhzKkrHFzu82jziSuOodYX87FkwjuCcXaqwzWRsiFdsBcd9mzDnak1rJpDu46F8TV206IEcD1pE7njojB8TcQEZ4Wa70KnK2vyeVKI/s1600/ransomwares.jpg"
-    },
-    {
-      "title": "Ransomware Thugs Masquerade as Interpol to Entice Small Biz",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/attackers-use-interpol-lure-target-small-businesses",
-      "description": "The ransomware campaign relies on basic social engineering and stretches across multiple regions, including the US, Europe, Middle East, and elsewhere.",
-      "pubDate": "2026-07-02T18:07:40.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt788d90ba1818143b/6a4697d699a6c999ae9e947e/smb_Andrey_Popov_shutterstck.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "The Gentlemen ransomware: what you need to know",
@@ -305,15 +296,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
-      "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
-      "description": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
-      "pubDate": "2026-07-02T12:33:57.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteeda9139b627cb5e/69389770c9923c42c04a9c31/bugs_Cagkan_Sayin_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
@@ -460,15 +442,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/kubota.jpg"
     },
     {
-      "title": "Crafty Phishing Campaigns Auto-Adapt to Victim's Device, OS",
-      "link": "https://www.darkreading.com/application-security/phishing-campaigns-auto-adapt-victims-device-os",
-      "description": "Attackers fingerprint victims through user-agent data to deliver OS-specific payloads, increasing compromise rates and campaign profitability.",
-      "pubDate": "2026-07-01T20:31:21.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt704d77c44062a0a1/6a45705583bc8bcd9c6ec0e1/fishing_credit_card-imageBROKER_Markus_Gann-Getty-2275842170.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "New ChocoPoC malware targets researchers via trojanized PoC exploits",
       "link": "https://www.bleepingcomputer.com/news/security/new-chocopoc-malware-targets-researchers-via-trojanized-poc-exploits/",
       "description": "Multiple weaponized proof-of-concept (PoC) exploits on GitHub were found delivering a Python-based remote access trojan (RAT) named ChocoPoC that can execute commands and steal sensitive data in a campaign believed to target cybersecurity researchers. [...]",
@@ -476,15 +449,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/cocopops.jpg"
-    },
-    {
-      "title": "And the Winner in Dominant Malware Delivery? ClickFix",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/winner-dominant-malware-delivery-clickfix",
-      "description": "Researchers say the highly effective social engineering technique is no longer the exception for malware attacks — it's now the rule.",
-      "pubDate": "2026-07-01T19:46:34.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfaf93bd096fd735c/6a45559d327edd13ed6ac140/clickfix-tumsasedgars-Getty-2234293893.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Unpatched Argo CD Repo-Server Flaw Could Let Attackers Take Over Kubernetes Clusters",
@@ -514,15 +478,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbKfADFEhazeaRztmVJkTBhFqZxALUDBwsOV_25bWjZ6Qm3pCBoSSawssWOOJC2ZQ7M6hrUDRXLfR5gcpWRkkaSdNtSPCz-FLrG5Dy4-Y-IzEMt_souSqJuc3JK9FNQ9p2-dT7Ojf3ufzPkWBpLNyDAVeeuYS7Ya-BJWT4MmAHz7OjHvwjMSCfF5Jvahyphenhyphenj/s1600/SEO-MALWARE.jpg"
     },
     {
-      "title": "DHS confirms hackers breached HSIN info-sharing platform",
-      "link": "https://www.bleepingcomputer.com/news/security/dhs-confirms-hackers-breached-hsin-info-sharing-platform/",
-      "description": "The Department of Homeland Security is investigating a cyberattack that compromised the Homeland Security Information Network (HSIN), a sensitive information-sharing platform used by federal, state, local, and private-sector partners. [...]",
-      "pubDate": "2026-07-01T17:32:22.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/01/doh-header.jpg"
-    },
-    {
       "title": "VEIL#DROP Malware Chain Uses Blogger Platform to Deliver PureLogs Stealer",
       "link": "https://thehackernews.com/2026/07/veildrop-malware-chain-uses-blogger.html",
       "description": "Cybersecurity researchers have flagged a new multi-stage malware delivery attack chain that uses social engineering and Blogger pages to deliver an information stealer called PureLogs. The activity has been codenamed VEIL#DROP by Securonix. It's suspected that the initial payloads are distributed either via spear-phishing or a drive-by compromise, which occurs when an unsuspecting user lands on",
@@ -539,15 +494,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Frost-Radar.jpg"
-    },
-    {
-      "title": "When Too Much Security Data Became the Risk",
-      "link": "https://www.darkreading.com/cyber-risk/too-much-security-data-risk",
-      "description": "Rapid growth turned routine firewall logs into a security and budget liability. One CISO used artificial intelligence to filter what data truly belongs in the SIEM.",
-      "pubDate": "2026-07-01T15:44:41.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4d75b7856e57ab33/6a3040e6fa8a9d40861b150d/GettyImages-1609425039.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Ousaban Banking Trojan Targets Iberian Bank Users with Fake PDF Lures",
@@ -568,15 +514,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiP2LpF3s-oL3WaiHtAZ9N33J120bvGnWDoQ39eE1fyToERHmJgkAtMzarRyW9-gOG0N4U1_nOEQmwg-3krYIZDcXXB6JYpurMezefSiM5-ygJd9CuuS1sS-gHNjoKgBRayO0wBow5GB1yaanR55TW2fwus6MQXwlqeXDJ2Xu7z2fiOGbPXo4qio4LpXZPO/s1600/adobe.jpg"
     },
     {
-      "title": "'Phantom Squatting': An Emerging AI-Driven Supply Chain Threat",
-      "link": "https://www.darkreading.com/endpoint-security/phantom-squatting-ai-driven-supply-chain-threat",
-      "description": "LLMs consistently hallucinate Web domains for legitimate brands that attackers can register for malicious activity in a difficult-to-detect attack vector.",
-      "pubDate": "2026-07-01T15:17:14.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf79bae173d4ef4ed/6a4528715f6bc22783935f56/phantoms-Cavan_Images-Getty-961114482.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Critical Cursor Flaws Could Let Prompt Injection Escape Sandbox and Run Commands",
       "link": "https://thehackernews.com/2026/07/critical-cursor-flaws-could-let-prompt.html",
       "description": "Two flaws in Cursor, an AI code editor, could let a single, ordinary-looking prompt break out of the editor's safety sandbox and run any command on a developer's computer. There is no click to fall for and no approval box to ignore. Cato AI Labs found the pair and named them DuneSlide. They are tracked as CVE-2026-50548 and CVE-2026-50549, both rated 9.8 out of 10 (or 9.3",
@@ -595,15 +532,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEghMOqrFNgwfokWIpvUBFpDUO-So-0focm0a7d9mhocEHiwdB2cHmPQ9q4STjyCr-gVUPK67TYluInMr0_v1omCJVWbd9OVOg6AqVROoxZb44b5BOpxdBb2GECjFw77NhlCf6nWC5oJF3x3KvE3EyDV2pUR3lvROAWjaFs9SOyvzM3qRB6MzEUCFYuVAoCb/s1600/pro-exploit.jpg"
     },
     {
-      "title": "Safe Events Start With Threat Intel &amp; Digital Security",
-      "link": "https://www.darkreading.com/threat-intelligence/safe-events-threat-intel-digital-security",
-      "description": "Planning ahead to defend against cyber threats is the work that keeps events uneventful.",
-      "pubDate": "2026-07-01T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb5a54e9ec66608df/6a441c188b73521f66a1d1a5/Dog_in_fourth_of_july_parade_Nathan_Bilow_Getty_Images.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "AI-Generated Browser Ransomware Abuses Chromium API on Windows, Linux, macOS, Android",
       "link": "https://thehackernews.com/2026/07/ai-generated-browser-ransomware-abuses.html",
       "description": "Cybersecurity researchers have flagged a new malware artifact generated using DeepSeek that constructed a novel attack path combining \"unrealistic browser-malware concepts with a real browser capability\" to turn it into a working ransomware technique that runs entirely inside the browser on both Windows and Android devices. \"This is the first documented case where a frontier AI model",
@@ -611,15 +539,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4BJdHYquuxXoz8n0LhMEmm9KPcWcMC57w4LnqbMNCPXMAFdS95ys3zE6F5jZOvSKwsVWp6t3z8pVImRJ3Nvxgkr4QiPI5O06zJywlL5uuBIU2G0ZtPucYq80Z_G-PnVzjYfChzbnpLxGyD2PpbH8VdLWjIuNLt0RoAe5Q8mVulX2s_4Ueg7XR0pxZVwKn/s1600/chrome-ransomware.jpg"
-    },
-    {
-      "title": "2026 Cybersecurity Assessment: The Gap Between Awareness and Resilience",
-      "link": "https://thehackernews.com/2026/07/2026-cybersecurity-assessment-gap.html",
-      "description": "Organizations have never had greater awareness of cyber risk. Yet turning that awareness into operational resilience has never been more challenging. The 2026 Bitdefender Cybersecurity Assessment confirms this is the case, as this year's findings reveal a series of surprising contradictions. Here are a few examples, based on the independent survey of 1,200 IT and cybersecurity professionals",
-      "pubDate": "2026-07-01T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjP1ozclOI3O1fTjKYLZrt0RCp54Fr-6NPYAifKy5c1fYwj4ceFq9U62ra9eoBq4Qw7qAh3qXE7ttfy6239qiAwK3SFyQxg316fl8BNxeeZ6IRDJFbjl09AE-gHC9Qa2V3nFljMblCovx6MgP66ZxMfawWVnAWEPNX9YS_FATZFtC69nlKhTvQQeOD58_I/s1600/Assessment.jpg"
     },
     {
       "title": "Papa Johns Surveillance-Based Advertising",
@@ -631,24 +550,6 @@
       "image": null
     },
     {
-      "title": "Microsoft Accelerates Post-Quantum Cryptography Shift to 2029",
-      "link": "https://thehackernews.com/2026/07/microsoft-accelerates-post-quantum.html",
-      "description": "Microsoft on Tuesday said it's accelerating its quantum safe security roadmap, stating technology advances in quantum computing are making it essential to replace existing encryption standards sooner than previously expected. \"Advances in quantum research and development have shifted the risk horizon,\" Mark Russinovich, chief technology officer of Microsoft Azure, said. \"We believe",
-      "pubDate": "2026-07-01T10:41:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyPq-iy_BsDM3LGWIEtwydOynDIApb_bokv6EuarUGUbyIw8tFnntySLPL5FuN0Qw1PIGNzlabEaSq00S9ojIShTnbJyM0kWKUbCcIEOH3eEbdLOpgOumlnXHVvrsn2o9A75a2R3_8vjpTB18P45qaK7CtSuggZyGAb2uA8SGGXp_bUV7mqY4aGNlYGXwM/s1600/Microsoft-Encryption.jpg"
-    },
-    {
-      "title": "Phantom Squatting Uses AI-Hallucinated Domains for Phishing and Malware",
-      "link": "https://thehackernews.com/2026/07/phantom-squatting-uses-ai-hallucinated.html",
-      "description": "Large language models keep inventing web addresses that do not exist. Attackers have started buying those made-up domains before anyone else can, then hosting phishing pages on them to catch traffic that AI tools point their way. Palo Alto Networks' Unit 42 calls the trick phantom squatting, and its new research shows it is already happening in the wild. The reason it matters is",
-      "pubDate": "2026-07-01T07:20:51.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiX2IWQhpupx-U0U70hWTg9afsBb41pslrGP733mXXdBKValODZrPoYD3UQqGVq1j9fSgmgf9rqDyxEAx1iKzblSnc_AcfO_CzQ-CA4G24vKEO5YC9P1vC_K_K01RfbMAvN1eaqgRjJUYRIyWZVLQjxYVleEsgcgD_Ifm04sjBCp08xk6W7QjbX4Rgm2vXp/s1600/ai-domains.jpg"
-    },
-    {
       "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
       "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
       "description": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector appeared first on Unit 42.",
@@ -656,24 +557,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg"
-    },
-    {
-      "title": "China-Linked Group Targets Southeast Asia Critical Systems",
-      "link": "https://www.darkreading.com/threat-intelligence/china-linked-group-targets-southeast-asia-critical-systems",
-      "description": "The group compromised at least 10 regional organizations, including two state-owned entities, and deployed a new backdoor.",
-      "pubDate": "2026-07-01T01:00:01.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd7b89a20773228a/6a44354dc6acc836378befb8/gas-plant-thailand-DifferR-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Fake Bug Report Hijacks AI Coding Agents at Scale",
-      "link": "https://www.darkreading.com/cyber-risk/fake-bug-report-hijacks-ai-coding-agents",
-      "description": "\"Agentjacking\" is the latest demonstration of how easily attackers can exploit an AI agent's inability to differentiate between content and instructions.",
-      "pubDate": "2026-06-30T21:37:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1ba7210c1f0edf4a/6a442df2e749ef69cda01e97/agent_forestgraphic_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Scammers race to cash in on Venezuelan earthquake disaster",
@@ -685,24 +568,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/venezuela-earthquake-scam.jpeg"
     },
     {
-      "title": "Attackers Seize Exposed AI Endpoints to Power Offensive Ops",
-      "link": "https://www.darkreading.com/cloud-security/attackers-hijack-exposed-ai-endpoints-power-offensive-ops",
-      "description": "Threat actors don't need any special authentication to reach a target endpoint — they just need to know where it is.",
-      "pubDate": "2026-06-30T21:01:58.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c0b16d8b2c94a11/6a442300ed470b84b9674382/robot-with-weapon-PhonlamaiPhoto-Getty-1339739384.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Why Identity Security Is Your Cyber Career Entry Point",
-      "link": "https://www.darkreading.com/cybersecurity-operations/identity-security-cyber-career-entry-point",
-      "description": "In this \"Heard it From a CISO\" video, Silverfort CISO John Paul Cunningham explains that AI in cybersecurity workflows is creating opportunities rather than eliminating jobs — and there are more ways than ever to break into this essential field.",
-      "pubDate": "2026-06-30T19:11:40.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcdce5bd7e08988e/6a43c57d76836fb55c7eeefd/fingerprint1800_Vertigo3d_GettyImages-2226205524.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Accelerating the quantum-safe timeline",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/30/microsoft-advances-quantum-safe-security-as-the-risk-timeline-shifts/",
       "description": "We’re accelerating quantum-safe readiness—and sharing what organizations can do now to transition earlier and with confidence. The post Accelerating the quantum-safe timeline appeared first on Microsoft Security Blog.",
@@ -710,15 +575,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/quantum-safe-timeline.jpg"
-    },
-    {
-      "title": "Phishers Gain Persistence at EU, Asia Hospitality Orgs",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/phishers-persistence-eu-asia-hospitality-orgs",
-      "description": "Separate but similar campaigns described by Microsoft and Trend Micro use malicious zip files to spread malware via social engineering and obsfucation, including blockchain abuse.",
-      "pubDate": "2026-06-30T18:59:46.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt602a68e7af541816/6a43acb31b4f21a79166565a/hotel-Henk_Vrieselaar-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "​​What’s new in Microsoft Security: June 2026",
@@ -748,15 +604,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template--2-@1x_1.jpg"
     },
     {
-      "title": "AI-Generated Workflows Are a Silent Security Disaster",
-      "link": "https://www.darkreading.com/cyber-risk/ai-generated-workflows-silent-security-disaster",
-      "description": "Teams are dealing with a truly dangerous problem — automation that works, but that no one understands.",
-      "pubDate": "2026-06-30T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltca7b936f842a69d1/6a42cdbb63726b86fca0672d/AI_Workflow_da-dunk_Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "The Realities of AI Video Surveillance",
       "link": "https://www.schneier.com/blog/archives/2026/06/the-realities-of-ai-video-surveillance.html",
       "description": "The Financial Times has a good article on how AI is changing the capabilities of video surveillance, with information from both Israel/Iran and Russia. I wrote about this sort of thing a few years ago, how AI enables mass spying in the way that computers and networks enabled mass surveillance. The interesting development in the article is that AI allows people to ask natural language questions about video footage to AIs—and AIs can answer them. In contrast with older tools restricted to a few dozen preset searches, these new tools allow an almost unlimited range of enquiries by enabling langua",
@@ -784,51 +631,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "NIST Enrichment Reductions Impact CVE Coverage, Accuracy",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/nist-enrichment-reductions-cve-coverage-accuracy",
-      "description": "The National Institute of Standards and Technology (NIST) scaled back the number of CVEs it selects for in-depth analysis, but the move has produced mixed results, according to researchers.",
-      "pubDate": "2026-06-29T22:46:45.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltce262544df7c2abd/6a42a988c1d2df8b5850a8ea/rm-NIST-Getty-153842014.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'Djinn' Stealer Targets Cloud, AI Credentials",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/djinn-stealer-targets-cloud-ai-credentials",
-      "description": "The infostealer was delivered via CVE-2026-48558, a critical authentication bypass vulnerability in SimpleHelp, targeting credentials linking development and admin environments to wider enterprise systems.",
-      "pubDate": "2026-06-29T21:29:15.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb3a3f4df4386574c/6a42db87ff96a7b022fd72f5/djinn_Dimart_Graphics_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Vulnerabilities Expose Private Data in Indian Government Systems",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/vulnerabilities-private-data-indian-government-systems",
-      "description": "One critical vulnerability, among many discovered by a researcher, could have allowed anyone to walk in and take over a national government portal.",
-      "pubDate": "2026-06-29T21:05:29.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6e7f8fc00f3ce97c/6a42c5e6f990b60082e51b44/India_cockroach_mask-Ritesh_Shukla-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Can Clothes Make You Invisible to Facial Recognition?",
-      "link": "https://www.darkreading.com/cyber-risk/clothes-invisible-facial-recognition",
-      "description": "Does life feel Orwellian sometimes? One researcher has a solution for you: graphic tees that confuse the neural networks in surveillance cameras.",
-      "pubDate": "2026-06-29T19:38:04.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8704fb69f68c1e69/6a415c91573ebe1989d149e5/noRecognition-Bill_Swearingen.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Iran, Russia, China Target Water Systems for Sabotage",
-      "link": "https://www.darkreading.com/ics-ot-security/iran-russia-china-target-water-systems-sabotage",
-      "description": "Nation-state attackers breach water systems through weak passwords, exposed PLCs, and poor segmentation — not sophisticated malware.",
-      "pubDate": "2026-06-29T19:12:08.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt24bbf93173729620/6a42bce1588d51aaf968fa84/wastewater_plant_engineers-BugTiger-Getty-2160087422.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Chromium extension uses AI‑related branding to redirect browser search",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/06/29/chromium-extension-uses-airelated-branding-redirect-browser-search/",
       "description": "A malicious Chromium-based extension that spoofs the AI-powered answer engine Perplexity AI redirects browser search traffic using MV3 APIs and intermediary infrastructure. The post Chromium extension uses AI‑related branding to redirect browser search appeared first on Microsoft Security Blog.",
@@ -845,15 +647,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Amazon Q VS Extension Flaw Leads to Cloud Credential Theft",
-      "link": "https://www.darkreading.com/cloud-security/amazon-q-vs-extension-flaw-leads-cloud-credential-theft",
-      "description": "Adversaries could plant a malicious repository that can execute arbitrary code and steal cloud credentials by exploiting the vulnerability, which showcases growing MCP risk.",
-      "pubDate": "2026-06-29T11:44:42.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt739efb26c97e2c21/6a4262393ad9ac7b4208de76/AI_agents_(1800)_Kiattisak_Lamchan_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Robot Police Officers",
@@ -874,15 +667,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Third-Party Breaches Teach Education Sector a Costly Lesson in Vendor Risk",
-      "link": "https://www.darkreading.com/cyber-risk/third-party-breaches-teaches-education-lesson-vendor-risk",
-      "description": "Rising threats from third-party actors are forcing institutions to play defense to protect student data from ransomware and other attacks.",
-      "pubDate": "2026-06-27T11:48:05.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2feed32bad3a1e85/6781341c966e6945d6fe1118/Education_(1800)_Aleksei_Gorodenkov_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "The Chinese Control the Majority of Argentina’s Squid Fleet",
       "link": "https://www.schneier.com/blog/archives/2026/06/the-chinese-control-the-majority-of-argentinas-squid-fleet.html",
       "description": "Chinese companies control nearly two-thirds of Argentina’s own squid fleet.",
@@ -890,15 +674,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "AI Decline? Confidence in Autonomous Penetration Testing Falls",
-      "link": "https://www.darkreading.com/cybersecurity-operations/ai-decline-confidence-autonomous-penetration-testing",
-      "description": "Companies are still experimenting with automated AI systems to find security weaknesses, but fewer are relying on the technology.",
-      "pubDate": "2026-06-26T19:11:02.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9cecfe428e15238b/6a3ea2dc74904e0996378e9c/collection-of-interlocking-gears-Asmaulna-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
