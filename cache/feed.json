@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-06T09:50:21.729Z",
+  "generatedAt": "2026-07-06T13:04:37.151Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability",
+      "link": "https://www.securityweek.com/proof-of-concept-exploit-released-for-linux-bad-epoll-root-access-vulnerability/",
+      "description": "Organizations are urged to patch after proof-of-concept code makes the Linux root escalation flaw easier to exploit. The post Proof-of-Concept Exploit Released for Linux ‘Bad Epoll’ Root Access Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-07-06T12:48:01.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg"
+    },
+    {
+      "title": "How to Evaluate an AI SOC Platform in 2026: 6 Capabilities That Separate Leaders from Bolt-On AI solutions",
+      "link": "https://thehackernews.com/2026/07/how-to-evaluate-ai-soc-platform-in-2026.html",
+      "description": "Building a shortlist for an AI SOC evaluation can be tough. SIEM, SOAR, and pureplay AI SOC vendors are all saying the same thing. But behind the identical label sit very different products, from chat assistants bolted onto a legacy SIEM to agent platforms that run detection, triage, investigation, and response on their own data foundation. Whether a platform will materially change outcomes for",
+      "pubDate": "2026-07-06T11:30:02.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjeiJymlyu6GGdzNT0Fb3yi6rYZdNn_XCoDUKKV9zSD_p17gngK7FL-IDm5LLTYlGx6Rn2Em6v0TSDq7u_1lttLyp1b97z7YrjSrFK7MrYAG2k1YXI91fHRRTRoPV1xIQSukE1DwqRcHY6i6fIS0jC2CaKv18OhFWHi2fKvXRKmZ6MBgSoRMDWGxmQKlfTt/s1600/aisoc.jpg"
+    },
+    {
+      "title": "Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments",
+      "link": "https://www.securityweek.com/prompt-injection-attacks-trick-ai-agents-into-making-crypto-payments/",
+      "description": "Researchers uncovered two campaigns embedding indirect prompt injections in malicious websites to exploit autonomous AI agents browsing the web. The post Prompt Injection Attacks Trick AI Agents Into Making Crypto Payments appeared first on SecurityWeek.",
+      "pubDate": "2026-07-06T11:19:47.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+    },
+    {
+      "title": "Suspected China-Nexus Hackers Use Fake Indian Tax Filing Utility to Deploy DcRAT",
+      "link": "https://thehackernews.com/2026/07/suspected-china-nexus-hackers-use-fake.html",
+      "description": "A suspected China-nexus threat activity cluster has been observed targeting Indian taxpayers, tax professionals, and corporate finance teams to deliver a remote access trojan designed to steal sensitive data from compromised hosts. The multi-stage campaign, codenamed Operation DragonReturn by Seqrite Labs, involves sending spear-phishing emails impersonating the Income Tax Department of India.",
+      "pubDate": "2026-07-06T10:58:16.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0L8iGbVZ6lxBg26K2nsc6uYpFED8ZcgCtrh4C34U4oixLPC0OKHOWWpiPBfaSwe-tpOTbCqZfRZQTMoropayZXEm0GXTtKpyBuBPRk9zF-0WPRprknYiaI2DXLDZnQb8t70R7-0Fjl5G-NNCQFF-Ex40vQZMbUJmJ2JLyXJUjYdAVvgjl3_oBF5wbHrHl/s1600/income-tax.jpg"
+    },
+    {
+      "title": "France to Stop Certifying Non-Quantum-Safe Encryption",
+      "link": "https://www.schneier.com/blog/archives/2026/07/france-to-stop-certifying-non-quantum-safe-encryption.html",
+      "description": "France is accelerating its transition to post-quantum encryption: France’s cybersecurity agency ANSSI said on Tuesday it would stop certifying security products that lack quantum-resistant encryption, a move that will force government bodies and critical operators to shift away from older systems. Samih Souissi, ANSSI’s chief of staff, said at the France Quantum conference that the agency would halt such certifications from 2027, and that businesses should be buying only quantum-safe products by 2030. ANSSI approval is required for use in French government agencies and critical infrastructure,",
+      "pubDate": "2026-07-06T10:45:44.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
     {
       "title": "New TrojPix Attack Leaks Data From Air-Gapped Systems via Video Cable Emissions",
       "link": "https://thehackernews.com/2026/07/new-trojpix-attack-leaks-data-from-air.html",
@@ -406,18 +451,9 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
     },
     {
-      "title": "FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks",
-      "link": "https://www.securityweek.com/fortibleed-campaign-linked-to-inc-lynx-ransomware-attacks/",
-      "description": "Researchers say credentials harvested from hundreds of thousands of FortiGate firewalls are being used to facilitate ransomware attacks by the INC and Lynx operations. The post FortiBleed Campaign Linked to INC, Lynx Ransomware Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-07-02T12:34:29.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
       "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
-      "description": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open-source software supply chain.",
+      "description": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open source software supply chain.",
       "pubDate": "2026-07-02T12:33:57.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -458,15 +494,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm",
-      "link": "https://www.securityweek.com/trump-administration-lifts-restrictions-on-anthropics-claude-models-after-cybersecurity-alarm/",
-      "description": "Anthropic said Tuesday night that its AI model called Claude Fable 5 is now widely available. The post Trump Administration Lifts Restrictions on Anthropic’s Claude Models After Cybersecurity Alarm appeared first on SecurityWeek.",
-      "pubDate": "2026-07-02T11:01:48.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/02/White-House-Cybersecurity.jpg"
     },
     {
       "title": "CISA: Microsoft SharePoint RCE flaw now actively exploited",
@@ -584,24 +611,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh9emdIsaMBcMQoyS0ot-ckXq8LWhMk6P2zAm3WdCVFBhRMNUqN6E1vZqllIq6qYHBvGm8WhCGi8C3PLUNOecmNYU4LLoWH5zRBadBejDgpbC5DihDwqiYAMLpZNsQBk2MsiN89nt-honwtPiQzjg4fDUp5w2aiCXWZBKk94qHwfG4yEHak6zoZuNmXKgY/s1600/argo-cd.jpg"
-    },
-    {
-      "title": "19-Year-Old Scattered Spider Suspect Extradited to Face U.S. Hacking Charges",
-      "link": "https://thehackernews.com/2026/07/19-year-old-scattered-spider-suspect.html",
-      "description": "A teenager accused of belonging to the hacking group Scattered Spider has been extradited from Finland to face U.S. charges of conspiracy, computer intrusion, and fraud, the U.S. Department of Justice announced on July 1. Peter Stokes, 19, a dual U.S. and Estonian citizen, appeared in a Chicago federal court on June 30, where a judge ordered him held in custody. Finnish police",
-      "pubDate": "2026-07-01T19:28:07.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitCA6eGqIT2msGTmYh2Qr84lq5GYGvI4Y8FSzzNira0osd5SNIbnpLKZfLZLggblyWGxZ1ScIR_I06M-RoM5wM3he2KRkFCnwYxIKtGBDb9PA1JtoK1JM5f0vObSITDMGt4eeVV82LUF3DBNkYiHLhCTYNwnlOP3DlfCHYLkP6NfHjwRJDsHSMTHEGKAs/s1600/hacker-arrested.jpg"
-    },
-    {
-      "title": "SEO-Poisoned Software Sites Abuse ScreenConnect to Deploy AsyncRAT",
-      "link": "https://thehackernews.com/2026/07/seo-poisoned-software-sites-abuse.html",
-      "description": "Unknown threat actors are leveraging the ScreenConnect remote access tool as a way to deploy and execute AsyncRAT. Kaspersky said the activity is part of a \"massive, multi-domain, multi-language\" campaign that distributes malicious installer archives hosted on spoofed websites. These installers masquerade as popular software like OBS Studio, DNS Jumper, DS4Windows, and Bandicam, among others.",
-      "pubDate": "2026-07-01T17:53:06.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbKfADFEhazeaRztmVJkTBhFqZxALUDBwsOV_25bWjZ6Qm3pCBoSSawssWOOJC2ZQ7M6hrUDRXLfR5gcpWRkkaSdNtSPCz-FLrG5Dy4-Y-IzEMt_souSqJuc3JK9FNQ9p2-dT7Ojf3ufzPkWBpLNyDAVeeuYS7Ya-BJWT4MmAHz7OjHvwjMSCfF5Jvahyphenhyphenj/s1600/SEO-MALWARE.jpg"
     },
     {
       "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
@@ -944,15 +953,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg"
-    },
-    {
-      "title": "AI and Liability",
-      "link": "https://www.schneier.com/blog/archives/2026/06/ai-and-liability.html",
-      "description": "Earlier this month, a German court ruled that Google is liable for its AI search summaries. Rejecting defenses like “users can check for themselves,” and that they generally know “that information generated with AI should not be blindly trusted,” the court held that the AI’s summaries are reflections of the company and “above all an expression of Google’s business activities.” This is the latest skirmish in a decades-old battle over internet publishing. Historically, there were two different types of information distributors: carriers and publishers. A phone company is a carrier. It’ll transmi",
-      "pubDate": "2026-06-25T17:03:15.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Microsoft a Leader in The Forrester Wave™ for Endpoint Management Platforms",
