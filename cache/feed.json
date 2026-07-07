@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-07T07:42:12.383Z",
+  "generatedAt": "2026-07-07T11:11:00.398Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,60 @@
   ],
   "items": [
     {
+      "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
+      "link": "https://www.schneier.com/blog/archives/2026/07/google-is-suing-chinese-scammers-who-are-using-gemini.html",
+      "description": "Not sure this will have any effect, but I support the effort: According to Google’s legal filing, Outsider Enterprise operates through Telegram. The group offers phishing-as-a-service to individuals who may not be technically savvy enough to set up fraudulent websites and text campaigns on their own. In its Telegram channels, Outsider Enterprise reportedly provided instructions on how to use Google’s Gemini AI to create websites that imitate those of Google, YouTube, and government agencies such as New York’s E-ZPass. The group offered nearly 300 scam templates. […] Google worked with AT&T, Ve",
+      "pubDate": "2026-07-07T10:43:40.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems",
+      "link": "https://www.securityweek.com/linux-kernel-vulnerability-allows-vm-escape-on-intel-and-amd-systems/",
+      "description": "The 16-year-old Januscape flaw affects Linux's KVM hypervisor, allowing attackers to escape virtual machines and potentially execute code on the underlying host. The post Linux Kernel Vulnerability Allows VM Escape on Intel and AMD Systems appeared first on SecurityWeek.",
+      "pubDate": "2026-07-07T10:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/05/Linux-vulnerability-malware.jpeg"
+    },
+    {
+      "title": "Microsoft to enable Windows settings backup by default for orgs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-enable-windows-backup-for-organizations-by-default/",
+      "description": "Microsoft says the Windows settings backup and restore tool will be enabled by default on Microsoft Entra-joined or Microsoft Entra hybrid-joined enterprise systems after upgrading to Windows 11 26H2. [...]",
+      "pubDate": "2026-07-07T09:41:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
+    },
+    {
+      "title": "Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security",
+      "link": "https://www.securityweek.com/keyfactor-scores-1-billion-investment-for-ai-post-quantum-security/",
+      "description": "The investment will accelerate Keyfactor's machine identity, PKI, and cryptographic security platform as enterprises prepare for AI-driven and post-quantum threats. The post Keyfactor Scores $1 Billion+ Investment for AI, Post-Quantum Security appeared first on SecurityWeek.",
+      "pubDate": "2026-07-07T09:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+    },
+    {
+      "title": "Suspected China-Aligned Hackers Exploit Roundcube Flaws Against Universities",
+      "link": "https://thehackernews.com/2026/07/suspected-china-aligned-hackers-exploit.html",
+      "description": "A suspected China-aligned threat activity cluster has been observed exploiting Roundcube webmail software belonging to physics and engineering departments of U.S. and Canadian universities as part of a new campaign. The activity involves the exploitation of now-patched, critical security flaws in the open-source email solution, such as CVE-2024-42009 (CVSS score: 9.3), to siphon credentials,",
+      "pubDate": "2026-07-07T09:10:51.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitErUXjxgvdr7CLGa67wtfentIJSFkobxbyIMtQNK4mzNTyf_3Mq9mckQNCGONMFqVaCvkvNKf7FqJfevWKstiWEOxt5wDlV_Fus-Ob3bo9vkMb3m5natJZjHhG-0r4FbH5UUBP4aiGtLcJ7mFIIwLw7IPIHOqw5ln1kAC_ZsiOvllGmVXws4bCXBGugBu/s1600/server-hacker.jpg"
+    },
+    {
+      "title": "BeyondTrust warns of critical flaws in remote access software",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-warns-of-critical-flaws-in-remote-access-software/",
+      "description": "BeyondTrust warned customers to patch two critical security flaws in its Remote Support (RS) and Privileged Remote Access (PRA) software that could allow attackers to bypass authentication. [...]",
+      "pubDate": "2026-07-07T08:12:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/16/BeyondTrust.jpg"
+    },
+    {
       "title": "Microsoft testing new Cloud Rebuild Windows 11 recovery feature",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-testing-new-cloud-rebuild-windows-11-recovery-feature/",
       "description": "Microsoft has begun testing the Cloud Rebuild recovery feature in the latest Windows 11 Insider Preview builds released for users in the Experimental channel. [...]",
@@ -26,6 +80,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2025/10/27/Windows_11.jpg"
+    },
+    {
+      "title": "CERT/CC Warns of Hidden Admin Backdoor in Tenda Router Firmware",
+      "link": "https://thehackernews.com/2026/07/certcc-warns-of-hidden-admin-backdoor.html",
+      "description": "Several versions of firmware released by Chinese network device manufacturer Tenda have been found to embed an undocumented authentication backdoor that enables administrative access to the devices' web management interfaces, the CERT Coordination Center (CERT/CC) warned Monday. \"An attacker can exploit this vulnerability, tracked as CVE-2026-11405, to bypass the password verification process",
+      "pubDate": "2026-07-07T06:40:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibED37Q9WinxGoPYaXltP_givD-Q30FneMyezHB4uftr5E4hy4fMm97v_UH34sQWEvlp688bYvMR6zDzy_C93ddbqNDfIVSX7swJgdTD38hOmKgu6ZLGjBW068gXHpsT4soRscJ1vWDxTz2z8xBDSb2QD2UWrR68nVytui4mo6Q0cXVh_GjK5FC6P4imvK/s1600/backdoor-admin.jpg"
     },
     {
       "title": "BeyondTrust Patches Critical Auth Bypass Flaws in Remote Support and PRA",
@@ -424,24 +487,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/08/AI-powered-ransomware.jpg"
     },
     {
-      "title": "Medtronic Data Breach Impacts 3.8 Million People",
-      "link": "https://www.securityweek.com/medtronic-data-breach-impacts-3-8-million-people/",
-      "description": "In April, ShinyHunters accessed the company’s corporate IT systems and stole patients’ personal and medical information. The post Medtronic Data Breach Impacts 3.8 Million People appeared first on SecurityWeek.",
-      "pubDate": "2026-07-03T10:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
-      "title": "Alleged Scattered Spider Hacker Extradited to US",
-      "link": "https://www.securityweek.com/alleged-scattered-spider-hacker-extradited-to-us/",
-      "description": "Prosecutors say 19-year-old Peter Stokes was a member of Scattered Spider, the hacking group linked to more than 100 network intrusions and over $100 million in ransom payments. The post Alleged Scattered Spider Hacker Extradited to US appeared first on SecurityWeek.",
-      "pubDate": "2026-07-03T09:30:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/Scattered-Spider.jpeg"
-    },
-    {
       "title": "PamStealer Uses Fake Maccy Sites and PAM Checks to Steal Mac Login Passwords",
       "link": "https://thehackernews.com/2026/07/pamstealer-uses-fake-maccy-sites-and.html",
       "description": "Cybersecurity researchers have flagged a new macOS information stealer called PamStealer that employs a series of clever tricks to infect systems and siphon sensitive data. The stealer, discovered by Jamf Threat Labs, is distributed as a compiled AppleScript (.scpt) file impersonating Maccy, a legitimate open-source clipboard manager. It has been codenamed PamStealer owing to its ability to",
@@ -577,24 +622,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/06/Europe.jpg"
     },
     {
-      "title": "ConsentFix and ClickFix: How Microsoft 365 Accounts are Hijacked in 3 Seconds",
-      "link": "https://www.bleepingcomputer.com/news/security/consentfix-and-clickfix-how-microsoft-365-accounts-are-hijacked-in-3-seconds/",
-      "description": "ConsentFix and ClickFix attacks steal Microsoft 365 tokens in seconds using fake prompts and OAuth flows. Learn how these MFA bypass tactics work and how to defend against them. [...]",
-      "pubDate": "2026-07-02T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/06/30/clickfix-header-s.jpg"
-    },
-    {
-      "title": "ToddyCat-Linked Umbrij Malware Abuses OAuth to Access Gmail via Google API",
-      "link": "https://thehackernews.com/2026/07/toddycat-linked-umbrij-malware-abuses.html",
-      "description": "The threat actor known as ToddyCat has been attributed to a new malware called Umbrij that's designed to gain surreptitious access to a victim's email correspondence via the Google API. \"In this campaign, the attackers focused their attention on corporate email communications hosted on Gmail, targeting access compromise via APIs,\" Kaspersky said in a detailed report published this week. \"",
-      "pubDate": "2026-07-02T13:04:13.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhMMnC-1ujLiZRcV1xgXbB3qFoIREcbSiGqLCFID8-G-z8GFI3YEY8VniprVEBW4b4TZKJUvoRDg27elntNJWL9S6JZUHMMe1Ie1JLf9w5Fzsgx2w9c94ja1NoED4m3G1pNngC2DDWOOQPgVGiKOd0uBpZkQSSpFOo60S2Tbl8j2VWKdhb70sIJzF8d93LM/s1600/gmail.jpg"
-    },
-    {
       "title": "Anthropic's AI Finds Bugs. IBM Bets $5B It Can Fix Them.",
       "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-s-ai-finds-bugs-ibm-bets-5b-it-can-fix-them-",
       "description": "IBM and Red Hat assign 20,000 engineers to the new Project Lightwell service as Anthropic's Mythos findings ignite debate over how to secure the open source software supply chain.",
@@ -602,24 +629,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteeda9139b627cb5e/69389770c9923c42c04a9c31/bugs_Cagkan_Sayin_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft fixes bug that removed Copilot buttons in Outlook",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-that-removed-copilot-button-in-outlook/",
-      "description": "Microsoft has fixed a known issue causing the Copilot Chat or Copilot buttons in Classic Outlook to disappear for Windows users with the Copilot Chat (Basic) license. [...]",
-      "pubDate": "2026-07-02T12:15:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/27/Outlook.jpg"
-    },
-    {
-      "title": "Identity Lifecycle Management Wasn't Built for AI Agents",
-      "link": "https://thehackernews.com/2026/07/identity-lifecycle-management.html",
-      "description": "Identity lifecycle management was architected around a person with an employment record, a manager, and a departure date. AI agents have none of those. As autonomous principals proliferate across enterprise environments, the governance model built for humans develops structural blind spots that traditional IGA tools weren't designed to detect. This guide covers where that model breaks, what it",
-      "pubDate": "2026-07-02T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgwwp0Bf4s6Xp_L13nlIV5Pf2D0awJsA5cDdev6yCr9f7nLVbmJmzqJ01cmdJkO4K0E3KEvdHhK10ZDai_tXV6gZDmgJqhnsARjEhVScA9gsWHKL4zzt64aQSSgPBImpeYxLuMiORSByYXgQunRUhYhymV8AQfvYf6qsBieuh82794N44iaJ9lEl8IS8Z0/s1600/Identity-Lifecycle-Management.jpg"
     },
     {
       "title": "Cybersecurity Mission Creep in the US",
@@ -941,15 +950,6 @@
       "link": "https://www.schneier.com/blog/archives/2026/06/meta-is-testing-facial-recognition-for-police-and-military.html",
       "description": "We know that ICE wants to deploy eyeglasses with facial recognition that can identify people in real time. Turns out Meta is prototyping the feature with a Pentagon supplier. (Alternate news story.)",
       "pubDate": "2026-06-26T16:40:56.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "One Million Passports Leaked Online",
-      "link": "https://www.schneier.com/blog/archives/2026/06/one-million-passports-leaked-online.html",
-      "description": "A database of almost a million passports from around the world was leaked online. Note what happened. A high-value credential—a passport—was used in an ancillary low-value authentication system: ID verification for cannabis dispensaries. And it’s the low-value system that got hacked, putting the high-value credential at risk.",
-      "pubDate": "2026-06-26T11:03:21.000Z",
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
