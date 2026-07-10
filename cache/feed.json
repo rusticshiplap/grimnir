@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T20:50:08.531Z",
+  "generatedAt": "2026-07-10T23:30:41.657Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,13 +19,40 @@
   ],
   "items": [
     {
-      "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
-      "description": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
-      "pubDate": "2026-07-10T19:43:16.000Z",
+      "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
+      "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
+      "description": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here. The post No Manners Here: The Ruthless Rise of The Gentlemen Ransomware appeared first on Unit 42.",
+      "pubDate": "2026-07-10T22:00:39.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/05_Opinion_Overview_1920x900.jpg"
+    },
+    {
+      "title": "New U-Boot flaws could enable stealthy firmware attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/new-u-boot-flaws-could-enable-stealthy-firmware-attacks/",
+      "description": "Six vulnerabilities in the widely used U-Boot bootloader have been discovered that could allow attackers to execute malicious code during device boot, potentially enabling stealthy firmware attacks that compromise security protections and install persistent malware. [...]",
+      "pubDate": "2026-07-10T21:59:02.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/06/02/cpu-motherboard.jpg"
+    },
+    {
+      "title": "Friday Squid Blogging: “Squidbleed” Vulnerability",
+      "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squidbleed-vulnerability.html",
+      "description": "In a rare combined cybersecurity/squid post, a twenty-nine-year-old squid proxy bug can leak HTTP requests. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-07-10T21:07:13.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
+      "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+      "description": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
+      "pubDate": "2026-07-10T19:08:04.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Ryuk ransomware member pleads guilty in the US, faces 15 years in prison",
@@ -532,15 +559,6 @@
       "image": null
     },
     {
-      "title": "Microsoft to retire the OWA Light client in Exchange Server",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-announces-owa-light-retirement-in-exchange-server/",
-      "description": "Microsoft has announced plans to disable Outlook Web Access (OWA) Light, the lightweight version of the Outlook Web App email client, in a future Exchange Server update. [...]",
-      "pubDate": "2026-07-09T11:00:35.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/07/03/Exchange_Server.jpg"
-    },
-    {
       "title": "Summer of Clearinghouses",
       "link": "https://thehackernews.com/2026/07/summer-of-clearinghouses.html",
       "description": "Everyone seems to have announced a clearinghouse over the past few weeks. We did too. Ours is called Athena, and the main thing that sets it apart is that it was already real and running when we announced it — built quietly months earlier, heads down, taking findings and shipping fixes, because customers kept asking us to. We only announced it now because everyone else started announcing theirs,",
@@ -1027,15 +1045,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/06/image-56.webp"
     },
     {
-      "title": "Factoring RSA Keys with Many Zeros",
-      "link": "https://www.schneier.com/blog/archives/2026/06/factoring-rsa-keys-with-many-zeros.html",
-      "description": "Interesting research on a new class of weak RSA keys: keys with lots of zeros. It turns out that these keys are out in the wild. The badkeys project is an open-source service that checks public keys for known vulnerabilities. While developing this tool, Hanno collected a massive number of real-world keys from public sources, including Certificate Transparency logs, internet-wide TLS and SSH scans, PGP keys, and many others. By searching this dataset for unexpectedly sparse RSA moduli, we uncovered a large number of keys in the wild with the patterns in Figure 1. Both patterns include several r",
-      "pubDate": "2026-06-29T16:05:18.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Falcon Cloud Security June 2026 Release: Updates for Azure and Google Cloud",
       "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-expanding-multi-cloud-coverage/",
       "description": "",
@@ -1331,15 +1340,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Artboard-1-2.png"
-    },
-    {
-      "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2)",
-      "link": "https://unit42.paloaltonetworks.com/monitoring-npm-supply-chain-attacks/",
-      "description": "Unit 42 analyzes npm supply chain evolution post-Shai Hulud. Discover wormable malware, CI/CD persistence, multi-stage attacks and more. The post The npm Threat Landscape: Attack Surface and Mitigations (Updated June 2) appeared first on Unit 42.",
-      "pubDate": "2026-06-02T17:30:33.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/04/05_Malware_Category_1920x900.jpg"
     },
     {
       "title": "1,000 Data Breaches Later, the Disclosure Lag is Worse Than Ever",
