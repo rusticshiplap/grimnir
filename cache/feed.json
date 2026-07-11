@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-11T14:04:25.864Z",
+  "generatedAt": "2026-07-11T19:43:53.782Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
+      "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
+      "description": "Version 8.14.0 of the jscrambler npm package shipped with a malicious preinstall hook that silently drops and runs a native infostealer during installation, one build each for Windows, macOS, and Linux. Published on July 11, 2026, it needs no import and no CLI call. Installing 8.14.0 is enough to run it. Socket flagged the release six minutes after it was",
+      "pubDate": "2026-07-11T17:59:26.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhodiWPXDsex6YL7v4e2n_D5MJFMht76GRRmHTdiG61tfEmsoZyow4tkiS3ORACILDl2fNP27YQkw1XLSBKGcom-DhCVzzPDdkdSgeMGdxcVL_rgO70x5LqZcjxKAPTtFOquB8LwSBPWrSpflqCzns-cFZ_EVm0WZfV7wSoPM3S-7_IGtCT3AjxY0rfITU/s1600/npm-js.jpg"
+    },
+    {
+      "title": "Hackers Weaponize Balochistan Police Portal in Multi-Group Espionage Campaigns",
+      "link": "https://thehackernews.com/2026/07/hackers-weaponize-balochistan-police.html",
+      "description": "Cybersecurity researchers have disclosed details of sustained cyber espionage activity against several Pakistani law enforcement organizations undertaken by suspected China- and India-aligned threat actors between February 2024 and April 2026. \"At Balochistan Police, the compromised assets included servers hosting web applications that manage police and citizen data, such as criminal and",
+      "pubDate": "2026-07-11T17:49:31.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
+    },
+    {
+      "title": "Ghost Accounts Abuse GitHub API in Mass Recon Campaign",
+      "link": "https://www.securityweek.com/ghost-accounts-abuse-github-api-in-mass-recon-campaign/",
+      "description": "Multiple campaigns are using ghost accounts to map GitHub organizations, including their repositories and members. The post Ghost Accounts Abuse GitHub API in Mass Recon Campaign appeared first on SecurityWeek.",
+      "pubDate": "2026-07-11T17:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
+    },
+    {
+      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
+      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
+      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
+      "pubDate": "2026-07-11T14:18:23.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Aus.jpg"
+    },
     {
       "title": "'Ghostcommit' hides prompt injection in images to fool AI agents, steal secrets",
       "link": "https://www.bleepingcomputer.com/news/security/ghostcommit-hides-prompt-injection-in-images-to-fool-ai-agents-steal-secrets/",
@@ -496,15 +532,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Fig1-GigaWiper.webp"
     },
     {
-      "title": "New Forg365 phishing platform uses AI to target Microsoft 365 accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/new-forg365-phishing-platform-uses-ai-to-target-microsoft-365-accounts/",
-      "description": "A new phishing-as-a-service (PhaaS) operation called Forg365 focuses on stealing Microsoft 365 accounts by combining adversary-in-the-middle (AiTM) and device code methods with AI-assisted lure generation. [...]",
-      "pubDate": "2026-07-09T14:39:51.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg"
-    },
-    {
       "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
       "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
       "description": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
@@ -521,15 +548,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/06/UK_Cyberwarfare.jpg"
-    },
-    {
-      "title": "Palo Alto Networks Patches 13 Vulnerabilities",
-      "link": "https://www.securityweek.com/palo-alto-networks-patches-13-vulnerabilities/",
-      "description": "Buffer overflow, DoS, command injection, SSRF, authentication bypass, and other types of vulnerabilities have been found in PAN-OS software. The post Palo Alto Networks Patches 13 Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-07-09T13:49:42.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/Palo-Alto-Networks-zero-day.jpeg"
     },
     {
       "title": "Invited to a “job interview” with Netflix or OpenAI? Beware! Your Google password could be at risk",
@@ -622,15 +640,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhsjiT58V2lRqaqYwo2AHkilx81c58T9dBHa_W5KiHgom4-UgZqV18Ax-zQb8_fN7p_OQpqi0b4nTzt4SpDnHW-RozKjIcgs-B8KN8HI_QnCMzIjDMmcg2grJEyP7r1ZNd_SRB5R1MDw-vo-jQ4v198ZDhMsWaBpFnXmShkouRZvXIXpu-32FQ_30h4HQrq/s1600/metaai.jpg"
     },
     {
-      "title": "Top AI Agents Built to Catch Malicious Code Can Be Tricked Into Running It",
-      "link": "https://thehackernews.com/2026/07/friendly-fire-ai-agents-built-to-catch.html",
-      "description": "Ask an AI coding agent to scan open-source code for security holes, and it might run the attacker's code on your own machine instead. That is the finding in a proof-of-concept published Wednesday by the AI Now Institute, an attack it calls \"Friendly Fire.\" It works against Anthropic's Claude Code and OpenAI's Codex when either is running in an autonomous mode that approves its own",
-      "pubDate": "2026-07-09T05:15:02.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgynXsBDNXYgGgYPWB6cmy9zuZDStl-XaVvlwMQsqa6AxvNCvi7qI9Xq3h1vdk30Tv1u-fOAtB_OZ_Q-i5O0z5D0KL1Eh0joKyFmuhIoH4-7Z16ubplbIcNQpXJ7P7Sl2xju-z6ZvbhSeJbGKiL1gzx-I151GVMAp5jpCS27zvn791sC2WYQllTRT8ye-0/s1600/Friendly-Fire-AI-demo.gif"
-    },
-    {
       "title": "Why AI Governance Without Guardrails Is Theater",
       "link": "https://www.crowdstrike.com/en-us/blog/why-ai-governance-without-guardrails-is-theater/",
       "description": "",
@@ -638,15 +647,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "GhostApproval Symlink Flaws Could Let Malicious Repos Run Code in AI Coding Agents",
-      "link": "https://thehackernews.com/2026/07/ghostapproval-symlink-flaws-could-let.html",
-      "description": "Researchers at Wiz found that a flaw in six popular AI coding assistants lets a booby-trapped code project quietly take control of a developer's computer. The assistant asks permission to edit one harmless-looking file, but the write lands on a sensitive one instead. The affected tools are Amazon Q Developer, Anthropic's Claude Code, Augment, Cursor, Google Antigravity, and Windsurf.",
-      "pubDate": "2026-07-09T04:27:18.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
     },
     {
       "title": "Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself",
