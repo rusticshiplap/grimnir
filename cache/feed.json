@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-10T23:30:41.657Z",
+  "generatedAt": "2026-07-11T07:28:56.995Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
+      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
+      "description": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
+      "pubDate": "2026-07-11T06:45:55.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
+    },
     {
       "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
       "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
@@ -638,15 +647,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijymBd057efx1JbDRjjqh0RBYH7RA2pE75UYG8DDd7Vl2UyXMsMjXtgEaxoPyHt5wz8s0fT6B43ovQskxZBchyiYI9G34t7YjyC6_T0xwzs_0SOJaHnHI7vXfMTOqtDn1R6up52ol5UH_uT86b1dRjaJ-Bw6pa_lAX6igS_pFLV_z_0kRhyXuNo8Q2rFU/s1600/wiz-ai.jpg"
-    },
-    {
-      "title": "Fake 7-Zip Installers Turn Devices Into Residential Proxy Nodes",
-      "link": "https://thehackernews.com/2026/07/fake-7-zip-installers-turn-devices-into.html",
-      "description": "Cybersecurity researchers have disclosed details of a new threat actor dubbed Lurking Lizard that has been operating an end-to-end malicious residential proxy business using an infrastructure comprising more than 230 lookalike domains. The activity dates back to at least August 2022, according to DNS threat intelligence firm Infoblox. Once such campaign, observed earlier this year, involved the",
-      "pubDate": "2026-07-09T04:01:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0R7K2HuXIaXAr6VokIBdoRH5Zk8L2jJMM5abiDPtiOsT3DsQnI-FRSuTO02mekKGj2Cup9RBBYgAhyo92KHjyCTsMuctH8lYgwysOxpLpHp9uIuL7xBEuojc83nmWH7pcA1KRlu8W9-7b1caaoQMaNX2qATV_7e-CwoPSFk08VwjbRx2M-fgfMcjN3KeW/s1600/7-zip-malware.png"
     },
     {
       "title": "Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself",
