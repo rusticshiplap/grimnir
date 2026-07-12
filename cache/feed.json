@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-12T10:54:23.232Z",
+  "generatedAt": "2026-07-12T18:27:48.503Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "RedHook Android malware now uses Wireless ADB for shell access",
+      "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
+      "description": "A new version of the RedHook Android malware abuses the Android Wireless Debugging (Wireless ADB) mechanism in a novel way to gain shell-level privileges without requiring a computer connection. [...]",
+      "pubDate": "2026-07-12T14:27:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/09/Android.jpg"
+    },
     {
       "title": "Compromised jscrambler 8.14.0 npm Release Drops Rust Infostealer During Install",
       "link": "https://thehackernews.com/2026/07/compromised-jscrambler-8140-npm-release.html",
@@ -485,15 +494,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/09/helix.jpg"
-    },
-    {
-      "title": "Microsoft expects more Windows security updates from AI-discovered flaws",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-expects-more-windows-security-updates-from-ai-discovered-flaws/",
-      "description": "Microsoft says Windows users should expect to see an increase in security updates as the company increasingly relies on artificial intelligence to discover vulnerabilities in its codebase. [...]",
-      "pubDate": "2026-07-09T17:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/18/Microsoft.jpg"
     },
     {
       "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
