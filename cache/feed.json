@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-12T18:27:48.503Z",
-  "count": 205,
+  "generatedAt": "2026-07-12T21:54:25.116Z",
+  "count": 185,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Claude Fable 5 stays free for paid users until July 19 as Anthropic buys more time",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/claude-fable-5-stays-free-for-paid-users-until-july-19-as-anthropic-buys-more-time/",
+      "description": "Anthropic has just extended access to Claude Fable 5 for paid subscribers until July 19, giving you another week to keep using the most powerful model. [...]",
+      "pubDate": "2026-07-12T19:39:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
+    },
     {
       "title": "RedHook Android malware now uses Wireless ADB for shell access",
       "link": "https://www.bleepingcomputer.com/news/security/redhook-android-malware-now-uses-wireless-adb-for-shell-access/",
@@ -487,15 +496,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJRuXh4y7zy8C81w_JgJgWFg_sgF0IYcsvqWEsYeHIHu7nWdOl1aIMQdnmmRQF-KJK_XdTGxzSIAr57yFkzMIZ_VK5Kzx12xR4oW8QOZcnsf9zmySIT3YRvpPvo2q-P92sZc2LqB4M-NSlktwLGU85I0JQbCVCjvJ130GLEF6eGknO8VzkK66kHjlgkBg/s1600/data-wiper-malware.jpg"
     },
     {
-      "title": "New Helix vishing group emerges in SharePoint data theft attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/new-helix-vishing-group-emerges-in-sharepoint-data-theft-attacks/",
-      "description": "A new data-extortion group called Helix is using identity-focused tactics such as voice phishing (vishing), device code phishing, and multi-factor authentication (MFA) abuse to steal data from SharePoint environments. [...]",
-      "pubDate": "2026-07-09T17:08:29.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/09/helix.jpg"
-    },
-    {
       "title": "npm 12 Disables Install Scripts by Default to Reduce Supply Chain Risk",
       "link": "https://thehackernews.com/2026/07/npm-12-disables-install-scripts-by.html",
       "description": "GitHub has officially announced the release of npm version 12 with install scripts disabled by default, along with deprecating granular access tokens (GATs) designed to bypass two-factor authentication (2FA). The Microsoft-owned subsidiary noted that the following npm install behaviors that used to run automatically before have been made opt-in - allowScripts defaults to off, meaning",
@@ -548,15 +548,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/06/UK_Cyberwarfare.jpg"
-    },
-    {
-      "title": "Invited to a “job interview” with Netflix or OpenAI? Beware! Your Google password could be at risk",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invited-job-interview-netflix-openai-beware-google-password",
-      "description": "Have you received an email from a recruiter at Adobe, Netflix, or OpenAI offering you an exciting new marketing role? Well, before you start brushing up your interview technique, take a closer look at who is really behind it. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-09T13:17:38.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/job-phish.jpeg"
     },
     {
       "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
@@ -647,15 +638,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself",
-      "link": "https://grahamcluley.com/smashing-security-podcast-475/",
-      "description": "A 15-year-old boy asked a chatbot for help - and cancelled nearly 47,000 anime streaming subscriptions in under four hours. Meanwhile, researchers have documented the first fully autonomous, agentic AI-driven ransomware attack, \"JadePuffer\". What does this tell us about the future of cybersecurity? Also, Apple's \"Hide My Email\" feature turns out to hide rather less than it promises - despite Apple knowing it has a problem for over a year. All this and more in this episode of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Zoë Rose.",
-      "pubDate": "2026-07-08T23:19:18.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-475.webp"
     },
     {
       "title": "Mexico's New Cyber Plan Faces Its First Real Test",
@@ -764,15 +746,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10ffb7d3c09c15f9/6a4cd672541f2a099e941684/Unlock_Data_Breach_Pattara_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Two arrested over credit card phishing – as the Netherlands is named Europe’s worst for payment fraud",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud",
-      "description": "Two young men have been arrested in the Netherlands on suspicion of running a phishing operation that harvested the credit card details of unsuspecting victims. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-07T12:56:01.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/credit-card.jpeg"
     },
     {
       "title": "Google Is Suing Chinese Scammers Who Are Using Gemini",
@@ -901,15 +874,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb900b57271d6fc24/6a46a07ecef8a87304f980df/Apple_bandage-imtmphoto-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "The Gentlemen ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/gentlemen-ransomware-what-you-need-know",
-      "description": "Who Are The Gentlemen? Despite the impeccably polite name, there is nothing polite or refined about this particular gang of cybercriminals. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-07-02T16:50:40.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Improving security posture across the Microsoft partner ecosystem",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
       "description": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices. The post Improving security posture across the Microsoft partner ecosystem appeared first on Microsoft Security Blog.",
@@ -926,15 +890,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?",
-      "link": "https://grahamcluley.com/smashing-security-podcast-474/",
-      "description": "Polymarket has built an entire business on predicting the future. So how did it manage to spectacularly fail to predict its own hack? Plus, the Google engineer with a million-dollar secret, and the curious case of the airport hairdryer. Meanwhile, \"FortiBleed\" sees 75,000 Fortinet firewalls thrown wide open - and the real damage is going to roll on for years. All this and more in episode 474 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Quentyn Taylor.",
-      "pubDate": "2026-07-01T23:12:11.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-474.webp"
     },
     {
       "title": "Microsoft named a leader in the Frost Radar for cloud and application runtime security",
@@ -962,15 +917,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg"
-    },
-    {
-      "title": "Scammers race to cash in on Venezuelan earthquake disaster",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/scammers-cash-in-venezuela-earthquake",
-      "description": "Scammers wasted no time exploiting Venezuela's devastating earthquake, with researchers uncovering 212 newly-registered relief-themed domains in just five days. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-30T21:04:35.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/venezuela-earthquake-scam.jpeg"
     },
     {
       "title": "Accelerating the quantum-safe timeline",
@@ -1018,15 +964,6 @@
       "image": null
     },
     {
-      "title": "USB drives carrying China-linked malware infected Japanese military networks for nearly a year",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year",
-      "description": "Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-30T10:25:50.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/usb-drive-japan-flag.jpeg"
-    },
-    {
       "title": "Browser Security: Zero-Days Are Only Part of the Problem",
       "link": "https://www.crowdstrike.com/en-us/blog/browser-security-zero-days-are-only-part-of-the-problem/",
       "description": "",
@@ -1072,15 +1009,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg"
     },
     {
-      "title": "Smashing Security podcast #473: How a hacker could have Rickrolled the entire World Cup",
-      "link": "https://grahamcluley.com/smashing-security-podcast-473/",
-      "description": "A polite caller from your bank says there is a problem with your account. Don't worry - they'll send someone round to help. They'll even take your cards away to keep them safe. The scam has run rampant, until Dutch police plastered blurred photos of 100 suspects across billboards, supermarkets, and TikTok, with a two-week ultimatum to turn themselves in... or else. Meanwhile, a security researcher called Bob DaHacker got her hands on the live broadcast controls for every match of the 2026 FIFA World Cup. She could have Rickrolled the entire planet, but actually spent days trying to find anyone",
-      "pubDate": "2026-06-24T23:10:57.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-473.webp"
-    },
-    {
       "title": "Weekly Update 509",
       "link": "https://www.troyhunt.com/weekly-update-509/",
       "description": "I know enough about home cinema audiovisual to know there's a lot I don't know. It's conscious incompetence, if you like, which is different to the unconscious incompetence most people have on the topic. That's not to sound derogatory (it's",
@@ -1108,15 +1036,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_768915868-1.jpg"
     },
     {
-      "title": "Hacker hijacks Brazil’s national alert system, sending “misanthropy” to millions of phones",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-hijacks-brazils-national-alert-system",
-      "description": "Emergency alert systems work because people believe them. Every time one of these systems issues a false alert - whether through negligence or a deliberate attack - trust erodes. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-23T12:16:15.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/emergency-alert.jpeg"
-    },
-    {
       "title": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
       "link": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/",
       "description": "Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs. The post The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration appeared first on Unit 42.",
@@ -1133,24 +1052,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Apple’s Hide My Email tweak leaves privacy fans fuming",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming",
-      "description": "Apple has long marketed itself as the privacy-first tech giant. So why is it making a change to Hide My Email that will make it easier for websites to block anonymous sign-ups - and harder for you to stay private online? Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-19T15:47:53.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/hide-my-email.jpeg"
-    },
-    {
-      "title": "Imposter scams cost Americans $3.5 billion in 2025 – and it’s getting worse",
-      "link": "https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse",
-      "description": "Someone is pretending to be your bank, your government, or your local planning office. And according to the FTC, they're making billions doing it. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-06-19T13:51:24.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "New Abuse of the ClickOnce Technology, Part 2: Stop Threat Actors from Clicking Once and Staying Forever",
@@ -1171,15 +1072,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed",
-      "link": "https://grahamcluley.com/smashing-security-podcast-472/",
-      "description": "What if your AI coding assistant could be tricked into stealing your own company's secrets - by reading a single booby-trapped bug report? No phishing email. No malware. No password ever stolen. Just an AI doing exactly what it was told. Meanwhile, someone themselves Nightmare Eclipse has decided to teach Microsoft a lesson. The result? Three zero-days dropped on the internet, one of which lets a thief with a USB stick walk straight past BitLocker. Microsoft is furious. Plus don't miss our featured interview with Son Nguyen Kim of Proton Pass, who explains why plugging AI agents into your emai",
-      "pubDate": "2026-06-17T23:10:17.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-472.webp"
-    },
-    {
       "title": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
       "link": "https://unit42.paloaltonetworks.com/hijacking-vertex-ai-model/",
       "description": "Unit 42 discovered a Vertex AI Python SDK vulnerability that allows remote code execution via bucket squatting. Read the article for more. The post Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE appeared first on Unit 42.",
@@ -1196,15 +1088,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Interview_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Maine forced to take down data breach portal after fake notices filed with authorities",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/maine-take-down-data-breach-portal",
-      "description": "The US state of Maine has taken its public data breach notification portal offline after someone submitted fraudulent breach disclosures impersonating two well-known technology companies. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-15T13:23:44.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/fake-data-breach-notice.jpeg"
     },
     {
       "title": "Weekly Update 508",
@@ -1225,24 +1108,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Listicle_Category_1505x922.jpg"
     },
     {
-      "title": "Privacy own-goal: World Cup blunder leaks Lionel Messi’s passport details",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/privacy-own-goal-world-cup-blunder-leaks-lionel-messis-passport-details",
-      "description": "Argentina's World Cup squad had their passport numbers leaked before a ball was kicked - not by hackers, but by someone who failed to redact a document properly. document. It's a mistake that has been made many times in the past... Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-12T18:48:06.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/messi-passport.jpeg"
-    },
-    {
-      "title": "Silent Ransom Group: what you need to know",
-      "link": "https://www.fortra.com/blog/silent-ransom-group-what-you-need-know",
-      "description": "Most extortion gangs hide behind a keyboard. Silent Ransom Group will phone your staff pretending to be IT support - and if that fails, send someone to your office in person to plug in a USB stick. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-06-11T15:43:50.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Trust No Skill: Integrity Verification for AI Agent Supply Chains",
       "link": "https://unit42.paloaltonetworks.com/ai-agent-supply-chain-risks/",
       "description": "Protect enterprise AI agents from supply chain risks by auditing third-party skills for hidden vulnerabilities and multi-stage attack chains. The post Trust No Skill: Integrity Verification for AI Agent Supply Chains appeared first on Unit 42.",
@@ -1250,24 +1115,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_429594706.jpg"
-    },
-    {
-      "title": "Smashing Security podcast #471: This AI worm just rewrote its own rules",
-      "link": "https://grahamcluley.com/smashing-security-podcast-471/",
-      "description": "Researchers at the University of Toronto have built a worm that thinks for itself. Using free off-the-shelf AI models it works out how to break into each new computer it encounters, and hijacks the powerful ones to host its own AI brain. And then the researchers discovered their creation had quietly removed the list of machines it wasn't supposed to attack. Meanwhile, Meta's shiny new AI customer support agent has been cheerfully helping hackers help themselves to other people's Instagram accounts. Just keep asking, politely but firmly, to have a password reset sent to a different email addres",
-      "pubDate": "2026-06-10T23:15:08.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-471.webp"
-    },
-    {
-      "title": "Why schools remain one of cybercriminals’ favourite targets",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/why-schools-remain-one-of-cybercriminals-favourite-targets",
-      "description": "Schools on both sides of the Atlantic have been revealed in recent days to have been hit by hackers, reminding all of us that ransomware gangs see educational instituions as targets all year round. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-10T13:18:27.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/empty-school.jpeg"
     },
     {
       "title": "Weekly Update 507",
@@ -1304,33 +1151,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/02_Opinion_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Got a LinkedIn message from a recruiter? It might be Chinese intelligence, warn FBI and MI5",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-recruiter-chinese-intelligence-fbi-mi5",
-      "description": "If you've ever received an out-of-the-blue message via LinkedIn from a recruiter offering some well-paid consultancy work, intelligence agencies have a message for you: be very careful. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-05T17:13:31.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/linkedin-china.jpeg"
-    },
-    {
-      "title": "Meta’s own AI chatbot to blame for Instagram accounts being stolen in seconds",
-      "link": "https://www.fortra.com/blog/metas-own-ai-chatbot-blame-instagram-accounts-being-stolen-seconds",
-      "description": "Hackers have been hijacking Instagram accounts at scale by exploiting Meta's AI support chatbot. And, as if that weren't bad enough, the technique required no technical skill whatsoever. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-06-04T19:53:59.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Smashing Security podcast #470: This AI security flaw might be impossible to fix",
-      "link": "https://grahamcluley.com/smashing-security-podcast-470/",
-      "description": "A website called \"UK visa portal\" has been quietly collecting passport scans, selfies, and personal data from thousands of travellers who thought they were applying through official channels. They weren't. And when a journalist tried to warn the company, it was lawyers who responded. Meanwhile, a paper from Cornell suggests that prompt injection - the technique malicious actors use to trick AI agents into doing things they really shouldn't - may be fundamentally unsolvable. Which is err... awkward, because everyone is rushing to plug AI agents into their email, files, and corporate networks. P",
-      "pubDate": "2026-06-03T23:15:58.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-470.webp"
     },
     {
       "title": "Welcoming the Philippine Government to Have I Been Pwned",
