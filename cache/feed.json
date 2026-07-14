@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T14:54:57.102Z",
+  "generatedAt": "2026-07-14T16:18:10.348Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
+      "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
+      "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
+      "pubDate": "2026-07-14T16:08:47.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/07/25/Progress.jpg"
+    },
+    {
+      "title": "Upcoming Speaking Engagements",
+      "link": "https://www.schneier.com/blog/archives/2026/07/upcoming-speaking-engagements-58.html",
+      "description": "This is a current list of where and when I am scheduled to speak: I’m speaking (virtually) at the Policy-Relevant Privacy Research Workshop in Calgary, Canada, on Monday, July 20, 2026. I’m speaking at Boston Leadership Exchange in Boston, Massachusetts, USA, on Wednesday, July 22, 2026. I’m speaking at Cognitive Security Conference in Las Vegas, Nevada, USA. The conference runs August 6-7, 2026; my speaking time is TBD. I’m speaking at DEF CON 34 in Las Vegas, Nevada, USA. The conventions runs August 6-9, 2026; my speaking time is TBD. I’m speaking at LAcon V in Anaheim, California, USA. The ",
+      "pubDate": "2026-07-14T16:04:49.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+      "pubDate": "2026-07-14T16:02:39.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9514b34577d4811/6a564cbd43c478c70426061e/GettyImages-1003977262.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+      "pubDate": "2026-07-14T15:53:54.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89ed69f46b66e8ed/6a565987201f4e6bf48f2ebe/mushrooms-maYcal-GettyImages-1048450740.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "LastPass, Bitwarden users targeted with fake security alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
+      "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
+      "pubDate": "2026-07-14T15:31:52.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/23/lastpass.jpg"
+    },
     {
       "title": "You Don't Have to Run an Exploit to Know If You're Vulnerable",
       "link": "https://www.bleepingcomputer.com/news/security/you-dont-have-to-run-an-exploit-to-know-if-youre-vulnerable/",
@@ -451,15 +496,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgV-KJeaayQ7Le5oAYYddL3LmP0k3zaJOoLo9puHLF8y_fVAoBUcJba3ZyyCfJWdvvMBQTt__x0v8iggR1HfDgXOO1b5CD1xZUVr03ZnoO_1moKSeA9iNhOsPoLZMJXG9IwPJYO1NYYPNsWrBqmlx2FHM7tKF5pxRcLXLqSNtnLGP80Q4MxK5vGeB74tug/s1600/slow.jpg"
     },
     {
-      "title": "EU sanctions Russian GRU military hackers over cyberattacks",
-      "link": "https://www.bleepingcomputer.com/news/security/eu-and-uk-hit-russia-with-first-joint-cyber-sanctions-package/",
-      "description": "The European Union and the United Kingdom jointly sanctioned dozens of Russian individuals and entities and accused Russia of coordinating a network of hacking groups responsible for attacks across Europe. [...]",
-      "pubDate": "2026-07-13T11:19:05.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/03/0_European_Union_flag.jpg"
-    },
-    {
       "title": "Attacker Uses Suspected AI-Generated PowerShell Script to Map Active Directory",
       "link": "https://thehackernews.com/2026/07/attacker-uses-suspected-ai-generated.html",
       "description": "Cybersecurity researchers have flagged an intrusion in which an unknown threat actor leveraged a vibe-coded PowerShell script for Active Directory (AD) enumeration. \"The script looked for the Domain Controller (DC) and mapped users, computers, and domains, before creating a directory and exporting out a number of files, and finally creating AD_Report.html to measure the success of the",
@@ -476,15 +512,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "US and allies warn of Russian critical infrastructure attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/us-and-allies-share-defense-tips-against-russian-hackers-targeting-critical-infrastructure/",
-      "description": "Cybersecurity agencies from the United States and eight other countries have issued a joint warning that Russian state hackers are targeting vulnerable and poorly configured routers to infiltrate critical infrastructure networks. [...]",
-      "pubDate": "2026-07-13T09:32:23.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/Russian_hacker.jpg"
     },
     {
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
@@ -847,15 +874,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteca04007bb68f1f6/6a4d5127491628186986abc0/Agent_breaking_through_firewall-Richard_Drury-Getty-2219277246.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "'GitLost' Flaw Leaks Private Data From GitHub's Agentic Workflows",
-      "link": "https://www.darkreading.com/cyber-risk/gitlost-leaks-private-data-github-agentic-workflows",
-      "description": "The flaw allows an unauthenticated attacker to craft a GitHub Issue in an org's public repository and then silently pull data from its private repos, too.",
-      "pubDate": "2026-07-07T15:24:30.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10ffb7d3c09c15f9/6a4cd672541f2a099e941684/Unlock_Data_Breach_Pattara_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Two arrested over credit card phishing – as the Netherlands is named Europe’s worst for payment fraud",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud",
       "description": "Two young men have been arrested in the Netherlands on suspicion of running a phishing operation that harvested the credit card details of unsuspecting victims. Read more in my article on the Hot for Security blog.",
@@ -881,15 +899,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "'BusySnake' Infostealer Slithers Into Critical Infrastructure Networks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/busysnake-infostealer-critical-infrastructure-networks",
-      "description": "A threat group researchers call \"Armored Likho\" has gained access to government agencies and electrical power entities in Russia, Brazil, and Kazakhstan.",
-      "pubDate": "2026-07-06T21:37:56.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8a5851671625faf8/6a4c14c7cdf54e22d2b6249c/busysnake_LuckyStep_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "5 insights from Frost & Sullivan’s 2025 Frost Radar™ for Cloud Security Posture Management",
@@ -962,15 +971,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/10/thumbnail_image.webp"
-    },
-    {
-      "title": "Cybersecurity Mission Creep in the US",
-      "link": "https://www.schneier.com/blog/archives/2026/07/cybersecurity-mission-creep-in-the-us.html",
-      "description": "Interesting paper: “Cybersecurity Mission Creep.” Abstract: Cybersecurity is experiencing mission creep. Policymakers are casting more and more problems as issues of cybersecurity. So reframed, wildly different policy issues, from misinformation, to child social media safety laws, to antitrust regulations, to alleged journalist misconduct, to anti-sex trafficking statutes become what this Article calls “cybersecuritized.” Before this reframing, these issues present as important but not existential. But once cybersecuritization positions the issues as threats intensified by their technological ",
-      "pubDate": "2026-07-02T11:11:44.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?",
