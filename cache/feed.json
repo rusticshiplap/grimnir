@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T20:38:20.920Z",
+  "generatedAt": "2026-07-14T22:00:33.112Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
+      "description": "SonicWall warns that threat actors have been exploiting two SMA1000 vulnerabilities, tracked as CVE-2026-15409 and CVE-2026-15410, in zero-day attacks and urges customers to install the newly released security updates. [...]",
+      "pubDate": "2026-07-14T21:23:24.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/01/24/Sonicwall.jpg"
+    },
+    {
+      "title": "Microsoft Patches Record 622 Flaws, Including Two Zero-Days Under Active Attack",
+      "link": "https://thehackernews.com/2026/07/microsoft-patches-record-622-flaws.html",
+      "description": "Microsoft shipped its largest Patch Tuesday on record today, and two of the fixes close holes that attackers are already exploiting. The release covers 622 of Microsoft's own CVEs by its Security Update Guide count, more than triple June's previous high of around 200. Those two live bugs are the ones to grab first. Microsoft credits incident responders for both. Both are",
+      "pubDate": "2026-07-14T20:25:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi34s_9ywUXjSc5OtF7-fDiAqSa3H-UHpJfACXyULY5ziUlM67mCJHWee9tluTiGm7ZRhMy36SLal2CUjqwJHZ8vdHuFstRwJhPGLAXe49as-o3nRE-QAyRs2mx3og8eVdWdnzzr9LwGMXckMix80XOQPsWiE30xqqYGG3PNjjpVTCpLsnW77pCk_3MyKQ/s1600/ms=patch.jpg"
+    },
     {
       "title": "Spanish Police take down €140 million cyber fraud ring, arrest four",
       "link": "https://www.bleepingcomputer.com/news/security/spanish-police-take-down-140-million-cyber-fraud-ring-arrest-four/",
@@ -433,15 +451,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/nihonkotsu.jpg"
     },
     {
-      "title": "Hackers backdoor Jscrambler npm package with infostealer malware",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-backdoor-jscrambler-npm-package-with-infostealer-malware/",
-      "description": "The Jscrambler client-side web security company disclosed that a threat actor published a malicious version of its npm package that has been downloaded almost 1,500 times. [...]",
-      "pubDate": "2026-07-13T19:44:19.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/jscrambler.jpg"
-    },
-    {
       "title": "'Yellow Teams' Are Defining the Future of AI Security",
       "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
       "description": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
@@ -595,15 +604,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
     },
     {
-      "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
-      "link": "https://thehackernews.com/2026/07/critical-zimbra-flaw-could-let-crafted_0483473395.html",
-      "description": "Zimbra is urging customers to apply updates to address a critical security vulnerability impacting the Classic Web Client that could result in arbitrary code execution. The vulnerability has been described as a case of stored cross-site scripting (XSS) that could allow specially crafted emails to execute malicious scripts in a user's session. It has yet to be assigned a CVE identifier. \"The",
-      "pubDate": "2026-07-11T06:45:55.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEirVz95zYTg61VRro9unfJCWWwwUrv3pQdtyNT7rPL8iCg6n0S6bky4dqPiluQHfSvQMIO9cyYgrz-07ZCx8yG_qND_J9XJ_0BoUON9p3zj0etafNvjg45txAeu4uCDEMxGDNv2tIxNuqrC0OsKG_sWZp5QIlEkbqZ_g_EEcAdXUQbuo_EgsXwT3mERTTk/s1600/zimbra-email-hack.jpg"
-    },
-    {
       "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
       "link": "https://unit42.paloaltonetworks.com/the-gentlemen-ransomware/",
       "description": "Unit 42 explores The Gentlemen ransomware operations, revealing the affiliate model driving its rapid growth. Learn more here. The post No Manners Here: The Ruthless Rise of The Gentlemen Ransomware appeared first on Unit 42.",
@@ -714,7 +714,7 @@
     {
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
-      "description": "GigaWiper is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
+      "description": "GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
       "pubDate": "2026-07-09T15:00:00.000Z",
       "source": "Microsoft Security",
       "category": "research",
