@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T16:18:10.348Z",
+  "generatedAt": "2026-07-14T17:40:51.309Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "Adobe Patches Critical ColdFusion Vulnerabilities",
+      "link": "https://www.securityweek.com/adobe-patches-critical-coldfusion-vulnerabilities/",
+      "description": "The ColdFusion security defects could allow attackers to execute arbitrary code or elevate their privileges. The post Adobe Patches Critical ColdFusion Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-07-14T17:06:35.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg"
+    },
+    {
+      "title": "LabubaRAT Masquerades as NVIDIA Software to Control Windows Hosts",
+      "link": "https://thehackernews.com/2026/07/labubarat-masquerades-as-nvidia.html",
+      "description": "Cybersecurity researchers have flagged a previously undocumented Rust-based remote access trojan (RAT) codenamed LabubaRAT that masquerades as NVIDIA software to blend into target environments. \"LabubaRAT creates a reusable foothold for hands-on activity,\" Blackpoint Cyber researchers Sam Decker and Nevan Beal said in an analysis published today. \"Once deployed, it can profile the host,",
+      "pubDate": "2026-07-14T16:52:37.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpSmSwv3hz6LMJIQCrVej_pophE9XNTZyveEV1GctCyQMSNoac_Mx3CfmAHLgYkpDkymvscLLY71u2Kq-7z-7bDemSeKHryPVH3h7FNxw9e64D3jTeoLOzmWW305j1Rctz5kdiwFV29lFNqo33TUZMGWCaZqtyKNPYARGtrrhZ0Bsc4LMLXhnRgzKXjKYb/s1600/NVIDIA-rat.jpg"
+    },
+    {
       "title": "Progress confirms ShareFile zero-day flaw behind Storage Zone shutdown",
       "link": "https://www.bleepingcomputer.com/news/security/progress-confirms-sharefile-zero-day-flaw-behind-storage-zone-shutdown/",
       "description": "Progress Software has confirmed that a high-severity zero-day vulnerability is behind the emergency shutdown of ShareFile Storage Zone Controllers last week and has released security updates to patch the flaw. [...]",
@@ -37,7 +55,7 @@
       "image": null
     },
     {
-      "title": "Frontier AI: The Genie's Out of the Bottle, But Where's the Rulebook?",
+      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
       "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
       "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
       "pubDate": "2026-07-14T16:02:39.000Z",
@@ -469,15 +487,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-mergers-and-acquisitions.jpeg"
     },
     {
-      "title": "RabbitMQ Vulnerability Threatens Enterprise Systems",
-      "link": "https://www.securityweek.com/rabbitmq-vulnerability-threatens-enterprise-systems/",
-      "description": "Unauthenticated attackers could obtain the broker's confidential OAuth client secret, allowing them to take control of the broker. The post RabbitMQ Vulnerability Threatens Enterprise Systems appeared first on SecurityWeek.",
-      "pubDate": "2026-07-13T12:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/04/vulnerability.jpeg"
-    },
-    {
       "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
       "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
       "description": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
@@ -620,15 +629,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/SCI_SFI-Q4-report.jpg"
-    },
-    {
-      "title": "Six New U-Boot Flaws Could Let Malicious Images Crash Devices or Run Code at Boot",
-      "link": "https://thehackernews.com/2026/07/six-new-u-boot-flaws-could-let.html",
-      "description": "Researchers at firmware security firm Binarly have found six new flaws in U-Boot, the small program that starts up hardware as varied as home routers, smart cameras, and the management chips inside data-center servers. Four of the bugs can crash a device. The other two could let an attacker who slips a malicious image in front of the bootloader run their own code, before the device",
-      "pubDate": "2026-07-10T15:57:14.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEihuE5rUYRadx5Q2auJjv9dVeFNIP8XSwSTaH0PDwGLUA54MXlPy3AyI532a8OnhXadtWnCCH30qvUKW9C3rCOu1LPld1or5_lXwNhRVqbohHNInDzNd1f9E77Sox5yB-ir7H69LmlYRKnoqnFASOMFa2TIK2RfTThJvu_oofIXHCpiRbXGXWy-bquBWsw/s1600/bootloader.gif"
     },
     {
       "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
