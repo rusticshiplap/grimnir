@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-14T11:07:36.407Z",
+  "generatedAt": "2026-07-14T12:47:59.093Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
+      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
+      "description": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
+      "pubDate": "2026-07-14T11:42:21.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/14/SAP.jpg"
+    },
+    {
+      "title": "SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud",
+      "link": "https://www.securityweek.com/sap-patches-critical-vulnerabilities-in-netweaver-approuter-commerce-cloud/",
+      "description": "The flaws could allow attackers to access and modify data, and cause system unavailability and request-response desynchronization. The post SAP Patches Critical Vulnerabilities in NetWeaver, Approuter, Commerce Cloud appeared first on SecurityWeek.",
+      "pubDate": "2026-07-14T11:17:56.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg"
+    },
     {
       "title": "Vulnerability in FIFA’s Network",
       "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
@@ -138,7 +156,7 @@
     {
       "title": "Weak Security Continues to Fuel Russian Cyberattacks",
       "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-      "description": "In a first, the UK and the EU jointly impose sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
+      "description": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
       "pubDate": "2026-07-13T21:24:59.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -388,15 +406,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/Russian_hacker.jpg"
     },
     {
-      "title": "Organizations Warned of Exploited Joomla Extension Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-exploited-joomla-extension-vulnerabilities/",
-      "description": "Threat actors have been targeting Balbooa Forms and iCagenda Joomla extension flaws for remote code execution. The post Organizations Warned of Exploited Joomla Extension Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-07-13T09:08:02.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Joomla.jpeg"
-    },
-    {
       "title": "Misconfigured Server Reveals Three Evilginx Phishing Operations Targeting Microsoft 365",
       "link": "https://thehackernews.com/2026/07/misconfigured-server-reveals-three.html",
       "description": "An attacker running a live Microsoft 365 phishing operation left a Python web server listening on a public port with directory listing switched on. The command that did it: python3 -m http.server 8080, was still sitting in the readable .bash_history. From that one lapse, French security firm Lexfo lifted the operator's entire toolkit and pivoted through it to two more",
@@ -458,15 +467,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimRVwRIhs54UhNHyRll9YzVxICmTpgqwjAK1Sy7vYt6FAzb9oImcFpuM0J8dOWdtdjCdlROkternhP9r5jZD9HNvwVwcyRzhesdYgbVjUpJk7p4rxDDJSdEUibs1Gk-Ihy1bTcxs8fA7kgG49ImfTWEZO6068Ui-_X6sTTraCg8lFuucYJrUJi2RhdXyG2/s1600/pakistan.jpg"
-    },
-    {
-      "title": "Australia warns of global campaign targeting vulnerable CMS platforms",
-      "link": "https://www.bleepingcomputer.com/news/security/australia-warns-of-global-campaign-targeting-vulnerable-cms-platforms/",
-      "description": "The Australian Cyber Security Centre (ACSC) issued an alert about a global exploitation campaign targeting vulnerable content management systems (CMS) and plugins. [...]",
-      "pubDate": "2026-07-11T14:18:23.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Aus.jpg"
     },
     {
       "title": "Critical Zimbra Flaw Could Let Crafted Emails Run Malicious Code in User Sessions",
