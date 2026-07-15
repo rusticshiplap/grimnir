@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-14T23:25:38.888Z",
-  "count": 180,
+  "generatedAt": "2026-07-15T00:51:25.648Z",
+  "count": 205,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Weekly Update 512: IoT Lockout Fail",
+      "link": "https://www.troyhunt.com/weekly-update-512/",
+      "description": "\"Build a smart home\", they said. \"It'll make life so much better\", they said. Well, life wasn't very bloody good at 23:00 the other night after travelling 33 hours from Paris only to find the IoT doorlock batteries dead and the",
+      "pubDate": "2026-07-15T00:35:38.000Z",
+      "source": "Troy Hunt",
+      "category": "opinion",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template@1x_1.jpg"
+    },
+    {
+      "title": "Records Are Made to Be Broken: Patch Tuesday Raises Triage Stakes",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/records-broken-patch-tuesday-raises-triage-stakes",
+      "description": "Three of the 622 CVEs for which Microsoft issued patches this week are zero-days; there are more than 60 critical vulnerabilities.",
+      "pubDate": "2026-07-14T21:50:56.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6465c10b82bc7fa0/6a56a539da02d05d49888d2d/triage_MAFPHOTOART8_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "SonicWall warns of SMA1000 flaws exploited in zero-day attacks, patch now",
       "link": "https://www.bleepingcomputer.com/news/security/sonicwall-warns-of-sma1000-flaws-exploited-in-zero-day-attacks-patch-now/",
@@ -44,6 +62,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/11/arrest.jpg"
+    },
+    {
+      "title": "6 GHz Wi-Fi Flaws Could Disrupt Critical Systems",
+      "link": "https://www.darkreading.com/perimeter/6-ghz-wi-fi-flaws-disrupt-critical-systems",
+      "description": "Automated Frequency Coordination systems by default trust client-side data, which could lead to location spoofing and other attacks that disrupt traffic.",
+      "pubDate": "2026-07-14T19:58:31.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1bcb21f8daa8dad/6a5687dbdfdd3b528d164e7a/space_network_connections-fotograzia-getty-2229958533.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Nearly 300 GitHub repos pose as legit software to push malware",
@@ -100,6 +127,15 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
     },
     {
+      "title": "Manage Vendor Risk in a Few Practical Steps",
+      "link": "https://www.darkreading.com/cyber-risk/manage-vendor-risk-in-a-few-practical-steps",
+      "description": "Risk tolerance, exposure visibility, board oversight — handling third-party risk is complicated but achievable with disciplined, precise governance.",
+      "pubDate": "2026-07-14T17:44:55.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf1ec3253d436db3d/6a566c13107b901ef8b97fd0/measuring_risk_D_Getty_images.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Windows 11 KB5101650 & KB5099414 cumulative updates released",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5101650-and-kb5099414-cumulative-updates-released/",
       "description": "Microsoft has released Windows 11's June 2026 Update for version 25H2, 24H2, and 23H2, bringing fixes for over 570 security issues. [...]",
@@ -154,6 +190,24 @@
       "image": null
     },
     {
+      "title": "Frontier AI: The Genie's Out of the Bottle, but Where's the Rulebook?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/frontier-ai-genie-out-of-bottle-where-rulebook",
+      "description": "Cutting-edge artificial intelligence models are deploying with more independence and less human oversight. Several state governments are trying to legislate transparency in their use.",
+      "pubDate": "2026-07-14T16:02:39.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd9514b34577d4811/6a564cbd43c478c70426061e/GettyImages-1003977262.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "ClickFix's Mushrooming Ecosystem Demands New Defense Tactics",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/clickfixs-ecosystem-demands-new-defense",
+      "description": "The attack vector is available for rent at scale, and evades AV and EDR, leaving YARA analysis as the best detection option.",
+      "pubDate": "2026-07-14T15:53:54.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89ed69f46b66e8ed/6a565987201f4e6bf48f2ebe/mushrooms-maYcal-GettyImages-1048450740.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "LastPass, Bitwarden users targeted with fake security alerts",
       "link": "https://www.bleepingcomputer.com/news/security/lastpass-bitwarden-users-targeted-with-fake-security-alerts/",
       "description": "LastPass is warning users about an ongoing phishing campaign that is using fake security notices to direct them to fraudulent websites. [...]",
@@ -188,6 +242,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhhRQ9rN4_5eYqXiJ7svWKwWY0dcPiiALZ6EkDG05ruFzTANJtwyw_w2Ht29dON1oFiLAkQkE0M75FYExbXmvFSr4jU0K0sNlwRxG3Q1rU51ouVIt3UtnrazRwhCer3coTHbU3So1dXx_8Frh1KhJKKXc7Lq2h5DZTGkBq35Y2ngnGVg6wAGubf8cVRx0F/s1600/rebbitmq.jpg"
+    },
+    {
+      "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
+      "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
+      "description": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
+      "pubDate": "2026-07-14T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f5cd3865ee90857/6a553fc7f7c949a9a237e0f3/poison_bottle-Olga_Yastremska-Getty-2254109959.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Unpatched Claude for Chrome Flaw Lets Extensions Read Gmail, Calendar",
@@ -388,6 +451,15 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-5.webp"
     },
     {
+      "title": "Weak Security Continues to Fuel Russian Cyberattacks",
+      "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
+      "description": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
+      "pubDate": "2026-07-13T21:24:59.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt902fbc09e6b4e80b/6a554c5553e13bb101ef24b3/russiancyber_Pixel-Shot_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Japan's largest taxi operator shuts systems after cyberattack",
       "link": "https://www.bleepingcomputer.com/news/security/japans-largest-taxi-operator-shuts-systems-after-cyberattack/",
       "description": "Japan's largest taxi operator, Nihon Kotsu, announced that its systems were compromised in a cyberattack, forcing the company to shut down part of its infrastructure. [...]",
@@ -395,6 +467,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/13/nihonkotsu.jpg"
+    },
+    {
+      "title": "'Yellow Teams' Are Defining the Future of AI Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/yellow-teams-defining-future-ai-security",
+      "description": "In some companies, engineers are building defense and attack tools to test the potential of artificial intelligence for cybersecurity — and its threat.",
+      "pubDate": "2026-07-13T18:18:30.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt218e5c012cf54dd1/6a467554b7e2490651e8adc8/Glasswing_butterfly-Jiri_Vlach-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "CrashStealer macOS Malware Uses Notarized Dropper to Pass Gatekeeper Checks",
@@ -424,6 +505,15 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Security-ImageryScan-Modular-Blue-03-2026-1-scaled.jpg"
     },
     {
+      "title": "GigaWiper Lets Threat Actors Choose Their Own Destructive Attack",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gigawiper-threat-actors-choose-their-own-destructive-attack",
+      "description": "A modular implant borrows from various malware families to combine both backdoor and wiper activities to maximize impact and minimize operational output.",
+      "pubDate": "2026-07-13T16:50:54.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteeacc770d8fb720d/6a54d144763fdbda3db4e01e/destruction-MasPix-alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "⚡ Weekly Recap: ShareFile Threat, Citrix Bleed 2 Ransomware, AI Coding Attacks, and More",
       "link": "https://thehackernews.com/2026/07/weekly-recap-sharefile-threat-citrix.html",
       "description": "Somewhere right now, a security tool is quietly finding bugs faster than any human can fix them. That's supposed to be the good news. The catch is that the attackers have the same tools, pointed the other way, and they don't file tickets. That's the shape of this week. Trusted code turns on the people who installed it. Old bugs from last year are still landing because the fix sat in a queue too",
@@ -449,6 +539,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjlR-dy6ENZN5NKa1_sViQqXH6fEfEROkwjKV9vTowPmCu_nOALJ89JzGg-ueVJMCAqDHHozMZGd8oWbIlAQDTI8anEd6A2ZK0MdBN_FiShR3UoHGL6Cf0Gbhv8dY9RkVlZxpOCmks29u8Fnmx-JcytGZlnKC_9EuColvIMY4Y5IXH91aRaN5HOgjvvSPEo/s1600/ms-device-code1.jpg"
+    },
+    {
+      "title": "Turning the Tables on Email Scammers With 'ScamBuster'",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/turning-tables-email-scammers-scambuster",
+      "description": "An open source, AI-driven system adopts victim personas to engage with phishing attackers, allowing organizations and law enforcement to gather relevant data on cybercriminal operations.",
+      "pubDate": "2026-07-13T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
@@ -541,6 +640,24 @@
       "image": null
     },
     {
+      "title": "Jen Ellis: Connecting Cyber Community With Political Machinery",
+      "link": "https://www.darkreading.com/cybersecurity-operations/jen-ellis-connecting-cyber-community-political-machinery",
+      "description": "Security Pro File: On the heels of her recent honors as a Member of the Order of the British Empire (MBE), we take a look back at the events that shaped Jen Ellis' advocacy on behalf of security researchers.",
+      "pubDate": "2026-07-10T19:08:04.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd0404c576a980a37/6a51584597c98ae9da9a9b59/jen-ellis-nextjensecurity.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Cybercriminals Flock to Healthcare Businesses as Attacks Surge",
+      "link": "https://www.darkreading.com/threat-intelligence/cybercriminals-healthcare-businesses-attacks-surge",
+      "description": "While cyberattacks against hospitals and clinics grew modestly in the first half of 2026, attacks on service providers and other healthcare businesses more than doubled.",
+      "pubDate": "2026-07-10T16:51:34.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1b6b2d15edbb34ff/6a501046f2ad521509a98709/UMMC-Childrens-Hospital-Jackson-Chad_Robertson_Media-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/10/securing-our-future-july-2026-progress-report-on-microsofts-secure-future-initiative/",
       "description": "Microsoft’s latest Secure Future Initiative report outlines progress on secure foundations, AI-powered defense, and future-ready cybersecurity. The post Securing our future: July 2026 progress report on Microsoft’s Secure Future Initiative appeared first on Microsoft Security Blog.",
@@ -548,6 +665,33 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/SCI_SFI-Q4-report.jpg"
+    },
+    {
+      "title": "Fresh ATM Crypto Software Bugs: Jackpot or Bust?",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/atm-crypto-software-bugs-jackpot-bust",
+      "description": "Organizations, and possibly ATMs, are at risk of compromise, thanks to holes in a Microsoft BitLocker security wrapper.",
+      "pubDate": "2026-07-10T14:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte0e54c7d31cab23e/6a5000c3376bd6f180079dbb/ATM-AM29-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "More Countries Jump on the Social Media 'Ban Wagon'",
+      "link": "https://www.darkreading.com/cyber-risk/more-countries-jump-on-the-social-media-ban-wagon",
+      "description": "Age restrictions on accounts may be more of a stopgap because industry compliance is already falling short. Tech giants are struggling to follow the laws without affecting users.",
+      "pubDate": "2026-07-10T13:50:24.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
+      "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
+      "description": "AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
+      "pubDate": "2026-07-10T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc206a4328894432/6a5003e314cb1e87db5d7a27/robot_hands_on_keyboard-Moor_Studio-Getty-2246656580.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "AI Surveillance and Social Progress",
@@ -559,6 +703,33 @@
       "image": null
     },
     {
+      "title": "Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure",
+      "link": "https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure",
+      "description": "Obscurity isn't a defense. If your company has any Internet-facing vulnerability, you're at risk from multiple threats.",
+      "pubDate": "2026-07-09T20:32:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7e03c20c7f557f7/65ef0da29b3861040aba30f4/Crosshairs_Zenobillis_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft Reins in RoguePlanet Zero-Day Threat",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/microsoft-rogueplanet-zero-day-threat",
+      "description": "The researcher known as \"Nightmare-Eclipse\" published a proof-of-concept (PoC) exploit for the Windows Defender vulnerability in early June after dropping several other Microsoft zero-days.",
+      "pubDate": "2026-07-09T20:21:19.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b63a49b69794b87/6a4ff39579274e02c43ecc63/rogueplanet_Mark_StevensonUIG-Getty-737371045.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI Agents Are a New Kind of Identity — and Most Organizations Aren't Ready",
+      "link": "https://www.darkreading.com/identity-access-management-security/ai-agents-new-kind-identity-most-organizations-not-ready",
+      "description": "If you're handling AI agents like a service account or API token, consider yourself behind. AI agents need a fundamentally different approach.",
+      "pubDate": "2026-07-09T19:16:02.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/09/gigawiper-anatomy-of-a-destructive-backdoor-assembled-from-multiple-malware/",
       "description": "GigaWiper, also tracked as BLUERABBIT, is a destructive backdoor that combines multiple wiping and ransomware-like capabilities into a single operational platform. This blog analyzes how the malware incorporates code from several previously separate malware families and provides guidance to help defenders detect and defend against similar threats. The post GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware appeared first on Microsoft Security Blog.",
@@ -566,6 +737,15 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Fig1-GigaWiper.webp"
+    },
+    {
+      "title": "As Global Conflicts Go Digital, Businesses Need Wartime Game Plans",
+      "link": "https://www.darkreading.com/cybersecurity-operations/businesses-wartime-cybersecurity-gameplans",
+      "description": "The fate of a Ukrainian tax software company shows how modern cyber warfare can claim casualties far beyond the battlefield, and how businesses across the ocean still need to protect themselves.",
+      "pubDate": "2026-07-09T14:31:20.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9c5b847987e803e0/6a34151775c855b8678735cd/War_business-sonmez_karakurt-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Invited to a “job interview” with Netflix or OpenAI? Beware! Your Google password could be at risk",
@@ -577,6 +757,15 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/job-phish.jpeg"
     },
     {
+      "title": "AI Gateways Offer Attackers the Keys to the Kingdom",
+      "link": "https://www.darkreading.com/cyber-risk/ai-gateways-keys-kingdom",
+      "description": "A cryptomining incident highlights how AI gateways can provide access to AI models, cloud infrastructure, and identity and access management (IAM) data.",
+      "pubDate": "2026-07-09T13:01:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5cf949a2c62ba749/6a4eb1ca6ed98610b4607ce7/aigateway_Daniel_Pinkpank_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "The Language of AI Could Change How Humans Speak",
       "link": "https://www.schneier.com/blog/archives/2026/07/the-language-of-ai-could-change-how-humans-speak.html",
       "description": "Because of the way they are trained, large language models capture only a slice of human language. They’re trained on the written word, from textbooks to social media posts, and our speech as captured in movies and on television. These models have minimal access to the unscripted conversations we have face to face or voice to voice. This is the vast majority of speech, and a vital component of human culture. There’s a risk to this. The increased use of large language models means we humans will encounter much more AI-generated text. We humans, in turn, will begin to adopt the linguistic patter",
@@ -584,6 +773,24 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
+    },
+    {
+      "title": "'GodDamn' Ransomware Uses BYOVD to Smite US Companies",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/goddamn-ransomware-byovd-smite-companies",
+      "description": "Microsoft signed a malicious kernel driver, and now it's being used to kill security software in ransomware attacks.",
+      "pubDate": "2026-07-09T10:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte150e290c84d7ff7/6a4e795f8fda9dc0ef942942/Zeus-Hemera_Technologies-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "European Organizations Have a Collaboration Security Confidence Gap",
+      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
+      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
+      "pubDate": "2026-07-09T08:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt505e5a89f2bc35de/6a4e65b0c9561b26f8981a67/collaboration_vectorfusionart_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Why AI Governance Without Guardrails Is Theater",
@@ -604,6 +811,24 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-475.webp"
     },
     {
+      "title": "Mexico's New Cyber Plan Faces Its First Real Test",
+      "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
+      "description": "The Latin American nation's cybersecurity plan — still in the expansion phase — has to survive its own knockout round during the FIFA World Cup.",
+      "pubDate": "2026-07-08T21:34:21.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6370d73fa04cbda/6a4eb6581316b8e296d1db9a/mexico-city-fifa-world-cup-2026-Santiago_Castillo_Chomel-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Lone Attacker Uses AI to Breach AWS Cloud Environment in 72 Hours",
+      "link": "https://www.darkreading.com/cloud-security/lone-attacker-ai-breach-aws-cloud-environment",
+      "description": "The attacker exploited AI workflows, chained cloud weaknesses, and stolen credentials to extort a large Amazon customer.",
+      "pubDate": "2026-07-08T20:32:22.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1db73768baa07d9c/6a4eaaf98fda9d47d6942977/Skull_cloud-AscentXmedia_Getty-2271725500.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/08/protecting-microsoft-at-ai-speed-how-sfi-proactively-hardens-our-cloud/",
       "description": "At Microsoft we encompass these security requirements, along with threat knowledge, and operational frameworks in our Secure Future Initiative (SFI), to guide what a well-defended cloud service looks like. But defining the requirements is only the start. Meeting the requirements means continuously evaluating our live services against them, at AI speed. The post Protecting Microsoft at AI speed: How SFI proactively hardens our cloud appeared first on Microsoft Security Blog.",
@@ -611,6 +836,15 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/CLO22_SecOps_009_1920.jpg"
+    },
+    {
+      "title": "Vidar Infostealer Hammers SMBs via Malvertising Campaign",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/vidar-infostealer-smb-malvertising-campaign",
+      "description": "A financially motivated operation uses lures of cracked or pirated software to deliver a two-for-one malware combo for data theft and cryptomining.",
+      "pubDate": "2026-07-08T16:45:54.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef5da1ce256ae254/6a4e4ce57265bc2b954afdde/malvertising_Bits_And_Splits_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Weekly Update 511: Live from my Riad in Marrakech",
@@ -1178,15 +1412,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Bangladesh.png"
-    },
-    {
-      "title": "Welcoming the Costa Rican Government to Have I Been Pwned",
-      "link": "https://www.troyhunt.com/welcoming-the-costa-rican-government-to-have-i-been-pwned/",
-      "description": "Today, we welcome the 42nd government onboarded to Have I Been Pwned’s free gov service: Costa Rica. The CSIRT of the Government of Costa Rica now has access to monitor government domains against the data in HIBP. This enables their national cybersecurity incident response team to identify exposure",
-      "pubDate": "2026-05-11T00:24:17.000Z",
-      "source": "Troy Hunt",
-      "category": "opinion",
-      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/05/Costa-Rica.png"
     },
     {
       "title": "Strengthening authentication with passkeys: A CISO playbook",
