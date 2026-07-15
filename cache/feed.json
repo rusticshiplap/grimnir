@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T12:52:22.262Z",
+  "generatedAt": "2026-07-15T14:54:07.161Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,60 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
+      "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
+      "description": "An attacker can create a malicious repository containing a git.exe in the project root, and Cursor executes it automatically. The post Unpatched Cursor Vulnerability Exposes Users to Code Execution appeared first on SecurityWeek.",
+      "pubDate": "2026-07-15T14:37:13.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Cursor.jpeg"
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-sharepoint-vulnerabilities/",
+      "description": "Three vulnerabilities are actively exploited in attacks, including two that have been targeted as zero-days. The post CISA Urges Immediate Patching of Exploited SharePoint Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-07-15T14:07:44.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/06/SharePoint-Ransomware-attack.jpg"
+    },
+    {
+      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
+      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
+      "description": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
+      "pubDate": "2026-07-15T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/07/11/o-day-vending-machine-vendor.jpg"
+    },
+    {
+      "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
+      "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
+      "description": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
+      "pubDate": "2026-07-15T13:18:53.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMjCjGBZhkRcB4m5BQu0Fcn-Qjs1_VPnfOlt3oFxu7CKMZ5Wc1JpvZEvhVSorBJW-AWV1pACLDkg4rFmCCcdH6vDk-pmD5ai0ZewlmPyeWPnfsmTcg-D3UJXdT902oUD32DjSm5CrBsnf2rcVTQPUo5o-LJRKUlsjOwPNfYMpN7kOfmNhnyw552cv-Gtqk/s1600/adobes.jpg"
+    },
+    {
+      "title": "2-Click Cursor Exploit Enables Dev Environment Takeover",
+      "link": "https://www.darkreading.com/application-security/2-click-cursor-exploit-dev-environment-takeover",
+      "description": "Simple age-old bugs give bad actors access to developers' secrets and source code-rich environments.",
+      "pubDate": "2026-07-15T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta5ab09b0e890490b/6a55516b36e15d4b2903ffa7/2_cursors-Andriy_Onufriyenko-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Windows Bind Link Attacks Can Hide Malware From EDR Tools",
+      "link": "https://www.securityweek.com/windows-bind-link-attacks-can-hide-malware-from-edr-tools/",
+      "description": "Bitdefender researchers show how Windows bind links can create conflicting filesystem views to hide malware from endpoint security products. The post Windows Bind Link Attacks Can Hide Malware From EDR Tools appeared first on SecurityWeek.",
+      "pubDate": "2026-07-15T13:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Windows-Kernel-BSOD.jpg"
+    },
     {
       "title": "Virtual Event Today: Cloud & Data Security Summit",
       "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
@@ -190,15 +244,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0n94FUIdljCnLvlh0SNz5l8xDWbdDqmk7OesE7HAKxrRAMUMIfXpppuMBoI-7F0Q1PB7eXPRjrfg9fgZTTVj3JY5jKsr1Ebheb2mU65p4MUVYbs59lCPPWCBQ4LVYZnoZ0o6nRkoBQitrwwnyLVQc2oYJ41zVjPS6_HchwIR-U8EuWrOdPpl1-Y9Rw1Lm/s1600/sonicwall-patches.jpg"
     },
     {
-      "title": "SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits",
-      "link": "https://www.securityweek.com/sonicwall-issues-urgent-sma-patch-warning-for-two-zero-day-exploits/",
-      "description": "SonicWall SMA1000 zero-day vulnerabilities CVE-2026-15409 and CVE-2026-15410 can be exploited for remote code execution. The post SonicWall Issues Urgent SMA Patch Warning for Two Zero-Day Exploits appeared first on SecurityWeek.",
-      "pubDate": "2026-07-15T05:19:42.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/SonicWall.jpg"
-    },
-    {
       "title": "Weekly Update 512: IoT Lockout Fail",
       "link": "https://www.troyhunt.com/weekly-update-512/",
       "description": "\"Build a smart home\", they said. \"It'll make life so much better\", they said. Well, life wasn't very bloody good at 23:00 the other night after travelling 33 hours from Paris only to find the IoT doorlock batteries dead and the",
@@ -271,31 +316,13 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2022/05/12/evil-hacker-ai.jpg"
     },
     {
-      "title": "Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days",
-      "link": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
-      "description": "Two flaws in Active Directory and SharePoint Server have been exploited as zero-days, and a BitLocker bug was publicly disclosed. The post Microsoft Patches Record 622 Vulnerabilities, Including Two Exploited Zero-Days appeared first on SecurityWeek.",
-      "pubDate": "2026-07-14T18:50:20.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Microsoft-Security-leaders.jpg"
-    },
-    {
       "title": "Microsoft releases Windows 10 KB5099539 extended security update",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-windows-10-kb5099539-extended-security-update/",
-      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes the July 2026 Patch Tuesday security updates for 570 vulnerabilities, along with additional security fixes. [...]",
+      "description": "Microsoft has released the Windows 10 KB5099539 extended security update, which includes this month's record-breaking July 2026 Patch Tuesday fixes, along with additional security improvements. [...]",
       "pubDate": "2026-07-14T18:49:28.000Z",
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg"
-    },
-    {
-      "title": "Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims",
-      "link": "https://www.securityweek.com/synopsys-finds-no-evidence-of-data-breach-following-bosch-hack-claims/",
-      "description": "The D1R cybercrime group claimed to have stolen valuable data from Synopsys and Bosch, threatening to leak it unless a ransom is paid. The post Synopsys Finds No Evidence of Data Breach Amid Bosch Hack Claims appeared first on SecurityWeek.",
-      "pubDate": "2026-07-14T18:18:45.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Bosch.jpeg"
     },
     {
       "title": "SAP Patches CVSS 9.9 NetWeaver ABAP Flaw That Could Expose or Modify Data",
@@ -458,15 +485,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLw92quWqf4LGudVaNPBRwhiCIP4ZEBpolIRqMKbQuG6hzrXUSx89QCQT1IjMWF_6v7GEkYGOi0kYoc-ES_fELZm6pg1P8lVpRxv5mYmpzAHQMm6A_XC_fXWSWlRVh1JfjFc8wXlqtyGWovxUOOhQn8HiG4XutLeKlyv5aLY2R4UKlHTcD2pgXANePlhBq/s1600/wallet-fingerprint.jpg"
-    },
-    {
-      "title": "SAP warns of critical flaws in NetWeaver and Commerce Cloud",
-      "link": "https://www.bleepingcomputer.com/news/security/sap-warns-of-critical-flaws-in-netweaver-and-commerce-cloud/",
-      "description": "SAP has addressed 16 vulnerabilities across multiple products as part of its July 2026 security updates, including three critical flaws in NetWeaver, Commerce Cloud, and AppRouter. [...]",
-      "pubDate": "2026-07-14T11:42:21.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/14/SAP.jpg"
     },
     {
       "title": "How Pentera Turns AI Security Workflows into Validation Engines",
@@ -647,15 +665,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt40912afb4f0c60db/6a5108570c3eea0563b4d4fc/Womantyping_Rawpixel.com_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Meta Files Patent for AI That Can Listen All Day and Track How You're Feeling",
-      "link": "https://thehackernews.com/2026/07/meta-files-patent-for-ai-that-can.html",
-      "description": "Meta has filed a patent application for an AI that listens to your voice throughout the day, works out how it thinks you are feeling from the way you sound, and keeps a timestamped log of every read. Each read gets pinned to the moment it happened: the time, your location, what you were doing, even how you were using your phone. Some versions in the filing would listen all day; others would",
-      "pubDate": "2026-07-13T11:54:46.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiElxdOUOnt8DZ-78o4IBYmmieJL3gm-RPGxQYpkPhzk8o-kMG_bWAGAHjVzPbVEGnkPmhF80RlbaRmvtgVLfABQSKApl6fsQ2RkhkWuZsxF9WR-HnsthEl_bfg4A6w_hMThqQoWAFimIXGTSZ0QLA6DSHprkHQTTp3WNwy-QmyaosOcs3ksJxy5lztSoc/s1600/meta-facebook.jpg"
     },
     {
       "title": "AI Data Centers and the Concentration of Wealth",
@@ -854,15 +863,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-475.webp"
-    },
-    {
-      "title": "Mexico's New Cyber Plan Faces Its First Real Test",
-      "link": "https://www.darkreading.com/cyber-risk/mexicos-cyber-plan-first-real-test",
-      "description": "The Latin American nation's cybersecurity plan — still in the expansion phase — has to survive its own knockout round during the FIFA World Cup.",
-      "pubDate": "2026-07-08T21:34:21.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd6370d73fa04cbda/6a4eb6581316b8e296d1db9a/mexico-city-fifa-world-cup-2026-Santiago_Castillo_Chomel-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Protecting Microsoft at AI speed: How SFI proactively hardens our cloud",
@@ -1501,7 +1501,7 @@
       "pubDate": "2025-12-05T06:58:44.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltfa0f31fc7903a862/69394920b33d88409b34562d/blog-sophos-intelix-copilot.png"
     },
     {
       "title": "Introducing Sophos Intelix for Microsoft Security Copilot",
@@ -1510,7 +1510,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
