@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-15T14:54:07.161Z",
+  "generatedAt": "2026-07-15T16:25:15.288Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "​    ​AsyncAPI npm packages infected with credential-stealing malware",
+      "link": "https://www.bleepingcomputer.com/news/security/-asyncapi-npm-packages-infected-with-credential-stealing-malware/",
+      "description": "Five malicious versions of AsyncAPI packages were published to the Node Package Manager (npm) in a supply-chain attack that delivered a remote access trojan with info-stealing capabilities. [...]",
+      "pubDate": "2026-07-15T15:37:27.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/npm.jpg"
+    },
+    {
+      "title": "Claude Flaw Automatically Sends Malicious Prompts to AI Agents",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/claude-flaw-malicious-prompts-ai-agents",
+      "description": "When combined with another exploit, the \"PromptFiction\" vulnerability, which has been fixed, could have enabled an end-to-end attack on a targeted system.",
+      "pubDate": "2026-07-15T15:27:35.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltede07faf29a87872/6a577279bf753e837abb9a32/claude_RalfLiebhold_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Unpatched Cursor Vulnerability Exposes Users to Code Execution",
       "link": "https://www.securityweek.com/unpatched-cursor-vulnerability-exposes-users-to-code-execution/",
@@ -460,15 +478,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/Hacking_login.jpg"
     },
     {
-      "title": "New phishing kits target Microsoft 365 accounts, evade MFA",
-      "link": "https://www.bleepingcomputer.com/news/security/new-phishing-kits-target-microsoft-365-accounts-evade-mfa/",
-      "description": "Two new phishing kits, Jalisco and OmegaLord, have been discovered in attacks targeting Microsoft 365 accounts, using techniques that defeat multi-factor authentication (MFA). [...]",
-      "pubDate": "2026-07-14T12:49:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/15/MS365.jpg"
-    },
-    {
       "title": "11 Old Microsoft-Signed Linux UEFI Shims Could Let Attackers Bypass Secure Boot",
       "link": "https://thehackernews.com/2026/07/11-old-microsoft-signed-linux-uefi.html",
       "description": "Cybersecurity researchers have discovered 11 old, Microsoft-signed, Unified Extensible Firmware Interface (UEFI) applications that could be abused to bypass Secure Boot on most systems using the modern firmware standard. \"An attacker exploiting one of these vulnerable applications can execute untrusted code during system boot, enabling deployment of malicious UEFI bootkits or other malware,\"",
@@ -836,15 +845,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte150e290c84d7ff7/6a4e795f8fda9dc0ef942942/Zeus-Hemera_Technologies-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "European Organizations Have a Collaboration Security Confidence Gap",
-      "link": "https://www.darkreading.com/cybersecurity-operations/european-organizations-collaboration-security-confidence-gap",
-      "description": "A new survey shows security leaders have an inflated sense of safety regarding their collaboration tools and platforms.",
-      "pubDate": "2026-07-09T08:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt505e5a89f2bc35de/6a4e65b0c9561b26f8981a67/collaboration_vectorfusionart_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Why AI Governance Without Guardrails Is Theater",
