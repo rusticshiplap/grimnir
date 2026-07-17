@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-16T18:41:34.493Z",
+  "generatedAt": "2026-07-17T03:47:20.478Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,87 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/acr-stealer-two-observed-intrusion-chains-amid-increased-threat-activity/",
+      "description": "From late April 2026 to mid-June 2026, Microsoft Defender Experts observed increased ACR Stealer activity across customer environments. These campaigns are successfully using ClickFix lures to steal browser credentials, authentication tokens, and sensitive documents from enterprise environments. The post ACR Stealer: Two observed intrusion chains amid increased threat activity appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-07-16T23:12:02.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-16-1024x430.webp"
+    },
+    {
+      "title": "AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report",
+      "link": "https://unit42.paloaltonetworks.com/ai-incident-response-report/",
+      "description": "Explore Unit 42's perspectives on AI's impact on cybersecurity, including key updates since the 2026 Incident Response Report. The post AI, Automation and Attacks: Unpacking the Unit 42 2026 Global Incident Response Report appeared first on Unit 42.",
+      "pubDate": "2026-07-16T23:00:59.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Opinion_Category_1505x922-1.jpg"
+    },
+    {
+      "title": "New ClickLock macOS malware traps users into revealing login password",
+      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
+      "description": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
+      "pubDate": "2026-07-16T21:52:54.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/0_Password_Prompt.png"
+    },
+    {
+      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
+      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
+      "description": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
+      "pubDate": "2026-07-16T21:09:41.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/fairlife-milk.jpg"
+    },
+    {
+      "title": "Anubis ransomware: what you need to know",
+      "link": "https://www.fortra.com/blog/anubis-ransomware",
+      "description": "The Anubis ransomware-as-a-service (RaaS) operation has hit some healthcare organisations hard - but they are not the only ones at risk. Read more in my article on the Fortra blog.",
+      "pubDate": "2026-07-16T21:05:37.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Agentic AI Is Untamable: Ask the Right Security Questions",
+      "link": "https://www.darkreading.com/cybersecurity-operations/agentic-ai-untamable-ask-the-right-security-questions",
+      "description": "Forget about attackers. Agentic artificial intelligence is creating enough risks for organizations and demands a security reframe.",
+      "pubDate": "2026-07-16T20:57:47.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte217b770933bdcd6/690ceee03ce143613d3f62e0/man-selecting-AI-agent-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "1M+ Emails Use Hidden Text to Dupe AI Security Filters",
+      "link": "https://www.darkreading.com/threat-intelligence/1m-emails-hidden-text-dupe-ai-security-filters",
+      "description": "Artificial intelligence and LLMs can be surprisingly ineffective against text salting, allowing phishing emails to slide right into your inbox.",
+      "pubDate": "2026-07-16T19:41:31.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6711706d56131707/6a591f652d194555193b1cc9/Salt_email-Sagel_&_Kranefeld-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Claude Chrome extension flaw lets malicious extensions trigger AI actions",
+      "link": "https://www.bleepingcomputer.com/news/security/claude-chrome-extension-flaw-lets-malicious-extensions-trigger-ai-actions/",
+      "description": "A flaw in Anthropic's Claude for Chrome browser extension could allow a malicious extension to trigger predefined AI actions by simulating user clicks, potentially allowing it to abuse Claude's access to connected services such as Gmail, Google Docs, Google Calendar, and Salesforce. [...]",
+      "pubDate": "2026-07-16T19:26:07.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
+    },
+    {
+      "title": "New OkoBot framework deploys 20 payloads to steal data, crypto",
+      "link": "https://www.bleepingcomputer.com/news/security/new-okobot-framework-deploys-20-payloads-to-steal-data-crypto/",
+      "description": "A new malicious framework called OkoBot is delivering more than 20 payloads in attacks focused on stealing cryptocurrency wallet seed phrases, credentials, and other sensitive data. [...]",
+      "pubDate": "2026-07-16T19:09:35.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/okobot.jpg"
+    },
     {
       "title": "Two Scattered Spider Hackers Get 5.5 Years Each for £29 Million TfL Hack",
       "link": "https://thehackernews.com/2026/07/two-scattered-spider-hackers-get-55.html",
@@ -442,15 +523,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltede07faf29a87872/6a577279bf753e837abb9a32/claude_RalfLiebhold_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "We built a vulnerability vending machine: AI tokens in, zero-days out",
-      "link": "https://www.bleepingcomputer.com/news/security/we-built-a-vulnerability-vending-machine-ai-tokens-in-zero-days-out/",
-      "description": "Intruder built an AI-powered \"vulnerability vending machine\" that combines code slicing with LLMs to automatically discover complex software vulnerabilities. The company explains how the system found and exploited a previously unknown WordPress plugin zero-day, with additional discoveries already under responsible disclosure. [...]",
-      "pubDate": "2026-07-15T14:01:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/07/11/o-day-vending-machine-vendor.jpg"
-    },
-    {
       "title": "Firefox, Chrome, Adobe, and VMware Updates Fix Multiple Critical Security Flaws",
       "link": "https://thehackernews.com/2026/07/firefox-chrome-adobe-and-vmware-updates.html",
       "description": "Mozilla has released updates to address two critical flaws in Firefox for which it warned that exploit code has been published. The vulnerabilities are listed below - CVE-2026-15718, an invalid pointer in the JavaScript: WebAssembly component CVE-2026-15719, a site isolation in the DOM: Navigation component \"We are aware that exploit code for this is public, however we are not aware of",
@@ -523,15 +595,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/AdobeStock_992950050-1-scaled.jpeg"
     },
     {
-      "title": "CISA warns admins to patch actively exploited SharePoint flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-admins-to-patch-actively-exploited-sharepoint-flaws/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned Tuesday that attackers are actively exploiting three vulnerabilities to hack Internet-exposed on-premises SharePoint Server instances. [...]",
-      "pubDate": "2026-07-15T09:44:52.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA.jpg"
-    },
-    {
       "title": "Compromised AsyncAPI npm Packages Deliver Multi-Stage Botnet Malware",
       "link": "https://thehackernews.com/2026/07/compromised-asyncapi-npm-packages.html",
       "description": "Four compromised npm packages in the @asyncapi namespace have been observed distributing a multi-stage botnet loader, according to findings from OX Security, SafeDep, Socket, and StepSecurity. The affected packages are listed below - @asyncapi/generator-helpers@1.1.1 @asyncapi/generator-components@0.7.1 @asyncapi/generator@3.3.1 @asyncapi/specs(v6.11.2, v6.11.2-alpha.1) \"The",
@@ -541,15 +604,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXEluWW9TuNGlzu9wVHSDBzAeUuoRS9Om8kX9yzH-HwCjggh-N5ycLyuJ82oY3MP4Uvf9yF_PqwKhcZepDBEH_pOb3td4dPRuuGSWi5XndfpeuqiMipzKIq0Vofc-hOBGj4nWxmXbjMS7RvHkZCUSHloOpsS6m7jpwwFX-2KUkYwrQdt-ClrGXpt2C9TxC/s1600/async-npm.jpg"
     },
     {
-      "title": "Microsoft: Some Dell PCs shut down after recent Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-some-dell-devices-shut-down-after-windows-update/",
-      "description": "Microsoft is blocking this month's Windows 11 security updates on some Dell devices because they are causing shutdowns and performance issues. [...]",
-      "pubDate": "2026-07-15T08:26:48.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/14/Dell.jpg"
-    },
-    {
       "title": "Nigeria Deepens Cybersecurity Efforts as Cybercriminals See More Profits",
       "link": "https://www.darkreading.com/cyber-risk/nigeria-cybersecurity-efforts-cybercriminals-profits",
       "description": "The West African country advanced rules to force organizations to disclose cyberattacks, joining other nations in a shift to mandated transparency.",
@@ -557,15 +611,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt087196a0da1528ae/6a56a815b887df4c99c0b0df/nigeria-flag-and-naira-esfera-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "US charges alleged operators of Russian bulletproof hosting service",
-      "link": "https://www.bleepingcomputer.com/news/security/us-charges-alleged-russian-bulletproof-hosting-service-operators/",
-      "description": "U.S. federal prosecutors have unsealed charges against three Russian nationals, accusing them of providing bulletproof hosting (BPH) services to ransomware gangs that caused over $62 million in damages to victims worldwide. [...]",
-      "pubDate": "2026-07-15T07:45:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/15/hackers-datacenter.jpg"
     },
     {
       "title": "Two SonicWall SMA 1000 Zero-Days Exploited, One Could Enable Admin Commands",
@@ -856,15 +901,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltea14c9f0b9e9121d/6a50fb99c6689e7d0b90589b/GettyImages-2252881496.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "AI Coding: Do Security Risks Outweigh Productivity Gains?",
-      "link": "https://www.darkreading.com/application-security/ai-coding-security-risks-productivity-gains",
-      "description": "AI coding tools cost $19-$200/month/user, but security scanning, remediation, and false positives add hidden costs. Are the productivity gains worth it?",
-      "pubDate": "2026-07-10T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfc206a4328894432/6a5003e314cb1e87db5d7a27/robot_hands_on_keyboard-Moor_Studio-Getty-2246656580.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "AI Surveillance and Social Progress",
       "link": "https://www.schneier.com/blog/archives/2026/07/ai-surveillance-and-social-progress.html",
       "description": "In the near future, AI-powered surveillance systems will be able to track everything we do in public, and much of what we do in private. And if we do something wrong—shoplift, litter, jaywalk, you name it—the system will notice, retain it, tie it to your official government record, communicate that fact to you, and provide real-time alerts to any relevant authorities… and maybe also to the general public. Think of these systems as automated speed cameras, but on steroids. Only they’ll enforce not just speed limits, but any other rule you can imagine. And you won’t receive a ticket weeks later ",
@@ -872,15 +908,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Iran's Cyber Crosshairs Focus Beyond Critical Infrastructure",
-      "link": "https://www.darkreading.com/cyber-risk/iran-cyber-crosshairs-beyond-critical-infrastructure",
-      "description": "Obscurity isn't a defense. If your company has any Internet-facing vulnerability, you're at risk from multiple threats.",
-      "pubDate": "2026-07-09T20:32:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7e03c20c7f557f7/65ef0da29b3861040aba30f4/Crosshairs_Zenobillis_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "GigaWiper: Anatomy of a destructive backdoor assembled from multiple malware",
@@ -1043,15 +1070,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Improving security posture across the Microsoft partner ecosystem",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/02/improving-security-posture-across-the-microsoft-partner-ecosystem/",
-      "description": "Read how Microsoft strengthens partner ecosystem security with CSP vetting, least privilege access, monitoring, and risk management best practices. The post Improving security posture across the Microsoft partner ecosystem appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-07-02T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2025/10/thumbnail_image.webp"
     },
     {
       "title": "Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?",
@@ -1322,24 +1340,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility",
-      "link": "https://unit42.paloaltonetworks.com/cloud-logging-defense-evasion/",
-      "description": "Unit 42 research examines attack scenarios targeting cloud logging services. Learn how to defend against log manipulation and defense evasion. The post Blinding the Watchmen: Abusing Cloud Logging Services for Defense Evasion and Visibility appeared first on Unit 42.",
-      "pubDate": "2026-06-09T22:00:21.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/11_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Got a LinkedIn message from a recruiter? It might be Chinese intelligence, warn FBI and MI5",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/linkedin-recruiter-chinese-intelligence-fbi-mi5",
-      "description": "If you've ever received an out-of-the-blue message via LinkedIn from a recruiter offering some well-paid consultancy work, intelligence agencies have a message for you: be very careful. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-05T17:13:31.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/linkedin-china.jpeg"
     },
     {
       "title": "Welcoming the Philippine Government to Have I Been Pwned",
