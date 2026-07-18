@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T11:12:05.733Z",
+  "generatedAt": "2026-07-18T19:09:27.409Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "WordPress Core \"wp2shell\" RCE flaws get public exploits, patch now",
+      "link": "https://www.bleepingcomputer.com/news/security/wordpress-core-wp2shell-rce-flaws-get-public-exploits-patch-now/",
+      "description": "Public exploits have been released for the critical \"wp2shell\" remote code execution vulnerabilities affecting WordPress Core, making it imperative that administrators patch their sites immediately. [...]",
+      "pubDate": "2026-07-18T17:22:47.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back.jpg"
+    },
+    {
+      "title": "Microsoft warns of surge in ACR Stealer attacks on customers",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-warns-of-surge-in-acr-stealer-attacks-on-customers/",
+      "description": "Microsoft has observed a surge in attacks using the ACR Stealer malware to steal browser-stored passwords, authentication tokens, and sensitive documents from its enterprise customers. [...]",
+      "pubDate": "2026-07-18T14:17:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/18/hand.jpg"
+    },
+    {
+      "title": "The Future of Age Verification: Your Face Never Leaves Your Device",
+      "link": "https://www.bleepingcomputer.com/news/security/the-future-of-age-verification-your-face-never-leaves-your-device/",
+      "description": "As age verification laws expand worldwide, organizations face growing pressure to protect users' privacy while meeting regulatory requirements. Incode explains how on-device age estimation verifies age without transmitting or storing facial images, reducing biometric privacy risks while supporting compliance. [...]",
+      "pubDate": "2026-07-18T13:15:24.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/07/15/incode-on-device-age-estimation.jpg"
+    },
     {
       "title": "Google’s Gemini lets strangers send messages from your locked Android phone",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone",
@@ -478,24 +505,6 @@
       "image": null
     },
     {
-      "title": "AI Agents Broke the Security Playbook. Here's What Replaces It.",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-agents-broke-the-security-playbook-heres-what-replaces-it/",
-      "description": "Traditional security workflows were built for environments that changed at human speed. Token Security explains why AI agents require a new approach: building on a live identity foundation while giving security teams the flexibility to create workflows tailored to their own environments. [...]",
-      "pubDate": "2026-07-16T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/07/15/broken-agentic-ai-building-blocks.jpg"
-    },
-    {
-      "title": "23andMe to pay $18 million in new genetics data breach settlement",
-      "link": "https://www.bleepingcomputer.com/news/security/23andme-to-pay-18-million-in-new-genetics-data-breach-settlement/",
-      "description": "Genetic testing company 23andMe has agreed to pay $18 million to settle claims from a coalition of 43 attorneys general that it failed to protect customers' genetic data. [...]",
-      "pubDate": "2026-07-16T13:47:23.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/23andMe.jpg"
-    },
-    {
       "title": "n8n Token Exchange Flaw Could Let Attackers Log In as Users From Another Issuer",
       "link": "https://thehackernews.com/2026/07/n8n-token-exchange-flaw-could-let.html",
       "description": "n8n, the workflow automation platform, handed out the wrong accounts at login. On Enterprise instances configured to trust more than one external token issuer, it matched an incoming JWT to a local user on the sub claim alone and ignored iss. A valid token from issuer A carrying a sub that belongs to someone under issuer B logged you in as them. Their password never",
@@ -530,15 +539,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4iNrh8DJbIsaAsGTCFlS4kGWAwdRNMghQm9-o8MV8X2txyJ4iTH1P4g7v5sdjuhw9dOeozn9Q6GenUi4wxBTw9uyoJ1D2j5WIcwCWuTk5XEVyGqjAg4jmP4kOEMp2qtd0BnPiVwrz2MJnTwaAnQP0jR3yCGvojGLQMOEc9syp00LKXIkbjUZrWqh0_GSe/s1600/macos-stealer.jpg"
-    },
-    {
-      "title": "Scattered Spider members behind TfL hack get five years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/scattered-spider-members-behind-transport-for-london-hack-get-five-years-in-prison/",
-      "description": "Two leading members of the Scattered Spider cybercrime collective were sentenced to five years and six months in prison each for hacking Transport for London (TfL) in 2024. [...]",
-      "pubDate": "2026-07-16T12:31:29.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/02/just-uk.jpg"
     },
     {
       "title": "20+ Hijacked Government Websites Became an Attack Channel",
