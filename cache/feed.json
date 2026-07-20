@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T20:48:43.340Z",
+  "generatedAt": "2026-07-20T22:02:20.237Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "'WP2Shell' Opens Millions of WordPress Sites to Remote Takeover",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/wp2shell-millions-wordpress-sites-remote-takeover",
+      "description": "Barely three days after disclosure, attackers are widely chaining together CVE-2026-60137 and CVE-2026-63030 to lob exploit attempts against one of the largest attack surfaces on the Internet.",
+      "pubDate": "2026-07-20T21:38:18.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1df0898ba4c4a15/6a5e837c6c884d291eb9cdc9/wordpress_Silver_Wings_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Cursor, Codex, Gemini CLI, Antigravity hit by sandbox escapes",
+      "link": "https://www.bleepingcomputer.com/news/security/cursor-codex-gemini-cli-antigravity-hit-by-sandbox-escapes/",
+      "description": "Researchers escaped the sandboxes in Cursor, Codex, Gemini CLI and Antigravity by having the AI agent write files that trusted host tools later run. Multiple CVEs, patches, and Google downgrading two Antigravity findings. [...]",
+      "pubDate": "2026-07-20T21:14:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/10/11/sandbox-escape.jpg"
+    },
+    {
+      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
+      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
+      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
+      "pubDate": "2026-07-20T21:08:02.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/puffer.jpg"
+    },
+    {
+      "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
+      "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
+      "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages; but cost and human-in-the-loop viability remain open questions.",
+      "pubDate": "2026-07-20T20:26:56.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb30ebf99943f9f9a/6a5e0e8c81d46ac05c6bf14f/llms-rawintanpin-Getty-2224684603.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "CISOs Feel the Heat Over AI Risk",
       "link": "https://www.darkreading.com/cybersecurity-operations/cisos-feel-heat-ai-risk",
@@ -478,24 +514,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/BLK-Hat-blog-hero.png"
     },
     {
-      "title": "Ernst & Young discloses data breach after support system hack",
-      "link": "https://www.bleepingcomputer.com/news/security/ernst-and-young-discloses-data-breach-after-support-system-hack/",
-      "description": "Ernst & Young is notifying customers of a data breach caused by the compromise of a third-party support ticket system used by its IT personnel. [...]",
-      "pubDate": "2026-07-17T14:55:28.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/17/ey.jpg"
-    },
-    {
-      "title": "Inside the Search for \"Clean\" Residential Proxies for Carding",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-search-for-clean-residential-proxies-for-carding/",
-      "description": "Residential proxies are no longer the silver bullet they once were for carding. Flare explains why cybercriminals increasingly seek \"clean\" residential proxies and combine them with browser fingerprints, device profiles, and other identity signals to evade modern fraud detection. [...]",
-      "pubDate": "2026-07-17T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/07/16/credit-cards-cyber-header.jpg"
-    },
-    {
       "title": "Fake Coding Tests Deliver OtterCookie-Aligned Malware Hidden in SVG Flag Images",
       "link": "https://thehackernews.com/2026/07/north-korea-linked-hackers-hide.html",
       "description": "North Korean threat actors linked to the Contagious Interview campaign have been observed employing steganography in SVG image files to conceal malicious payloads as part of a campaign using fake job postings and coding challenges. \"Any user who ran the project ended up with a four-stage payload aligned with OtterCookie: a browser credential and crypto wallet stealer, a file stealer, a",
@@ -865,15 +883,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt89ed69f46b66e8ed/6a565987201f4e6bf48f2ebe/mushrooms-maYcal-GettyImages-1048450740.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Cursor IDE Auto-Executes Malicious Code in Poisoned Repos",
-      "link": "https://www.darkreading.com/application-security/cursor-ide-malicious-code-poisoned-repos",
-      "description": "Researchers reported the vulnerability to Cursor in December, but it still remains in the popular AI coding platform and can be exploited in poisoned repository attacks.",
-      "pubDate": "2026-07-14T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9f5cd3865ee90857/6a553fc7f7c949a9a237e0f3/poison_bottle-Olga_Yastremska-Getty-2254109959.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Vulnerability in FIFA’s Network",
       "link": "https://www.schneier.com/blog/archives/2026/07/vulnerability-in-fifas-network.html",
       "description": "FIFA’s network was vulnerable to anyone with even minimal access.",
@@ -908,15 +917,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-5.webp"
-    },
-    {
-      "title": "Weak Security Continues to Fuel Russian Cyberattacks",
-      "link": "https://www.darkreading.com/endpoint-security/weak-security-fuel-russian-cyberattacks",
-      "description": "In a first, the UK and the EU jointly imposed sanctions on Russian individuals and entities for cyberattacks and disinformation campaigns in the region.",
-      "pubDate": "2026-07-13T21:24:59.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt902fbc09e6b4e80b/6a554c5553e13bb101ef24b3/russiancyber_Pixel-Shot_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Microsoft Entra ID security updates: Passkeys are the default authentication method in Entra ID",
