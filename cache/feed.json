@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-20T07:41:03.792Z",
+  "generatedAt": "2026-07-20T10:55:14.913Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,87 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Microsoft confirms Windows Server Update Services sync delays",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-wsus-server-sync-delays-and-timeouts/",
+      "description": "Microsoft is working to fix a known issue affecting Windows Server Update Services (WSUS) servers, which has caused synchronization problems for more than a week. [...]",
+      "pubDate": "2026-07-20T10:47:28.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/12/16/Windows.jpg"
+    },
+    {
+      "title": "Watch on Demand: Cloud & Data Security Summit",
+      "link": "https://www.securityweek.com/virtual-event-today-cloud-data-security-summit/",
+      "description": "Attendees will be able to interact with leading solution providers and other end users facing similar challenges in securing a variety of cloud deployments. The post Watch on Demand: Cloud & Data Security Summit appeared first on SecurityWeek.",
+      "pubDate": "2026-07-20T10:31:25.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Cloud-Security-Event-Feature.jpg"
+    },
+    {
+      "title": "Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool",
+      "link": "https://www.securityweek.com/capital-one-open-sources-ai-powered-vulnhunter-security-tool/",
+      "description": "The agentic security tool identifies potentially exploitable code flaws, traces attack paths, and recommends targeted remediations. The post Capital One Open Sources AI-Powered ‘VulnHunter’ Security Tool appeared first on SecurityWeek.",
+      "pubDate": "2026-07-20T10:25:07.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Low-Code-No-Code-Security.jpg"
+    },
+    {
+      "title": "Windows KB5121767 OOB update fixes shutdowns on some Dell PCs",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-windows-bug-causing-some-dell-pcs-to-shut-down/",
+      "description": "Microsoft has released emergency updates to fix a known issue causing some Dell PCs to shut down after installing the July 2026 Windows 11 security updates. [...]",
+      "pubDate": "2026-07-20T10:06:17.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/DELL.jpg"
+    },
+    {
+      "title": "Hugging Face Hacked in Autonomous AI Attack",
+      "link": "https://www.securityweek.com/hugging-face-hacked-in-autonomous-ai-attack/",
+      "description": "Targeting production infrastructure, the attack compromised internal datasets and service credentials. The post Hugging Face Hacked in Autonomous AI Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-07-20T09:36:15.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Hugging-Face.jpeg"
+    },
+    {
+      "title": "Critical ServiceNow code execution flaw now exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "description": "Attackers have begun exploiting a critical vulnerability (CVE-2026-6875) in the ServiceNow AI Platform, according to threat intelligence company Defused. [...]",
+      "pubDate": "2026-07-20T09:29:20.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/servicenow.jpg"
+    },
+    {
+      "title": "New 7-Zip Vulnerability Could Let Crafted XZ Archives Run Code During Extraction",
+      "link": "https://thehackernews.com/2026/07/new-7-zip-vulnerability-could-let.html",
+      "description": "Opening a crafted XZ archive in 7-Zip could let an attacker run code on the machine. The flaw, CVE-2026-14266, is a heap-based buffer overflow in how the archiver processes XZ chunked data, and Trend Micro's Zero Day Initiative (ZDI) detailed it on July 15. A fix shipped on June 25 in 7-Zip 26.02. The overflow lets an attacker \"execute code in the context of the current process,\" per the",
+      "pubDate": "2026-07-20T09:10:56.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuAoanL7LxDYHynfggiOQo_RDymqYrFlfnRNrstIG6KgYuDWk2uR0eZDx_vCSLWsjTmP5LohkMSGQ_sc32hE4TGqqUCkGwsDlOUzP3bb-Ib-whRLliIb0YVozTMZF-lgSsPJr55l7GPjR1Xq-sH7dieWTBNnZsttdSfOxowTrEZImrcJ-_cI6i4zVFlII/s1600/7-zip.jpg"
+    },
+    {
+      "title": "Russian-Speaking Hacker Uses Google Gemini CLI to Control Botnet of Eight Dental Clinic PCs",
+      "link": "https://thehackernews.com/2026/07/russian-speaking-hacker-uses-google.html",
+      "description": "A solo Russian-speaking threat actor known as \"bandcampro\" outsourced a chunk of their operations to Google's open-source Gemini CLI artificial intelligence (AI) and commandeered a live botnet. The findings come from an analysis of 200 Gemini CLI session logs between March 19 and April 21, 2026, which found the threat actor using AI, among other things, to crack passwords, set up a residential",
+      "pubDate": "2026-07-20T09:07:11.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyO5FC_n2BBZmiHphtqs0UN5r3DPgtRvkrVfaHOW-1Fv2VPXZliRYDryKR5I-vdZxtmChQJB6eAlJsND-e47t5lLQQ4SWkSJ_D02SEL6nRBmnJ-klfjSSg7rjRyf5AfzX340_se2vNrobCydtV-NZPsDm8MvL9UG0atiMekaxCNzHwizxZFlRhvpuM8BjE/s1600/gemini-cc.jpg"
+    },
+    {
+      "title": "Chrome 150 Update Patches Severe Memory Safety Bugs",
+      "link": "https://www.securityweek.com/chrome-150-update-patches-severe-memory-safety-bugs/",
+      "description": "The fresh security update resolves six critical and high-severity use-after-free vulnerabilities. The post Chrome 150 Update Patches Severe Memory Safety Bugs appeared first on SecurityWeek.",
+      "pubDate": "2026-07-20T08:12:19.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Chrome.jpeg"
+    },
     {
       "title": "World's Largest AI Model Repository Hugging Face Breached by Autonomous AI Agent",
       "link": "https://thehackernews.com/2026/07/worlds-largest-ai-model-repository.html",
@@ -397,15 +478,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzr3TN2Kp4PBOBbzsR0RkNNu6_pMaYw05DjwQIegOdSeuDW5SAivGHOy3Qznjx5KJUTuiPRqAJsTDpM1O94X_FuG2sXAjD84rgPHwGxp2tFuP53Dm8pd-9bInejjZY7wx1jLBWu_EikCQ4HACf6J5Ycc3-kiTVE6-83MtCDCsL71o-7sFema5tOIV4IcJm/s1600/GoSerpent-malware.jpg"
     },
     {
-      "title": "Risk Ledger Raises $32 Million in Series B Funding",
-      "link": "https://www.securityweek.com/risk-ledger-raises-32-million-in-series-b-funding/",
-      "description": "The British firm has built a collaborative platform to help organizations address supply chain security risks. The post Risk Ledger Raises $32 Million in Series B Funding appeared first on SecurityWeek.",
-      "pubDate": "2026-07-17T08:31:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
-    },
-    {
       "title": "US charges two over laundering $43 million from investment fraud",
       "link": "https://www.bleepingcomputer.com/news/security/us-charges-two-over-laundering-43-million-from-investment-fraud/",
       "description": "U.S. prosecutors on Thursday charged a New York man and woman for their roles in a large-scale crime ring that laundered money stolen in cyber investment fraud scams. [...]",
@@ -415,24 +487,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/17/money-laundering_hackers.jpg"
     },
     {
-      "title": "Fresh SharePoint Vulnerability Exploited Soon After Disclosure",
-      "link": "https://www.securityweek.com/fresh-sharepoint-vulnerability-exploited-soon-after-disclosure/",
-      "description": "The critical-severity security defect allows remote, authenticated attackers to execute arbitrary code on the server. The post Fresh SharePoint Vulnerability Exploited Soon After Disclosure appeared first on SecurityWeek.",
-      "pubDate": "2026-07-17T07:15:59.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CVE-2025-53770-SharePoint-Vulnerability.jpg"
-    },
-    {
-      "title": "CISA urges immediate action on actively exploited Fortinet flaws",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-feds-to-patch-exploited-fortinet-fortisandbox-flaws-by-sunday/",
-      "description": "CISA on Thursday ordered government agencies to prioritize patching two actively exploited vulnerabilities in the Fortinet FortiSandbox threat detection platform. [...]",
-      "pubDate": "2026-07-17T07:03:33.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/19/Fortinet.jpg"
-    },
-    {
       "title": "CISA Adds Exploited SharePoint RCE Zero-Day CVE-2026-58644 to KEV",
       "link": "https://thehackernews.com/2026/07/cisa-adds-exploited-sharepoint-rce-zero.html",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a newly patched security flaw impacting Microsoft SharePoint Server to its Known Exploited Vulnerabilities (KEV) catalog, requiring Federal Civilian Executive Branch (FCEB) agencies to apply the fixes by July 19, 2026. The vulnerability in question is CVE-2026-58644 (CVSS score: 9.8), a critical deserialization",
@@ -440,15 +494,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgH1X7ZnvKsW37BBvjNfEzT4Imh9ZIRL4_2W1JaNVe_MyO3Q5H1MPsET-SASqznhlfOExRrLj4-6NzhgvGi76w4U5tSmlM-pJLIqO5jF3g9G1DR_FNhuwcatBFb8ARvD4PPMiQvMCFiTlEOlc13nQbQqCn5ZHf1J2ZOqDeG3_pmBiQ92hTfMErJKcjKbNtZ/s1600/sharepoint-cisa.jpg"
-    },
-    {
-      "title": "Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack",
-      "link": "https://www.securityweek.com/coca-cola-suspends-us-fairlife-production-due-to-ransomware-attack/",
-      "description": "The company has yet to determine the full scope, nature, and impact of the incident. The post Coca-Cola Suspends US Fairlife Production Due to Ransomware Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-07-17T06:23:08.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Coca-Cola-Fairlife.webp"
     },
     {
       "title": "ACR Stealer: Two observed intrusion chains amid increased threat activity",
@@ -467,24 +512,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Opinion_Category_1505x922-1.jpg"
-    },
-    {
-      "title": "New ClickLock macOS malware traps users into revealing login password",
-      "link": "https://www.bleepingcomputer.com/news/security/new-clicklock-macos-malware-traps-users-into-revealing-login-password/",
-      "description": "A new macOS information-stealing malware dubbed ClickLock terminates all visible processes to force users into entering their system login password. [...]",
-      "pubDate": "2026-07-16T21:52:54.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/0_Password_Prompt.png"
-    },
-    {
-      "title": "Coca-Cola says Fairlife ransomware attack halts US dairy production",
-      "link": "https://www.bleepingcomputer.com/news/security/coca-cola-says-fairlife-ransomware-attack-halts-us-dairy-production/",
-      "description": "The Coca-Cola Company disclosed today that a ransomware attack impacting its Fairlife dairy subsidiary has disrupted operations, temporarily suspending production of Fairlife products across the United States. [...]",
-      "pubDate": "2026-07-16T21:09:41.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/fairlife-milk.jpg"
     },
     {
       "title": "Anubis ransomware: what you need to know",
@@ -541,15 +568,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioBa_Q-TYfQvhOH0gqZxwAzgn_QnC9YSD6GYI3-z53LVjJSL1MDl4Af_DSeuIA33luHnEkGIGe9eXbCGvyWZ2zfOELZLhLAJtAcCTzIrpEPPU2f-7hvztkeHhA89Fb3aTq7b-0HHHVSPUsmUKXOPbX17rwMGjB75yG_r4-9vyarYK77pmdgzy3YeIn46M4/s1600/threatsday-recap.jpg"
     },
     {
-      "title": "Legacy Systems, Real-World Impacts: The Reality of OT Security",
-      "link": "https://www.securityweek.com/legacy-systems-real-world-impacts-the-reality-of-ot-security/",
-      "description": "Legacy systems, safety concerns, and critical infrastructure risks make OT vulnerability disclosure one of cybersecurity's most challenging balancing acts. The post Legacy Systems, Real-World Impacts: The Reality of OT Security appeared first on SecurityWeek.",
-      "pubDate": "2026-07-16T15:15:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2022/04/Industrial-Cyber-threats.jpg"
-    },
-    {
       "title": "Protecting Privacy in an AI Era",
       "link": "https://www.schneier.com/blog/archives/2026/07/protecting-privacy-in-an-ai-era.html",
       "description": "Daniel Solove argues in the Wall Street Journal (alternate link) that giving people control of their personal data is not an effective way to regulate privacy in this era. Instead, we need to hold companies accountable for their actions, similar to what we do with food and drug companies. Measures such as rigorous data minimization, fiduciary duties, liability for negligent or reckless technological design, liability for algorithms that cause harm, and multi-stakeholder review of technologies will be far more effective. Paper.",
@@ -593,24 +611,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgs_Ix6AmdT0f-NuPj2BLNRcSaOhWHf5pPdDuwR0eykvHCnOmoHUhq5Z2axM2GJX9gX5A3FlesfKuynGTsj012HNIJZURuZ8S7uCfa7_cSXIZDWC1donHjiQbkNr3jNLSq8B2PGpUG24fddwOaG2POjEQuvlrVEnp3yPa1F3tV2fpYDVQHEsaIHbnShUuQ/s1600/hacked.jpg"
-    },
-    {
-      "title": "New Agent Data Injection Attack Can Make AI Agents Misclick or Run Attacker Commands",
-      "link": "https://thehackernews.com/2026/07/new-agent-data-injection-attack-can.html",
-      "description": "Ask an AI agent to summarize the reviews on a product page, and a single planted review can make it click \"Buy Now\" instead. Ask a coding assistant to apply a maintainer's fix from a GitHub thread, and a fake comment can make it run a stranger's command on your computer. Neither trick hijacks the agent's task. Each one just corrupts the facts it trusts and lets it carry on with the job you",
-      "pubDate": "2026-07-16T11:32:28.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiapJDNa0fN3WsyrkYjRiRo3L8tqmE_RJm9AmQV5KO9p5To-PBWdVz7EW294xtn-VZtJ2xS_scIq3LyqyxYkPG3R5TdJoPF_axjEaLpaXSqGHK_uO274wM315GEqHtnDAMIfFN2vZlcEYJ3Ca11Ml_E-l32H63EYNfx7l9ldtjNlH8hL_19w4RL6vDpOWMz/s1600/adi.jpg"
-    },
-    {
-      "title": "Daxin Resurfaces in Taiwan Alongside Stupig Pre-Login SYSTEM Backdoor",
-      "link": "https://thehackernews.com/2026/07/daxin-resurfaces-in-taiwan-alongside.html",
-      "description": "An advanced malware previously attributed to a China-linked threat actor has resurfaced after more than four years within a Taiwan manufacturing firm, along with a previously unreported backdoor dubbed Stupig. Daxin (\"srt64.sys\"), as the kernel-mode rootkit is referred to, was first documented by Broadcom-owned Symantec in March 2022, with evidence indicating its use in targeted attacks aimed",
-      "pubDate": "2026-07-16T11:17:23.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoN2-EflBc7bABKWw8GsIF_E9I7A9Ond88d-yFCAc6t850C9RGNxpGFAP3G9NichaP7JHa_BA-4bsMDNze5837hGCFGuAbyEHPVsxmQgMNS9A8e1jFL19Z1MVv9KOq0TX5ShDG46Xrv3MxH-vR3sQtEcDkH5OMxQQo11NXMKWRicC8T1OwTqw3ENoXEdIK/s1600/WINDOWS-malware.jpg"
     },
     {
       "title": "Smashing Security podcast #476: Remote-control rickshaws and rogue book marketers",
