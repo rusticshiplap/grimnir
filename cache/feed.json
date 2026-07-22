@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T00:01:25.154Z",
+  "generatedAt": "2026-07-22T06:37:51.512Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Trojanized Newtonsoft.Json Fork Hides Game-Rigging Code in a Working Library",
+      "link": "https://thehackernews.com/2026/07/trojanized-newtonsoftjson-fork-hides.html",
+      "description": "Cybersecurity researchers have discovered a NuGet typosquat that's unlike the typical information-stealing malware distributed via package registries: usual info-stealers: it's designed to rig live game results on Digitain. The package, named \"Newtonsoftt.Json.Net,\" masquerades as the Newtonsoft.Json library and is a trojanized fork. Seven versions of the package have been published to the",
+      "pubDate": "2026-07-22T06:00:06.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmbnZz5gT311oKvULmSO8GP7t6_iPwyHkyn18YX9gpWaA6McGU3BUywygV6gyQ_WBntQjd4mCBZC7mVug_axlJpTqNM2GblbuYyYMf6Np-Zm6P5dvmWeA_aoyZ4bckOlXoAfMC8yXacUfCPHocS9azMsxW7cYbLy6e6iVNH6EMVduEZTLFT_CyAYmud78K/s1600/json-pack.jpg"
+    },
+    {
+      "title": "OpenAI says its AI models hacked Hugging Face during testing",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-says-its-ai-models-hacked-hugging-face-during-testing/",
+      "description": "OpenAI says its AI models, including GPT‑5.6 Sol and a pre-release model, hacked into the Hugging Face artificial intelligence repository while being tested in a sandboxed testing environment. [...]",
+      "pubDate": "2026-07-22T05:19:20.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/22/OpenAI.jpg"
+    },
+    {
+      "title": "Microsoft Azure DevOps MCP Flaw Lets Hidden PR Comments Hijack AI Review Agents",
+      "link": "https://thehackernews.com/2026/07/microsoft-azure-devops-mcp-flaw-lets.html",
+      "description": "A single invisible comment in an Azure DevOps pull request can turn a reviewer's own AI coding agent against them, driving it into projects the attacker has no rights to reach and quietly leaking what it finds. The flaw is in Microsoft's official Azure DevOps MCP server, and it works because one of its tools returns pull request descriptions without a prompt-injection guardrail the company had",
+      "pubDate": "2026-07-22T04:57:52.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiyPnXNVcT-TTMj4bnJJGmkaK6DFi2Lr2KDvnQZiPIyboMvPfwGP-xlkXhEAq1-bY1fkI_eSiaMEY0JxhHvMYB5X_i_aDK04yiPGrSIk9cXL9P-9cwn2ftFhqCto-5dAxILlsZITCPhQ6Kf2h0_5Ly9YSvo5T2z8sNe5ZDPZxR-S-JslYxH-q9FoPUUJtA/s1600/inject.jpg"
+    },
+    {
+      "title": "OpenAI Says Its AI Models Escaped Sandbox, Targeted Hugging Face to Cheat Benchmark",
+      "link": "https://thehackernews.com/2026/07/openai-says-its-own-ai-models-escaped.html",
+      "description": "OpenAI on Tuesday said a combination of its artificial intelligence (AI) models, including GPT-5.6 Sol and an \"even more capable pre-release model,\" was behind the security incident that targeted Hugging Face's production infrastructure last week. The AI company said the models were operating with \"reduced cyber refusals for evaluation purposes\" that might otherwise limit their ability to",
+      "pubDate": "2026-07-22T04:18:33.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiQ67gB4XtAR4QxYNABuJhWfBIduFUT7TMSA0K2c9TXbTTwqdfMJwBb5busuLeMPlrljP3xuTUrhbMQxwctepF9oPtgJkqo-RAxN86O2t25jcjIHfs5A8SVvG3Y8WJJa4pqAp0UiTBzAPZtzSaNcNceJokt7ATaoq7GTXYJjbsxaQfTEs4cwdaOz4Fg72nG/s1600/openai.jpg"
+    },
     {
       "title": "Police dismantle Kratos phishing platform, arrest developer",
       "link": "https://www.bleepingcomputer.com/news/security/police-dismantle-kratos-phishing-platform-arrest-developer/",
@@ -424,15 +460,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2022/10/11/sandbox-escape.jpg"
     },
     {
-      "title": "JadePuffer agentic attacks now target AI model data with ransomware",
-      "link": "https://www.bleepingcomputer.com/news/security/jadepuffer-agentic-attacks-now-target-ai-model-data-with-ransomware/",
-      "description": "The JadePuffer autonomous AI agent has upgraded with custom malware called EncForge that focuses on encrypting AI assets, such as training datasets, vector databases, and model checkpoints. [...]",
-      "pubDate": "2026-07-20T21:08:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/20/puffer.jpg"
-    },
-    {
       "title": "Remediating Vulnerabilities With LLMs: Inside Ivanti's Automation Push",
       "link": "https://www.darkreading.com/cybersecurity-operations/remediating-vulnerabilities-llms-ivanti-automation",
       "description": "Ivanti CSO Daniel Spicer says frontier models have shown surprising effectiveness in early stages, but cost and human-in-the-loop viability remain open questions.",
@@ -593,33 +620,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": null
-    },
-    {
-      "title": "Critical NGINX Vulnerability Can Crash Workers and May Allow Remote Code Execution",
-      "link": "https://thehackernews.com/2026/07/critical-nginx-vulnerability-can-crash.html",
-      "description": "F5 has shipped fixes for a critical nginx flaw that lets a remote, unauthenticated attacker trigger a heap buffer overflow in the worker process with crafted HTTP requests. CVE-2026-42533 was patched on July 15 in nginx 1.30.4 (stable) and 1.31.3 (mainline), and in NGINX Plus 37.0.3.1; anyone on an earlier build should upgrade. Triggering it can crash or restart the worker, causing a denial of",
-      "pubDate": "2026-07-19T20:42:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVv10OUCjBseEZieeN1rxtwm17pPCAoe6OC1jvCTXCumjIImhz5Y08lYWBpSIGBSkDJN-wBcGmUTmPEp8U74bgd2Cv3rwmSmtUDlmOYR7f-0Xs3xL_xkjpkNm8W8vzNvFNfmTNiqs9TNcNmT1bo8xWb9XGzPnuaByxKSl9_eOqg3yDbtAtYh0epFo-4Wg/s1600/nginx-rce-flaw.jpg"
-    },
-    {
-      "title": "UAC-0145 Uses ClickFix CAPTCHAs to Infect Ukrainian Devices wih Malware",
-      "link": "https://thehackernews.com/2026/07/uac-0145-uses-clickfix-captchas-to.html",
-      "description": "Russian state-sponsored threat actors have been observed leveraging the infamous ClickFix strategy to trick Ukrainian targets into infecting their own machines with data-stealing malware. According to the Computer Emergency Response Team of Ukraine (CERT-UA), the activity has been attributed to UAC-0145, a sub-cluster within Sandworm, an advanced hacking unit affiliated with GRU, Russia's",
-      "pubDate": "2026-07-19T13:30:55.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzwz79enQjrnXLRTDKacoJm6HMEpOZX59zUr-X-czDXaohlQymWPOYcD0ERz14lU9Sp_6DubTeBvC1085D3vh6VwMqreCDn8F9ZKkcrvgSTlCfwS1RhmT7ubTPrc5VRd5tX7dHAJAu8n8PUy94X3a72vYU4vO769JGWttb3x9gp9lXUkilEnloggpXyk2p/s1600/click.jpg"
-    },
-    {
-      "title": "SonicWall SMA Zero-Days Exploited Before Disclosure to Gain Root Access",
-      "link": "https://thehackernews.com/2026/07/sonicwall-sma-zero-days-exploited.html",
-      "description": "A previously undocumented threat actor has been attributed to the exploitation of recently disclosed SonicWall Secure Mobile Access (SMA) 1000 series VPN appliances as zero-days prior their public disclosure since June 22, 2026. Cybersecurity company Volexity is tracking the activity under the moniker UTA0533. The discovery was made following an incident response investigation earlier this",
-      "pubDate": "2026-07-19T13:18:56.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLomYbwprpYWKVxrxKRh3hFiGRWdVOb7WAVbhJjf_fYQAba4wVZT1PpwWAL-ZDb40MZp9T43-dj8Fru-eOjiKcrAoh5sOdyKGUUAVwK9iifXl70EvgORPztxnvYXc9HA8trGKcRZGob8DYJxUZBg0zlZFUTiRGPXGFheSbKLUoG53kZ9HR6XxyJs9GEtcA/s1600/sma-sonicwall.jpg"
     },
     {
       "title": "Google’s Gemini lets strangers send messages from your locked Android phone",
