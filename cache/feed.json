@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-23T08:06:46.202Z",
+  "generatedAt": "2026-07-23T11:25:34.881Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "End-to-End Encryption and “Going Dark”",
+      "link": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
+      "description": "New paper: “Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the ‘Going Dark’ Debate“: Abstract: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call “Round 3” of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments around the world have proposed, and in some cases enacted, laws limiting E2EE for law enforcement and national security purposes. This Article explains the underlying technologies and market developments for a law and policy audience to a",
+      "pubDate": "2026-07-23T11:03:50.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses",
+      "link": "https://www.securityweek.com/upbound-group-says-data-breach-led-to-13-million-in-fraudulent-contract-losses/",
+      "description": "Hackers recently obtained non-sensitive customer information and other documents from the company. The post Upbound Group Says Data Breach Led to $13 Million in Fraudulent Contract Losses appeared first on SecurityWeek.",
+      "pubDate": "2026-07-23T10:49:10.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/corporate-bank-fraud.jpeg"
+    },
+    {
+      "title": "New msaRAT malware uses Chrome, Edge browsers to route C2 traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/new-msarat-malware-uses-chrome-edge-browsers-to-route-c2-traffic/",
+      "description": "The Chaos ransomware gang is using a new backdoor dubbed msaRAT that hides command-and-control (C2) communication by routing it through the Chrome or Edge browsers. [...]",
+      "pubDate": "2026-07-23T10:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/28/Google_Chrome.jpg"
+    },
+    {
+      "title": "Assaf Keren Appointed New CISO of Meta",
+      "link": "https://www.securityweek.com/assaf-keren-appointed-new-ciso-of-meta/",
+      "description": "He replaces Guy Rosen, who announced his retirement from the company after 13 years. The post Assaf Keren Appointed New CISO of Meta appeared first on SecurityWeek.",
+      "pubDate": "2026-07-23T09:53:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/03/Meta-Facebook-e1739539212391.jpg"
+    },
+    {
+      "title": "Microsoft working to fix Exchange Online mailbox quarantine issue",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-working-to-fix-exchange-online-mailbox-quarantine-issue/",
+      "description": "Microsoft is working to resolve an ongoing Exchange Online issue that has been mistakenly quarantining customers' mailboxes since Sunday. [...]",
+      "pubDate": "2026-07-23T09:20:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/04/15/Exchange.jpg"
+    },
+    {
+      "title": "New Check Point Zero-Day Vulnerability Exploited in the Wild",
+      "link": "https://www.securityweek.com/new-check-point-zero-day-vulnerability-exploited-in-the-wild/",
+      "description": "The vulnerability tracked as CVE-2026-16232 has been exploited against customers with certain configurations. The post New Check Point Zero-Day Vulnerability Exploited in the Wild appeared first on SecurityWeek.",
+      "pubDate": "2026-07-23T09:06:04.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Check-Point-Software.jpg"
+    },
+    {
+      "title": "Check Point warns of SmartConsole zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-smartconsole-zero-day-exploited-in-attacks/",
+      "description": "Israeli cybersecurity firm Check Point Software has addressed an actively exploited zero-day flaw in the company's SmartConsole graphical user interface (GUI) admin panel. [...]",
+      "pubDate": "2026-07-23T08:13:07.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/23/Check-Point-headpic.jpg"
+    },
+    {
+      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
+      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
+      "description": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race",
+      "pubDate": "2026-07-23T08:04:35.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
+    },
     {
       "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
@@ -53,6 +125,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
+      "link": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
+      "description": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
+      "pubDate": "2026-07-22T23:50:01.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9550e8ba7752b437/6a5a40aa4a830941d7bdad92/GettyImages-147261287.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Smashing Security podcast #477: How 14 orders of chicken McNuggets helped nail a suspected Russian hacker",
@@ -280,15 +361,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks",
-      "link": "https://www.securityweek.com/fourth-sharepoint-vulnerability-exploited-in-past-months-wave-of-attacks/",
-      "description": "CVE-2026-50522 is being exploited by threat actors to steal machine keys and retain long-term access. The post Fourth SharePoint Vulnerability Exploited in Past Month’s Wave of Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-07-22T11:29:16.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/SharePoint.jpeg"
-    },
-    {
       "title": "Why Modern SOCs Need Multi-Layered Detections",
       "link": "https://thehackernews.com/2026/07/why-modern-socs-need-multi-layered.html",
       "description": "The cycle is over. For years, cybersecurity followed a familiar pattern: defenses improved, attackers adapted, and the back-and-forth continued. Today, AI-equipped attackers are simply outpacing defenses. Most intrusions now bypass endpoint and malware-based detection entirely. The CrowdStrike Global Threat Report estimates around 79% of attacks are malware-free, as threat actors rely on",
@@ -323,24 +395,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/10/Microsoft-Exchange.jpg"
-    },
-    {
-      "title": "Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation",
-      "link": "https://www.securityweek.com/endpoint-security-firm-glow-launches-with-180m-in-funding-at-1-2b-valuation/",
-      "description": "Using AI, the startup provides adaptive prevention through environment mapping, risk analysis, and automated policy enforcement. The post Endpoint Security Firm Glow Launches With $180M in Funding at $1.2B Valuation appeared first on SecurityWeek.",
-      "pubDate": "2026-07-22T10:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cybersecurity-funding.jpeg"
-    },
-    {
-      "title": "Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates",
-      "link": "https://www.securityweek.com/oracle-patches-over-1400-vulnerabilities-with-quarterly-security-updates/",
-      "description": "Many of the vulnerabilities fixed with the July 2026 Critical Patch Update were likely discovered by AI. The post Oracle Patches Over 1,400 Vulnerabilities With Quarterly Security Updates appeared first on SecurityWeek.",
-      "pubDate": "2026-07-22T09:33:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Oracle.jpeg"
     },
     {
       "title": "Chick-fil-A discloses data breach after credential stuffing attacks",
@@ -406,15 +460,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/08/28/police-servers.jpg"
     },
     {
-      "title": "FakeGit campaign uses 7,600 GitHub repos to push SmartLoader malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fakegit-campaign-uses-7-600-github-repos-to-push-smartloader-malware/",
-      "description": "A large-scale operation dubbed 'FakeGit' is pushing SmartLoader and StealC malware through 7,600 malicious GitHub repositories that accumulated more than 14 million downloads. [...]",
-      "pubDate": "2026-07-21T22:34:17.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/11/ai-extract.jpg"
-    },
-    {
       "title": "Ransomware Is Accelerating, but It's Not Because of AI",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
       "description": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
@@ -431,24 +476,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Critical SharePoint RCE flaw exploited to steal machine keys",
-      "link": "https://www.bleepingcomputer.com/news/security/critical-sharepoint-rce-flaw-exploited-to-steal-machine-keys/",
-      "description": "Hackers are actively exploiting the critical CVE-2026-50522 vulnerability in Microsoft SharePoint to steal machine keys and maintain access even after affected servers are patched. [...]",
-      "pubDate": "2026-07-21T20:06:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/07/20/sharepoint-small-red-flare.jpg"
-    },
-    {
-      "title": "Anubis ransomware claims Coca-Cola Fairlife attack, threatens data leak",
-      "link": "https://www.bleepingcomputer.com/news/security/anubis-ransomware-claims-coca-cola-fairlife-attack-threatens-data-leak/",
-      "description": "The Anubis ransomware gang has claimed responsibility for the cyberattack on Coca-Cola's Fairlife dairy subsidiary, threatening to publish allegedly stolen corporate data unless the company pays a ransom. [...]",
-      "pubDate": "2026-07-21T18:50:54.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/16/fairlife-milk.jpg"
     },
     {
       "title": "Apple Fixes Hide My Email Bug That Exposed Real Addresses in Mail Logs",
@@ -665,15 +692,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjraCuGeWGgh9OrpC0vpcC6fFNsSdQEGhB_GPY0ZbuAzcOyqyTyHFA8fl97bDKYihy0MZGiU9_5a4s4x6oziT9-cCv1n2dpGZpGtvuipWUYoEObUWtQt0ZmNczKsM7wzqdtLbAvrIfJrFpCDzPD-koB8qxdpFYZ0w5EtnYW2Z4RTPz0v-JFVyFgyg3rQk8/s1600/github.jpg"
-    },
-    {
-      "title": "Exposed Server Reveals AI-Assisted Phishing Toolkit Behind WebDAV Malware Campaign",
-      "link": "https://thehackernews.com/2026/07/exposed-server-reveals-ai-assisted.html",
-      "description": "A malware operator left its delivery server wide open, and Rapid7 pulled down the whole toolkit: 1,048 files spanning lure templates, filename-spoofing tests, execution experiments, droppers, builder notes, and two campaign chains. One was already live against Windows users in Mexico, delivering an infostealer through a fake government ID-lookup site over WebDAV. What makes it more than a",
-      "pubDate": "2026-07-20T17:29:50.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhJtNDirNuc1FHpVkk7dexa4KTcD8h3fSmxpGMZQeRtlzNpIhC5hOXVEu-aPc5tsCIi9-csPtQVmdoW9FeyyBytXkPWfbwYZEGSJrIiqSEqUsdQwGOepqr23C4pz6jnGWI5ledB7UC19S0ORrc_jyP6Lajqu0X4FsTX6ooTVJvJffKOjRmg2ndJLDj17-E/s1600/phishing-ai.jpg"
     },
     {
       "title": "Cybersecurity Keeps Events 'Uneventful'",
@@ -901,15 +919,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0aa2d53ba98348f4/6a57ee26ba47bfb6d5ec84a6/boot_ChristianChan_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Identity Attacks Overtake Exploits as Top Ransomware Cause",
-      "link": "https://www.darkreading.com/identity-access-management-security/identity-attacks-overtake-exploits-top-ransomware-cause",
-      "description": "Email attacks overtook exploits as the top ransomware root cause last year. Multifactor authentication (MFA) was deployed in 97% of credential-based attacks but failed to prevent compromise.",
-      "pubDate": "2026-07-15T20:16:13.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltde006b8b5b1c0556/6a57e5114b599fb58be63897/biometric_fingerprint-da-kuk-getty-2258608618.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Turning threat intelligence into decisive action with Defender Experts",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/turning-threat-intelligence-into-decisive-action-with-defender-experts/",
       "description": "Security teams have never had more visibility, yet rarely have they felt more uncertain. Signal pours in from endpoints, identities, cloud workloads, and a sprawling mix of third-party tools. The post Turning threat intelligence into decisive action with Defender Experts appeared first on Microsoft Security Blog.",
@@ -1007,15 +1016,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Security-ImageryScan-Modular-Blue-03-2026-1-scaled.jpg"
-    },
-    {
-      "title": "AI Data Centers and the Concentration of Wealth",
-      "link": "https://www.schneier.com/blog/archives/2026/07/ai-data-centers-and-the-concentration-of-wealth.html",
-      "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. Opposition to AI data centers has emerged as a primary theme in US politics, one that—surprisingly—doesn’t fall along party lines. We applaud people coming together for constructive debate on any issue, and agree that communities need to evaluate whether any economic benefits these data centers bring is worth their costs. Still, we worry that a focus on data centers obscures the larger impacts of AI on people’s lives: the concentration of power of AI companies, and their widespread political and financial i",
-      "pubDate": "2026-07-13T11:01:57.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
