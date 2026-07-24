@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-24T03:53:45.859Z",
+  "generatedAt": "2026-07-24T06:28:03.616Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Data Breach Confirmed After Australian Energy Giant Origin Is Hacked",
+      "link": "https://www.securityweek.com/data-breach-confirmed-after-australian-energy-giant-origin-is-hacked/",
+      "description": "A hacker claims to have stolen the information of 2 million Origin Energy customers and is threatening to leak it. The post Data Breach Confirmed After Australian Energy Giant Origin Is Hacked appeared first on SecurityWeek.",
+      "pubDate": "2026-07-24T05:52:31.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Origin-Energy.jpeg"
+    },
     {
       "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
@@ -327,7 +336,7 @@
     {
       "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
       "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "description": "RefluXFS, a new Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race",
+      "description": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race against",
       "pubDate": "2026-07-23T08:04:35.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -478,15 +487,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts",
-      "link": "https://www.securityweek.com/suno-paidwork-data-breaches-affect-tens-of-millions-of-accounts/",
-      "description": "Hackers leaked names, email addresses, phone numbers, passwords, and financial information stolen from the two platforms. The post Suno, Paidwork Data Breaches Affect Tens of Millions of Accounts appeared first on SecurityWeek.",
-      "pubDate": "2026-07-22T15:02:11.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/bank-finance-lender-credit-union-hack.jpeg"
-    },
-    {
       "title": "Adobe Acrobat Extension Flaw Let Malicious Sites Read WhatsApp Web Data",
       "link": "https://thehackernews.com/2026/07/adobe-acrobat-extension-flaw-let.html",
       "description": "Cybersecurity researchers have disclosed details of a now-patched vulnerability chain in the Adobe Acrobat Chrome extension that has over 314 million users, which, if exploited, could facilitate a silent hijack of a user's WhatsApp data. The shortcoming has been codenamed HermeticReader by Guardio Labs. It's officially tracked as CVE-2026-48294 (CVSS score: 7.4), with the vulnerability",
@@ -624,7 +624,7 @@
     {
       "title": "AWS Kiro Flaw Let a Poisoned Web Page Rewrite Its Config and Run Code",
       "link": "https://thehackernews.com/2026/07/aws-kiro-flaw-let-poisoned-web-page.html",
-      "description": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue, and no CVE has been",
+      "description": "Hidden text on a web page was enough to make Kiro, AWS's agentic coding IDE, rewrite its own configuration file and run an attacker's code on a developer's machine, with no approval step able to stop it. Intezer, in research with Kodem Security, found that a request as ordinary as asking Kiro to summarize a page could end in remote code execution. AWS has patched the issue and says it is",
       "pubDate": "2026-07-21T16:06:12.000Z",
       "source": "The Hacker News",
       "category": "news",
