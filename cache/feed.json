@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-25T16:26:08.475Z",
+  "generatedAt": "2026-07-25T20:27:04.198Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
+      "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
+      "description": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
+      "pubDate": "2026-07-25T18:48:44.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
+    },
     {
       "title": "Malicious sites use JavaScript to build malware in browser memory",
       "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
@@ -584,15 +593,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Check Point Patches Exploited SmartConsole Flaw Allowing Full Admin Access",
-      "link": "https://thehackernews.com/2026/07/check-point-patches-exploited.html",
-      "description": "Check Point has released security updates to address multiple vulnerabilities impacting Security Management and Multi-Domain Management (MDSM) products, including a critical flaw that has come under active exploitation in the wild. The security flaw, tracked as CVE-2026-16232 (CVSS score: 9.3), is an authentication bypass affecting the Check Point SmartConsole login process that allows an",
-      "pubDate": "2026-07-23T06:34:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiTBN3LZDMeKkPoMsoNtsGp_s0KYwVrmhhKHQsQtqgtAN1WAKeS7L-aN1hiehoBwnPi6f1gziIEecy5GlPdAVlWKPlzVprrqHLTLE3tcMZu4NK8QDoRxxS22HEFxfIpyrXnqr8O9b9akb1VVr9dmmmdwzHmhTFTVX4Cpv6WkFwSpz62tr6XKEDvKp5m0aUu/s1600/checkpoint.jpg"
     },
     {
       "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
