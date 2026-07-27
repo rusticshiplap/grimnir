@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-27T04:22:37.852Z",
+  "generatedAt": "2026-07-27T09:22:20.142Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
+      "link": "https://thehackernews.com/2026/07/teleshim-abuses-telegram-for-c2-in.html",
+      "description": "Cybersecurity researchers have flagged fresh malicious cyber activity by a threat actor with ties to East Asia targeting government entities in the Middle East. The intrusions have resulted in the deployment of previously unreported malware families dubbed TELESHIM, MIXEDKEY, and BINDCLOAK, according to Zscaler ThreatLabz. The cybersecurity firm said it detected the campaign earlier this month.",
+      "pubDate": "2026-07-27T08:48:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEikuWOQRYm6WQ1zHmOlYkI7jlVOUUKGBIlo68iWyUVuaZ5n3i7ODu8DYpntAk2aGZQ_7LsYpXpp5v0PcQMLxP8LQOajtKl-WaDBb7_wDpo8P3-iCcAwr74JY4rXNeHJJv9h6EB447wPEnrZE08YfDO_WI9N4B_C1lPvxILfvv00Z_J8yHntLSfNYbPVCDjS/s1600/telegram-c2.jpg"
+    },
+    {
+      "title": "GitHub Adds 3-Day Dependabot Cooldown to Limit Poisoned Package Adoption",
+      "link": "https://thehackernews.com/2026/07/github-adds-3-day-dependabot-cooldown.html",
+      "description": "GitHub has announced a new cooldown mechanism in Dependabot, allowing the tool to wait at least three days after a release is published before opening a pull request. \"The cooldown configuration option in the dependabot.yml still controls the behavior, though, so you can choose a different cooldown parameter that fits your project,\" the Microsoft-owned subsidiary said. According to GitHub, the",
+      "pubDate": "2026-07-27T08:01:23.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFpE4BZgV3wILI8fonm9742zR85yLmBdM2ExXv-uTUS1StV04ZlNVVIwV6FjjhYLZUAFk-DAIInwp3mlXa2W2xekDA_EqSl1UiHrKCgocsjhVAKlvCD48QnlVdUdCIQia7T4ilS65ZFptdi_wox0Q9brVTdpoqDNTvpCjg0D6BslyCAPRzY7QMyUoYNkv-/s1600/gitbot.jpg"
+    },
+    {
+      "title": "MCBS Data Breach Affects 1.2 Million Individuals",
+      "link": "https://www.securityweek.com/mcbs-data-breach-affects-1-2-million-individuals/",
+      "description": "The PEAR ransomware group claimed to have stolen 3 TB of information from the medical business management company. The post MCBS Data Breach Affects 1.2 Million Individuals appeared first on SecurityWeek.",
+      "pubDate": "2026-07-27T04:51:32.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg"
+    },
     {
       "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
       "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
@@ -523,15 +550,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjpS2QJv9o35m4hpF1MjxwE07jbvy9d4kK2fiSsQKFYaYtlUFReQ0j1YQ7fdaOPUN9s3J5oBpHG9vPIbTu_HwdjSDoz8UdhlJOp6ys6uBJlQxTL5BQlxtcOU2aRS1aaPeVwqvfCqGFzXEmQm0is0azXtyPQ8cNN61LbHtCllseMZQoYlwyrL4FV6BrkgqE/s1600/chrome-headless.jpg"
     },
     {
-      "title": "Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models",
-      "link": "https://www.securityweek.com/nuclear-sabotage-malware-benchmark-trips-up-most-frontier-ai-models/",
-      "description": "SentinelOne’s new benchmark, built on the Fast16 case, shows which AI models can sustain a malware investigation and which cannot. The post Nuclear-Sabotage Malware Benchmark Trips Up Most Frontier AI Models appeared first on SecurityWeek.",
-      "pubDate": "2026-07-23T12:42:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg"
-    },
-    {
       "title": "China-Nexus JadeProx Uses New TriBack Loader in Government and Healthcare Attacks",
       "link": "https://thehackernews.com/2026/07/china-nexus-jadeprox-uses-new-triback.html",
       "description": "An exposed Alibaba Cloud server has revealed a China-nexus operation that Group-IB tracks as JadeProx. The cluster has targeted government, healthcare, and education organizations across Asia and Latin America with a previously undocumented Windows loader called TriBack Loader. Group-IB found the server in mid-April 2026 in Alibaba Cloud's Singapore region; it was offline by the time the report",
@@ -575,24 +593,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Google Adds Selfie Video Recovery for Users Locked Out of Their Accounts",
-      "link": "https://thehackernews.com/2026/07/google-adds-selfie-video-recovery-for.html",
-      "description": "Google on Thursday announced a new way for users to sign-in to their accounts by letting them take a selfie video. The selfie for sign-in, per the tech giant, is another option on top of existing recovery methods to log in to an account, including an email address or a phone number. The idea is to use a video selfie as a way to regain access if a user ever gets locked out or doesn't have access",
-      "pubDate": "2026-07-23T10:00:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi33P1I6A4GNsGTrz72n-ZgaqJE-ksI5ub_5wWCmRVQhG7fikbuDtdu7inYjTOFVi9v1SukZnH_fWo2LiI-v6zkm2WwWrbaKGsKBK4Z6yHJvXkBX-m5HxX0VzG9Tv_Nz-17rbcUoql67ciu4oMYS2pNs946kSd95SaWvSM096CEeMaBLbSpXpA2KnZprzb-/s1600/google-account-recovery.jpg"
-    },
-    {
-      "title": "Nine-Year-Old RefluXFS Linux Flaw Gives Local Users Root on Default RHEL Installs",
-      "link": "https://thehackernews.com/2026/07/nine-year-old-refluxfs-linux-flaw-gives.html",
-      "description": "RefluXFS, a Linux kernel flaw disclosed on July 22 and tracked as CVE-2026-64600, lets an unprivileged local user overwrite root-owned files on an XFS filesystem and gain persistent root access. Qualys said default installations of Red Hat Enterprise Linux and its derivatives, Fedora Server, and Amazon Linux can meet the conditions for exploitation. The company demonstrated the race against",
-      "pubDate": "2026-07-23T08:04:35.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_70wKHw_bPdJz-ZYXpwrH7FBXem8uWKNtuBUyXDLbMld4PaBtBkw7Gpt9lRrVnki_eC21aw6sUezqM3-oFiTEviDqZECD20lmV3enwh0lDkRLAx38JlJYMoLzRpn-Ai4q1UbiIo8DTVjp4_blU5CM6AnW97jYgIblggBYgNIHdTE6t2Ec7by-N0Ly8YY/s1600/linux-root.jpg"
     },
     {
       "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
