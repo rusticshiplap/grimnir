@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T04:14:29.078Z",
+  "generatedAt": "2026-07-28T07:15:12.651Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
+      "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
+      "description": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
+      "pubDate": "2026-07-28T06:40:36.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/Zero-Day-Exploit.jpg"
+    },
+    {
+      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Hit 95.95% at Half the Cost",
+      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
+      "description": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current best MDASH combination of GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex. Access is limited to approved",
+      "pubDate": "2026-07-28T06:07:22.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
+    },
+    {
+      "title": "Origin Energy Data Breach Affects 900,000 Australians",
+      "link": "https://www.securityweek.com/origin-energy-data-breach-affects-900000-australians/",
+      "description": "The hacker claimed to have stolen the information of 2 million Origin Energy customers after breaching its systems. The post Origin Energy Data Breach Affects 900,000 Australians appeared first on SecurityWeek.",
+      "pubDate": "2026-07-28T05:01:05.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/Origin-Energy.jpeg"
+    },
+    {
+      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
+      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
+      "description": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
+      "pubDate": "2026-07-28T04:43:53.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
+    },
     {
       "title": "For Some, So-Called ‘Skynet Day’ Came too Close to Sci-Fi After a Rogue Agent Hacked Into a Startup",
       "link": "https://www.securityweek.com/for-some-so-called-skynet-day-came-too-close-to-sci-fi-after-a-rogue-agent-hacked-into-a-startup/",
@@ -287,24 +323,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBorVFXLroQ9D9Ao8QPsDAQpmoMeD2ciyHIBw3YYRHLBLAeDIjFZ6V9lzrrtmNq3KrIRqHhJUfKAx2sXIsMYCjyFzRV9awIVSLOuujkMY8hOeUkaNlFgM421aS8pVQaiLmjwKcNNLy5TcU389YEAPfCnB8uVeFtUY9BCJ0lz4IjQoD2UZp9pVDP7IzLurf/s1600/malware-hacker.jpg"
-    },
-    {
-      "title": "Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials",
-      "link": "https://www.securityweek.com/hacked-public-wi-fi-gateways-used-to-harvest-corporate-credentials/",
-      "description": "A threat actor has been using the compromised appliances to target the Microsoft 365 accounts of traveling corporate employees. The post Hacked Public Wi-Fi Gateways Used to Harvest Corporate Credentials appeared first on SecurityWeek.",
-      "pubDate": "2026-07-27T10:50:19.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/Wi-Fi.jpeg"
-    },
-    {
-      "title": "Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits",
-      "link": "https://www.securityweek.com/anthropics-opus-5-nears-mythos-5-on-finding-bugs-but-falls-short-on-exploits/",
-      "description": "Binary-based vulnerability scanning, penetration testing, and exploit generation are blocked in Opus 5. The post Anthropic’s Opus 5 Nears Mythos 5 on Finding Bugs, but Falls Short on Exploits appeared first on SecurityWeek.",
-      "pubDate": "2026-07-27T10:02:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/Anthropic-AI_Military.jpg"
     },
     {
       "title": "TELESHIM Abuses Telegram for C2 in Attacks Against Middle East Governments",
@@ -602,24 +620,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Kimi K3 Agents Found Redis Zero-Days and Built RCE Exploit, Researchers Say",
-      "link": "https://thehackernews.com/2026/07/kimi-k3-agents-found-redis-zero-days.html",
-      "description": "Redis shipped seven security releases on July 23 after researchers published authenticated RCE PoCs for stock Redis 6.2.22, 7.4.9, 8.6.4, and 8.8.0. All four chains require RESTORE. The Streams chains also need EVAL and XGROUP; the 8.8.0 chain needs EVAL and the bundled RedisBloom module. Redis says the underlying memory flaws may lead to remote code execution. Redis 6.2.23, 7.2.15, and 7.4.10",
-      "pubDate": "2026-07-24T06:58:27.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0TE9DH98zjhcQPB99o9CcCvYH1otVTUwpXl_9Af1Nbl89gqHBAqP2jtb-BFrmXdR-4OYmPOGJJoilFiac2ooKHM5Lbe_kD5kLpW1eRcdpOWsG53701lGhFi93e0UpvGrptdb2usksom4mF56GWE1of2M7KsmAZav9cENd90xYAVz7Dq3yPIBJEODDDaQ/s1600/redis-0day.jpg"
-    },
-    {
-      "title": "Fake Notepad++ Plugin Delivers MATCHBOIL.V2 in UAC-0099 Attacks",
-      "link": "https://thehackernews.com/2026/07/fake-notepad-plugin-delivers.html",
-      "description": "The Computer Emergency Response Team of Ukraine (CERT-UA) has warned of a new campaign that involves the use of a malicious program that's dressed up as a Notepad++ plugin to compromise Windows systems. The activity has been attributed by the agency to a threat cluster it tracks as UAC-0099, a Russia-aligned group that has previously observed weaponizing security flaws in WinRAR software to",
-      "pubDate": "2026-07-24T06:50:57.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCA0-yh9EAnhFa2V3NzQVw2m-sLgbCNVQ8GVMBX4Y6vUNwPXE-vHzdJLFKXVi3rdGXhx5RawHTwox7cd9ph20u5qn_H8TJUOKG8nITccTkzqfiyBKStdCgcrJOgAeGf9Mkzr1g8iCB0HrpuonkIQQTx15L2P53RPX9GeMYVIuvl51jJ2hn1jn0PcQARQaj/s1600/notepad-malware-code.jpg"
     },
     {
       "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
