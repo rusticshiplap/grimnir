@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T18:16:44.987Z",
+  "generatedAt": "2026-07-28T21:39:20.061Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,69 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
+      "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "description": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
+      "pubDate": "2026-07-28T21:17:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/28/cubepilot.jpg"
+    },
+    {
+      "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+      "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
+      "description": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "pubDate": "2026-07-28T21:07:55.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "OpenAI models used Artifactory zero-days to escape to the internet",
+      "link": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "description": "JFrog has confirmed that OpenAI models exploited zero-day vulnerabilities in self-hosted Artifactory servers to help escape an isolated testing environment and gain access to the internet before attacking Hugging Face. [...]",
+      "pubDate": "2026-07-28T20:37:06.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/03/18/AI_Artificial_Intelligence.jpg"
+    },
+    {
+      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
+      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
+      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
+      "pubDate": "2026-07-28T20:27:36.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94af172165d49722/6a690498bd5a135ff4077c33/Sandbox-Ukususha-Getty-530496540.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Stronger AI Safety Requires Peeking Inside the 'Black Box'",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/stronger-ai-safety-requires-peeking-inside-black-box",
+      "description": "Researchers propose focusing on identification of certain cognitive elements in LLMs that indicate when AI systems may take an unwanted action.",
+      "pubDate": "2026-07-28T20:05:32.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9ed770837a0439d0/6a68ccdcd103440a6aebc9bb/brain-activation-map-illiustration-Adrian46-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Claude AI Just Cracked a Post-Quantum Test Scheme and Found a Faster 7-Round AES Attack",
+      "link": "https://thehackernews.com/2026/07/claude-ai-just-cracked-post-quantum.html",
+      "description": "Anthropic says Claude Mythos Preview helped derive an end-to-end key-recovery attack against HAWK-256 and a 200- to 800-fold speedup for an attack on seven-round AES-128. The HAWK attack exploits a previously unused symmetry in the lattice behind the signature scheme. Anthropic's released implementation gives an expected end-to-end runtime of about three hours and 42 minutes on a 96-core server",
+      "pubDate": "2026-07-28T18:59:07.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPhJ6dzEL23Ak57nA_XsbXtGaxl5wNrcGBPMQBVz1jddDuX_oTndpQjl3omqMxhRnQ1P4cSF7Ut18tccLFT2BxngpYTqTP8Kg6f4clFWRQ2GvxetR-uAGjMS2SsZwsiPcq5vyxCmP_AN3rCPvO5WMQeLNEit0q14i0iY9wuIUDAHMXkyvO3KjIC6c6Ozg/s1600/Claude.jpg"
+    },
+    {
+      "title": "CISA shares advice on isolating vital systems during cyberattacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-shares-advice-on-isolating-vital-systems-during-cyberattacks/",
+      "description": "The U.S. and Australian governments have released new guidance urging critical infrastructure organizations to prepare to isolate vital operational technology systems in the event of a cyberattack or other major disruptions. [...]",
+      "pubDate": "2026-07-28T18:41:04.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/05/Airgapped.jpg"
+    },
     {
       "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
       "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
@@ -280,7 +343,7 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/27/arista-logo-globe.jpg"
     },
     {
-      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "title": "Agentic Browsers Rewind Web Security by 20 Years",
       "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
       "description": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
       "pubDate": "2026-07-27T21:39:09.000Z",
@@ -505,15 +568,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "GitHub, PyPI add time-based defenses against supply chain attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/github-pypi-add-time-absed-defenses-against-supply-chain-attacks/",
-      "description": "GitHub and PyPI (Python Package Index) have introduced a time-based mechanism in the Dependabot dependency management tool to protect against supply-chain attacks and to limit their impact. [...]",
-      "pubDate": "2026-07-26T14:13:39.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/21/GitHub_headpic.jpg"
-    },
-    {
       "title": "Weekly Update 514: This Week in Data Breaches",
       "link": "https://www.troyhunt.com/weekly-update-514/",
       "description": "The Origin Energy breach down here in Aus is all over the news this week, and as with many breaches, it's multi-faceted. You've got them leading with \"don't worry, your credit card is fine\", the hacker leading with \"they didn&",
@@ -523,15 +577,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template-2.jpg"
     },
     {
-      "title": "Steam forum ClickFix attacks infect gamers with XMRig cryptominers",
-      "link": "https://www.bleepingcomputer.com/news/security/steam-forum-clickfix-attacks-infect-gamers-with-xmrig-cryptominers/",
-      "description": "Steam discussion forums are being abused in ClickFix attacks that pretend to be fixes for game and computer problems but actually infect devices with cryptominers. [...]",
-      "pubDate": "2026-07-25T22:37:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/09/12/steam-header-new.jpg"
-    },
-    {
       "title": "Malvertising Sends Malware in Pieces, Then Makes the Browser Build the Executable",
       "link": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
       "description": "A malvertising operation dubbed SourTrade is making victims' browsers build the final Windows executable themselves, using a legitimate Bun runtime as its base instead of serving one complete malicious file from a fixed URL. Confiant, which detailed the campaign on July 23, 2026, said it has operated since late 2024 and impersonated TradingView, Solana, and Luno to target retail traders and",
@@ -539,15 +584,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7ke_659Oiks4UyEwQJsTV2c-8DaJnDPNG3RKPsk3s_CLYO5y_vD-SdtGebpYlDbDkXFt2iW4qgZHhM4Tfp2FV5RJSc3f85Ap4KQP-RI1BM8MCPbYhgSD5uusxi09thhL4avaYfCPkj5H_9t0-unj84RktTVGUwV9FF0bdZjuRQley0rZrFDLLE4JXIJk/s1600/browser-malware.jpg"
-    },
-    {
-      "title": "Malicious sites use JavaScript to build malware in browser memory",
-      "link": "https://www.bleepingcomputer.com/news/security/malicious-sites-use-javascript-to-build-malware-in-browser-memory/",
-      "description": "A massive malvertising campaign is using fake Solana, Luno, and TradingView webpages with malicious JavaScript that instructs browsers to assemble malware directly in memory. [...]",
-      "pubDate": "2026-07-25T15:21:09.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/18/hand.jpg"
     },
     {
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
@@ -620,15 +656,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3f49df1dd4f34a3/6a63a44a4fedb59e30067233/road-block-detour-signs-JJ_Gouin-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
-      "link": "https://thehackernews.com/2026/07/bluenoroff-zoom-phishing-kit-profiles.html",
-      "description": "The North Korean threat actors behind the ClickFix-style campaigns that employ typosquatted Zoom and Microsoft Teams domains have been found to operate an active phishing kit to impersonate the videoconferencing platforms in social engineering campaigns designed to deliver malware. \"BlueNoroff has operationalised trust abuse by combining compromised industry contacts, social engineering, wallet",
-      "pubDate": "2026-07-24T15:12:35.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
     },
     {
       "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
@@ -827,33 +854,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Ransomware Is Accelerating, but It's Not Because of AI",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
-      "description": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
-      "pubDate": "2026-07-21T21:48:05.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d46e0386d2cd24e/6a5fd644651b13c322b2426e/ransomware_fadfebrian_shutterstok.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Using LLMs to Find &amp; Prioritize Vulnerabilities Is No Easy Task",
-      "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
-      "description": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
-      "pubDate": "2026-07-21T21:27:37.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
-      "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
-      "description": "A Russian-speaking actor, \"Trim,\" dismantled publicly available frontier models and integrated them with offensive security tools.",
-      "pubDate": "2026-07-21T18:38:52.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
