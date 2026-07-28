@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-28T15:00:17.244Z",
-  "count": 180,
+  "generatedAt": "2026-07-28T18:16:44.987Z",
+  "count": 205,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -19,13 +19,49 @@
   ],
   "items": [
     {
+      "title": "vBulletin fixes critical pre-auth RCE flaw with public exploit",
+      "link": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "description": "A critical vulnerability in the vBulletin forum software allows unauthenticated attackers to execute arbitrary PHP code through template rendering. [...]",
+      "pubDate": "2026-07-28T18:08:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/28/vbulletin.jpg"
+    },
+    {
+      "title": "'Certighost' Flaw Haunts Microsoft Active Directory Certificates",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/certighost-flaw-microsoft-active-directory-certificates",
+      "description": "Microsoft patched a high-severity vulnerability earlier this month that allows a threat actor to escalate privileges and compromise an AD environment.",
+      "pubDate": "2026-07-28T16:38:48.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt35fd3da4c4c2a452/6a68a091fd13417d8c592367/ghost-Connect_Images-Alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Tengu Botnet Reboots Compromised Linux Devices When Defenders Kill Its Process",
+      "link": "https://thehackernews.com/2026/07/tengu-botnet-reboots-compromised-linux.html",
+      "description": "A new Mirai-derived botnet called Tengu can use a compromised Linux device's hardware watchdog to trigger a reboot when defenders kill its main process. If that happens, Tengu's other persistence mechanisms get another chance to relaunch it. Nozomi Networks Labs observed the dropper reaching its honeypots through Telnet credential brute force. Tengu supports 25 distributed denial-of-service (",
+      "pubDate": "2026-07-28T15:01:33.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0zv7PihU6xAba7-fb5OY-Xv5YIEPM1HhmCu2ET65l5TSKYrPh6q4pYVQRNJtHb9RkvO1oNsBBrsxs50Hm_GRnPKCu4XoG1hhtPOoeGILfRHN99ICGSO72NOGQ6AdUc_haCrQvHRUn4YiyFmCy99WgH1v4-4GRLirZzsV1b5MmCjfTX3a2yWmg1tWOr38/s1600/tengu-botnet.jpg"
+    },
+    {
       "title": "Cyera Acquiring Oasis Security in $1 Billion Deal",
       "link": "https://www.securityweek.com/cyera-acquiring-oasis-security-in-1-billion-deal/",
       "description": "Oasis Security recently raised $120 million in Series B funding for its agentic access management platform. The post Cyera Acquiring Oasis Security in $1 Billion Deal appeared first on SecurityWeek.",
       "pubDate": "2026-07-28T14:55:30.000Z",
       "source": "SecurityWeek",
       "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
+    },
+    {
+      "title": "24,650 Internet-Exposed BMCs Disclose IPMI Password Hashes Before Login",
+      "link": "https://thehackernews.com/2026/07/24650-internet-exposed-bmcs-disclose.html",
+      "description": "Cybersecurity researchers have sounded an alert after finding more than 36,000 Baseboard Management Controller (BMC) management interfaces exposing Intelligent Platform Management Interface (IPMI) protocol to the public internet. Of the 36,872 internet-exposed server-management interfaces running IPMI, 24,650 have been found to disclose password-derived authentication hashes before login due to",
+      "pubDate": "2026-07-28T14:41:36.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIZDJmL5vHIaEgakZEwVC-O1KGBidMz7xrUS6MQmj0Nfqx4_WzGlwmz4amGxIwYa2PEJTKr5UsFwkh8lEOoFkjAVwTm38bgmbc_gDW2-__9MBpP5Z6cWQrIjFTe3tKTMEhD2lX3XyTrIe0T4mQDruecN3nCWqHUpkU5NpW5OIzZFy5la9RQnMCsmGkt-n8/s1600/bmcs.jpg"
     },
     {
       "title": "Apple Patches 87 Vulnerabilities in iOS, 155 in macOS Tahoe",
@@ -71,6 +107,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDmz4Rv-IWcHYP4Y_-WINLECGsPviBOTJXEPhvz2mO671_s8c1Rao7iErkNghWYtomczRf82scnXyzrBTAIc4urvwSlv3j4AK1XaEw75WVsIfXLfNDQd1JGUoVRWW50H48KA3VxzAbL1KTuf3sKCgzmSE3toXbqcIA-N5vwN4A_wcmRdwDLBSJbBpmmME/s1600/OpenWrt.jpg"
+    },
+    {
+      "title": "Former Citigroup CISO Blauner on What Makes A Great Security Leader",
+      "link": "https://www.darkreading.com/cybersecurity-operations/former-citigroup-ciso-blauner-great-security-leader",
+      "description": "The cybersecurity pioneer discusses the evolution of the CISO role, AI's impact on careers, and why operational resilience is the profession's next frontier.",
+      "pubDate": "2026-07-28T12:30:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt68d8e956799bc6e1/6a67b826d69290b8a1aaac6c/leader1800_studio-fi_GettyImages-1299087003_2.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Over 24,000 exposed server BMCs leak password hash via decades-old flaw",
@@ -208,6 +253,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
     },
     {
+      "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
+      "description": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
+      "pubDate": "2026-07-28T01:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b19e9ee4e36d14d/6a67b3e6b75c8234608ace20/Thai_Baht-PATCHARIN_SAENLAKON-Getty-2262450613.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Hackers target US firms in FastJson RCE zero-day attacks",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-target-us-firms-in-fastjson-rce-zero-day-attacks/",
       "description": "Hackers are actively exploiting a vulnerability in the FastJson open-source Java library, allowing remote code execution without user interaction or elevated privileges. [...]",
@@ -224,6 +278,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/27/arista-logo-globe.jpg"
+    },
+    {
+      "title": "Agentic Browsers Rewind Web Security by 20 years",
+      "link": "https://www.darkreading.com/endpoint-security/agentic-browsers-rewind-web-security-20-years",
+      "description": "PleaseFix class of flaws makes it easy to socially engineer agentic browsers and highlights weaknesses in how they handle cross-origin requests.",
+      "pubDate": "2026-07-27T21:39:09.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf459c9ff5d345e58/686d20d8a502a804ecf992c7/browser-security-Robert_Avgustin-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "New Dysphoria DDoS botnet spreads to 200k devices worldwide",
@@ -244,6 +307,33 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/10/20/Windows-headpic.jpg"
     },
     {
+      "title": "'Confused Deputy' Flaws Persist in Google Cloud, Microsoft Azure",
+      "link": "https://www.darkreading.com/cloud-security/confused-deputy-flaws-google-cloud-microsoft-azure",
+      "description": "This category of vulnerabilities allows an attacker to easily acquire administrative level permissions and bypass cloud providers' access controls.",
+      "pubDate": "2026-07-27T20:57:26.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt858353272bfe1d66/6a67aa58d69290224aaaac5a/confusedeputy-sjharmon-Getty-174844180.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
+      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
+      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
+      "pubDate": "2026-07-27T20:33:29.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1369910f8c4361ac/6a67667e18998400d30c8d1e/FBIhoody_jvphoto_Alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Why Resetting Passwords No Longer Stops Attackers",
+      "link": "https://www.darkreading.com/endpoint-security/why-resetting-passwords-no-longer-stop-attacks",
+      "description": "As attackers shift from password theft to session and token theft to bypass multifactor authentication controls, organizations must move beyond login security and protect authenticated sessions.",
+      "pubDate": "2026-07-27T18:39:50.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteef9f34649cb1353/6a5a7778892e6dc3e6015302/authenticate_janews_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
       "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
       "description": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
@@ -251,6 +341,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg"
+    },
+    {
+      "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
+      "link": "https://www.darkreading.com/threat-intelligence/adversaries-do-not-need-zero-day-they-read-your-rulebook",
+      "description": "Confidence in autonomous security tools is declining, and here's why.",
+      "pubDate": "2026-07-27T17:31:18.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt45b631ddb7cee0fa/6a67994ec60e8f44ee7ac204/rulebook-filo-Getty-2256745097.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Apple sued over fake App Store crypto wallet app stealing $1.8M in Bitcoin",
@@ -451,15 +550,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/06/18/hand.jpg"
     },
     {
-      "title": "ShinyHunters data leaks fuel $2,000 sextortion email scam",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-data-leaks-fuel-2-000-sextortion-email-scam/",
-      "description": "Threat actors are using email addresses exposed in data breaches leaked by the ShinyHunters extortion group to send sextortion emails demanding $2,000 in Bitcoin. [...]",
-      "pubDate": "2026-07-25T14:16:26.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/10/04/hacker-arms-raised-brighter.jpg"
-    },
-    {
       "title": "Fastjson 1.x RCE Vulnerability Targeted in Attacks With No Patched Available",
       "link": "https://thehackernews.com/2026/07/fastjson-1x-rce-vulnerability-targeted.html",
       "description": "Security firms ThreatBook and Imperva say attackers are targeting a critical flaw in Fastjson, Alibaba's JSON library for Java. In affected Spring Boot applications, a malicious JSON request can execute code without authentication, with the privileges of the Java process. Tracked as CVE-2026-16723, the vulnerability carries an Alibaba-assigned CVSS score of 9.0. The confirmed chain requires",
@@ -505,6 +595,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
     },
     {
+      "title": "CISOs vs. Boards: Myth or Misunderstanding?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisos-vs-boards-myth-or-misunderstanding-",
+      "description": "Escalating threats are forcing boards to prioritize security, but communication gaps persist. Boards and security teams each say they need more support to bridge the divide.",
+      "pubDate": "2026-07-24T21:31:53.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt76251fb10015002b/6a63dcc43ab01b6c623bebbf/GettyImages-2219941632.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
       "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
       "description": "Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
@@ -512,6 +611,15 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
+    },
+    {
+      "title": "Escape Artists: 'Incorrigible' AI Models Resist Rehabilitation",
+      "link": "https://www.darkreading.com/cybersecurity-operations/incorrigible-ai-models-resist-rehabilitation",
+      "description": "The hacking of Hugging Face by a rogue OpenAI agent is significant, but unsurprising — and preventing the next AI model escape will be difficult, at best.",
+      "pubDate": "2026-07-24T19:45:02.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta3f49df1dd4f34a3/6a63a44a4fedb59e30067233/road-block-detour-signs-JJ_Gouin-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "BlueNoroff Zoom Phishing Kit Profiles Crypto Wallets Before Malware Delivery",
@@ -523,22 +631,22 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs7TSABeFdGk4U17Tg0v-H9ZK2WmPIZ9AtmxJGCtw24Naxa7eEdlvW-eR8yl9NNCAzrMkOCKqSjsdJmAMhuXOq9rHSCE3tNWvTGBe209fpCqn7wVRpUgQ4FgskJgUIWBRz95f25kb8FwrADVj5Cqo5HALXnothJa4kWk9WCU3MG1wkpW_D17sP8o84utoA/s1600/zoom-exploit.jpg"
     },
     {
-      "title": "Certighost Exploit Lets Low-Privileged Active Directory Users Impersonate a Domain Controller",
-      "link": "https://thehackernews.com/2026/07/certighost-exploit-lets-low-privileged.html",
-      "description": "Researchers H0j3n and Aniq Fakhrul published a working exploit on July 24 that lets a low-privileged Active Directory user obtain a certificate for a Domain Controller and authenticate as that machine. They codenamed the flaw Certighost. Because Domain Controller accounts carry directory replication rights, the resulting Kerberos credential can retrieve the krbtgt secret through DCSync.",
-      "pubDate": "2026-07-24T14:15:21.000Z",
-      "source": "The Hacker News",
+      "title": "Vatican's Official Prayer App Leaks 700K+ Global Users' PII",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/vatican-official-prayer-app-leaks-700k-pii",
+      "description": "A porous API endpoint exposes, names, email addresses, country, and site status, all of which can be easily gleaned by anyone with a browser.",
+      "pubDate": "2026-07-24T13:00:00.000Z",
+      "source": "Dark Reading",
       "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjdJCaF3dwhncVhtS_dn9W8CUCwJSHRmtCVTK5_fXnS6RpDI4GaVTcSVoXvmo_JgxUyd-H5G3yQaRAg3Ahp__DMlq-M5r9ejhJTdk5QlVuv16HVXDWV7e3HJAijAVBRumD3XSyeyQ1O477nfXFfTvCwgFeXlYF8QIdfTN4mlYAu28JGFN7lOWTEoKwlG9g/s1600/certighost.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf219cccb8d006239/6a62178fd61e3e49c64c9e23/Catholic-gelmold-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "ChatGPT AgentForger Flaw Could Deploy Rogue Workspace Agents via a Phishing Link",
-      "link": "https://thehackernews.com/2026/07/chatgpt-agentforger-flaw-could-deploy.html",
-      "description": "Cybersecurity researchers have disclosed a critical vulnerability in OpenAI's ChatGPT Workspace Agents that could have allowed a single phishing link to stealthily build, authorize, and deploy an autonomous artificial intelligence (AI) agent inside a victim's organization. The vulnerability has been codenamed AgentForger by Zenity Labs. The issue has since been addressed by OpenAI as of June 8,",
-      "pubDate": "2026-07-24T11:53:55.000Z",
-      "source": "The Hacker News",
+      "title": "Default Azure Automation Setting Enables Cross-Tenant Identity Takeover",
+      "link": "https://www.darkreading.com/cloud-security/default-azure-automation-setting-cross-tenant-identity-takeover",
+      "description": "Microsoft addresses a public-by-default configuration and chain of code flaws in Azure Automation that could have let attackers seize another tenant's identity and access others' data, credentials, and cloud workloads.",
+      "pubDate": "2026-07-24T12:48:16.000Z",
+      "source": "Dark Reading",
       "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWjz4Sgp8xNXyO8juw5bycoRamRay35GLzSBPG3I3UWyuUovp8-qM8hMgxWiqIwW45q1cb17EkWhEYmP8ODPyhUTk1j7P2T92fjAW_R1WKleVJsywM7kzongXurU8N9olKf1F1jxpDnBKvY0s2F_wsgoGWYgRFrzN5zAoQZciTWQjLQw5NJRL66s3S1RaT/s1600/chatgpt.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltee2b6459a49ecef3/64f171e51bf536263bbf9b29/Azure_SOPA_Images_Limited_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Why AI Needs a “Genie Coefficient”",
@@ -548,6 +656,24 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
+    },
+    {
+      "title": "Europe's Multilingual Reality Exposes AI Security Gaps",
+      "link": "https://www.darkreading.com/cybersecurity-operations/europes-multilingual-reality-exposes-ai-security-gaps",
+      "description": "The AI security layer and guardrails for many AI products don't evenly protect against jailbreaking and unsafe actions in every single language.",
+      "pubDate": "2026-07-24T07:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb77a25dd6a60456c/6a62620cce520cc44cb61c92/Hello_in_three_languages-aluxum-Getty-183040723.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Russian Hackers Exploit Zimbra Zero-Day Against US, Ukraine Targets",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-hackers-zimbra-zero-day-us-ukraine-targets",
+      "description": "A state-sponsored threat group, dubbed \"Laundry Bear,\" sends \"half-click\" phishing emails that require a victim only to open or preview the message.",
+      "pubDate": "2026-07-23T21:23:18.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta778b4705951b9ec/6a6271d8e9fe84f275c977a7/russianhackers_Anton_Petrus-Getty-2027926930.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Email threat landscape: Q2 2026 trends and insights",
@@ -577,6 +703,15 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg"
     },
     {
+      "title": "Agentic AI Challenges Progress in Confidential Computing",
+      "link": "https://www.darkreading.com/endpoint-security/agentic-ai-challenges-progress-in-confidential-computing",
+      "description": "Core issues that slowed down adoption of secure data vaults are being resolved by technology, but artificial intelligence poses new ones. Experts have some answers.",
+      "pubDate": "2026-07-23T11:17:51.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9e62e39ece6ef685/656a984ef3b292040a878813/confidentialai-everything_possible-alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "End-to-End Encryption and “Going Dark”",
       "link": "https://www.schneier.com/blog/archives/2026/07/end-to-end-encryption-and-going-dark.html",
       "description": "New paper: “Encryption and Globalization 15 Years Later: End-to-End Encryption and the Third Round of the ‘Going Dark’ Debate“: Abstract: This Article updates and expands on 2012 research on encryption and globalization, analyzing what the authors call “Round 3” of the Going Dark Debate: the current controversies over end-to-end encryption (E2EE). Governments around the world have proposed, and in some cases enacted, laws limiting E2EE for law enforcement and national security purposes. This Article explains the underlying technologies and market developments for a law and policy audience to a",
@@ -584,6 +719,24 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
+    },
+    {
+      "title": "Brazilian Banking Trojan Actively Spreading in Portugal",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/brazilian-banking-trojan-spreading-portugal",
+      "description": "Portuguese businesses operate in the same native language as Brazilian hackers, making those businesses easy targets.",
+      "pubDate": "2026-07-23T07:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbac701ac3f586ad3/6a60fa60dc7d61d2e0f67dab/Lampion_Lisbon-Olena_Malik-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Ransomware Attack Puts a Chill on Japanese Frozen-Food Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-attack-japanese-frozen-food-chain",
+      "description": "A cyberattack on a food and logistics firm disrupts the supply of frozen food to thousands of clients, including major franchises like Kentucky Fried Chicken.",
+      "pubDate": "2026-07-23T01:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt67b28f8453d1c038/6a6128d36477bd5dab474c38/frozen-food-in-kanazawa-nihon-Pack-Shot-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "When the attacker is an AI agent",
@@ -595,6 +748,15 @@
       "image": null
     },
     {
+      "title": "Flaws in Passkey Implementation Show Old Attacks Still Work",
+      "link": "https://www.darkreading.com/identity-access-management-security/flaws-passkeys-implementation-old-attacks-work",
+      "description": "Ahead of Black Hat USA, researchers find exploitable flaws in how Microsoft handles passkeys that could allow attackers to impersonate privileged users.",
+      "pubDate": "2026-07-22T23:50:01.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9550e8ba7752b437/6a5a40aa4a830941d7bdad92/GettyImages-147261287.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Smashing Security podcast #477: How 14 orders of chicken McNuggets helped nail a suspected Russian hacker",
       "link": "https://grahamcluley.com/smashing-security-podcast-477/",
       "description": "A Russian intelligence-linked hacker is arrested in Thailand while enjoying a beach holiday - and the trail of evidence that nailed him to the Russian government includes 14 separate orders of chicken McNuggets. Meanwhile, AI music generator Suno has been hacked - and the stolen data appears to show exactly how much copyrighted music they hoovered up to train their models. All this and more in episode 477 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest James Ball.",
@@ -604,6 +766,24 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-477.webp"
     },
     {
+      "title": "Attackers Are Learning to Live Off the AI Toolchain",
+      "link": "https://www.darkreading.com/cyber-risk/attackers-live-off-ai-toolchain",
+      "description": "Sandworm_Mode is an early example of malware that exploits trusted AI tools and workflows to make malicious activity virtually indistinguishable from normal activity.",
+      "pubDate": "2026-07-22T21:29:01.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3487664d9c613ba9/6a61308f2c3e688b979308a0/ai_TSViPhoto_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Fake Bahrain Alert App Deploys Android Surveillance Malware",
+      "link": "https://www.darkreading.com/mobile-security/fake-bahrain-alert-apps-android-surveillance-malware",
+      "description": "A malicious application delivers four-stage Android spyware via phony Google Play sites, exploiting civilian fear during Iranian missile strikes.",
+      "pubDate": "2026-07-22T19:42:42.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbfd2abd92ce58654/6a611f6de7ebfc13d44d6387/Bahrain_Manama_Skyline-trabantos-Getty-1140901617.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
       "description": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions. The post Real world incident response: Microsoft and AXA XL strengthen cyber resilience appeared first on Microsoft Security Blog.",
@@ -611,6 +791,24 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/real-world-incident-response.jpg"
+    },
+    {
+      "title": "When AI Attacks: OpenAI Models Autonomously Hack Hugging Face",
+      "link": "https://www.darkreading.com/cyber-risk/openai-models-autonomously-hack-hugging-face",
+      "description": "Advanced LLMs escaped their sandboxes while attempting to achieve a non-malicious benchmark test objective.",
+      "pubDate": "2026-07-22T15:53:47.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
+      "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
+      "description": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
+      "pubDate": "2026-07-22T11:30:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "First-Person Identity Theft Story",
@@ -629,6 +827,33 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "Ransomware Is Accelerating, but It's Not Because of AI",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransomware-is-accelerating-not-ai",
+      "description": "Researchers pointed to fragmentation of the ransomware ecosystem, the emergence of new attackers, and expansion of attacks on less defended organizations.",
+      "pubDate": "2026-07-21T21:48:05.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7d46e0386d2cd24e/6a5fd644651b13c322b2426e/ransomware_fadfebrian_shutterstok.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Using LLMs to Find &amp; Prioritize Vulnerabilities Is No Easy Task",
+      "link": "https://www.darkreading.com/application-security/finding-and-prioritizing-vulnerabilities-no-easy-task",
+      "description": "The latest large language models have high false-positive rates and fail to take into account the context of scans, leading to more work for AppSec professionals.",
+      "pubDate": "2026-07-21T21:27:37.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt283391312b6c9a38/6a5f7b49060b4ed782c34503/AI-code-illustration-CineVI-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hacker Turns AI Jailbreaks Into Offensive Attack Platform",
+      "link": "https://www.darkreading.com/cyber-risk/hacker-ai-jailbreaks-offensive-attack-platform",
+      "description": "A Russian-speaking actor, \"Trim,\" dismantled publicly available frontier models and integrated them with offensive security tools.",
+      "pubDate": "2026-07-21T18:38:52.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt706caa609307b368/6a5f71562729a47d3c4a2149/AI_(1800)_Techa_Tungateja_Alamy.png?width=720&quality=80&disable=upscale"
     },
     {
       "title": "MIT to Become Hotbed of AI Video Surveillance",
