@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-28T21:39:20.061Z",
+  "generatedAt": "2026-07-29T04:19:44.143Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
+      "link": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
+      "description": "There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “CryptanalysisBench: Can LLMs do Cryptanalysis?” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Abstract: Cryptanalysis—the task of finding attacks against cryptographic schemes—its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reas",
+      "pubDate": "2026-07-29T01:47:05.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
+      "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
+      "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who has released an open source tool to sniff out trust paths.",
+      "pubDate": "2026-07-28T21:33:23.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt30bed8fd33fe3bfb/6888bea8af946d84d071204f/ghost-igor-Stevanovic-alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "CubePilot drone software dev hit by DNS hijacking to intercept traffic",
       "link": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
       "description": "CubePilot, an Australian firm that designs flight controllers for drones (UAVs), announced a severe operational disruption caused by a DNS hijacking attack. [...]",
@@ -28,9 +46,9 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/28/cubepilot.jpg"
     },
     {
-      "title": "Flaw From 2002 Exposes Data Centers to Server Takeover",
+      "title": "Thousands of Data Center Controllers Open to Takeover",
       "link": "https://www.darkreading.com/cyber-risk/flaw-exposes-data-centers-server-takeover",
-      "description": "Lots of Internet-exposed server management controllers are subject to offline password-cracking attacks — and adversaries have taken note.",
+      "description": "A host of Internet-exposed remote hardware management processors are subject to offline password-cracking attacks — and adversaries have taken note.",
       "pubDate": "2026-07-28T21:07:55.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -829,15 +847,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd70f31deaf012f3a/6a60e27e0cab912020e949ed/alienattack-Devrimb-GettyImages-1159847076_(1).jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "EU Financial Institutions Leak Data Through Cookie Trackers",
-      "link": "https://www.darkreading.com/data-privacy/eu-financial-institutions-cookie-trackers",
-      "description": "European and US banks inadvertently transmitted customer data to ad platforms via tracking pixels, raising serious compliance, security, and privacy concerns.",
-      "pubDate": "2026-07-22T11:30:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte466ca4b83c014ee/6a5fc9fb674037145e17672e/Accept_cookies-faithiecannoise-Getty-1014415154.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "First-Person Identity Theft Story",
       "link": "https://www.schneier.com/blog/archives/2026/07/first-person-identity-theft-story.html",
       "description": "Harrowing story of an identity theft victim. Yes, the person made a mistake—they gave the scammer a two-factor authentication code that allowed the scammer to take over their email address. But the real story here is how, for many of us, the security of most of our accounts hangs on the security of our email accounts.",
@@ -944,15 +953,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/BLK-Hat-blog-hero.png"
-    },
-    {
-      "title": "Details of Alan Turing’s Voice Encryption System",
-      "link": "https://www.schneier.com/blog/archives/2026/07/details-of-alan-turings-voice-encryption-system.html",
-      "description": "Really interesting piece of cryptographic history: In November 2023, a large cache of his wartime papers—nicknamed the “Bayley papers”—was auctioned in London for almost half a million U.S. dollars. The previously unknown cache contains many sheets in Turing’s own handwriting, telling of his top-secret “Delilah” engineering project from 1943 to 1945. Delilah was Turing’s portable voice-encryption system, named after the biblical deceiver of men. There is also material written by Bayley, often in the form of notes he took while Turing was speaking. It is thanks to Bayley that the papers survive",
-      "pubDate": "2026-07-17T11:02:21.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Three Steps to the Terminal: A Siemens ROX II Zero-Day Trilogy",
@@ -1528,7 +1528,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
+      "image": null
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
@@ -1537,7 +1537,7 @@
       "pubDate": "2025-11-21T07:51:46.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta8d51b889a777d1c/693a83a647c46947637b227d/WhatsAppAstaroth2511-hero.jpg"
+      "image": null
     },
     {
       "title": "Cybersecurity for Microsoft Environments",
@@ -1546,7 +1546,7 @@
       "pubDate": "2025-11-18T11:31:04.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltc093370e4ed703e5/693946bafbd5155e8bf64a10/blog-sophos-intelix-copilot.png"
+      "image": null
     },
     {
       "title": "Introducing HTTP Anomaly Rank",
@@ -1573,7 +1573,7 @@
       "pubDate": "2025-10-31T07:00:19.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt546eebcb6be5d09d/6939427a09bc383b6ee34a63/GettyImages-504085304.jpg"
+      "image": null
     },
     {
       "title": "What happens when a cybersecurity company gets phished?",
@@ -1582,7 +1582,7 @@
       "pubDate": "2025-09-22T06:00:08.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
+      "image": null
     },
     {
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
