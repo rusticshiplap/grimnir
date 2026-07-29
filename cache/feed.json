@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-29T04:19:44.143Z",
+  "generatedAt": "2026-07-29T08:14:26.233Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
+      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
+      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
+      "pubDate": "2026-07-29T07:53:22.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/water-treatment-utility.jpeg"
+    },
+    {
+      "title": "Flying Eagle Android RAT Traces Found on 170 Servers as Source Code Circulates",
+      "link": "https://thehackernews.com/2026/07/flying-eagle-android-rat-traces-found.html",
+      "description": "Source code for the Flying Eagle Android remote access trojan (RAT) framework is circulating through criminal Telegram channels. Hunt.io and independent researcher NetAskari traced matching control panels and certificates to 170 internet servers. They linked the framework to a fake \"公安一网通办\" Public Security service application targeting Android users in China. The kit supports payment-password",
+      "pubDate": "2026-07-29T07:07:23.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
+    },
+    {
+      "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
+      "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
+      "description": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment, and also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than",
+      "pubDate": "2026-07-29T06:45:02.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhqsDw-FCPzIqH_GCkBZgDD96kt0ZtwQzjSe3SOunA8WWGUTXqCB2FG_28DY0JgdD6zh07gHisKrTi2Wh5VVNAcoUMyJ9tZ_VGzPM73iid2PPg15oqKMbnRhk9CcTJlevxRQJL5Sq2MbJjYCIgQ_zOEsgyu_Jy72ubSLAvy_YK499pDr48Rp9Plh322h8_P/s1600/openai-breach.jpg"
+    },
+    {
+      "title": "ShinyHunters Claims Ernst & Young Hack",
+      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
+      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek.",
+      "pubDate": "2026-07-29T06:23:34.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/EY-Ernst-Young.jpeg"
+    },
+    {
+      "title": "Two Compromised joyfill npm Packages Run RAT When Imported Into Node.js",
+      "link": "https://thehackernews.com/2026/07/two-compromised-joyfill-npm-packages.html",
+      "description": "Beta release versions of two npm packages in the @joyfill namespace have been compromised to deliver a remote access trojan (RAT) associated with the DEV#POPPER malware family. The list of affected packages is as follows - @joyfill/layouts@0.1.2-2773.beta.0 @joyfill/components@4.0.0-rc24-2773-beta.4 The two packages \"contain an import-time JavaScript implant that resolves encrypted code",
+      "pubDate": "2026-07-29T04:20:57.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjbnnos_l5g9tfmBH7efqHHPJs-C6Ti9zjG9iifZXs0QLLoUn7L1BwkunpqbD55rRvqSiJx0R_DTAl12TBnL9MN0DkDtzhwnm8Xgbsbu8LZuKyRDnVtq3cbeMlEmNJEmZgXy3BeOILj2kM24GojxXfDJDr93XsEiORhP9q1sYo814jzq4UsQCS0RRZmhp5k/s1600/npm-hack.jpg"
+    },
     {
       "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
       "link": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
@@ -296,24 +341,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
-    },
-    {
-      "title": "Unpatched Fastjson Vulnerability Exploited in Attacks",
-      "link": "https://www.securityweek.com/unpatched-fastjson-vulnerability-exploited-in-attacks/",
-      "description": "The critical remote code execution bug can be exploited without authentication, under the library’s stock default configurations. The post Unpatched Fastjson Vulnerability Exploited in Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-07-28T07:27:55.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/coding-vulnerability-software-development.jpeg"
-    },
-    {
-      "title": "Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day",
-      "link": "https://www.securityweek.com/critical-arista-velocloud-orchestrator-vulnerability-exploited-as-zero-day/",
-      "description": "Impacting on-premises deployments, the OS command injection allows attackers to access privileged internal functionality. The post Critical Arista VeloCloud Orchestrator Vulnerability Exploited as Zero-Day appeared first on SecurityWeek.",
-      "pubDate": "2026-07-28T06:40:36.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/Zero-Day-Exploit.jpg"
     },
     {
       "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
@@ -620,33 +647,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRIN1sheAdScq7AX9pLc07esRzQ18-0vBJ7hz9DlVhggVAImXrhYM_zxN0N6hJ2inDkBCnzRCXHR3Kv3I0QwyiVWkAMu7p949JSjgK611r48deMbrSN8iDD78aJdfxEeO_Jy6JFwOfPL_8M0RKEBl1RFO7ufvop1XG9-tdms7VRyvONXoteuCYp9Rg-FM/s1600/gitlab.gif"
-    },
-    {
-      "title": "CTM360 Research Reveals How Insurance Phishing Has Evolved Into Real-Time Account Hijacking",
-      "link": "https://thehackernews.com/2026/07/ctm360-research-reveals-how-insurance.html",
-      "description": "For years, phishing campaigns targeting financial institutions followed the same playbook. Victims were tricked into entering usernames and passwords, attackers collected the credentials, and accounts were compromised later when an opportunity arose. That model is changing. Recent investigations into insurance-focused phishing operations reveal a more immediate approach. Instead of harvesting",
-      "pubDate": "2026-07-25T10:14:21.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiH4zKTZ_Lk6D_VXZEKWwF1k02-iDwrNY9MH7zrX_sotEB_f9m7-qvQkAbfTvW5YQyBVlVdSS3D4_0ky60KOzTABlPuPKEpDXwpnWO3eTtud33d8oxf54HilW5EgDJPwo0ea4rktguzjfMBnRy0yLGch1l2vLdY4GnG12imJqBIdZzhYRb04XcVP67KaxPM/s1600/insuretrap.jpg"
-    },
-    {
-      "title": "Cl0p Affiliates Target Internet-Exposed PTC Windchill and FlexPLM with Unauthenticated RCE",
-      "link": "https://thehackernews.com/2026/07/cl0p-affiliates-target-internet-exposed.html",
-      "description": "Threat actors linked to the Cl0p (aka Chubby Scorpius, FIN11, Graceful Spider, and Lace Tempest) ransomware campaign are exploiting flaws in internet-exposed PTC Windmill and FlexPLM deployments as part of a new data extortion campaign. \"Attackers chain a pre-authentication information disclosure in the FlexPLM WSDL endpoint with a server-side flaw in the Windchill login servlet, enabling",
-      "pubDate": "2026-07-25T10:14:03.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIGAlXgFCqm8atTe__HpWBiCWISmrPOazxOVBMF-_YNrP2goBbW_4PSwGzw1Ndyue4qrnQnqrQyAR4DTaAdaiJPlVUZi7M_iceb4fqofWK0sGRLO9CHnj0lngtxdlC-tKqrppqFaKIkct2vOtGn_o5kbNa4fj-dutt8PMjiO5TVBw895aLg0TOJb8TKKtv/s1600/cyberattack.jpg"
-    },
-    {
-      "title": "DevMan RaaS Portal Centralizes Payload Builds, Victim Management, and Affiliate Payouts",
-      "link": "https://thehackernews.com/2026/07/devman-raas-portal-centralizes-payload.html",
-      "description": "The operators of the DevMan ransomware-as-a-service (RaaS) scheme are maintaining a dedicated web platform that offers affiliates the ability to build payloads, oversee earnings, and manage various aspects related to victims. Swiss cybersecurity company PRODAFT is tracking the centrally administered RaaS operation under the name Funky Mantis. \"The portal combined build generation, finance,",
-      "pubDate": "2026-07-25T09:53:41.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiCfK-jqRTN8rgDTTIOMahlXeGbBvgMLQqdUc4pcB1eXYGmbMfvzVLohoakIuE6nlS9k2G8ncIMwgaYcfLN1r90Obxd8IDHGo5UVz-iDNkBaEbzcDMJl5yzaCQ7VTSh5GFOy8O6CjHXvK7Sdo0WctNPRFBxxtWONllByeJ1EtphQ-sDRabRefeNuXxzdCzY/s1600/ransomware-hacker.jpg"
     },
     {
       "title": "CISOs vs. Boards: Myth or Misunderstanding?",
@@ -1528,7 +1528,7 @@
       "pubDate": "2025-12-05T06:57:39.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb08db79902d77477/6939497bb33d88b7c9345633/blog-sophos-intelix-copilot.png"
     },
     {
       "title": "Campaña maliciosa en WhatsApp despliega el troyano bancario Astaroth",
@@ -1537,7 +1537,7 @@
       "pubDate": "2025-11-21T07:51:46.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blta8d51b889a777d1c/693a83a647c46947637b227d/WhatsAppAstaroth2511-hero.jpg"
     },
     {
       "title": "Cybersecurity for Microsoft Environments",
@@ -1546,7 +1546,7 @@
       "pubDate": "2025-11-18T11:31:04.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltc093370e4ed703e5/693946bafbd5155e8bf64a10/blog-sophos-intelix-copilot.png"
     },
     {
       "title": "Introducing HTTP Anomaly Rank",
@@ -1573,7 +1573,7 @@
       "pubDate": "2025-10-31T07:00:19.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt546eebcb6be5d09d/6939427a09bc383b6ee34a63/GettyImages-504085304.jpg"
     },
     {
       "title": "What happens when a cybersecurity company gets phished?",
@@ -1582,7 +1582,7 @@
       "pubDate": "2025-09-22T06:00:08.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
     },
     {
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
