@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-30T05:43:43.226Z",
-  "count": 205,
+  "generatedAt": "2026-07-30T08:31:27.039Z",
+  "count": 185,
   "sources": [
     "The Hacker News",
     "Bleeping Computer",
@@ -18,6 +18,69 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "US and Allies Update SBOM Guidance",
+      "link": "https://www.securityweek.com/us-and-allies-update-sbom-guidance/",
+      "description": "Five years after the initial release, the refresh introduces new elements, removes others, and updates terminology. The post US and Allies Update SBOM Guidance appeared first on SecurityWeek.",
+      "pubDate": "2026-07-30T08:21:19.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/06/SBOM_Regulations-Function.jpg"
+    },
+    {
+      "title": "Chrome 151 Patches 370 Vulnerabilities",
+      "link": "https://www.securityweek.com/chrome-151-patches-370-vulnerabilities/",
+      "description": "The major browser update resolves roughly 80 critical- and high-severity security defects. The post Chrome 151 Patches 370 Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-07-30T07:51:24.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/Chrome-Zero-Day-exploits.jpg"
+    },
+    {
+      "title": "Russian Hackers Exploit Microsoft OWA Flaw to Keep Mailbox Access After Credential Rotation",
+      "link": "https://thehackernews.com/2026/07/russian-hackers-exploit-microsoft-owa.html",
+      "description": "The Russian threat actors recently linked to the exploitation of a now-patched vulnerability in Zimbra have been observed exploiting another vulnerability, this time in Microsoft Outlook Web Access (OWA), to target U.S. and European government entities, as well as the telecommunications, financial, hospitality, and aerospace sectors. The activity, which began on July 22, 2026, involves the",
+      "pubDate": "2026-07-30T07:40:48.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiAHLuK9rcrkKZxWdmWf50USFH75iYP3nViQrL7sP_6gBJUipIQfUTU0XmA2xnOTR57ZCQWd83Y2joLatEV3XVV10ph4uQV7LrrYLzDCfW4dBiDyvVtpyhD3fgrGY7J2hFbNtCzzp4CGU7DxDYCxnuzJtgCJKCMFuRxloks-iW4dXJlZADetaMQK5rZiUKF/s1600/outlook.jpg"
+    },
+    {
+      "title": "FCC Blocks New Foreign-Produced Robots and Power Inverters Over Cyber Risks",
+      "link": "https://thehackernews.com/2026/07/fcc-blocks-new-foreign-produced-robots.html",
+      "description": "The Federal Communications Commission (FCC) added foreign-produced mobile robots and networked power inverters to its Covered List on July 28. The move generally prevents new models from receiving the equipment authorization required for import, marketing, or sale in the US. Previously authorized models can still be sold, and devices people already own are unaffected. Federal purchases and use",
+      "pubDate": "2026-07-30T07:28:43.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEipannhqI3vkI628-oBoMbtwDDVE4F2PpVmxVM9d10AE06EVVwZzrBde5sTZTddm_89YUCUkfopYwqVzuk2Y8I4g84Ete1SQLvrQ2gA8FVxyCt952gNJpTmXpReLiZZ6EIv33zLjDTFI-_KLydIHDGoIDkbv1ptGTXLdVf6NyeaKeWEEWX4yNsxx46-zyY/s1600/robots.jpg"
+    },
+    {
+      "title": "Cisco Secure FMC Zero-Day Exploited in the Wild",
+      "link": "https://www.securityweek.com/cisco-secure-fmc-zero-day-exploited-in-the-wild/",
+      "description": "The vulnerability tracked as CVE-2026-20316 can be exploited by a remote, unauthenticated attacker to log into affected devices. The post Cisco Secure FMC Zero-Day Exploited in the Wild appeared first on SecurityWeek.",
+      "pubDate": "2026-07-30T06:31:31.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Cisco-network-switch-exploit.webp"
+    },
+    {
+      "title": "Amazon Links Debug and Chalk npm Hijack to North Korea’s Sapphire Sleet",
+      "link": "https://thehackernews.com/2026/07/amazon-links-debug-and-chalk-npm-hijack.html",
+      "description": "Amazon has tied the September 2025 hijack of the npm packages debug and chalk to North Korea. For ten months, the incident sat in the public record as crypto theft: a maintainer phished through a lookalike npm domain and a wallet-draining script pushed into at least 18 packages carrying more than 2 billion weekly downloads between them. The original Aikido and Wiz reports did not attribute the",
+      "pubDate": "2026-07-30T06:05:17.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgWsCKCTbRf4kZF1zcu1cmfHaf-pPPKTo2q21iPUibGu2jsDaxT92LByZdMAi0d_luVH-yt263qlWE5uDFAh4Ue21dIUk_eu08YXHqwgHI_R9bziAK9nBUiht_lMbaL9bqBH800A0HtxNSYNISi1sZ4SKv1DanwxXBPj4rd6OFBk3ogNn9iTUmsiISve0/s1600/northkorean-npm.jpg"
+    },
+    {
+      "title": "Cisco FMC Zero-Day Actively Exploited, Static Credentials Could Expose Sensitive Data",
+      "link": "https://thehackernews.com/2026/07/cisco-fmc-zero-day-actively-exploited.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a newly disclosed security flaw impacting Cisco Secure Firewall Management Center (FMC) Software to its Known Exploited Vulnerabilities (KEV) catalog, following reports of zero-day exploitation. The vulnerability, assigned CVE-2026-20316 (CVSS score: 5.3), could permit an unauthenticated, remote attacker to log",
+      "pubDate": "2026-07-30T05:08:39.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+    },
     {
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
       "link": "https://www.darkreading.com/threat-intelligence/se-asian-cybercriminal-syndicates-global-power",
@@ -44,15 +107,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/05/09/Russian__hackers.jpg"
-    },
-    {
-      "title": "Smashing Security podcast #478: This job interview could destroy your company",
-      "link": "https://grahamcluley.com/smashing-security-podcast-478/",
-      "description": "You've been headhunted for a great job in cryptocurrency. All you have to do is complete a short online assessment - with your webcam on, of course, so they can verify who you really are. Which is ironic, because the person recruiting you doesn't exist. And North Korean hackers using this trick have already made off with $643 million in crypto this year alone. Meanwhile, researchers at UC San Diego have discovered that 2.2 million cars across the United States can be unlocked or immobilised by anyone with a bit of Bluetooth kit - thanks to one aftermarket car alarm that made a truly spectacula",
-      "pubDate": "2026-07-29T23:09:41.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-478-1.webp"
     },
     {
       "title": "Anthropic confirms Claude is down worldwide",
@@ -361,24 +415,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIxq_zUC231fexQTfY9VPvqP7FWVRurT9fbUUS3YMpMX2SRmJu9eXIlH7v6fnvqJGtirQwXJVjs1h-hbUM7j-R6DlfpW7M4kt28q9EoxMt7jJFjUjaAoVsuTWSsBZOFcDj99U8ApvFR4B4sDQ37QHYeWXjJsowFBP3n8-TBfzcKB2Rl-de-OluIkzbJIYb/s1600/cp-poc.jpg"
     },
     {
-      "title": "JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack",
-      "link": "https://www.securityweek.com/jfrog-zero-days-exploited-in-openai-hugging-face-hack/",
-      "description": "The OpenAI models targeted services beyond Hugging Face as they attempted to solve the tasks they were given. The post JFrog Zero-Days Exploited in OpenAI-Hugging Face Hack appeared first on SecurityWeek.",
-      "pubDate": "2026-07-29T08:46:30.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/Hugging-Face.jpeg"
-    },
-    {
-      "title": "Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks",
-      "link": "https://www.securityweek.com/dozens-of-minnesota-water-utilities-targeted-in-coordinated-ot-attacks/",
-      "description": "State and federal agencies respond after intrusions disrupt automated controls at municipal water and wastewater utilities. The post Dozens of Minnesota Water Utilities Targeted in Coordinated OT Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-07-29T07:53:22.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/water-treatment-utility.jpeg"
-    },
-    {
       "title": "OpenAI Agent Used Exposed Credentials Across Four Services During Hugging Face Breach",
       "link": "https://thehackernews.com/2026/07/openai-agent-used-exposed-credentials.html",
       "description": "OpenAI on Tuesday revealed the rogue artificial intelligence (AI) agent that escaped its sealed evaluation environment and broke into Hugging Face's production environment also hacked multiple third-party accounts and services as part of the attack. The latest disclosure shows that the security incident, which stemmed from an internal security test, was more extensive in scope than previously",
@@ -404,15 +440,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOpdosdOAoAjpR73DY5i_8YN9dHOY7KsBws53ivjlY3iVg0-EZAO6CliWbdg61_hT6eI9_Im9aiH_c312ttIHamIl4IIxe2omPSWjC4OaCfbNKZC7Gr85jXs12NObtpiSAK1PNljccRdmzvITRijNNh16c2IDK3kWmL5Ce3lbzQNCJaMy4wgKwWyB2oiI/s1600/android-rat.jpg"
-    },
-    {
-      "title": "ShinyHunters Claims Ernst & Young Hack",
-      "link": "https://www.securityweek.com/shinyhunters-claims-ernst-young-hack/",
-      "description": "Ernst & Young previously confirmed that personal and financial information was stolen from a third-party management platform. The post ShinyHunters Claims Ernst & Young Hack appeared first on SecurityWeek.",
-      "pubDate": "2026-07-29T06:23:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/EY-Ernst-Young.jpeg"
     },
     {
       "title": "Inside Astaroth's New Spambot Component",
@@ -640,33 +667,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiX3xcF2Bm9BY5obe-T5JItuKynq8bPijOxp14p5damNEjPGtAbYyuLSqp6vKN_KkhPx1qYeTXHxpgnZllCrtLvDaDuJNyHpY1qV0i8KWCe79_bnFtBtTRPCTU28LcN7OFM26h_WZdxeM3KPWBK4dlp0jY8JKrs1UILNR0qRgtxhKJqCcrht69sc3gcwsU/s1600/tc.jpg"
     },
     {
-      "title": "Researcher Says AI Helped Develop Linux Traffic-Control Race Into Root Exploit",
-      "link": "https://thehackernews.com/2026/07/researcher-says-ai-helped-develop-linux.html",
-      "description": "STAR Labs has published a Linux kernel exploit that turns an ordinary local user into root on the CentOS Stream 9 build it targeted. The flaw, tracked as CVE-2026-53264 (CVSS score: 7.8), is a use-after-free race in the kernel's network traffic-control subsystem.Researcher Lee Jia Jie said artificial intelligence (AI) helped him find the bug and speed up exploit development. This is local",
-      "pubDate": "2026-07-28T08:04:44.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjgBRFXQr7hvRBIkSC-vqaka7UlRsU8Y380TbDC3jFpFlSlCK1RuVthJDLKt5KaNzAn82kMBNUWPp5s1Voug8ptjn0DiHoxbzw9QdoKXhFfR9SR9zCm1uYeE43tZUba0H7F-mlLogft-qyvtdggSASBR8qAxrRK3U3uPzvf_bkRmJPNzcWX-vfb7qW0VD8/s1600/linux.jpg"
-    },
-    {
-      "title": "Microsoft Says New Cybersecurity AI Model Helps MDASH Score 95.95% at Half the Cost",
-      "link": "https://thehackernews.com/2026/07/microsoft-says-new-cybersecurity-ai.html",
-      "description": "Microsoft has launched its first cybersecurity-specific model inside MDASH, its multi-model vulnerability identification and remediation harness. The company says MDASH, using MAI-Cyber-1-Flash and GPT-5.4, scored 95.95% on CyberGym. It also claims the configuration costs 50% less than its current best MDASH combination of GPT-5.4, GPT-5.4 mini, and GPT-5.3 Codex. Access is limited to approved",
-      "pubDate": "2026-07-28T06:07:22.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwmG858LYHQA-u4cQupdhqsi5oUcvLaQdoorupsW3tzPZvDg7kwgRIewOBPVNvp3Szfqb4VFJ_j6caul2NTIlm69_-vskp4gYQwVkQA59LbsMhOEO3yr4C48nhrO177ORbi9uFc_oIOrcXnCBs_dmPhVDZVZx9F3Cyp4RQKi71EhvfZQqmUKat36cbqEE/s1600/MAI-Cyber-1-Flash.jpg"
-    },
-    {
-      "title": "Attackers Exploit Arista VeloCloud Orchestrator Command Injection Flaw",
-      "link": "https://thehackernews.com/2026/07/attackers-exploit-arista-velocloud.html",
-      "description": "A maximum-severity security flaw impacting on-premises versions of Arista VeloCloud Orchestrator (VCO) has come under active exploitation in the wild. The vulnerability, tracked as CVE-2026-16812 (CVSS score: 10.0), is a case of operating system command injection that could pave the way for arbitrary code execution. \"VeloCloud Orchestrator (VCO) on-prem has a security issue where this issue",
-      "pubDate": "2026-07-28T04:43:53.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj_Rqy6Y9a8XU8InktsbP7Op6N-6ZSvEQl0MJ2PL6_gd_s2ij5aL2vZHlW3sgsqtQQCY47wAO4RxIqqSUkQ7kXeXbhzEJe0g9VCbkC9pwEcGqKybszrRurMZQPQHsy6o8YLXYOZk1F9Cyp7kBQTFXjIzngB0_Jche9kzCVE_XIL7W24A-3ARqgisnibgAvw/s1600/cyber.jpg"
-    },
-    {
       "title": "AI Agent Drives Espionage Attack on Thai Ministry of Finance",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-agent-espionage-attack-thai-ministry-finance",
       "description": "Attackers used Hermes, an autonomous open source tool, in unrestricted \"YOLO mode\" to conduct espionage against Thailand's Ministry of Finance.",
@@ -710,15 +710,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteef9f34649cb1353/6a5a7778892e6dc3e6015302/authenticate_janews_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "NVIDIA Forms 37-Member Open Secure AI Alliance and Open-Sources NOOA Framework",
-      "link": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
-      "description": "NVIDIA and 36 other organizations have formed the Open Secure AI Alliance to develop and share open technologies, techniques, and tools for securing software and artificial intelligence (AI) agents. The 37-member group spans cloud, security, enterprise software, and AI companies, including Microsoft, Cisco, Cloudflare, CrowdStrike, Hugging Face, IBM, Palo Alto Networks, Red Hat, and the Linux",
-      "pubDate": "2026-07-27T18:10:05.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEij-O7sLARD9c2QGCheTeoamew1jlKiNe2KRKqw4_8f6VTxZo0MHNIQdizHhyphenhyphen-Bchq9tTzlYBJrJcJDhhhzNB17wPMHDT00pAikN61fAgOh7AdibxKPt5fQ_1KwMvkUXx1J7IzZBbtONSSIAOjRV74KSkmlsKYB7hFWy17AaQu02BqwngqCzlubslSbKvg/s1600/nvidia.jpg"
     },
     {
       "title": "Adversaries Don't Need a Zero-Day — They Read Your Rulebook",
@@ -856,15 +847,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Figure-1.-Tycoon2FA-monthly-malicious-messages-volume-July-2025&ndash;June-2026-scaled.webp"
     },
     {
-      "title": "OpenAI’s AI “goes rogue” and hacks Hugging Face: what you need to know",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/openais-hacks-hugging-face",
-      "description": "You can't have failed to hear the news headlines about \"rogue\" OpenAI models hacking into another AI organisation, Hugging Face. But what has actually happened, who is to blame, and is it as serious as some of the reports suggest? Find out in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-23T14:18:37.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/openai-goes-rogue.jpeg"
-    },
-    {
       "title": "Russian Global Webmail Espionage",
       "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
       "description": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
@@ -890,15 +872,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": null
-    },
-    {
-      "title": "Smashing Security podcast #477: How 14 orders of chicken McNuggets helped nail a suspected Russian hacker",
-      "link": "https://grahamcluley.com/smashing-security-podcast-477/",
-      "description": "A Russian intelligence-linked hacker is arrested in Thailand while enjoying a beach holiday - and the trail of evidence that nailed him to the Russian government includes 14 separate orders of chicken McNuggets. Meanwhile, AI music generator Suno has been hacked - and the stolen data appears to show exactly how much copyrighted music they hoovered up to train their models. All this and more in episode 477 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest James Ball.",
-      "pubDate": "2026-07-22T23:10:22.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-477.webp"
     },
     {
       "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
@@ -937,15 +910,6 @@
       "image": null
     },
     {
-      "title": "Ukraine warns fake CAPTCHAs are being used to make you hack yourself",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself",
-      "description": "Ukraine's computer emergency response team, CERT-UA, has warned that the Kremlin-backed Sandworm hacking group is leveraging fake CAPTCHA checks on compromised websites that persuade users to run malicious code. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-21T09:51:58.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/clickfix.jpeg"
-    },
-    {
       "title": "Weekly Update 513: Clauding The Home Network",
       "link": "https://www.troyhunt.com/weekly-update-513/",
       "description": "I reckon this week's video on how Claude is tying together info from UniFi, Home Assistant and the Pi-Hole is an absolute ripper. Or at least the concept is - if ever there was an actual value proposition for AI it's taking lots of noise and",
@@ -980,15 +944,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": null
-    },
-    {
-      "title": "Google’s Gemini lets strangers send messages from your locked Android phone",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/googles-gemini-strangers-messages-locked-android-phone",
-      "description": "Gemini, Google's AI assistant, is supposed to make life easier for Android smartphone owners. But right now it may also be making life easier for anyone anyone who happens to pick up your phone. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-17T22:30:49.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/bypass-android.jpeg"
     },
     {
       "title": "Microsoft at Black Hat USA 2026: Defending trust in the age of AI and supply chain attacks",
@@ -1027,15 +982,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/03_Opinion_Category_1505x922-1.jpg"
     },
     {
-      "title": "Anubis ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/anubis-ransomware",
-      "description": "The Anubis ransomware-as-a-service (RaaS) operation has hit some healthcare organisations hard - but they are not the only ones at risk. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-07-16T21:05:37.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Least privilege for AI agents: Identity, access, and tool binding",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/16/least-privilege-for-ai-agents-identity-access-and-tool-binding/",
       "description": "As AI agents become more autonomous, strong identity, access, and auditing controls are critical to keeping them secure. The post Least privilege for AI agents: Identity, access, and tool binding appeared first on Microsoft Security Blog.",
@@ -1043,15 +989,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-4.webp"
-    },
-    {
-      "title": "Smashing Security podcast #476: Remote-control rickshaws and rogue book marketers",
-      "link": "https://grahamcluley.com/smashing-security-podcast-476/",
-      "description": "An app has appeared in India that lets anyone with a smartphone stop a passing e-rickshaw dead in its tracks - no login, no passwords, no permissions needed. Meanwhile, Geoff - swimming in money and Lamborghinis, as all published authors are - has been on the receiving end of a slew of AI-generated scam pitches from fake book marketing experts. Rather than ignore them, he's been playing them at their own game... All this and more in this episode of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Geoff White.",
-      "pubDate": "2026-07-16T09:02:27.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-476.webp"
     },
     {
       "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
@@ -1108,15 +1045,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template@1x_1.jpg"
     },
     {
-      "title": "The ransomware negotiator who was working for the other side",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ransomware-negotiator-working-other-side",
-      "description": "When a company falls victim to a ransomware attack, it is not uncommon for it to turn to experts for help. Specialist ransomware negotiation firms handle communications with criminal gangs on a victim's behalf. What victims don't expect is that their trusted negotiator might be separately sharing details of the victim's cyber-insurance policy and negotiation strategy directly with the attackers themselves. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-14T07:54:08.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/ransom-betrayal.jpeg"
-    },
-    {
       "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
       "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
       "description": "",
@@ -1133,24 +1061,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2025/09/05_Opinion_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Invited to a “job interview” with Netflix or OpenAI? Beware! Your Google password could be at risk",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/invited-job-interview-netflix-openai-beware-google-password",
-      "description": "Have you received an email from a recruiter at Adobe, Netflix, or OpenAI offering you an exciting new marketing role? Well, before you start brushing up your interview technique, take a closer look at who is really behind it. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-09T13:17:38.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/job-phish.jpeg"
-    },
-    {
-      "title": "Smashing Security podcast #475: JadePuffer – the AI that ran a ransomware attack all by itself",
-      "link": "https://grahamcluley.com/smashing-security-podcast-475/",
-      "description": "A 15-year-old boy asked a chatbot for help - and cancelled nearly 47,000 anime streaming subscriptions in under four hours. Meanwhile, researchers have documented the first fully autonomous, agentic AI-driven ransomware attack, \"JadePuffer\". What does this tell us about the future of cybersecurity? Also, Apple's \"Hide My Email\" feature turns out to hide rather less than it promises - despite Apple knowing it has a problem for over a year. All this and more in this episode of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Zoë Rose.",
-      "pubDate": "2026-07-08T23:19:18.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-475.webp"
     },
     {
       "title": "Weekly Update 511: Live from my Riad in Marrakech",
@@ -1171,15 +1081,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/01_Malware_Category_1920x900-2.jpg"
     },
     {
-      "title": "Two arrested over credit card phishing – as the Netherlands is named Europe’s worst for payment fraud",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/two-arrested-credit-card-phishing-netherlands-europe-payment-fraud",
-      "description": "Two young men have been arrested in the Netherlands on suspicion of running a phishing operation that harvested the credit card details of unsuspecting victims. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-07-07T12:56:01.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/credit-card.jpeg"
-    },
-    {
       "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
       "link": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/",
       "description": "I can't recall if someone else originally came up with this saying or if I said it in some off-the-cuff comment and it just propagated, but since it's often attributed back to me, I'll relay it here regardless: Trying to delete yourself",
@@ -1198,24 +1099,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg"
     },
     {
-      "title": "The Gentlemen ransomware: what you need to know",
-      "link": "https://www.fortra.com/blog/gentlemen-ransomware-what-you-need-know",
-      "description": "Who Are The Gentlemen? Despite the impeccably polite name, there is nothing polite or refined about this particular gang of cybercriminals. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-07-02T16:50:40.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Smashing Security podcast #474: Polymarket can predict the future. So how did it miss this hack?",
-      "link": "https://grahamcluley.com/smashing-security-podcast-474/",
-      "description": "Polymarket has built an entire business on predicting the future. So how did it manage to spectacularly fail to predict its own hack? Plus, the Google engineer with a million-dollar secret, and the curious case of the airport hairdryer. Meanwhile, \"FortiBleed\" sees 75,000 Fortinet firewalls thrown wide open - and the real damage is going to roll on for years. All this and more in episode 474 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Quentyn Taylor.",
-      "pubDate": "2026-07-01T23:12:11.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-474.webp"
-    },
-    {
       "title": "Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector",
       "link": "https://unit42.paloaltonetworks.com/phantom-squatting-hallucinated-web-domains/",
       "description": "Attackers can exploit LLM domain hallucinations through phantom squatting to target supply chains. Read the analysis to learn more. The post Phantom Squatting: AI-Hallucinated Domains as a Software Supply Chain Vector appeared first on Unit 42.",
@@ -1225,15 +1108,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_799983387-1-1-scaled.jpg"
     },
     {
-      "title": "Scammers race to cash in on Venezuelan earthquake disaster",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/scammers-cash-in-venezuela-earthquake",
-      "description": "Scammers wasted no time exploiting Venezuela's devastating earthquake, with researchers uncovering 212 newly-registered relief-themed domains in just five days. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-30T21:04:35.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/venezuela-earthquake-scam.jpeg"
-    },
-    {
       "title": "Weekly Update 510: Live From Mallorca with Scott Helme",
       "link": "https://www.troyhunt.com/weekly-update-510/",
       "description": "How's the view?! Back to business, it's now 8 years ago that Scott and I thought it would be a cool idea to build Why no HTTPS? We used the site to shame companies for not implementing their transport later security property, and to make it",
@@ -1241,15 +1115,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/06/Splash-Template--2-@1x_1.jpg"
-    },
-    {
-      "title": "USB drives carrying China-linked malware infected Japanese military networks for nearly a year",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/usb-drives-carrying-china-linked-malware-infected-japanese-military-networks-for-nearly-a-year",
-      "description": "Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-30T10:25:50.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/usb-drive-japan-flag.jpeg"
     },
     {
       "title": "Threat Brief: Mitigating Large-Scale Credential Attacks",
@@ -1270,15 +1135,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/03_Malware_Category_1920x900-5.jpg"
     },
     {
-      "title": "Smashing Security podcast #473: How a hacker could have Rickrolled the entire World Cup",
-      "link": "https://grahamcluley.com/smashing-security-podcast-473/",
-      "description": "A polite caller from your bank says there is a problem with your account. Don't worry - they'll send someone round to help. They'll even take your cards away to keep them safe. The scam has run rampant, until Dutch police plastered blurred photos of 100 suspects across billboards, supermarkets, and TikTok, with a two-week ultimatum to turn themselves in... or else. Meanwhile, a security researcher called Bob DaHacker got her hands on the live broadcast controls for every match of the 2026 FIFA World Cup. She could have Rickrolled the entire planet, but actually spent days trying to find anyone",
-      "pubDate": "2026-06-24T23:10:57.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-473.webp"
-    },
-    {
       "title": "Weekly Update 509",
       "link": "https://www.troyhunt.com/weekly-update-509/",
       "description": "I know enough about home cinema audiovisual to know there's a lot I don't know. It's conscious incompetence, if you like, which is different to the unconscious incompetence most people have on the topic. That's not to sound derogatory (it's",
@@ -1297,15 +1153,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/AdobeStock_768915868-1.jpg"
     },
     {
-      "title": "Hacker hijacks Brazil’s national alert system, sending “misanthropy” to millions of phones",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/hacker-hijacks-brazils-national-alert-system",
-      "description": "Emergency alert systems work because people believe them. Every time one of these systems issues a false alert - whether through negligence or a deliberate attack - trust erodes. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-23T12:16:15.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/emergency-alert.jpeg"
-    },
-    {
       "title": "The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration",
       "link": "https://unit42.paloaltonetworks.com/cloud-bucket-hijacking-risks/",
       "description": "Unit 42 research details how attackers could exploit global name uniqueness in bucket hijacking to redirect cloud data streams across major CSPs. The post The Global Namespace Risk: Universal Bucket Hijacking Technique for Cloud Data Exfiltration appeared first on Unit 42.",
@@ -1313,33 +1160,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/09_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Apple’s Hide My Email tweak leaves privacy fans fuming",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming",
-      "description": "Apple has long marketed itself as the privacy-first tech giant. So why is it making a change to Hide My Email that will make it easier for websites to block anonymous sign-ups - and harder for you to stay private online? Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-19T15:47:53.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/hide-my-email.jpeg"
-    },
-    {
-      "title": "Imposter scams cost Americans $3.5 billion in 2025 – and it’s getting worse",
-      "link": "https://www.fortra.com/blog/imposter-scams-cost-americans-35-billion-2025-and-its-getting-worse",
-      "description": "Someone is pretending to be your bank, your government, or your local planning office. And according to the FTC, they're making billions doing it. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-06-19T13:51:24.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Smashing Security podcast #472: AI gets hacked, and BitLocker gets bypassed",
-      "link": "https://grahamcluley.com/smashing-security-podcast-472/",
-      "description": "What if your AI coding assistant could be tricked into stealing your own company's secrets - by reading a single booby-trapped bug report? No phishing email. No malware. No password ever stolen. Just an AI doing exactly what it was told. Meanwhile, someone themselves Nightmare Eclipse has decided to teach Microsoft a lesson. The result? Three zero-days dropped on the internet, one of which lets a thief with a USB stick walk straight past BitLocker. Microsoft is furious. Plus don't miss our featured interview with Son Nguyen Kim of Proton Pass, who explains why plugging AI agents into your emai",
-      "pubDate": "2026-06-17T23:10:17.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/06/ss-episode-472.webp"
     },
     {
       "title": "Pickle in the Middle – Hijacking Vertex AI Model Uploads for Cross-Tenant RCE",
