@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T00:04:30.315Z",
+  "generatedAt": "2026-07-31T07:22:28.023Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Critical Code Execution Vulnerability Patched in TeamCity",
+      "link": "https://www.securityweek.com/critical-code-execution-vulnerability-patched-in-teamcity/",
+      "description": "Tracked as CVE-2026-63077, the security defect can be exploited without authentication via the agent polling protocol. The post Critical Code Execution Vulnerability Patched in TeamCity appeared first on SecurityWeek.",
+      "pubDate": "2026-07-31T06:50:30.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
+    },
+    {
+      "title": "Anthropic's Claude breached 3 orgs, uploaded PyPI malware during tests",
+      "link": "https://www.bleepingcomputer.com/news/security/anthropics-claude-breached-3-orgs-uploaded-pypi-malware-during-tests/",
+      "description": "One of Anthropic's Claude models built and uploaded a malicious Python package to PyPI during a botched security evaluation, where it ran on 15 real systems and stole credentials from a security vendor. It was one of three incidents affecting real companies. [...]",
+      "pubDate": "2026-07-31T00:57:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png"
+    },
     {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
@@ -271,15 +289,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCMiEYFcCrvL7s-o_ZApEbF6gP4J5FpWseBSQN2iP5bBIXP51mVR8QDnUmxDHBrMr0ta6ucsouVsVnWg8mGPeRvwkx09PCddi0pWLYzOpeA7NnrKUaeVhypXKK9rBJSfminUSBH9cz4YTelqUFMU-VZU2G-mkKFhb1pMQsGcAqtuT4btXzbbgb4pD1Mdfi/s1600/checkpoint-main.jpg"
     },
     {
-      "title": "Semiconductor Firm Analog Devices Discloses Data Breach",
-      "link": "https://www.securityweek.com/semiconductor-firm-analog-devices-discloses-data-breach/",
-      "description": "Hackers were detected on Analog Devices systems in June, and an investigation found that they stole files. The post Semiconductor Firm Analog Devices Discloses Data Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-07-30T11:16:23.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/03/quantum-computing-chip.jpeg"
-    },
-    {
       "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
       "link": "https://www.schneier.com/blog/archives/2026/07/should-you-use-ai-for-a-task-heres-a-simple-way-to-decide.html",
       "description": "This essay originally appeared in The Guardian. I teach public policy at the Harvard Kennedy School and the Munk School at the University of Toronto. And it will come as no surprise to you that my students regularly use AI to complete their writing assignments. Doing so is a waste of their tuition money. But if their entire career is going to include AI writing assistants, why shouldn’t they embrace their future? The best way I’ve found to explain the dilemma comes from the AI researcher Daniel Meissler: it’s the difference between work and the gym. At work, if your job is to move a bunch of h",
@@ -359,6 +368,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgFSDmsE6q7010reBwpOwS1ESkJSxlBlgRBbtjEVAdeClQFAkRfpriRQWUpL0Br8xnFdF1mctv4Ttj1Nv77MMIKm9qlNehPtTLYzOQwcZAWR4Vw1HzjAvItevYjwQkUo_2JNRluc2_OeJ3vOZ-P8meai9NLLWBvothfh7GDqoOpMPmKpOO-hjAeY-Pxa-BV/s1600/cisco.jpg"
+    },
+    {
+      "title": "Falcon AIDR Now Protects Copilot Studio Agents and Claude Code",
+      "link": "https://www.crowdstrike.com/en-us/blog/falcon-aidr-protects-copilot-studio-agents-and-claude-code/",
+      "description": "",
+      "pubDate": "2026-07-30T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "SE Asian Cybercriminal Syndicates Become a Global Power",
@@ -521,15 +539,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
-    },
-    {
-      "title": "Hackers disrupt over 30 Minnesota water utilities in coordinated OT attack",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-target-over-30-minnesota-water-utilities-in-coordinated-ot-attack/",
-      "description": "The Minnesota IT Services (MNIT) agency activated its cybersecurity incident response capabilities across the entire state after hackers targeted more than 30 community water systems in \"a coordinated cyberattack.\" [...]",
-      "pubDate": "2026-07-29T14:55:57.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/29/Wastewater_Treatment.png"
     },
     {
       "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
@@ -1133,15 +1142,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/ransom-betrayal.jpeg"
-    },
-    {
-      "title": "July 2026 Patch Tuesday: Microsoft Patches 622 Vulnerabilities Including Two Exploited Zero-Days",
-      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-july-2026/",
-      "description": "",
-      "pubDate": "2026-07-14T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "No Manners Here: The Ruthless Rise of The Gentlemen Ransomware",
