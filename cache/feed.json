@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T15:00:43.275Z",
+  "generatedAt": "2026-08-01T07:58:12.038Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,159 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "link": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "description": "Adobe has released security updates to address a maximum-severity security flaw in Campaign Classic (ACC), its enterprise-focused marketing automation platform, that could result in arbitrary code execution. The vulnerability, tracked as CVE-2026-48449, carries a severity score of 10.0 on the CVSS scoring system. It has been described as a case of incorrect authorization that could result in",
+      "pubDate": "2026-08-01T07:12:42.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL4TR-PlW4MehiF4iAbWafpNUQrSuhhTuEZwgwba7Gi0mF-PfixGSlFmpsBm51WbJYfkA69ZYNjO2aWl8eE8tqdSPdJL7mvLOaYL9O6VWkfxw96YFF0Qxt1ggCurqVd2J2muf6SAjW0cCrt2UwnOO3rK76X-mBWHW1e8-2Mk6FERpS1yPrSVScImJ0TmKW/s1600/adobe-flaw.jpg"
+    },
+    {
+      "title": "Hijacked Hotel Wi-Fi Pushes Fake Updates to Deliver Surveillance Malware",
+      "link": "https://thehackernews.com/2026/08/hijacked-hotel-wi-fi-pushes-fake.html",
+      "description": "A fake browser update served over hijacked hotel Wi-Fi has been used to deliver CornFlake, a remote access trojan (RAT) that can capture webcam images, microphone audio, and keystrokes, Microsoft said in its latest report. Researchers track the operation as CaptiveCrunch and attribute it to Storm-2945. It assesses Storm-2945 to be an operational sub-cluster of Midnight Blizzard, also known as",
+      "pubDate": "2026-08-01T06:29:05.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEglJ30Q0_3tS3R4yrNdyR3sDdvBam1plVfmenBAFVPGmaVMErJ_oq_zXoIpeAjrFrkkFkudKUSHI-h82FGoiIJlkT2JghjQKrO2p7VmzpduPGv26gGgJ8I04b-U7eY1sihmIer0bGTtIof3CwH1vKmQOYLDvhNsYICoALOLhehhaLC65fPmAH_fpT0BrKk/s1600/hotel-wifi.jpg"
+    },
+    {
+      "title": "Amgen says cloud data breach exposed patient health, proprietary info",
+      "link": "https://www.bleepingcomputer.com/news/security/amgen-says-cloud-data-breach-exposed-patient-health-proprietary-info/",
+      "description": "Pharmaceutical company Amgen says it suffered a data breach after threat actors stole corporate data and patient information stored in multiple cloud systems operated by third-party service providers. [...]",
+      "pubDate": "2026-07-31T22:16:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/31/amgen-flag.jpg"
+    },
+    {
+      "title": "Arch Linux disables AUR package adoption to stop malware flood",
+      "link": "https://www.bleepingcomputer.com/news/security/arch-linux-disables-aur-package-adoption-to-stop-malware-flood/",
+      "description": "The Arch Linux project has temporarily disabled adoption of Arch User Repository (AUR) packages after a surge in malicious takeovers of existing packages. [...]",
+      "pubDate": "2026-07-31T21:38:08.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/07/18/arch-linux-white.jpg"
+    },
+    {
+      "title": "Online ad firm Adform’s script compromised to steal cryptocurrency",
+      "link": "https://www.bleepingcomputer.com/news/security/online-ad-firm-adforms-script-compromised-to-steal-cryptocurrency/",
+      "description": "Online advertising firm Adform suffered a supply-chain attack that delivered cryptocurrency-stealing scripts to websites using its ad platform, replacing wallet addresses copied to visitors' clipboards with ones controlled by an attacker. [...]",
+      "pubDate": "2026-07-31T21:09:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/15/Hacker_cryptocurrency_bitcoin.jpg"
+    },
+    {
+      "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
+      "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-squid-helps-discover-new-marine-species.html",
+      "description": "The Squid is a new scientific machine: One of the technological breakthroughs was the onboard use of a spinning wheel confocal microscope, nicknamed the Squid, which uses lasers to scan microscopic details of how organisms are put together. “That opens up a whole new world of exploring. We could see cells interacting with each other, exchanging material and building skeletons. And we could do that live on the ship, when usually it takes a couple of weeks of staining and mounting to see anything,” Osborn said. The expedition discovered thirty-one new marine species in two weeks. The article doe",
+      "pubDate": "2026-07-31T21:06:46.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/31/captivecrunch-midnight-blizzard-targets-travelers-worldwide-for-malware-delivery-and-credential-theft/",
+      "description": "Storm-2945, a sub-cluster of the Russian threat actor Midnight Blizzard, has been observed compromising the sign-in portals of hospitality-related organizations such as hotels since May 2026 in order to deliver malware to travelers and steal credentials in an operation we call CaptiveCrunch. The post CaptiveCrunch: Midnight Blizzard targets travelers worldwide for malware delivery and credential theft appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-07-31T21:01:37.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-43.webp"
+    },
+    {
+      "title": "OpenAI says its new GPT 5.6 models are becoming more cost-efficient",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-says-its-new-gpt-56-models-are-becoming-more-cost-efficient/",
+      "description": "OpenAI says it has reduced the price of two GPT-5.6 models, cutting Luna's API price by 80% and Terra's by 20% as it works to make its models more efficient. [...]",
+      "pubDate": "2026-07-31T18:52:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/08/ChatGPT.jpg"
+    },
+    {
+      "title": "Suspected Chinese-Speaking Hackers Target Central Asian Governments With OctLurk and SilkLurk",
+      "link": "https://thehackernews.com/2026/08/suspected-chinese-speaking-hackers.html",
+      "description": "A Chinese-speaking threat actor is suspected to be behind a fresh wave of cyber attacks targeting government organizations mainly located in Central Asia, including Afghanistan, Kyrgyzstan, Tajikistan, Uzbekistan, Kazakhstan, and the Syrian Arab Republic, since January 2025. These targeted organizations operate across several sectors, such as healthcare, research, government offices,",
+      "pubDate": "2026-07-31T18:52:04.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjmBagWdesuJqVgNAHPh7t75IGrajY_oJeL9HHI7r23AK7CuLUN22-GBwDCWJWTlIutBApsdhSGproqxtR6kV_Dg04FT2zc6vZXZCQed8Kx3bD-jw-VXkYfAHlJsNgcQOcqRFW8TTh1kyN34MisnGx3ImU9vejv_oNy4jN0sPNcPM7jclq7klrMmGrnROjk/s1600/chinese-hackers.jpg"
+    },
+    {
+      "title": "CISA Issues Fresh SBOM Guidance. Did They Get It Right?",
+      "link": "https://www.darkreading.com/cybersecurity-operations/cisa-issues-fresh-sbom-guidance",
+      "description": "A couple-dozen changes to SBOM fields will make them more comprehensive, but some argue that the framework lacks real risk-management improvements.",
+      "pubDate": "2026-07-31T18:13:11.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ea01097eb709f8a/6a6ce63bcc814023251d23dd/Long_list-erhui1979-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hacker uses DeepSeek AI to autonomously attack vulnerable servers",
+      "link": "https://www.bleepingcomputer.com/news/security/hacker-uses-deepseek-ai-to-autonomously-attack-vulnerable-servers/",
+      "description": "A Chinese-speaking threat actor is using the DeepSeek AI model and the open-source Hermes Agent to conduct autonomous cyberattacks on exposed servers with limited human involvement. [...]",
+      "pubDate": "2026-07-31T17:35:35.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/23/AI-2.jpg"
+    },
+    {
+      "title": "Anthropic’s Opus 5 Is Better at Resisting Prompt Injection",
+      "link": "https://www.schneier.com/blog/archives/2026/07/anthropics-opus-5-is-better-at-resisting-prompt-injection.html",
+      "description": "The chart is interesting. On the IPI benchmark, Opus 5 improved over Opus 4.8, reducing the probability of an attacker succeeding within 15 attempts from 5.5% to 2.0%, and from 0.5% to 0.2% on 1 attempt. It also improved on Sonnet 5 (5.9% at k=15) and Mythos 5 (2.6%), making it the most robust model evaluated. Opus 5 also outperformed all non-Claude models on this benchmark. The most robust non-Claude model was Muse Spark at 16.5% within 15 attempts—more than eight times Opus 5’s rate. The most capable GPT 5.6 variant, Sol, was comparable to its predecessor GPT 5.5 (20.0% versus 20.8% within 1",
+      "pubDate": "2026-07-31T17:23:16.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "CISA warns of cyberattacks disrupting U.S. water utilities",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-cyberattacks-disrupting-us-water-utilities/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) is warning of a significant increase in attacks targeting internet-exposed programmable logic controllers (PLCs) in the water and wastewater systems sector. [...]",
+      "pubDate": "2026-07-31T16:49:49.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/08/11/industrial-control-system.jpg"
+    },
+    {
+      "title": "HollowFrame Loader Deploys Matryoshka Backdoor in Spear-Phishing Attack on Law Firm",
+      "link": "https://thehackernews.com/2026/07/hollowframe-loader-deploys-matryoshka.html",
+      "description": "Cybersecurity researchers have shed light on a previously undocumented Go-based loader framework called HollowFrame and a Rust-based malware family tracked as Matryoshka. According to Blackpoint Cyber, the intrusion sequence begins with a spear-phishing message containing a link to an encrypted archive, which holds a Windows Shortcut (LNK). Executing the file triggers a multi-stage chain that",
+      "pubDate": "2026-07-31T16:39:31.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgjOaqDYzKWLfOEp56DfMjSmDMudw7Y3DBFUY_xOhGNTnzRYlKw9YCNNbjLvepf-vDHB_KVSSA-KZjx2dNXjJR3ZpTpS_IgGSfhLRjyR2P8ocr_uWQ1w5UcYpuXnycnyv2tPtDqXoZMvD9pqgCNCPDrYMwAup0ftaycFLYzxHvdoOWhEA1ZXffc9ahBpkj5/s1600/law-firm.jpg"
+    },
+    {
+      "title": "In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research",
+      "link": "https://www.securityweek.com/in-other-news-openai-open-source-tool-aws-links-hacks-to-north-korea-mythos-crypto-research/",
+      "description": "Noteworthy stories that might have slipped under the radar: parcel delivery company OnTrac hacked, Adobe patches, UK Department for Education loses 607,000 records. The post In Other News: OpenAI Open Source Tool, AWS Links Hacks to North Korea, Mythos Crypto Research appeared first on SecurityWeek.",
+      "pubDate": "2026-07-31T15:47:02.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers",
+      "link": "https://www.securityweek.com/cyberattacks-on-minnesota-water-systems-investigated-as-officials-warn-about-iranian-hackers/",
+      "description": "Iran has the “geopolitical motivations” and a recent history of targeting water systems, experts pointed out. The post Cyberattacks on Minnesota Water Systems Investigated as Officials Warn About Iranian Hackers appeared first on SecurityWeek.",
+      "pubDate": "2026-07-31T15:17:41.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Water-Utility-Cyberattack.jpg"
+    },
+    {
+      "title": "Cheap Android TV Boxes Pose as Phones and Turn Owners’ Broadband Into Proxies",
+      "link": "https://thehackernews.com/2026/07/cheap-android-tv-boxes-pose-as-phones.html",
+      "description": "Bitsight says some cheap Android TV boxes have shipped with apps that rewrite their hardware identity to mimic Samsung, Huawei, Xiaomi, or Vivo phones, then click ads on websites run by the same operators. Researchers named the operation Fuyao and attributed it to Zhejiang Fengwo IoT Technology Co., Ltd., a mainland China company founded in 2019. The same apps have a second job. When a box",
+      "pubDate": "2026-07-31T14:45:01.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhxfc7_NuArKSujgjgzPzENagYVTlBxcvnFBXSbptnFs_TI1o-Zt5SINHtPEO5MNkJ3vwkKUTX68vwmCzVxRQVFcgnb9eXwAsLKayCtzMLVRuqwV3RDaWTgQNOm0CVXcV_jX1v4x4mgEthTDjAsZdF4BSPSuTTRqKnM6qbIhPVjZP38dHmpptNurSmXRM/s1600/android-tv.jpg"
+    },
     {
       "title": "ESET tracks rise in malicious AI skills and adaptable malware",
       "link": "https://www.bleepingcomputer.com/news/security/eset-tracks-rise-in-malicious-ai-skills-and-adaptable-malware/",
@@ -48,7 +201,7 @@
     {
       "title": "DROP Platform Lets Californians Reduce Digital Footprint",
       "link": "https://www.darkreading.com/data-privacy/drop-platform-lets-californians-ditch-their-data",
-      "description": "The Delete Request and Opt-out Platform (DROP) launches Aug. 1 and hundreds of thousands of California residents already registered. Other states could follow if the process goes smoothly.",
+      "description": "Hundreds of thousands of California residents have already registered for the Delete Request and Opt-out Platform (DROP), which launches Aug. 1. Other states could follow if the process goes smoothly.",
       "pubDate": "2026-07-31T13:19:36.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -199,6 +352,15 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png"
     },
     {
+      "title": "When AI doesn’t know the target is real",
+      "link": "https://www.sophos.com/en-us/blog/when-ai-doesnt-know-the-target-is-real",
+      "description": "The follow-up to the Hugging Face breach is a disclosure from Anthropic Categories: Security Operations Tags: AI, Hugging Face, Anthropic, OpenAI",
+      "pubDate": "2026-07-31T00:00:00.000Z",
+      "source": "Sophos Naked Security",
+      "category": "news",
+      "image": null
+    },
+    {
       "title": "South Korea fines telco giant KT $39 million for customer data breach",
       "link": "https://www.bleepingcomputer.com/news/security/south-korea-fines-telco-giant-kt-39-million-for-customer-data-breach/",
       "description": "South Korea's Personal Information Protection Commission (PIPC) has fined telecommunications giant KT Corporation KRW 53.979 billion ($39 million) over data protection violations. [...]",
@@ -250,16 +412,7 @@
       "pubDate": "2026-07-30T19:40:40.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt33ea1925a9f97ba7/6a18a8b047696a7d03d6ca07/rube-goldberg-machine-complexity-T_N_Sursock-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Okta to Acquire Identity Threat Detection Firm Permiso",
-      "link": "https://www.securityweek.com/okta-to-acquire-identity-threat-detection-firm-permiso/",
-      "description": "The deal extends Okta's reach beyond identity management and into the realm of security operations, positioning the company to compete more directly on identity threat detection and response. The post Okta to Acquire Identity Threat Detection Firm Permiso appeared first on SecurityWeek.",
-      "pubDate": "2026-07-30T19:10:26.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Okta-Cybersecurity.jpg"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
@@ -334,15 +487,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/02/17/Microsoft_Teams.jpg"
     },
     {
-      "title": "Timeless Compliance: Why Better Questions Beat Bigger Frameworks",
-      "link": "https://www.securityweek.com/timeless-compliance-why-better-questions-beat-bigger-frameworks/",
-      "description": "The best compliance programs aren't the biggest ones. They're the ones built on a short list of questions that can actually be answered, and that still hold true when the models change. The post Timeless Compliance: Why Better Questions Beat Bigger Frameworks appeared first on SecurityWeek.",
-      "pubDate": "2026-07-30T15:46:17.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/AI-artificial-intelligence-model-frontier.webp"
-    },
-    {
       "title": "Claude Mythos — Hype vs. Reality: What Security Teams Need to Know",
       "link": "https://www.darkreading.com/cybersecurity-operations/claude-mythos-hype-vs-reality",
       "description": "In this edition of Reporters' Notebook, our journalists discuss the ins and outs of Anthropic's Claude Mythos rollout. How seriously should we take its risks? How big of a deal is it?",
@@ -359,24 +503,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg"
-    },
-    {
-      "title": "Analog Devices discloses data breach, says operations unaffected",
-      "link": "https://www.bleepingcomputer.com/news/security/analog-devices-discloses-data-breach-says-operations-unaffected/",
-      "description": "American semiconductor company Analog Devices announced that an unauthorized party accessed some of its systems and exfiltrated certain files. [...]",
-      "pubDate": "2026-07-30T15:12:25.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/30/analog-devices.jpg"
-    },
-    {
-      "title": "After the Break-In: What Attackers Do Once They're Already Inside",
-      "link": "https://www.bleepingcomputer.com/news/security/after-the-break-in-what-attackers-do-once-theyre-already-inside/",
-      "description": "Attackers rarely stop after gaining initial access. Huntress analyzes a real-world intrusion to show how threat actors establish persistence, disable defenses, and reshape compromised systems, and why defenders must investigate the original entry point rather than simply remove the malware. [...]",
-      "pubDate": "2026-07-30T14:01:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/07/28/20260727_Bleeping-Computer-Article_AftertheBreakIn_1600x900.png"
     },
     {
       "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
@@ -514,15 +640,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64dd0d457b1c0a07/6a6a64473ece06782ad0a027/Eagle-Tatsuya_Sakamoto-GettyImages-2223926307.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Russian hackers exploit Exchange OWA zero-day for long-term mailbox access",
-      "link": "https://www.bleepingcomputer.com/news/security/russian-hackers-exploit-exchange-owa-zero-day-for-long-term-mailbox-access/",
-      "description": "The Russian state-sponsored hacking group Laundry Bear, also known as Void Blizzard, is exploiting an Exchange Outlook Web Access vulnerability in email campaigns to deliver a sophisticated backdoor called OWAReaper. [...]",
-      "pubDate": "2026-07-29T23:44:07.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/09/Russian__hackers.jpg"
-    },
-    {
       "title": "Smashing Security podcast #478: This job interview could destroy your company",
       "link": "https://grahamcluley.com/smashing-security-podcast-478/",
       "description": "You've been headhunted for a great job in cryptocurrency. All you have to do is complete a short online assessment - with your webcam on, of course, so they can verify who you really are. Which is ironic, because the person recruiting you doesn't exist. And North Korean hackers using this trick have already made off with $643 million in crypto this year alone. Meanwhile, researchers at UC San Diego have discovered that 2.2 million cars across the United States can be unlocked or immobilised by anyone with a bit of Bluetooth kit - thanks to one aftermarket car alarm that made a truly spectacula",
@@ -530,24 +647,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-478-1.webp"
-    },
-    {
-      "title": "Anthropic confirms Claude is down worldwide",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-confirms-claude-is-down-worldwide/",
-      "description": "Claude is down for some users, with Anthropic confirming elevated errors across multiple AI models. The disruption is causing requests to fail with a \"529 Overloaded\" message, including in Claude and tools that rely on its API. [...]",
-      "pubDate": "2026-07-29T21:39:29.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
-    },
-    {
-      "title": "Cisco warns of FMC static credential flaw exploited in zero-day attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-fmc-static-credential-flaw-exploited-in-zero-day-attacks/",
-      "description": "Cisco is warning that a high-severity Secure Firewall Management Center (FMC) static credential vulnerability, tracked as CVE-2026-20316, was actively exploited in zero-day attacks to gain unauthorized access to vulnerable devices. [...]",
-      "pubDate": "2026-07-29T21:35:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco-headpic.jpg"
     },
     {
       "title": "OpenAI's Rogue Model Claims More Victims Beyond Hugging Face",
@@ -575,15 +674,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjswJ2Clfk448ySFwyQiVVviqzKzT4B9iwnvVio4_dzvA1TXPnNuDJUI8MozBddPvdWmL2JH3jVvzTxg8A2Z6X9qNPYtxjuVx7RKQkMW8vNVBIEs0sgcrLfywQVufYMEKpxa0vgo2k24bNa_EJaudCFTsvlqQKqbT3jsuzRJdI26GR4pRJrkNKAFx_xiKk/s1600/rubyrails.jpg"
-    },
-    {
-      "title": "Health-ISAC warns of rising ShinyHunters data theft attacks on healthcare",
-      "link": "https://www.bleepingcomputer.com/news/security/health-isac-warns-of-rising-shinyhunters-data-theft-attacks-on-healthcare/",
-      "description": "Health-ISAC, a cybersecurity information-sharing organization for the health sector, is warning healthcare and medical technology organizations of an observed increase in successful attacks by ShinyHunters. [...]",
-      "pubDate": "2026-07-29T17:54:05.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/08/22/healthcare-cyber.jpg"
     },
     {
       "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
@@ -667,42 +757,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh2Bq6dazLT-P0v4T1DEwFJ86iFFR6sRJnNqjoFBKPVc0FuCvvys-WCkQjT86mHuwxs_DuEpBBb1_y8sOyqqFu7Smth-4YGfw7tTawHxUD9RxGs2Dzau_QCJXc4GtRCnUsNMwbgrx2jh8ozwPpo3udCn4t63ntw6B25phrH1meZil0zODzpvhXViz7Z8-k/s1600/water-plant-attack.jpg"
     },
     {
-      "title": "Nine-Year Fraud Campaign Clones Russian Company Sites to Steal Advance Payments",
-      "link": "https://thehackernews.com/2026/07/nine-year-fraud-campaign.html",
-      "description": "Cybersecurity researchers have disclosed details of a large-scale fraud campaign that involves creating lookalike websites of major Russian companies with an aim to siphon funds from international firms for more than nine years. According to Russian cybersecurity vendor F6, the threat actors have set up clone websites of Russian companies across fertilizer manufacturers, petrochemical companies",
-      "pubDate": "2026-07-29T13:42:57.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhD9hThKkBhl022O0TklhaF1JKxLj1RKJjnUgfHzzyuxctFOR0UIyUS0FH1No7KlXJHHmQwUKafQf0UYDm0g6v5RU0m1VS-7v-NtgBCW0OXsPhVeX-IAnluUD-FpMoyTc-wrN55GFssISEWcfJNhBPywn7Pp35cww_lLDZdrWxEqpGWgC15vSK_N4Qo1eM/s1600/russian-hacking.jpg"
-    },
-    {
-      "title": "Mythos Asks the Right Question. It Doesn't Answer It.",
-      "link": "https://thehackernews.com/2026/07/mythos-asks-right-question-it-doesnt.html",
-      "description": "AI is compressing exploit timelines. The real question isn't whether your vulnerability management playbook needs to change, it's which part of it you've been getting wrong all along. The conversation happening in security circles right now goes something like this: Mythos is here. Exploit timelines are collapsing. Does the vulnerability management playbook need to change? The honest answer is",
-      "pubDate": "2026-07-29T12:15:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj0mieQQ57yqCRvM0amMKsszEvpX9AK9C4fSA6fyD6rx9VpNdjgYpiFk2D_AfSYT386yNTNuL1-ki2llA_LR-LXYw9r0p0nb2FZCnnP-u33sN2McktovTGN13k_n_i7HExGQdX6GcRSG0uKJAawc_6wusYkt37jY5sTvjz7k8kLa8RTIZM_NABBL64mbnY/s1600/meshs.jpg"
-    },
-    {
-      "title": "Researchers Show a Single Malicious Webpage Visit Can Compromise Tor Browser",
-      "link": "https://thehackernews.com/2026/07/researchers-show-single-malicious.html",
-      "description": "Nebula Security says a patched Firefox JIT flaw could be triggered by simply visiting a malicious webpage and was also used to compromise Tor Browser. Tracked as CVE-2026-10702, the bug provides arbitrary code execution inside the browser's renderer process. Mozilla rated it High and fixed it in the Firefox 151.0.3 update. \"No settings or additional user interaction are required,\" Eten Zou,",
-      "pubDate": "2026-07-29T11:57:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiOwFIxqT8kRBNj9LdZBZhO1g2RPJwUttxQosrS_mPoNXkIR-JB-yM87HPzuPZ1tazourGhRg9Sco6YQEGZkC77DSqXBYjp0DkNDAUHOaAOnIisRYNPAQfNWwqnmoILXOgR0wwyGVNlU3kSVRU6TcfyAx5ztaAWZfbKnCDJYgUeIVsM7n7O2zq7fGc-xnI/s1600/tor-exploit.gif"
-    },
-    {
-      "title": "73% of Organizations Say They Are Not Fully Ready for a Major Cyberattack",
-      "link": "https://thehackernews.com/2026/07/73-of-organizations-say-they-are-not.html",
-      "description": "Most organizations have incident response plans, security tools, and technical teams in place. Yet new research suggests that many still lack the coordination, visibility, and executive alignment needed to withstand a serious cyberattack. According to The State of Incident Response Readiness 2026, based on a survey of 600 senior IT security decision makers conducted by Vanson Bourne in January",
-      "pubDate": "2026-07-29T11:13:10.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEixbolkSzPCa__qy94Mm27YfEsvVeyY94SOG5BrCQCGtAe-QenE0qDM5Tkbb7eOy0PwSCECFGMrZ7IG7lVePoMWjqMn8s_7-5_r8JUSQ7WVHsHAo-zZIhyphenhyphenyNW5aGTbFkpgtu99ucSeEgcJK75UdxkAsWKjXf_x8zEGpcDURPf9UJjcDz8JSHFD0uahDcOI5/s1600/ss.jpg"
-    },
-    {
       "title": "Long-Lived Vulnerability in Microsoft Secure Boot",
       "link": "https://www.schneier.com/blog/archives/2026/07/long-lived-vulnerability-in-microsoft-secure-boot.html",
       "description": "Microsoft’s Secure Boot has had a serious vulnerability for most of its existence. An industry-wide standard Microsoft invented to protect Windows, and later Linux, devices from firmware infections has been trivial to bypass for 13 of its 14 years of existence. The discovery was made by researchers at security firm ESET after identifying 11 firmware images, at least one from 2013, that were known to be defective but remained signed by the software company anyway. The images are known as shims, which were invented to extend Secure Boot to Linux devices and utility software. Using a technique si",
@@ -710,15 +764,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Russia Charges Telegram Founder Pavel Durov With Aiding Terrorist Activity",
-      "link": "https://thehackernews.com/2026/07/russia-charges-telegram-founder-pavel.html",
-      "description": "The Federal Security Service of the Russian Federation (FSB) on Wednesday said it charged Telegram founder Pavel Durov for allegedly facilitating terrorist activities and for failing to remove prohibited information in violation of Russian law. The principal security agency said the instant messaging platform \"failed to remove numerous channels, chats, and bots on the platform that are",
-      "pubDate": "2026-07-29T11:00:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMUnFYtFjTBTc4gylDAEu-XkRP-crArKjOPCGhPhdX7S3Of7UKlVyAbHVb9CyAStiVaXJkXjUgXssYTKSJNnQvJvxdn_diL69NGa-2lhE_6GJCBFp0qMshbqCPnCksje_5yYMqhqh43Np9-CEkjJDa_gs6Axq0lxbi12SlPKqPWf-s6_Roin-zR0DIBjvy/s1600/x-post-telegram.jpg"
     },
     {
       "title": "Inside Astaroth's New Spambot Component",
@@ -847,15 +892,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt858353272bfe1d66/6a67aa58d69290224aaaac5a/confusedeputy-sjharmon-Getty-174844180.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FBI: Breaking Affiliate Trust Sped Along LockBit's Takedown",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fbi-breaking-affiliate-trust-lockbit-takedown",
-      "description": "An FBI agent explains how the mulitnational law-enforcement Operation Cronos was successful in disrupting the largest ransomware group of its time.",
-      "pubDate": "2026-07-27T20:33:29.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1369910f8c4361ac/6a67667e18998400d30c8d1e/FBIhoody_jvphoto_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Rethinking security for the age of AI",
       "link": "https://blogs.microsoft.com/blog/2026/07/27/rethinking-security-for-the-age-of-ai/",
       "description": "The physics of cybersecurity are changing. Introducing security's new cyber stack: Project Perception. The post Rethinking security for the age of AI appeared first on Microsoft Security Blog.",
@@ -908,24 +944,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template-2.jpg"
-    },
-    {
-      "title": "Friday Squid Blogging: Illex Squid Catch in the Falklands",
-      "link": "https://www.schneier.com/blog/archives/2026/07/friday-squid-blogging-illex-squid-catch-in-the-falklands.html",
-      "description": "Lower catch this year. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
-      "pubDate": "2026-07-24T21:06:00.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
-      "title": "Why AI Needs a “Genie Coefficient”",
-      "link": "https://www.schneier.com/blog/archives/2026/07/why-ai-needs-a-genie-coefficient.html",
-      "description": "This essay was written with Barath Raghavan, and originally appeared in IEEE Spectrum. Major benchmarks measure what AI can do. None measure whether it does what you mean: the distance between what you ask an AI to do and the unspoken assumptions about how you want the AI to do it. We propose a new metric: the Genie coefficient. There’s often a gap between one person’s request and another’s understanding. Most of the time, we bridge it using general knowledge. For example, if you ask a friend to get you coffee, they’ll pour a cup from the pot or buy one from a coffee shop. They won’t bring you",
-      "pubDate": "2026-07-24T11:03:06.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Email threat landscape: Q2 2026 trends and insights",
@@ -1106,15 +1124,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-476.webp"
-    },
-    {
-      "title": "Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/15/unpacking-asyncapi-npm-supply-chain-compromise-import-time-payload-delivery/",
-      "description": "Threat actors compromised AsyncAPI packages and weaponized trusted CI/CD workflows to distribute malware through npm. This analysis breaks down the attack chain, payload delivery, and recommended defenses. The post Unpacking the AsyncAPI npm supply chain compromise and import-time payload delivery appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-07-16T01:36:21.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-14.webp"
     },
     {
       "title": "The npm Threat Landscape: Attack Surface and Mitigations (Updated July 15)",
@@ -1574,15 +1583,6 @@
       "source": "Sophos Naked Security",
       "category": "news",
       "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt546eebcb6be5d09d/6939427a09bc383b6ee34a63/GettyImages-504085304.jpg"
-    },
-    {
-      "title": "What happens when a cybersecurity company gets phished?",
-      "link": "https://www.sophos.com/en-us/blog/what-happens-when-a-cybersecurity-company-gets-phished",
-      "description": "A Sophos employee was phished, but we countered the threat with an end-to-end defense process Categories: Security Operations Tags: Featured, MFA, MFA phishing, Sophos X-Ops",
-      "pubDate": "2025-09-22T06:00:08.000Z",
-      "source": "Sophos Naked Security",
-      "category": "news",
-      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/blt0487f4c136ddc0dd/69100d2519999397a0e5b487/shutterstock_2478523449.jpg"
     },
     {
       "title": "WebSocket Turbo Intruder: Unearthing the WebSocket Goldmine",
