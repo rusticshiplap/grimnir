@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-01T17:31:38.085Z",
+  "generatedAt": "2026-08-01T19:12:42.841Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Coldcard Hardware Wallet Flaw Linked to $70 Million Bitcoin Theft in 41 Minutes",
+      "link": "https://thehackernews.com/2026/08/coldcard-hardware-wallet-flaw-linked-to.html",
+      "description": "An attacker drained 1,196 Bitcoin addresses in 41 minutes on July 30, taking 1,082.65 BTC worth about $70.2 million at the time. Galaxy Research mapped the sweep and tied it to a firmware flaw in Coldcard, the Bitcoin-only hardware wallet made by Canadian firm Coinkite. A March 2021 firmware integration error routed seed generation to a deterministic software pseudorandom number generator (PRNG",
+      "pubDate": "2026-08-01T17:17:22.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiea5Kw_2TLtPI4Ts3s3anmPIQr3S8VxO0G9yL-UV1dSlRrW1Z_L41XoHcSFuk2ThCBDKLFy-xZl_y7DnA0FM2nWHk4G1TpV2iMx6-X6EDT3gK7s0pJu6e1wMUoEsuPifcXseXuqOIHL3W9voWoD_se5gKJPyii4X0mJY7sxJ3uOPlTWVfAyrKs4ixa-18/s1600/coldcard.jpg"
+    },
     {
       "title": "Rails patches critical Active Storage flaw with RCE potential",
       "link": "https://www.bleepingcomputer.com/news/security/rails-patches-critical-active-storage-flaw-with-rce-potential/",
@@ -737,15 +746,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCgiIKxPiETcU1yIlU2RFsHgjXg2uLgbzaJ-98y7sPuujYarFbc0FdMqSRLIKJ1hYrsGLCZTCf5k40RtQ2PgwmA2L6tLAidOymHNIduXN3vtU0u0BsI37PLgWK8gwla3oTYkdD8ggssjMfF_5PuC9-exVYpBcqjg9tvscJ7XNAaHJxeUmCj-WP8VttRSgy/s1600/mcp.jpg"
-    },
-    {
-      "title": "Three Critical VMware Flaws Allow Auth Bypass, Code Execution, and VM Escape",
-      "link": "https://thehackernews.com/2026/07/three-critical-vmware-flaws-allow-auth.html",
-      "description": "Broadcom has released security updates to address multiple security flaws impacting VMware ESX, vCenter, Workstation, and Fusion, three of which have been designated as critical in severity. The first of the three critical-rated flaws is CVE-2026-59309 (CVSS score: 9.8), which has been described as an authentication bypass in VMware vCenter. \"A malicious actor with network access to vCenter",
-      "pubDate": "2026-07-29T15:31:15.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLKz0u1mJIVvPAxiFFqsvkMVXxyXqS_paYhbtTRFLoIWyl5Q_FwIrJjruxEYH0LAdzJm38P48m_T_24ycKfjPs2bg6FUoy2IWVUxH7SpNtiSJuExOy3dDEAWprGwkvhY5005OPyFUzl2qJzAztAckgZNLVzqlp34s9HtQ3wrvq6lDCcXgYwfOXKF08wtdp/s1600/vmware.jpg"
     },
     {
       "title": "Patch-Resistant 'RufRoot' Flaw Can Unleash Malicious AI Agent Swarms",
