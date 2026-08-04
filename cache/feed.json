@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T01:00:00.300Z",
+  "generatedAt": "2026-08-04T12:25:59.828Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,114 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover",
+      "link": "https://www.securityweek.com/tp-link-omada-ztp-vulnerabilities-chain-into-full-network-takeover/",
+      "description": "Forescout researchers have found 15 new vulnerabilities in the TP-Link Omada networking ecosystem. The post TP-Link Omada ZTP Vulnerabilities Chain Into Full Network Takeover appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T12:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/10/Tp-Link.jpeg"
+    },
+    {
+      "title": "Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering",
+      "link": "https://www.securityweek.com/gemini-agent-to-agent-attack-exposed-secrets-enabled-pull-request-tampering/",
+      "description": "A crafted prompt to a low-privilege Google ADK agent could be used to pass a malicious hand-off comment to a privileged agent. The post Gemini Agent-to-Agent Attack Method Exposed Secrets, Enabled Pull Request Tampering appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T10:54:30.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/Gemini.jpeg"
+    },
+    {
+      "title": "New cPanel Critical Flaw Could Let Hosting Customers Run SQL as Database Root",
+      "link": "https://thehackernews.com/2026/08/new-cpanel-critical-flaw-could-let.html",
+      "description": "cPanel has patched a flaw that let an authenticated hosting customer execute SQL in the database's root context, crossing the privilege boundary between a cPanel account and the server's administrative database identity. It shipped in a targeted security release that closes two other routes past account boundaries. The database bug is tracked as CVE-2026-58048 (CVSS 4.0 score: 9.4) and affects",
+      "pubDate": "2026-08-04T10:36:27.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi2LFB09rf16kl1_PinOnHkAY4GiI38_azQ2t-EWYRicFndp5DX-5KSfwVVEJxwEKp07oouBfkFg71MxwilLY_M2i3clk82hs5-Xr-PgDj69JeYzTsPjp_8sdNZIminQFonHRq2GqWDXJuwGqpT4Na485_pILlvMSlBdSMqWYWqTHDrUC_9OdOW-kCdSeM/s1600/cpanel.jpg"
+    },
+    {
+      "title": "Some Claude Chats Are Searchable on Google",
+      "link": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
+      "description": "And it’s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information like peoples’ addresses. What seems to be the issue is a user setting about data sharing. Anthropic’s position is that it’s not their problem: “We give people control over sharing their Claude conversations publicly, and in keeping with our privacy principles, we do not sha",
+      "pubDate": "2026-08-04T10:13:58.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks",
+      "link": "https://www.securityweek.com/decades-old-bmc-vulnerability-exposes-thousands-of-data-centers-to-attacks/",
+      "description": "Over 24,000 internet-accessible server-management interfaces disclose authentication hashes before login. The post Decades-Old BMC Vulnerability Exposes Thousands of Data Centers to Attacks appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T09:56:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Data-center-Cybersecurity-1.jpg"
+    },
+    {
+      "title": "DOUBLECUP Uses ClickFix and Cached PNGs to Deliver CountLoader and DeviceManager RAT",
+      "link": "https://thehackernews.com/2026/08/doublecup-uses-clickfix-and-cached-pngs.html",
+      "description": "A new Russian loader-as-a-service (LaaS) codenamed DOUBLECUP has been using ClickFix lures as a way to stage malware-laced PNG images in victims' browser cache and ultimately deliver CountLoader and a previously undocumented remote access trojan called DeviceManager. \"The first stage drops a steganographic PNG image into the browser's cache, retrieves its hidden content, and executes the second",
+      "pubDate": "2026-08-04T09:03:23.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh0MM7WIz9TI9RxDFZ-toTt_tLMlGIJGGyqnPZ5m68ft2_h16hOepWgOlGkRdx7KdUaRjz7GxanOYCp3167ZvcaWo1MV9ihUjZb6dHyX4Ss8SV6X4GGpobunHDfXs83HKppsCR-TT8quPfiNmH1Z-7EvWRZ4cdyHsHRsmlVshEJpDa76yUCjaWy0-xXaeeS/s1600/double.jpg"
+    },
+    {
+      "title": "Fake IRS letters target cryptocurrency holders",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/fake-irs-letters-cryptocurrency",
+      "description": "Do you hold cryptocurrency? Have you received a letter telling you that you must register with a so-called \"Digital Asset Compliance Portal\"? If so, it's time to hit the brakes, because it sounds like someone is trying to scam you. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-08-04T09:02:46.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/08/irs-letter.jpeg"
+    },
+    {
+      "title": "150,000 Impacted by Madera Community Hospital Data Breach",
+      "link": "https://www.securityweek.com/150000-impacted-by-madera-community-hospital-data-breach/",
+      "description": "An extortion group stole personal, financial, and medical information from the hospital’s network. The post 150,000 Impacted by Madera Community Hospital Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T08:33:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/05/healthcare-medical-data-breach-.jpeg"
+    },
+    {
+      "title": "CISA Adds Exploited N-able N-central Flaw to KEV After Customer Compromises",
+      "link": "https://thehackernews.com/2026/08/cisa-adds-exploited-n-able-n-central.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a high-severity security flaw impacting N-able N-central to its Known Exploited Vulnerabilities (KEV) catalog following reports of active exploitation in the wild. The vulnerability, tracked as CVE-2026-18577 (CVSS score: 8.2), is a case of incomplete patching for CVE-2026-18556 (CVSS score: 8.2) that allows",
+      "pubDate": "2026-08-04T07:00:13.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhbA9omGpwD_xkaXsQD13QewwbHkZMx1FrBHBvsnFkbjkFTY6F679EEe_xtesc1R6ToZIZlHq4osq4AmGAI-74IHaagkIP7KhQp3X_QtlwaMx2ALTqs_sZTdtpmJNd1UHf_Mq2F9jfmz8viAlapY4gFUa5ZLAEtF_VjjzebWZApbU1VDElceFwS4sa2rR5C/s1600/cisa.png"
+    },
+    {
+      "title": "Device Code Phishing Up 1,500% in 2026; Vishing Doubles",
+      "link": "https://www.darkreading.com/cybersecurity-analytics/device-code-phishing-vishing-doubles",
+      "description": "Newer social engineering techniques help attackers ignore entrenched security controls and limit the evidence they leave behind.",
+      "pubDate": "2026-08-04T07:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf8cb92ec3a1b658c/6a6ba8c846e652e76b7b7790/QR_code-Abu_Hanifah-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers",
+      "link": "https://www.securityweek.com/microsoft-bug-bounty-program-20-million-paid-to-500-researchers/",
+      "description": "The biggest single reward paid out by Microsoft between July 1, 2025, and June 30, 2026, was $200,000. The post Microsoft Bug Bounty Program: $20 Million Paid to 500 Researchers appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T05:18:34.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Microsoft.jpeg"
+    },
+    {
+      "title": "New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems",
+      "link": "https://www.securityweek.com/new-york-awards-9-million-to-strengthen-cybersecurity-at-153-water-systems/",
+      "description": "The grants will help local governments assess and improve cyber defenses amid a multistate campaign targeting water and wastewater infrastructure. The post New York Awards $9 Million to Strengthen Cybersecurity at 153 Water Systems appeared first on SecurityWeek.",
+      "pubDate": "2026-08-04T01:54:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/03/Water-Supply-Cybersecurity.jpeg"
+    },
     {
       "title": "Hotel Wi-Fi attacks use custom malware to breach Microsoft 365 accounts",
       "link": "https://www.bleepingcomputer.com/news/security/hotel-wi-fi-attacks-use-custom-malware-to-breach-microsoft-365-accounts/",
@@ -208,33 +316,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2023/05/Open-Banking-Cybersecurity.jpg"
     },
     {
-      "title": "Horizon3 Raises $250 Million to Fund Continuing Growth",
-      "link": "https://www.securityweek.com/horizon3-raises-250-million-to-fund-continuing-growth/",
-      "description": "Venture financing has become an essential factor in growing new business in today’s fast moving economy. Horizon3’s latest funding explains how and why. The post Horizon3 Raises $250 Million to Fund Continuing Growth appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T13:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Horizon3-AI-logo.png"
-    },
-    {
-      "title": "N‑able Patches Vulnerability Exploited to Hack N-central Servers",
-      "link": "https://www.securityweek.com/n-able-patches-vulnerability-exploited-to-hack-n-central-servers/",
-      "description": "The N‑central vulnerability CVE-2026-18577 has been exploited in the wild after threat actors found a patch bypass. The post N‑able Patches Vulnerability Exploited to Hack N-central Servers appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T12:34:06.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/N-Able.jpeg"
-    },
-    {
-      "title": "Brinks Home Discloses Data Breach as Hackers Leak Files",
-      "link": "https://www.securityweek.com/brinks-home-discloses-data-breach-as-hackers-leak-files/",
-      "description": "The physical security firm says its alarm monitoring and system functionality have not been affected. The post Brinks Home Discloses Data Breach as Hackers Leak Files appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T11:45:14.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/home-security.jpeg"
-    },
-    {
       "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
       "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
       "description": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
@@ -262,15 +343,6 @@
       "image": null
     },
     {
-      "title": "Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks",
-      "link": "https://www.securityweek.com/recent-sonicwall-vulnerabilities-exploited-in-ransomware-attacks/",
-      "description": "The INC Ransomware gang has been targeting vulnerable SMA1000 appliances for root access and lateral movement. The post Recent SonicWall Vulnerabilities Exploited in Ransomware Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T10:39:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/SonicWall.jpg"
-    },
-    {
       "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
       "link": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
       "description": "Explore how passkey implementation gaps undermine security when relying parties fail to validate the User Verified flag, reducing MFA to a single factor. The post Pass the Passkey: A Novel Attack Surface in Passwordless Authentication appeared first on Unit 42.",
@@ -280,15 +352,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg"
     },
     {
-      "title": "Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking",
-      "link": "https://www.securityweek.com/russian-state-apt-linked-to-recent-public-wi-fi-gateway-hacking/",
-      "description": "Midnight Blizzard has been stealing Microsoft account credentials via compromised Wi-Fi networks at hospitality organizations. The post Russian State APT Linked to Recent Public Wi-Fi Gateway Hacking appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T09:17:37.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/Wi-Fi.jpeg"
-    },
-    {
       "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
       "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
       "description": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
@@ -296,15 +359,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
-    },
-    {
-      "title": "US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States",
-      "link": "https://www.securityweek.com/us-water-cyberattacks-extend-beyond-minnesota-to-at-least-6-other-states/",
-      "description": "Michigan, South Dakota, and Georgia are reportedly on the list of states whose water systems have been targeted by Iran-linked hackers. The post US Water Cyberattacks Extend Beyond Minnesota to at Least 6 Other States appeared first on SecurityWeek.",
-      "pubDate": "2026-08-03T08:48:02.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/12/Water-Cyberattacks.jpg"
     },
     {
       "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
@@ -667,15 +721,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt311d5c84dfdc72ee/6a6ce6ee9adea769056c3ca3/horse-Mark_Spowart-GettyImages-1475114414.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "DPRK-Linked macOS Malvertising Uses Fake Updates to Deliver Crypto-Stealing Malware",
-      "link": "https://thehackernews.com/2026/07/dprk-linked-macos-malvertising-uses.html",
-      "description": "Threat actors with ties to North Korea have been attributed to a sophisticated macOS malvertising campaign that involves redirecting users to fake web pages displaying a full-screen non-existent update sequence to deliver malware as part of a new iteration of the long-running Contagious Interview campaign. The defining aspect of the attack is that bogus macOS software update screen stealthily",
-      "pubDate": "2026-07-30T18:18:24.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCHbm6QCC9jjGwa-7P1N2PwhDjRvpC2hlS2hl09-DUZa5xdDeHt9qH1zISepl2ERqDzmDbdQ_zfE2vkHDsvE7G8QsetJHjzC45DpPr5-83lc1BGaLHfEwMfdYEA04d5xc7GL02_qkz1HjhIenSKBWF0FZqHnICaLn9agLEoEGnnN2n-smXxYFuQQaYNd8A/s1600/all-secure.jpg"
-    },
-    {
       "title": "American Being Prosecuted for Wiping His Phone Before Handing It Over to Border Officials",
       "link": "https://www.schneier.com/blog/archives/2026/07/american-being-prosecuted-for-wiping-his-phone-before-handing-it-over-to-border-officials.html",
       "description": "He’s being prosecuted for giving border officials a code that wiped his phone: The case centers on a feature included in GrapheneOS, a custom Android operating system that runs in place of the software on most modern Google Pixel devices. Tunick’s attorneys confirmed GrapheneOS was running on his phone. The software feature allows the device owner to set a passcode that deliberately wipes the contents of that device if entered instead of the user’s unlock passcode. Tunick’s case also raises ongoing questions about what constitutional rights can be invoked at the border, which the U.S. governme",
@@ -701,24 +746,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd055540c06ee3acd/6a6ada64165f081ff8010b6c/claude1800_Kenneth_Cheung_GettyImages-2270277028.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "ThreatsDay: AI-Powered Hacking, 370 Chrome Flaws, SonicWall Attacks, DNS Hijacking + 22 More Stories",
-      "link": "https://thehackernews.com/2026/07/threatsday-ai-powered-hacking-370.html",
-      "description": "A lot of security still comes down to trusting the wrong screen. This week, that screen might be a login page, an install guide, a recruiter call, or a familiar service behaving slightly wrong. Behind it: reused credentials, exposed systems, quiet loaders, abused trust, and exploit paths that should have been harder. Some defenses improved. The loose parts still got found first. Anyway,",
-      "pubDate": "2026-07-30T15:25:57.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgNfPEjoHY1NDIrmCVPaZ_dmWbOk0MZwMlh6Odxpqfchn-5rOvsj4PhaBZs4LJvoj5iXhgbBTZzKCNYOPbblXU6kSnVNxEfQER6bNIuhROsSBTrhS6P_mPySTbAS5CvbYgu7lOANl0C6YuLR92om_sS_-9skmNqYT4BDmy_07cTMVj75vUUES70gPicrgGW/s1600/threatsday.jpg"
-    },
-    {
-      "title": "Azure Cosmos DB Flaw Exposed Platform-Wide Key That Could Access Any Database",
-      "link": "https://thehackernews.com/2026/07/azure-cosmos-db-flaw-exposed-platform.html",
-      "description": "A now-patched vulnerability in Azure Cosmos DB could have let an attacker escape the service's Gremlin query sandbox and obtain full read and write access to databases across customer tenants, according to Wiz. Wiz, which codenamed the chain CosmosEscape, said the exploit chain began with a crafted query against a Gremlin database controlled by the attacker. From there, code execution on a",
-      "pubDate": "2026-07-30T13:34:09.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_dFT-y76kGOf4rFOAu6NYNsE2s57G-7dl0a03tULY-f2ZGTbpPeEvu-NUCLVh-bgEdBvecIt28BJLQXUHclBc_IfGP9tBSZyMIm971Myrp2_zhSPyXhCJkhYmSfvLWNRewSsCip2YJfBEWocEEKdXPUL-y_mK8ZcHbBAaTWt8SzXmDJeQoYc6r5ceC6A/s1600/wiz-cosmodb.jpg"
     },
     {
       "title": "Should You Use AI for a Task? Here’s a Simple Way to Decide",
@@ -901,15 +928,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Measuring LLMs’ Ability to Perform Cryptanalysis",
-      "link": "https://www.schneier.com/blog/archives/2026/07/measuring-llms-ability-to-perform-cryptanalysis.html",
-      "description": "There’s new benchmark measuring AI’s ability to perform mathematical cryptanalysis. Anthropic’s frontier model actually found new attacks. The benchmark: “CryptanalysisBench: Can LLMs do Cryptanalysis?” The idea is to benchmark the ability of LLMs to discover new mathematical cryptanalytic attacks against a series of historical algorithms. Abstract: Cryptanalysis—the task of finding attacks against cryptographic schemes—its at the intersection of mathematical reasoning and cybersecurity, two areas where LLMs have advanced fastest. Cryptanalysis represents both a clean testbed for frontier reas",
-      "pubDate": "2026-07-29T01:47:05.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Ghost Credentials Expose Cloud Systems to Hidden Identity Risks",
       "link": "https://www.darkreading.com/cloud-security/non-human-identity-sprawl-creates-a-new-cloud-attack-path",
       "description": "Dormant nonhuman identities can create security blind spots, says security researcher Aleksandr Krasnov, who plans to release an open source tool next week at Black Hat USA 2026 that sniffs out trust paths.",
@@ -926,15 +944,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt90b33999385a7980/6a69132925c14cdcb5cbf34f/datacenter_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "When AI Agents Escape Sandboxes, Old Security Rules Apply",
-      "link": "https://www.darkreading.com/application-security/ai-agents-escape-sandboxes-old-security-rules-apply",
-      "description": "OpenAI's recent AI agent sandbox escape proves traditional security principles matter more than ever: limit access, isolate execution, log everything.",
-      "pubDate": "2026-07-28T20:27:36.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt94af172165d49722/6a690498bd5a135ff4077c33/Sandbox-Ukususha-Getty-530496540.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Rethinking security for the age of AI",
@@ -1376,15 +1385,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/emergency-alert.jpeg"
-    },
-    {
-      "title": "Apple’s Hide My Email tweak leaves privacy fans fuming",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/apples-hide-my-email-tweak-leaves-privacy-fans-fuming",
-      "description": "Apple has long marketed itself as the privacy-first tech giant. So why is it making a change to Hide My Email that will make it easier for websites to block anonymous sign-ups - and harder for you to stay private online? Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-06-19T15:47:53.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/06/hide-my-email.jpeg"
     },
     {
       "title": "Weekly Update 508",
