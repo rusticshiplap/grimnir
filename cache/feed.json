@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T13:11:25.781Z",
+  "generatedAt": "2026-08-05T17:42:21.316Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
+      "pubDate": "2026-08-05T15:51:33.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA_headpic.jpg"
+    },
+    {
+      "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
+      "link": "https://thehackernews.com/2026/08/poison-claude-sells-discounted-claude.html",
+      "description": "Cybersecurity researchers have discovered more than half-a-dozen services advertisements for illegal access to artificial intelligence (AI) models on underground cybercrime forums and messaging platforms. One such service, Poison Claude, claims to offer access to Anthropic's large language models (LLMs), including Opus 4.8, Opus 4.7, Opus 4.6, and Sonnet 4.6. \"Advertisements for Poison Claude",
+      "pubDate": "2026-08-05T15:36:03.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhp3V9f5UsiH1E6dHfRvy0DEOYvcK14BatMbbLVfdPjLbu3PMInRmVXDi4xoGw-pSIuxUjZS1rdv4X7N1V9xRoV9RRVfaYdAWI6OTxKZzOhAlHYh6dKZNeAWCPkaPdGAvwgcOwFQ0atoRBUxKfE_KfhJpnm1yV1tXr5_Wv2yqND0vZCMMEfRB0V220SZbne/s1600/ai-access.jpg"
+    },
+    {
+      "title": "Paperclip AI Flaws Let Attackers Run Host Commands via Malicious Agent Imports",
+      "link": "https://thehackernews.com/2026/08/paperclip-ai-flaws-let-attackers-run.html",
+      "description": "Two security flaws in Paperclip could let attackers execute commands on a network server or a developer's computer. Paperclip is an open-source control plane for teams of artificial intelligence (AI) agents, and both paths rely on importing a malicious agent and starting it. A third flaw could expose sensitive data and control-plane details through application programming interface (API) routes",
+      "pubDate": "2026-08-05T15:14:05.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgnNyDWyCEMrA99LxVQMqKNr188rBBjKa6Kg3nHdjVLxWCCVgfqa0cChHo_JWbHgbSLHgZVpcgWn0kw0FUySWhScczQi6LNme-wY9rkUAxE-IvoFLvfum-zWxEnppDBu6bAHBO0ObN39kCDwSK4jnsqdCAOhCPGG0FtoLX_2vvCi2DcoWPmzGUk6Hs_gB4/s1600/paperclipai.jpg"
+    },
+    {
+      "title": "Google Blogger locks hundreds of blogs in malware false positive",
+      "link": "https://www.bleepingcomputer.com/news/google/google-blogger-locks-hundreds-of-blogs-in-malware-false-positive/",
+      "description": "Google has locked hundreds of Blogger websites after a false positive claimed they violated its \"Malware and Similar Malicious Content\" policy, with some sites deleted from the platform. [...]",
+      "pubDate": "2026-08-05T14:59:29.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/02/Google.jpg"
+    },
+    {
+      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 3)",
+      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-3/",
+      "description": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 3) appeared first on SecurityWeek.",
+      "pubDate": "2026-08-05T14:36:29.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Black-Hat-News.jpg"
+    },
+    {
+      "title": "Veeam, Terraform MCP, Django Patch Critical Flaws, Led by CVSS 10.0 Cross-Tenant Bug",
+      "link": "https://thehackernews.com/2026/08/veeam-terraform-mcp-django-patch.html",
+      "description": "HashiCorp, Veeam, and the Django Software Foundation have patched 11 vulnerabilities across Terraform MCP Server, Veeam Service Provider Console, and Django. The three most serious: An unauthenticated flaw in Veeam's console that hands over a managed agent's credentials, rated 9.5 A cross-tenant flaw in HashiCorp's MCP server that lets one user's Terraform token be reused for later users'",
+      "pubDate": "2026-08-05T14:27:30.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiGDed_n3TJGLHvhq2MkwkQTsKgIv_rOw24MRfYCoHnHiOK7r-VbitMrwXXF9H_Gwbegba20Dla1FLyK70-OQRVxiHfikBFrz6jei3QK5u4ApbR4aYuLikQj1YHU2IzA1V4fnR7Wgcp8H1NoYzSeTTOUd4dNTuE71jNUNq-P4yk0H9FkW55wivMDdNe0nE/s1600/veeam.jpg"
+    },
+    {
+      "title": "How AI-powered phishing killed blocklists for good",
+      "link": "https://www.bleepingcomputer.com/news/security/how-ai-powered-phishing-killed-blocklists-for-good/",
+      "description": "AI is helping attackers create disposable phishing infrastructure and rapidly evolving toolkits that blocklists cannot track fast enough. Push Security explains why browser-level, technique-based detection offers a more durable defense than relying on domains, signatures, and other known-bad indicators. [...]",
+      "pubDate": "2026-08-05T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/08/04/header-image-ai.jpg"
+    },
+    {
+      "title": "Trojanized npm Packages Employ NullReceiver Tactic to Decode C2 IP from Blockchain",
+      "link": "https://thehackernews.com/2026/08/trojanized-npm-packages-decode-c2-ip.html",
+      "description": "Cybersecurity researchers have flagged an evolution of the EtherHiding blockchain-based command-and-control (C2) technique that conceals the C2 server IP address inside a made-up destination address of a completely empty Ethereum transfer. The new dead drop resolver approach, observed in two trojanized npm packages \"bianira-ui\" and \"fluid-type-ui,\" has been codenamed NullReceiver by",
+      "pubDate": "2026-08-05T13:41:27.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_jFD4wUBf7wKq8NwAgGKeKgJ3XIR82d26D7t5fNRBoDTOHcK5i66j4VqtLNAvK7Lkocc3lbW4SK33Ialb3F4EuB_k59ahZItRVdPsZ3RceScz5lEyR7gQHqqw221WMj6ArtKDUashxvrkYSPaE0b7ue8v-TkkT0IB8sPhgcCGIqN3mtfsjQ2MKztu5DkV/s1600/npm-c2.jpg"
+    },
     {
       "title": "The Fourth Battlefield: The Growing Role of Cyber Operations in Global Conflict",
       "link": "https://www.securityweek.com/the-fourth-battlefield-the-growing-role-of-cyber-operations-in-global-conflict/",
@@ -289,15 +361,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Black-Hat-News.jpg"
     },
     {
-      "title": "Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer",
-      "link": "https://www.securityweek.com/rethinking-ai-security-why-casb-and-dlp-need-an-interaction-aware-layer/",
-      "description": "Build your strategy around answering these questions to ensure employees use AI productively while keeping sensitive data, IP, and agent behavior within the boundaries set for safe AI use. The post Rethinking AI Security: Why CASB and DLP Need an Interaction-Aware Layer appeared first on SecurityWeek.",
-      "pubDate": "2026-08-04T16:15:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "description": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
@@ -559,24 +622,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "ExfilSquad hackers leak info of over 100,000 UK police officers, staff",
-      "link": "https://www.bleepingcomputer.com/news/security/exfilsquad-hackers-leak-info-of-over-100-000-uk-police-officers-staff/",
-      "description": "A cyberattack on the U.K.'s Police National Legal Database (PNLD) has compromised contact data of more than 100,000 police officers and other criminal justice professionals. [...]",
-      "pubDate": "2026-08-03T15:04:39.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/09/14/uk-police.jpg"
-    },
-    {
-      "title": "Inside the Underground Business of the Android BTMOB RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/inside-the-underground-business-of-btmob-rat/",
-      "description": "Flare researchers analyzed thousands of underground posts to examine how the BTMOB Android malware operation evolved into a fragmented ecosystem of resellers, source-code vendors, custom versions, and competing sales channels. [...]",
-      "pubDate": "2026-08-03T14:45:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/07/31/mobile-phone-header.jpg"
-    },
-    {
       "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
       "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
       "description": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
@@ -604,15 +649,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
     },
     {
-      "title": "Chinese Threat Actor Uses Leaked DarkSword Kit to Deploy GHOSTBLADE on iOS",
-      "link": "https://thehackernews.com/2026/08/chinese-threat-actor-uses-leaked.html",
-      "description": "An unknown Chinese-speaking threat actor has been observed running a campaign targeting Apple iOS devices by leveraging a publicly leaked version of the DarkSword exploit kit. Attack surface management platform Censys said it identified the threat actor running more than 100 web properties, most of which are fake Amazon Web Services (AWS) sign-in pages on a domain that also hosts the exploit",
-      "pubDate": "2026-08-03T10:49:06.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvbg0AbgcDL8IouGo4deahk3vOuegzB-hxhUxAok05EuI5uuYJUDP-mUVS1w-gr9Oedf6JzF9qEB3l8MWVnsFGkmZ4ZorInHavwKWrQ7toTmv64uc4EnJdoFDqGlDPQsgcTwnJo8rlZyfG9yFu60fNE51Di00aVdZoiv5YMIvobc6xuWZhT_cKDk3ikV-P/s1600/apple.jpg"
-    },
-    {
       "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
       "link": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
       "description": "This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI’s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its models: GPT-5.6 Sol and an unreleased model that is almost certainly GPT-6. In particular, it was running the ExploitGym benchmark, which measures how good a model is at turning security vulnerabilities into working exploits: basically, offensive cyberattacks. Since these were internal tests, OpenAI locked those models in a secure sandbox that denied them ac",
@@ -629,33 +665,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/07_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "PNLD Breach Exposes U.K. Police and Government Contact Details on Dark Web",
-      "link": "https://thehackernews.com/2026/08/pnld-breach-exposes-uk-police-and.html",
-      "description": "The Police National Legal Database (PNLD) has confirmed that police, government and customer contact information was compromised and published on the dark web. The data included names, organisations and work email addresses belonging to police officers, police staff, criminal justice professionals, government partners and customers. The incident, identified on July 26, also exposed some names",
-      "pubDate": "2026-08-03T09:13:56.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEguFnLbEr199EuLksobp-I8Z6liAUmM4EKRi94ttPtanQN2aiwvNh1qHK_kkGhOBfWTzLzANlQ3jd6FmJOHWbdn8rFfg1sHvYqmBaVM5kfak1JxRhqPEfNR94zY_pibMdsbWMIx8gqcZZjoYLhKk03Gw3PrYKF6JQzrNLV6HiE5U7UtYPSwmH-OmDmjl8c/s1600/exfilsquad.jpg"
-    },
-    {
-      "title": "Thermo Fisher Patches Flaw That Could Make DNA File Tampering Nearly Undetectable",
-      "link": "https://thehackernews.com/2026/08/thermo-fisher-patches-flaw-that-could.html",
-      "description": "Thermo Fisher Scientific has patched a flaw in select Applied Biosystems human identification software that could allow data files to be altered before analysis software loads them. The vendor's July 31 security bulletin says nearly undetectable changes to .fsa and .hid outputs could occur if laboratory controls are circumvented. Thermo Fisher tracks the issue as CVE-2026-17583 and rates it",
-      "pubDate": "2026-08-03T08:05:30.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjMO8eh_7kmo0QAAphjdYIXsjfGspFVU9gV5XInqqhs4WnFNCm_hP-EBdmVln7vSrwWkmo9pdvoxAQbaC17M8sYg7VzBX8RJnRIb6E6pBr5euW9WweOeeZk9XpN8O5I5vF_OGypfqp9WO-SO_C81D4DDui3uTp0jBvV5_C7qIjuRgtoMd4bKQ1y8QEnC3c/s1600/dna.jpg"
-    },
-    {
-      "title": "N-able Says Attackers Take Over N-central Servers After Initial Fix Proves Incomplete",
-      "link": "https://thehackernews.com/2026/08/n-able-says-attackers-take-over-n.html",
-      "description": "N-able said attackers exploited an authentication bypass in N-central to gain remote administrative access and reach the customer systems managed through those servers. Its first fix was incomplete. CVE-2026-18577 affects N-central builds prior to 2026.3.1.7. N-able shipped build 2026.3.1.7 on August 2 as the first unaffected version. N-central is the remote monitoring and management platform",
-      "pubDate": "2026-08-03T06:41:46.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjs1H8Wx5_ZrUFksG2Tgb_6qho5XHULdP13qVeYXx1xWPPt8B2rH68XC6IhzBk-dczgsdWvpZ_dVTI7AIMsgK1EeU3B89WVUJu2N5B71FQ4GnlZDRlvNiD4pGO2hBCJGVowjUVDMSHAO_0CPlYthpa8jx-Af5OwB6ZMDr-PKTYDJKjP4pGCZZolbjbGi44/s1600/n-able.jpg"
     },
     {
       "title": "Welcoming the Nepalese Government to Have I Been Pwned",
@@ -683,15 +692,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/08/Splash-Template-1.jpg"
-    },
-    {
-      "title": "OpenAI teases Astra, its next major AI model, after it solves 10 long-standing math problems",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-teases-astra-its-next-major-ai-model-after-it-solves-10-long-standing-math-problems/",
-      "description": "OpenAI has revealed Astra, an unreleased model designed to tackle complex, long-running tasks, after an internal version produced ten significant advances in mathematics and theoretical computer science. [...]",
-      "pubDate": "2026-08-02T22:31:41.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg"
     },
     {
       "title": "Friday Squid Blogging: Squid Helps Discover New Marine Species",
