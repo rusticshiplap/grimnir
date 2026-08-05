@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:42:21.316Z",
+  "generatedAt": "2026-08-05T21:13:34.507Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,96 @@
   ],
   "items": [
     {
+      "title": "Hackers run khunt post-exploitation toolkit from Oracle database",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-run-khunt-post-exploitation-toolkit-from-oracle-database/",
+      "description": "Hackers exploited a SQL injection vulnerability to install a post-exploitation toolkit directly inside an Oracle database that was used to breach a corporate network. [...]",
+      "pubDate": "2026-08-05T19:55:25.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/05/Database.png"
+    },
+    {
+      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
+      "description": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
+      "pubDate": "2026-08-05T19:47:55.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteab809ef662786f0/6a72695ca3f8037e14ce6b0b/email1800_alubalish_GettyImages-184320446.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones",
+      "link": "https://www.securityweek.com/how-a-50000-exploit-chain-turned-bixby-against-samsung-phones/",
+      "description": "The chain involved the exploitation of several vulnerabilities in the Samsung Members and Samsung Account applications. The post How a $50,000 Exploit Chain Turned Bixby Against Samsung Phones appeared first on SecurityWeek.",
+      "pubDate": "2026-08-05T19:40:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Samsung-Android-Vulnerability.jpg"
+    },
+    {
+      "title": "Can AI do novel security research? Meet the HTTP Terminator",
+      "link": "https://portswigger.net/research/http-terminator",
+      "description": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
+      "pubDate": "2026-08-05T19:30:00.000Z",
+      "source": "PortSwigger Research",
+      "category": "research",
+      "image": "https://portswigger.net/cms/images/65/c9/4abd-twittercard-http_terminator_x.png"
+    },
+    {
+      "title": "15 TP-Link Bugs Expose Risks in Zero-Trust Provisioning",
+      "link": "https://www.darkreading.com/endpoint-security/15-tp-link-bugs-risks-zero-trust-provisioning",
+      "description": "Researchers are calling attention to the risks inherent in automated network device provisioning, using a world-leading device manufacturer as a case study.",
+      "pubDate": "2026-08-05T19:08:36.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
+      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
+      "description": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
+      "pubDate": "2026-08-05T18:44:31.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
+    },
+    {
+      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
+      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
+      "description": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
+      "pubDate": "2026-08-05T18:33:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
+    },
+    {
+      "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/flaws-google-apk-python-agent-to-agent-attack",
+      "description": "Google has fixed the issues, which exploited a trust boundary between two AI agents with different privilege levels to trigger automation that could compromise the supply chain.",
+      "pubDate": "2026-08-05T18:03:31.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9abdeefc15f542ea/6a7355e3a1a11b1319173fcc/AI_agent_concept_Brain_light_Alamy.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "COLDCARD security audit phishing attack installs remote access tool",
+      "link": "https://www.bleepingcomputer.com/news/security/coldcard-security-audit-phishing-attack-installs-remote-access-tool/",
+      "description": "A phishing campaign is exploiting fears surrounding the recently disclosed COLDCARD wallet vulnerability and suspected $88.6 million Bitcoin theft to trick users into installing ScreenConnect remote access software. [...]",
+      "pubDate": "2026-08-05T17:49:41.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/05/coldcard-header.jpg"
+    },
+    {
+      "title": "​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP)",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/microsoft-named-a-leader-in-the-kuppingercole-leadership-compass-for-cloud-native-application-protection-platforms-cnapp/",
+      "description": "Learn why KuppingerCole named Microsoft a Leader in its Leadership Compass: Cloud Native Application Protection Platforms report. The post ​​Microsoft named a Leader in the KuppingerCole Leadership Compass for Cloud Native Application Protection Platforms (CNAPP) appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-08-05T16:30:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/CombinedLeadershipFull-712x1024.webp"
+    },
+    {
       "title": "CISA warns of hackers exploiting Langflow, N-central, Apache Tomcat flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-hackers-exploiting-langflow-n-central-apache-tomcat-flaws/",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency is giving federal agencies three days to mitigate vulnerabilities in IBM Langflow, N-central, and Apache Tomcat, all actively exploited. [...]",
@@ -26,6 +116,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2025/01/13/CISA_headpic.jpg"
+    },
+    {
+      "title": "From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/05/macos-clickfix-campaign-learned-hide/",
+      "description": "A macOS ClickFix campaign shifted tactics from openly serving infostealer lures to hiding them behind a browser-fingerprinting gate. The change makes malicious infrastructure harder to detect while giving defenders new hunting opportunities. The post From open lures to cloaked gates: How a macOS ClickFix campaign learned to hide appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-08-05T15:48:39.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-30.webp"
     },
     {
       "title": "Poison Claude Sells Discounted Claude Access While Its Operator Sees Every Customer Prompt",
@@ -352,15 +451,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi8YRyOCSodUbPpWMicgOiuGbEQWDBmu_W-47PAUFkS7yKEQe4Do6svH4cQb-U0tC53C9mqq8ijjlG9gwuzyqYfNwtS61WxvNxIgk1dVC7wX598rncb_MgQ5t4yxc8NUYVdb6PT5cu7ZXJ7w3KaYG_7vtU5xixHel1jSADbtR-GC1bmngZPArXw-NjkTH1x/s1600/Greatness.jpg"
     },
     {
-      "title": "Black Hat USA 2026 – Summary of Vendor Announcements (Part 2)",
-      "link": "https://www.securityweek.com/black-hat-usa-2026-summary-of-vendor-announcements-part-2/",
-      "description": "Many companies are showcasing their products and services this week at the 2026 edition of the Black Hat conference in Las Vegas. The post Black Hat USA 2026 – Summary of Vendor Announcements (Part 2) appeared first on SecurityWeek.",
-      "pubDate": "2026-08-04T16:49:39.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Black-Hat-News.jpg"
-    },
-    {
       "title": "Massive ChainDrop npm supply-chain attack infects hundreds of packages",
       "link": "https://www.bleepingcomputer.com/news/security/massive-chaindrop-npm-supply-chain-attack-infects-hundreds-of-packages/",
       "description": "Self-propagating malware named 'ChainDrop' has compromised more than 1,300 packages with a combined 2 billion monthly downloads on the Node Package Manager (npm) registry. [...]",
@@ -559,15 +649,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/08/03/header-browser-cache-malware.jpg"
     },
     {
-      "title": "Fake Roblox Xeno script launcher pushes infostealer, RAT malware",
-      "link": "https://www.bleepingcomputer.com/news/security/fake-roblox-xeno-script-launcher-pushes-infostealer-rat-malware/",
-      "description": "Fake Xeno Executor installers are infecting unsuspecting Roblox players with malware that provides remote access and steals sensitive information. [...]",
-      "pubDate": "2026-08-03T19:25:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/06/09/roblox.jpg"
-    },
-    {
       "title": "18 Malicious npm Packages Deliver Cross-Platform RAT to Alibaba Tool Users",
       "link": "https://thehackernews.com/2026/08/18-malicious-npm-packages-deliver-cross.html",
       "description": "Cybersecurity researchers have discovered a new set of malicious npm packages that target users of Alibaba developer tools with a cross-platform remote access trojan (RAT) as part of a sophisticated, targeted software supply chain attack targeting Chinese-speaking environments. One of the packages in question is \"lib-mtop,\" an unscoped package with the same name as a private Alibaba package",
@@ -584,15 +665,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "N-able warns of N-central auth bypass flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/n-able-warns-of-n-central-auth-bypass-flaw-exploited-in-attacks/",
-      "description": "N-able is warning customers that hackers are exploiting an authentication bypass vulnerability (CVE-2026-18577) affecting both hosted and on-premises N-central servers. [...]",
-      "pubDate": "2026-08-03T17:00:56.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/18/N-able.jpg"
     },
     {
       "title": "Google Password Manager Attacks Could Let Malware Hijack Passkey-Protected Accounts",
@@ -622,15 +694,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "⚡ Weekly Recap: Rogue AI Models, $88M Bitcoin Theft, Water-System Attacks and Dangling DNS Hijacks",
-      "link": "https://thehackernews.com/2026/08/weekly-recap-rogue-ai-models-88m.html",
-      "description": "This week kept coming back to permission. A model crossed a boundary. A wallet trusted bad randomness. Webmail kept an intruder around. Public systems, package feeds, hotel networks, and login flows all gave away more than intended. Some of it was clever. Most of it was just access left lying around: old bugs, exposed gear, poisoned dependencies, weak defaults, and tooling that moved from",
-      "pubDate": "2026-08-03T14:03:11.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoiIM6TX9TShDQoVLnmGNE_LZPas3bK4cwsNviskgSjdFASOmzcJPOixde9rkt0uawGd5D5IRHc09j5etqie865lUafh95s-TggQm3PluElF3XhILbJUCkl6vJy6lAM5FSu0GBNu6eWHcVzH7d9X86fvxOjnhwylSgakxghEq_05FsWzZ8mSVMHWYr5HBS/s1600/weeklyrecap.jpg"
-    },
-    {
       "title": "Is There Really a Fix for CISO Fatigue?",
       "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
       "description": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
@@ -638,15 +701,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "FOMO in the SOC: Where AI Platforms like Claude Actually Fit",
-      "link": "https://thehackernews.com/2026/08/fomo-in-soc-where-ai-platforms-like.html",
-      "description": "AI is moving incredibly fast, and every security leader is feeling the pressure to keep up. AI platforms like Claude, Codex and Cursor are already helping security teams write detections, investigate alerts, summarize incidents, and automate repetitive work. The conversation has evolved from whether AI belongs in the SOC, to where each type of AI delivers the most value. With so many new AI",
-      "pubDate": "2026-08-03T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvsPqZrMBUJ3CH2LqsxL_1HWV6F-qs8FbnvytY_bz9ZlSUptj-3SPJ-BAlDBrF9V39V2F_D35LPU8BgSdDNfyPi2tqESWH_g2qzP2ospA36aF2CexX2_bRw7ee6qG4uqAyI24lavgb5wER2wuKWYd6rOUpdG0pbhlR4aAtEvSTuAQYmv8a5izEpv63mcA/s1600/phish-main.jpg"
     },
     {
       "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
@@ -937,33 +991,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda67aa668122e771/6a6a4b0db8ab35a066dea164/blueteam-sqback-Getty-2255978330.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Who's Liable When AI Agents Escape? Hugging Face Breach Raises Hard Questions",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/liable-ai-agents-escape-hugging-face-breach-questions",
-      "description": "Dark Reading walks through the many twists and turns in the bizarre story of how OpenAI's agent AI system broke out of its sandbox and decided to target Hugging Face, and what CISOs should be aware of.",
-      "pubDate": "2026-07-29T17:43:38.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta214a48ce72c3ebd/6a690739208e6b500fcd14c1/huggingface_Tada_Images_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hugging Face Hack: Lessons for Cyber Defenders",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hugging-face-hack-lessons-cyber-defenders",
-      "description": "Dark Reading Confidential Episode 20: Expert Rich Mogull reflects on lessons cyber teams should pull from the OpenAI agent's attack on Hugging Face.",
-      "pubDate": "2026-07-29T17:35:23.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "When AppSec Scanners Become a Supply Chain Attack Vector",
-      "link": "https://www.darkreading.com/application-security/when-appsec-scanners-become-supply-chain-attack-vector",
-      "description": "New research shows how security scanners embedded in the software supply chain can be attacked to serve as a foothold for downstream attacks.",
-      "pubDate": "2026-07-29T17:06:52.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte3ee632c446d5f42/6a6a3d1bf118fd682ddbc4c8/supplychain_IncrediVFX_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "​​Better security starts with better questions",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/07/29/better-security-starts-with-better-questions/",
       "description": "Learn how better questions, trusted AI, and human judgment help security leaders make confident decisions and build resilient systems. The post ​​Better security starts with better questions appeared first on Microsoft Security Blog.",
@@ -1045,15 +1072,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template-2.jpg"
     },
     {
-      "title": "Email threat landscape: Q2 2026 trends and insights",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/23/email-threat-landscape-q2-2026-trends-and-insights/",
-      "description": "In the second quarter of 2026, the continuing effects of Microsoft’s disruption of the Tycoon2FA phishing platform contributed to sustained declines in several major phishing techniques, while threat actors expanded into Teams-based social engineering and employed increasingly automated and multi-stage attack chains. The post Email threat landscape: Q2 2026 trends and insights appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-07-23T15:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Figure-1.-Tycoon2FA-monthly-malicious-messages-volume-July-2025&ndash;June-2026-scaled.webp"
-    },
-    {
       "title": "OpenAI’s AI “goes rogue” and hacks Hugging Face: what you need to know",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/openais-hacks-hugging-face",
       "description": "You can't have failed to hear the news headlines about \"rogue\" OpenAI models hacking into another AI organisation, Hugging Face. But what has actually happened, who is to blame, and is it as serious as some of the reports suggest? Find out in my article on the Hot for Security blog.",
@@ -1088,15 +1106,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-477.webp"
-    },
-    {
-      "title": "Real world incident response: Microsoft and AXA XL strengthen cyber resilience",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/07/22/real-world-incident-response-microsoft-and-axa-xl-strengthen-cyber-resilience/",
-      "description": "Our collaboration with AXA XL brings Microsoft Incident Response services directly to cyber insurance policyholders, helping organizations coordinate technical, business, and insurance decisions. The post Real world incident response: Microsoft and AXA XL strengthen cyber resilience appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-07-22T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/real-world-incident-response.jpg"
     },
     {
       "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
@@ -1763,15 +1772,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/99/3d/3b00-twittercard-splitting-the-email-atom-twitter.png"
-    },
-    {
-      "title": "Listen to the whispers: web timing attacks that actually work",
-      "link": "https://portswigger.net/research/listen-to-the-whispers-web-timing-attacks-that-actually-work",
-      "description": "Websites are riddled with timing oracles eager to divulge their innermost secrets. It's time we started listening to them. In this paper, I'll unleash novel attack concepts to coax out server secrets",
-      "pubDate": "2024-08-07T18:10:21.000Z",
-      "source": "PortSwigger Research",
-      "category": "research",
-      "image": "https://portswigger.net/cms/images/39/7f/e41b-twittercard-listen-to-the-whispers-twitter.png"
     },
     {
       "title": "Student Loan Breach Exposes 2.5M Records",
