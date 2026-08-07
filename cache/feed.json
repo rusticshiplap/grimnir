@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T18:12:18.332Z",
+  "generatedAt": "2026-08-07T19:30:31.676Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Nearly 800 Malicious npm Packages Deliver Cross-Platform RAT and Infostealer",
+      "link": "https://thehackernews.com/2026/08/nearly-800-malicious-npm-packages.html",
+      "description": "A cluster of nearly 800 malicious packages has been published to the npm registry as part of a new campaign designed to deliver cross-platform malware targeting Windows, Mac, and Linux systems. \"These packages appear to use AI slop squatted, or randomly generated typo-squatting package names, but all of them deliver a powerful RAT and infostealer payload,\" OpenSourceMalware researcher Paul",
+      "pubDate": "2026-08-07T18:48:17.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIEXaa59LRblZ0rcBVbKDdH4w9Rszk27anNt20Onx7Li8D7FXbf3Ipod53uo3N2aa6Hj1QLJaNFDIBlrcgM3YZg0UJCsjI3maDKkFEdOeyhzis15St3QDg6WCXcYlbDRlw2WvgiOH-BL_v8I21QoSTE9kmJzzKqQwstqn11JWkAL1_9W41ZF04T-9ImaiL/s1600/npms.jpg"
+    },
+    {
+      "title": "ClickFix Attacks Deliver macOS Stealer That Can Drain Crypto Wallets",
+      "link": "https://thehackernews.com/2026/08/clickfix-attacks-deliver-macos-stealer.html",
+      "description": "ClickFix-style attacks are being used to deliver a Go-based malware capable of stealing cryptocurrency assets, as well as browser-stored passwords, Apple iCloud Keychain data, and cached credentials. The macOS-focused infection chain is designed to deliver a shell script that profiles the host and then fetches a macOS malware payload that's compatible with the computer's CPU architecture. \"",
+      "pubDate": "2026-08-07T18:29:08.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiKQGTQ6AquoAvAeMWXXITPacYsdChgFUpg7MLwKkfb2AylEuwQTk9av5GqMSdgtsB_tr_6QC70DrJkEo02t-Wo67z1gumix6FKKlOPSWo4fLEUHCibBoTrf1zCdmn72ESzo5CzCKKEgyETZ0FeVD_3QLfCNit7vIwlMA7MmwGYg2JGbeYOBrjSHmOnfpWl/s1600/macos.jpg"
+    },
+    {
+      "title": "UNC6671 Vishing Attacks Target Personal Phones to Steal SaaS Data",
+      "link": "https://thehackernews.com/2026/08/unc6671-vishing-attacks-target-personal.html",
+      "description": "A recent wave of cyber attacks targeting financial services, private equity, and professional services is attributed to a data extortion group known as UNC6671. \"UNC6671 continues to rely on voice phishing (vishing) to target enterprise employees, posing as IT help desk staff facilitating mandatory, urgent security migrations. Significantly, the threat actor often contacts employees via their",
+      "pubDate": "2026-08-07T18:16:13.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiL6-qu-cN6glV6XSy1IS7siHKdKPFmzqT3X8TQjGCa0RD33kfIQ8NfEBR5r8dbQvj1OS8L6T083igxfS1VO98xlg7MHIMysbfR_cVpdmPMcYibuMwDZ6SssIi3iryUznGL14zUByy7oRrTJe0AjgGMNti_Rcqezh7dtfyU31vyo-zft3fvR56SCsAfeHrm/s1600/vishing.jpg"
+    },
     {
       "title": "AI-Generated Patches Fail Half the Time",
       "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
@@ -215,6 +242,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg"
+    },
+    {
+      "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
+      "description": "",
+      "pubDate": "2026-08-07T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
@@ -505,15 +541,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiaatZ2xKx3CMoWOXqKbIp1Sd-rMbET1_QE2Lh10XAVc_g_Z18UUlW_RyR8BR0Nj-gqy9SZhnEq0ZBv_z63FfCBu-XGfH5yEzUsKBLicrlfXK2-iMsgZYkDDTW-HiEPV29TEjFSFF1PYXyDkZcyfe6LuUKkgu2nRe4E_XFNPOcxSrBmUZwi3tX_GgHafeZ9/s1600/cisa-teamcity.jpg"
     },
     {
-      "title": "Snowflake Hacker Pleads Guilty Over Breaches Affecting at Least 100 Million People",
-      "link": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
-      "description": "Connor Riley Moucka pleaded guilty in Seattle federal court on Wednesday to computer fraud, wire fraud, aggravated identity theft and a related conspiracy over the 2024 breaches of Snowflake customer accounts. The intrusions reached at least 165 organizations and exposed records belonging to at least 100 million people. Moucka, 26, of Kitchener, Ontario, personally took at least $495,000 from",
-      "pubDate": "2026-08-06T06:04:30.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEimtSQSbHZnqrcub_RlfzViiiKRKyucYCIYf0nqt0aWqcYJgY122xGjIRDGnvpYukopZM9DuEPjN6Lax97qyYIghxfFb_faULxhabuOJHBOVbyycVBNUVHAbb5Z8LRfnG_5xrwH__9Jbs6qmPEdopvRysLduoAn0hoANFRnNd2g24zqBTfCUK4WXtDx7eg/s1600/snowflake-hacker.jpg"
-    },
-    {
       "title": "Expanding AI Benchmarks in Cybersecurity Beyond Vulnerability Discovery",
       "link": "https://www.crowdstrike.com/en-us/blog/expanding-cybersecurity-ai-benchmarks-beyond-vulnerability-discovery/",
       "description": "",
@@ -620,24 +647,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2fe24d92049f2e32/6a7377e7b9c69a38aff6fae8/Router-Yevhenii_Orlov-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Over 250 ClickFix Domains Use Browser Fingerprinting to Hide macOS Malware Lures",
-      "link": "https://thehackernews.com/2026/08/over-250-clickfix-domains-use-browser.html",
-      "description": "A macOS ClickFix operation spanning more than 250 front-end domains now fingerprints visitors before deciding whether to show them a malware lure, a change Microsoft Threat Intelligence tracked on infrastructure it had been watching for weeks. The server-side gate hides the malicious page from crawlers and sandboxes while presenting selected Mac users with a fake software download. Microsoft",
-      "pubDate": "2026-08-05T18:44:31.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgzEMAtBAmz-q78zPppsCxMiU-EtelOA3FQy_T6Qzb9KpWEsc9wNMT1f_dDjf65q2W_nrioQ033KClusfHFXexSM8V30mReU5V3nbRY4W0_F3cg2ehG51P1nnWa1iKiGX3hJ_yUUYLF92TanEEE0HifpkzdqRQeqe8qFYXq0SPRx6pW9IrfS7sK_lPzWRM/s1600/mackos-finger.jpg"
-    },
-    {
-      "title": "OpenAI Disrupts Poipet Scam Network Using ChatGPT Across Multiple Fraud Schemes",
-      "link": "https://thehackernews.com/2026/08/openai-disrupts-poipet-scam-network.html",
-      "description": "OpenAI said it disrupted a Cambodia-based scam operation that used its generative artificial intelligence (AI) chatbot ChatGPT to facilitate a wide range of investment, romance, gambling, and law enforcement impersonation schemes. To that end, it banned a coordinated network of ChatGPT accounts likely originating from Southeast Asia and operating from the city of Poipet, a region with extensive",
-      "pubDate": "2026-08-05T18:33:47.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgmYzVApv7lLg_Qt67mGI-sC0vUGKZwkNmFsVgTykAPCHqVMsfGSSQRRaxVXuxx0RDd6wk18yEiVXXy3uPRpmLT_XLNMCI_0iuKbPtJ3z9CtuPtjBsIGDAsVTd5f8DE_z2yMfAsQFW66vvoe5MeQPWvfBM2CoSzi-xpgm_mTvXfqHERAr-1z9NYOUPGOgwP/s1600/chatgpt-scam.jpg"
     },
     {
       "title": "Flaws in Google APK for Python Unlock Agent-to-Agent Attack",
@@ -1178,15 +1187,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-477.webp"
-    },
-    {
-      "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
-      "description": "",
-      "pubDate": "2026-07-22T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Ukraine warns fake CAPTCHAs are being used to make you hack yourself",
