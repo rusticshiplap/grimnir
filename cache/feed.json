@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T22:38:49.529Z",
+  "generatedAt": "2026-08-08T01:49:36.963Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Inside the Modern SOC: The Identity Front Door",
+      "link": "https://unit42.paloaltonetworks.com/soc-identity-front-door/",
+      "description": "Identity-based attacks drive 90% of incidents. Learn how modern attackers exploit identities and what SOC leaders can do to respond. The post Inside the Modern SOC: The Identity Front Door appeared first on Unit 42.",
+      "pubDate": "2026-08-07T23:00:01.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/04_Listicle_Overview_1920x900.jpg"
+    },
     {
       "title": "Friday Squid Blogging: Arctic Bobtail Squid Video",
       "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-arctic-bobtail-squid-video.html",
@@ -269,15 +278,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEicYXbdZUBG2jW8962nmphGWa0sWoq3jKe6HAT9wa6qlZdPPYBZRdw-uWjUbUv15BxaRgugcEAPXPZ2rMYx3RzM_vLVH18F6oTwwAklstzIRehnPJXwBs9b-d6NKjJZVhO5n1SRnBTlweRonaWCFogLrbJkyzs-F9K3lffy0tfqf2Vownwe9lj06rEe8Nn2/s1600/TeamPCP.jpg"
-    },
-    {
-      "title": "CrowdStrike Threat Hunts for Shell Command Obfuscation on VMware ESX",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-hunts-for-shell-command-obfuscation-vmware-esx/",
-      "description": "",
-      "pubDate": "2026-08-07T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "OpenAI rolls out a major ChatGPT upgrade, even if you don’t pay for it",
@@ -1189,6 +1189,15 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/07/ss-episode-477.webp"
     },
     {
+      "title": "CrowdStrike Falcon Platform Helps Meet U.S. Government Mandates for CISA BOD-26-04",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-falcon-platform-helps-meet-us-government-mandates-cisa-bod-26-04/",
+      "description": "",
+      "pubDate": "2026-07-22T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "Ukraine warns fake CAPTCHAs are being used to make you hack yourself",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/ukraine-fake-captchas-hack-yourself",
       "description": "Ukraine's computer emergency response team, CERT-UA, has warned that the Kremlin-backed Sandworm hacking group is leveraging fake CAPTCHA checks on compromised websites that persuade users to run malicious code. Read more in my article on the Hot for Security blog.",
@@ -1358,15 +1367,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/image.jpg"
-    },
-    {
-      "title": "How We Added WebAuthn to a Browser-Based RDP Client",
-      "link": "https://unit42.paloaltonetworks.com/webauthn-added-to-browser-based-rdp/",
-      "description": "A look inside the reverse-engineering journey of building the first RDP client outside of Windows to support WebAuthn redirection. The post How We Added WebAuthn to a Browser-Based RDP Client appeared first on Unit 42.",
-      "pubDate": "2026-07-02T22:00:39.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg"
     },
     {
       "title": "The Gentlemen ransomware: what you need to know",
