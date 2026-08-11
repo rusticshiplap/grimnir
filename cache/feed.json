@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-11T20:49:36.649Z",
+  "generatedAt": "2026-08-11T22:46:10.630Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
+      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
+      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
+      "pubDate": "2026-08-11T22:15:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg"
+    },
+    {
+      "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
+      "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
+      "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
+      "pubDate": "2026-08-11T21:42:34.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
+      "description": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
+      "pubDate": "2026-08-11T21:16:25.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
+      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
+      "description": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
+      "pubDate": "2026-08-11T21:07:24.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/apt44.jpg"
+    },
     {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
@@ -415,15 +451,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
-      "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
-      "description": "A threat actor compromised the upstream infrastructure of BdThemes, a developer of premium WordPress web-design tools, and modified a remote JSON feed delivered to administrators' browsers to create rogue admin accounts. [...]",
-      "pubDate": "2026-08-10T21:12:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg"
-    },
-    {
       "title": "Metabase SQL Zero-Day Attacks Could Have Wide Blast Radius",
       "link": "https://www.darkreading.com/vulnerabilities-threats/metabase-sql-zero-day-attacks-wide-blast-radius",
       "description": "The maximum-severity vulnerability, which still has no CVE, allows malicious, remote administrator access to the business-analytics platform and its downstream users.",
@@ -431,15 +458,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltac5b6cbe22b97997/6a7a3b465e4958876dc35113/blast_radius-George_Peters-GettyImages-1339899824_(1).jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenAI releases ChatGPT 5.6 Cyber, but it's only for approved users",
-      "link": "https://www.bleepingcomputer.com/news/security/openai-releases-chatgpt-56-cyber-but-its-only-for-approved-users/",
-      "description": "OpenAI has developed a new model called \"GPT 5.6 Cyber,\" designed for vulnerability research, penetration testing, incident response, and remediation. [...]",
-      "pubDate": "2026-08-10T19:24:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/27/OpenAI.jpg"
     },
     {
       "title": "The Patch Gap: Why Defenders Need to Think in Chains, Not Checklists",
@@ -971,24 +989,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "New Tool Traces AI Videos Back to Their Source",
-      "link": "https://www.darkreading.com/cyber-risk/new-tool-advances-ai-generated-video-detection",
-      "description": "Researchers dug into the root of the problem with the goal of promoting industry collaboration on improved protective measures.",
-      "pubDate": "2026-08-03T20:42:28.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb9546018118863fd/6a70ff2fbe6c657faa5a6e3b/GettyImages-1136317674.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Anthropic: Claude Attacks Result of Security Gaps, Not Model Issues",
-      "link": "https://www.darkreading.com/cyber-risk/anthropic-ai-issues-result-security-gaps",
-      "description": "Last month's incidents in which the AI model breached real-world systems derived from over-permissioning, especially with Internet access.",
-      "pubDate": "2026-08-03T20:31:12.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5c93a3d3405d789d/6a70e02ffbf44d4210bb1101/claude2_Samuel_Boivin_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "More on the OpenAI Agent’s Attack on Hugging Face",
