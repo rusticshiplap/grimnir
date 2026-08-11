@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-10T21:43:49.615Z",
+  "generatedAt": "2026-08-11T03:49:46.762Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,42 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Hackers breached a small Polish energy plant via private APN last year",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-breached-a-small-polish-energy-plant-via-private-apn-last-year/",
+      "description": "Hackers breached a heat-and-power plant facility in Poland, which supplies heat to about 50,000 residents, using a private APN (Access Point Name) to access an OT (Operational Technology) network. [...]",
+      "pubDate": "2026-08-10T23:07:21.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/10/factory.jpg"
+    },
+    {
+      "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
+      "link": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
+      "description": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution. The post The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications appeared first on Unit 42.",
+      "pubDate": "2026-08-10T22:00:02.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/04_Malware_Category_1920x900-4.jpg"
+    },
+    {
+      "title": "'GhostJacking' Exposes Identity Governance Gaps in AI Agents",
+      "link": "https://www.darkreading.com/cyber-risk/ghostjacking-identity-governance-gaps-ai-agents",
+      "description": "New research shows how attackers can use security alerts and blocked events to manipulate and hijack AI agents.",
+      "pubDate": "2026-08-10T21:54:22.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7efbf6a210292d1d/6a7a43503413ca658e4c0cb9/ghosts-MediaProduction-Getty-1437542277.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Multistate Water System Attacks Widen, Iran Suspected",
+      "link": "https://www.darkreading.com/ics-ot-security/multistate-water-system-attacks-widen-iran-suspected",
+      "description": "Attacks targeting water systems just keep flowing across a dozen states, against ill-secured, Internet-exposed PLCs.",
+      "pubDate": "2026-08-10T21:34:38.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltfab47f61ab6fce61/6a7a20f413d9fd35582fc0f9/Engineer_checks_water_quality-DSCimage-GettyImages-1369464717.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "BdThemes plugins supply-chain hack creates rogue WordPress admins",
       "link": "https://www.bleepingcomputer.com/news/security/bdthemes-plugins-supply-chain-hack-creates-rogue-wordpress-admins/",
@@ -487,15 +523,6 @@
       "image": "https://www.bleepstatic.com/content/posts/2026/08/04/gendigital-cyber-shield.jpg"
     },
     {
-      "title": "North Carolina Ports confirms cyberattack disrupting operations",
-      "link": "https://www.bleepingcomputer.com/news/security/north-carolina-ports-confirms-cyberattack-disrupting-operations/",
-      "description": "The North Carolina Ports Authority has confirmed that a cyberattack disrupted IT systems and slowed operations at Port of Wilmington, Port of Morehead City, and Charlotte Inland Port. [...]",
-      "pubDate": "2026-08-07T13:34:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/07/northcarolina.jpg"
-    },
-    {
       "title": "New WordPress Pre-Auth XSS Could Lead to PHP Code Execution - Patch ASAP",
       "link": "https://thehackernews.com/2026/08/new-wordpress-pre-auth-xss-could-lead.html",
       "description": "WordPress has fixed a pre-authentication reflected cross-site scripting (XSS) flaw in its login screen that affects every version of the content management system. pwn.ai demonstrated how the flaw can be chained into PHP code execution on the server when a logged-in administrator interacts with an attacker-controlled page. Tracked as CVE-2026-64638 (CVSS score: 8.9), the high-severity",
@@ -946,24 +973,6 @@
       "image": null
     },
     {
-      "title": "Chinese Actor Weaponizes Deepseek AI Agent to Attack Security Firm",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-deepseek-ai-agent-attack-security-firm",
-      "description": "Researchers intercepted and investigated the model, which was attempting to compromise more than 1,200 hosts for proxyjacking to launch further attacks.",
-      "pubDate": "2026-08-03T15:42:18.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5b326661c25a73c5/6a70f5e542103f14fb72de26/aiagents-wildpixel-Getty-1499492092.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Is There Really a Fix for CISO Fatigue?",
-      "link": "https://www.darkreading.com/cybersecurity-operations/fix-for-ciso-fatigue",
-      "description": "Accountability without any real authority is driving CISO burnout, and organizations need to take notice.",
-      "pubDate": "2026-08-03T14:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bd4cb621eab153c/6a6ce7295c6370055b106be4/burnout-Moor_Studio-_Getty-1445628897.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "The OpenAI Hack Shows the Genie Is Out of the Bottle",
       "link": "https://www.schneier.com/blog/archives/2026/08/the-openai-hack-shows-the-genie-is-out-of-the-bottle.html",
       "description": "This essay originally appeared in Foreign Policy. Earlier this month, two of OpenAI’s models broke out of their containment sandbox and attacked another AI company. The story is kind of wild. OpenAI was running security tests on two of its models: GPT-5.6 Sol and an unreleased model that is almost certainly GPT-6. In particular, it was running the ExploitGym benchmark, which measures how good a model is at turning security vulnerabilities into working exploits: basically, offensive cyberattacks. Since these were internal tests, OpenAI locked those models in a secure sandbox that denied them ac",
@@ -1340,15 +1349,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template.jpg"
-    },
-    {
-      "title": "Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation",
-      "link": "https://unit42.paloaltonetworks.com/vidar-stealer-xmrig-miner-campaign-analysis/",
-      "description": "A cybercrime campaign combined a loader-as-a-service framework and DLL sideloading via a Go-compiled fake MpClient.dll, a novel evasion layer combination. The post Vidar Stealer Unmasked: Code Signing Abuse, Go Loaders and File Inflation appeared first on Unit 42.",
-      "pubDate": "2026-07-07T22:00:21.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/01_Malware_Category_1920x900-2.jpg"
     },
     {
       "title": "Two arrested over credit card phishing – as the Netherlands is named Europe’s worst for payment fraud",
