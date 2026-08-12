@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T20:49:30.571Z",
+  "generatedAt": "2026-08-12T21:49:44.252Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
+      "description": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
+      "pubDate": "2026-08-12T21:08:54.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
+      "description": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
+      "pubDate": "2026-08-12T20:54:59.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Magento.jpg"
+    },
     {
       "title": "Hundreds of fake Chrome VPN extensions route traffic through a proxy",
       "link": "https://www.bleepingcomputer.com/news/security/hundreds-of-fake-chrome-vpn-extensions-route-traffic-through-a-proxy/",
@@ -422,15 +440,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/09/10/windows-10-gradient.jpg"
-    },
-    {
-      "title": "Microsoft August 2026 Patch Tuesday fixes 400 flaws, 3 zero-days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-2026-patch-tuesday-fixes-400-flaws-3-zero-days/",
-      "description": "Today is Microsoft's August 2026 Patch Tuesday, and with it comes security updates for a massive 400 flaws, including one actively exploited and two publicly disclosed zero-day vulnerabilities. [...]",
-      "pubDate": "2026-08-11T18:08:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/08/patch_tuesday_microsoft.jpg"
     },
     {
       "title": "Researchers Disclose AI-Assisted SharePoint Exploit Chain Reaching Unauthenticated RCE",
@@ -946,15 +955,6 @@
       "image": null
     },
     {
-      "title": "Smoke#Screen RMM Takeover Gambit Exposes Threat Actor Playbook",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/latest-rmm-fueled-phishing-attack-exposes-threat-actor-playbook",
-      "description": "The attacks use diverse social engineering lures and rotating payloads to deliver ScreenConnect for persistent remote access to compromised networks.",
-      "pubDate": "2026-08-04T18:37:35.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6b501fd239cea948/6a7205c2f2df87f4451c6c0b/Playbook(1800)_Ivelin_Radkov_Alamy.png?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/advance-zero-trust-for-ai-new-tools-and-guidance-to-secure-ai-agents-and-devsecops/",
       "description": "Microsoft expands its Zero Trust for AI strategy to enhance security for AI and DevSecOps environments with new tools and guidance. The post Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps appeared first on Microsoft Security Blog.",
@@ -1141,7 +1141,7 @@
       "pubDate": "2026-07-29T16:00:00.000Z",
       "source": "Microsoft Security",
       "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/Windows-FY24-COMMR-Expressive-Security-Protectthreats-1024x576.png"
+      "image": null
     },
     {
       "title": "Inside Astaroth's New Spambot Component",
