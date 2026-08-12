@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:14:17.634Z",
+  "generatedAt": "2026-08-12T11:49:19.874Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
+      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
+      "description": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek.",
+      "pubDate": "2026-08-12T11:37:28.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Ceva-Logistics.jpeg"
+    },
+    {
+      "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
+      "description": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
+      "pubDate": "2026-08-12T11:21:42.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/08/Signal.jpg"
+    },
+    {
+      "title": "Adobe Patches Three CVSS 10.0 ColdFusion and Campaign Classic Flaws",
+      "link": "https://thehackernews.com/2026/08/adobe-patches-three-cvss-100-coldfusion.html",
+      "description": "Adobe has shipped updates to address multiple critical security vulnerabilities impacting ColdFusion, Commerce, and Campaign Classic that, if successfully exploited, could result in arbitrary code execution and privilege escalation. The most severe of the flaws are listed below - CVE-2026-48362 (CVSS score: 10.0) - An operating system command injection vulnerability in ColdFusion that could",
+      "pubDate": "2026-08-12T11:13:03.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
+    },
+    {
+      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
+      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
+      "description": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined appeared first on SecurityWeek.",
+      "pubDate": "2026-08-12T10:55:04.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/chipmaker-patch-tuesday.jpeg"
+    },
+    {
+      "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
+      "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
+      "description": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
+      "pubDate": "2026-08-12T10:15:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft__Defender.jpg"
+    },
+    {
+      "title": "Prompt Injections for Defense",
+      "link": "https://www.schneier.com/blog/archives/2026/08/prompt-injections-for-defense.html",
+      "description": "This seems to work: Researchers from Tracebit on Monday said they found that placing prompt injections alongside passwords, cryptographic keys, and other secrets stored on Amazon Web Services was often all that was needed to shut down attacks from AI hacking agents. The prompts direct the attacking LLM to perform an action forbidden by its guardrails, the safety barriers AI developers erect to prevent it from taking harmful actions. The LLM responds by shutting down. Examples are a prompt that orders the LLM to provide steps for developing inhalable Anthrax spores, or, in the case of LLMs from",
+      "pubDate": "2026-08-12T09:56:37.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
+      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
+      "description": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
+      "pubDate": "2026-08-12T09:55:45.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
+    },
+    {
+      "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "description": "Threat actors have begun to actively exploit a recently patched critical security flaw in Broadcom VMware vCenter, according to new findings from QUIRSO. The vulnerability in question is CVE-2026-59310 (CVSS score: 9.8), a directory-traversal vulnerability in the VMware vCenter server that a malicious actor with network access can exploit to execute arbitrary code. Patches for the flaw were",
+      "pubDate": "2026-08-12T09:01:54.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhuo4K_GT6YrQhFiPQrrf58NN4PQM0_aYVTxWXeaJ1KsqjBJ69c746Hj6DyhGH-uzhZvEowVR8YMbITHBpOcT3OQevcTJg36qwJ1WfPtFZySMVg_B2JVBE763_JVHh3gn563WAYxf72bnd1g9QC2tkWd6Bbm9_TWXPhMxk1vnk6gxnUM4eDQNxXouVEtJ9i/s1600/vmware.jpg"
+    },
     {
       "title": "Fresh Windows Zero-Day Exploited in North Korean Cyberattacks",
       "link": "https://www.securityweek.com/fresh-windows-zero-day-exploited-in-north-korean-cyberattacks/",
@@ -289,33 +361,6 @@
       "image": null
     },
     {
-      "title": "Zoom Patches Zero-Click Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
-      "description": "Impacting Zoom annotation, the bug could be exploited by a meeting participant to execute code on another participant’s machine. The post Zoom Patches Zero-Click Code Execution Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-08-11T15:49:53.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/06/Zoom-Data-Security-Privacy.jpg"
-    },
-    {
-      "title": "The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It",
-      "link": "https://www.securityweek.com/the-ai-governance-gap-is-a-leadership-problem-waiting-wont-close-it/",
-      "description": "Organizations are rushing to implement AI without fully grasping where its legal protections begin and end. The post The AI Governance Gap Is a Leadership Problem: Waiting Won’t Close It appeared first on SecurityWeek.",
-      "pubDate": "2026-08-11T15:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/AI_GenAI-Apps.jpg"
-    },
-    {
-      "title": "SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities",
-      "link": "https://www.securityweek.com/sap-patches-critical-code-injection-memory-corruption-vulnerabilities/",
-      "description": "SAP released 28 new and two updated security notes, including four notes dealing with critical-severity bugs. The post SAP Patches Critical Code Injection, Memory Corruption Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-08-11T14:14:32.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/SAP.jpeg"
-    },
-    {
       "title": "Mozilla updates GPG signing key for Firefox releases after exposure",
       "link": "https://www.bleepingcomputer.com/news/security/mozilla-updates-gpg-key-for-signing-firefox-thunderbird-releases-after-exposure/",
       "description": "Mozilla announced today that it updated the GPG key used to sign Firefox and Thunderbird releases after it was accidentally exposed on GitHub. [...]",
@@ -397,15 +442,6 @@
       "image": null
     },
     {
-      "title": "Cisco warns of high-severity ClamAV flaws with public exploits",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-high-severity-clamav-flaws-with-public-exploits/",
-      "description": "Cisco warned of two high-severity vulnerabilities affecting the Secure Endpoint Connector that allow threat actors to crash the ClamAV scanning process in denial-of-service (DoS) attacks. [...]",
-      "pubDate": "2026-08-11T11:03:01.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Cisco.jpg"
-    },
-    {
       "title": "Researchers Turn USB Auto-Install Into a Full SYSTEM Takeover on Windows 11",
       "link": "https://thehackernews.com/2026/08/researchers-turn-usb-auto-install-into.html",
       "description": "Windows Plug and Play can be abused to fetch signed vendor software for an emulated USB device and execute privileged installation components that researchers chained to SYSTEM access on a fully updated Windows 11 machine. The same PnP path can be triggered over Remote Desktop without physical hardware when supported Plug and Play or low-level USB redirection is enabled; Microsoft says that",
@@ -433,22 +469,13 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_Malware_Category_1920x900-3.jpg"
     },
     {
-      "title": "US and South Korea warn of Gunra ransomware targeting govt agencies",
-      "link": "https://www.bleepingcomputer.com/news/security/us-warns-of-gunra-ransomware-attacks-against-government-critical-infrastructure/",
-      "description": "U.S. federal agencies and South Korea's National Policy Agency warned government and critical infrastructure organizations worldwide to secure their systems against Gunra ransomware attacks. [...]",
-      "pubDate": "2026-08-11T09:47:06.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/Hacker.jpg"
-    },
-    {
-      "title": "Gunra Ransomware Exploits Fortinet and Schneider Electric Flaws to Breach Networks",
+      "title": "Gunra Ransomware Exploits Fortinet FortiOS, FortiProxy Flaws to Breach Networks",
       "link": "https://thehackernews.com/2026/08/gunra-ransomware-exploits-fortinet-and.html",
       "description": "Cybersecurity and intelligence agencies from South Korea and the U.S. warned of Gunra ransomware attacks targeting critical infrastructure sectors and organizations across the world. Targets of these attacks include healthcare and public health, financial services, government services and facilities, and professional and nonprofit services. \"Gunra is another variant in the ongoing trend of",
       "pubDate": "2026-08-11T09:16:24.000Z",
       "source": "The Hacker News",
       "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg3nDJhjEnxo7k9DyrL4evBwNBVgGuv1CIsdfm0F5ed4HANv9HprVu790o5CVg8xQqft_tFRqLTrmQTrmkmZVTzEUZk08exDnnQjjnPLd4uhuicurtZbhpo-cMrv-yR_qIl58aJHvaPEP0aFgxpbnXYWKkk74qSytUvhk8LGSbewWumopWiQ6GECxsZ-1ff/s1600/ransomware-gunra.jpg"
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiWQpuDbRsHV15EPHhEH-PxqwnIqhmhncYrLIhvelAhdTJaJL-b6Ro5jALTP-JmVpIsvqRL5VxXk4SYql9oOqliOv8FHZS8T1NN8mCqJWq5O4WMFbg2aQRBoEoGxCE6MNpb3-nWwvDH2UA3sAshkr8Ue_qBqXkDvj3jXgyAy5_0mfKXOBJWwyjTuh233V5b/s1600/fort.jpg"
     },
     {
       "title": "Hackers Breach Polish Power Plant Controls via Private Cellular Network and Shut Turbine",
@@ -602,24 +629,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhDgatgimOxtzWBp5R0l6yiMeoFVAeLE-hn-RGePbOlgUMgb3Vj9cEKav3AadjZBcppLfoDs4o-oREZ0OimLYX9WDnIRwebA4P7nVa-wh8KwHW-z7HUALW_bj2B-53kotBjkGw-6QXx-Awo3OxBlhjIwEIuueFEXLOgpT7cPpz5e_MSlD4l_FHgJocN6QA/s1600/north.jpg"
-    },
-    {
-      "title": "New Passkey Attacks Can Recover Synced Private Keys or Bypass Phishing-Resistant MFA",
-      "link": "https://thehackernews.com/2026/08/new-passkey-attacks-can-recover-synced.html",
-      "description": "Three separate research efforts last week demonstrated ways to defeat passkey protections without breaking the cryptography they rest on. Passkeys are designed to replace reusable passwords and resist phishing. The attacks instead reused signed authentication material that Windows had exposed, abused a cloud-synced passkey system from malware already on the victim's machine, and used a",
-      "pubDate": "2026-08-10T12:25:04.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXmfqNoa09hdS94VkCzlDhqshyphenhyphenLXM3mo93MtChM8pXBFJxCEh6iP7mlU-wcwnWZGROVidduvOqpGfWajbLA5PaTrH7tibyCqcvmlnS-b4c0yBcGZJ7eJLPPXxoutiEEt_rqGlPf4pSFUjWfmuuME7kegCwQam0Kf7VivC9nAUjKIvxYeBETap8ElXjck5R/s1600/intraid.jpg"
-    },
-    {
-      "title": "TrueConf Server Flaws Exploited to Replace Client Installers with PhantomCore",
-      "link": "https://thehackernews.com/2026/08/head-mare-exploits-trueconf-flaws-to.html",
-      "description": "The threat actor known as Head Mare has been observed weaponizing security flaws in unpatched TrueConf servers once again in attacks targeting Russian companies spanning instrumentation, electronics, transport, energy, IT, and software development sectors. Russian cybersecurity vendor Kaspersky said it detected the attacks in July 2026. The activity involves exploiting a vulnerability chain",
-      "pubDate": "2026-08-10T11:33:41.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwaZH1uRwKD4SlLCwgb-7zVkEGjYYXdFxb21glBm3grBdwOZ_M-ECnOmNVFPPY6mg6wXUCf4R4xm9mI8mBiEm21Ixh6y9GXYvL9DKQgKEBkTN65AVQqFz9DJpMs6BRmrGWjGC5vDC-cFgx774ASr7j73D0wiRxrs9tKNdovUbwmLuGicKgcZeQR53z71bT/s1600/trueconf.jpg"
     },
     {
       "title": "Python Now Has a Post-Quantum Encryption Library",
@@ -1007,15 +1016,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt38063499658fdf3d/6a70e89e220415e290089159/N_able_Ontario_Office-JHVEPhoto-GettyImages-2153902736.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "More on the OpenAI Agent’s Attack on Hugging Face",
-      "link": "https://www.schneier.com/blog/archives/2026/08/more-on-the-openai-agents-attack-on-hugging-face.html",
-      "description": "Hugging Face has published a detailed timeline of the attack. From the summary: The agent was running an internal OpenAI cyber-capability evaluation based on the ExploitGym benchmark, which tasks an AI agent with finding and exploiting software vulnerabilities. OpenAI ran this on its own infrastructure, and the ExploitGym maintainers and their infrastructure had no involvement in the deployment or operation of that evaluation environment. As far as we were able to infer, across the course of being evaluated on this benchmark, the agent inferred that Hugging Face may host that benchmark’s model",
-      "pubDate": "2026-08-03T17:02:46.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
