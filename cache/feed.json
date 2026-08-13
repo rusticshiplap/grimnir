@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-13T10:36:58.803Z",
+  "generatedAt": "2026-08-13T14:37:42.221Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Adobe Commerce Bug Targeted Immediately After Disclosure",
+      "link": "https://www.securityweek.com/adobe-commerce-bug-targeted-immediately-after-disclosure/",
+      "description": "The first exploitation attempts targeting CVE-2026-71362 were observed shortly after Adobe released patches. The post Adobe Commerce Bug Targeted Immediately After Disclosure appeared first on SecurityWeek.",
+      "pubDate": "2026-08-13T14:17:44.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/07/Adobe.jpg"
+    },
+    {
+      "title": "Who Vets AI’s Code? The Scale Challenge Facing Open Source Ingestion",
+      "link": "https://www.bleepingcomputer.com/news/security/who-vets-ais-code-the-scale-challenge-facing-open-source-ingestion/",
+      "description": "AI coding tools can introduce unvetted or hallucinated open source dependencies faster than traditional security reviews can keep pace. ActiveState explains why organizations should govern packages at the point of selection, before they enter the development pipeline. [...]",
+      "pubDate": "2026-08-13T14:00:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/08/11/activestate-eye.jpg"
+    },
+    {
+      "title": "White House taps security firms for offensive hack-back operations",
+      "link": "https://www.bleepingcomputer.com/news/security/white-house-taps-security-firms-for-offensive-hack-back-operations/",
+      "description": "A new White House memo signed by U.S. President Donald Trump instructs the National Coordination Center (NCC) to establish a program that would allow private security companies to apply for approval to hack foreign cybercrime organizations. [...]",
+      "pubDate": "2026-08-13T13:30:53.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/13/White-House.jpg"
+    },
+    {
+      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
+      "description": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-08-13T12:53:56.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
+    },
+    {
+      "title": "WhatsApp rolls out new feature that flags potential scam messages",
+      "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
+      "description": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
+      "pubDate": "2026-08-13T11:50:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/29/WhatsApp.jpg"
+    },
+    {
+      "title": "Venture Firm Team8 Secures Additional $365 Million",
+      "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
+      "description": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek.",
+      "pubDate": "2026-08-13T11:42:48.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-4.jpeg"
+    },
+    {
+      "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
+      "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
+      "description": "This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press. AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work outside of our bodies at scale. If AI’s cognitive capabilities become integrated into our lives, businesses, and governments—a process that will take years if not decades—society will be as unrecognizable as the modern world would be",
+      "pubDate": "2026-08-13T11:07:19.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
+      "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
+      "description": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek.",
+      "pubDate": "2026-08-13T10:40:57.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg"
+    },
     {
       "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
       "link": "https://www.darkreading.com/threat-intelligence/jewelbug-apt-state-espionage-cryptocurrency-theft",
@@ -136,9 +208,9 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1jrzxrBozKDsDhAGM8SBKcqbTE4M0zWSJqfp709iguQU21GwUzshBdYSvKkicSkfQD1bNsYhROcsx5p5vAT3jyM90H6w6p8imCjtLbHySKnpGKlsQqfSS-BhcdHNuwJKFPZfBiVkh49xDvJbRI-rvfBKePL6CeHYIWOpwvGG0T-ha3x__xznmdsYybs9v/s1600/windows-shell.jpg"
     },
     {
-      "title": "Walmart's &quot;Trusted Agent&quot; Approach to Purple Teaming",
+      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "description": "Walmart co-locates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
+      "description": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
       "pubDate": "2026-08-12T16:28:04.000Z",
       "source": "Dark Reading",
       "category": "news",
@@ -226,15 +298,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/06/WhatsApp-Vulnerability-attack-e1761292707809.jpg"
     },
     {
-      "title": "Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset",
-      "link": "https://www.securityweek.com/stealthy-city-forum-attacks-target-salesforce-and-servicenow-with-custom-toolset/",
-      "description": "Researchers observed the novel campaign exploiting unauthenticated guest access to quietly enumerate and exfiltrate exposed data from both platforms. The post Stealthy ‘City-Forum’ Attacks Target Salesforce and ServiceNow With Custom Toolset appeared first on SecurityWeek.",
-      "pubDate": "2026-08-12T13:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/07/data-tracking-report.jpeg"
-    },
-    {
       "title": "Walmart Leaders Transform Security Operations Without Going Bananas",
       "link": "https://www.darkreading.com/cybersecurity-operations/walmart-leaders-transform-security-operations-without-going-bananas",
       "description": "The big-box giant has scaled its defenses by encouraging trust and innovation. Good communications, transparency, and team spirit are key factors.",
@@ -271,15 +334,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjoBNKr6YWBC4uPzzXNZNX_sduYkalrtPSfiT01s6R6tq9uRzAs8TRoyv0DSwM-Wy_RmiGv923yzsB1DK3mgg5vudYdTwIk7wubUJYB0f-6AADquodryt0KofkU5aKxKaKBLirP1A0PuaBC_lfWEYJKlthyphenhyphencmmT2WBQkIRLLFLI5kWKZcJWY5rxrN-qa2M/s1600/picuss.jpg"
     },
     {
-      "title": "Ceva Logistics Operations Disrupted by Cyberattack",
-      "link": "https://www.securityweek.com/ceva-logistics-operations-disrupted-by-cyberattack/",
-      "description": "Affecting European contract logistics operations at eight Ceva warehouses, the incident caused shipment delays for multiple customers. The post Ceva Logistics Operations Disrupted by Cyberattack appeared first on SecurityWeek.",
-      "pubDate": "2026-08-12T11:37:28.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Ceva-Logistics.jpeg"
-    },
-    {
       "title": "Signal adds new security feature to thwart man-in-the-middle attacks",
       "link": "https://www.bleepingcomputer.com/news/security/signal-adds-new-security-feature-to-thwart-man-in-the-middle-attacks/",
       "description": "​Signal has introduced Automatic Key Verification, a new security feature that gives users a new way to ensure their encrypted chats haven't been intercepted. [...]",
@@ -298,15 +352,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj36vXq6xqWIDA09DIFwTp0gAZyTEpTdUoOrczmHr0NAOmxBDBySv4K6oEmzSup0sZylULeZlzf2unPADh99H5kx8-oktejFUPTM2t5aM6WrdTy99m6Qs12z4A58UYbqU2LhZRa20yY9FGy8FFB-pMvUFsA3MolrrA4nYOWVf9IS42Y0vUn3sMtu0BCty3g/s1600/adobe-cve.jpg"
     },
     {
-      "title": "Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined",
-      "link": "https://www.securityweek.com/chipmaker-patch-tuesday-intel-amd-fix-over-80-vulnerabilities-combined/",
-      "description": "Intel has informed customers about several high-severity vulnerabilities that can lead to privilege escalation and even code execution. The post Chipmaker Patch Tuesday: Intel, AMD Fix Over 80 Vulnerabilities Combined appeared first on SecurityWeek.",
-      "pubDate": "2026-08-12T10:55:04.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/chipmaker-patch-tuesday.jpeg"
-    },
-    {
       "title": "New Microsoft Defender 'ShieldBreak' zero-day grants SYSTEM privileges",
       "link": "https://www.bleepingcomputer.com/news/security/new-microsoft-defender-shieldbreak-zero-day-grants-system-privileges/",
       "description": "Nightmare Eclipse has released a new Microsoft Defender zero-day exploit named \"ShieldBreak\" after Microsoft released the August 2026 Patch Tuesday security updates. [...]",
@@ -323,15 +368,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack",
-      "link": "https://www.securityweek.com/over-2500-organizations-impacted-by-litellm-supply-chain-attack/",
-      "description": "LiteLLM was compromised through the Trivy hack and abused to distribute information-stealing malware to its users. The post Over 2,500 Organizations Impacted by LiteLLM Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-08-12T09:55:45.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
     },
     {
       "title": "Attackers Exploit VMware vCenter Vulnerability to Gain Persistent Remote Access",
@@ -397,15 +433,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/09/02/Google.jpg"
     },
     {
-      "title": "DeadLock ransomware uses blockchain to resist infrastructure takedown",
-      "link": "https://www.bleepingcomputer.com/news/security/deadlock-ransomware-uses-blockchain-to-resist-infrastructure-takedown/",
-      "description": "The DeadLock ransomware operation is using a decentralized infrastructure that relies on blockchain-backed services to protect its communication with victims and data-leak activity. [...]",
-      "pubDate": "2026-08-11T22:15:22.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/28/ransomware.jpg"
-    },
-    {
       "title": "Microsoft's Patch Tuesday Deluge Continues With August Updates",
       "link": "https://www.darkreading.com/application-security/microsofts-patch-tuesday-deluge-continues",
       "description": "Security experts say prioritization should be the main focus for the August updates, not the massive CVE volume.",
@@ -424,15 +451,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Sandworm hackers target IT pros with trojanized WireGuard VPN client",
-      "link": "https://www.bleepingcomputer.com/news/security/sandworm-hackers-target-it-pros-with-trojanized-wireguard-vpn-client/",
-      "description": "Hackers associated with the Russian threat group Sandworm have been targeting system administrators and IT professionals through fake job offers since at least May. [...]",
-      "pubDate": "2026-08-11T21:07:24.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/11/apt44.jpg"
-    },
-    {
       "title": "Microsoft Patches 398 Flaws Including a Windows Driver Zero-Day Under Active Attack",
       "link": "https://thehackernews.com/2026/08/microsoft-patches-398-flaws-including.html",
       "description": "Microsoft released its monthly security updates on Tuesday, and one of the flaws it closed is already being used in attacks. The bug sits in a core Windows kernel driver that handles network socket operations. An attacker with code already running on a machine can use it to escalate to SYSTEM. That patch goes out first. The flaw is tracked as CVE-2026-68820 (CVSS score: 7.0) and is the only",
@@ -440,15 +458,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg4HtkIdWjqoYaSkO4edq9d5ZotqTE-LNMM14UlVoPaVKw2hwBahFYrPkB3jttURH0gcBXxCDtyHhiGMAIrxCX74gYCb_ivX4INmfRzt7HRb-bPTNt1lV-nUQm_pHQQHrhUwx4JWS7DtAzOZ1etx-yjPAVrNJXGBltqXjHPSI5NcfnWQqYurz0LK-dRRMo/s1600/aug-ms-patch.jpg"
-    },
-    {
-      "title": "Cisco warns of ASA and FTD VPN flaw exploited to crash devices",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
-      "description": "Cisco is warning that a high-severity denial-of-service vulnerability in Secure Firewall ASA and Threat Defense (FTD) software is being actively exploited in attacks to remotely crash affected devices. [...]",
-      "pubDate": "2026-08-11T19:45:31.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/04/Cisco_headpic.jpg"
     },
     {
       "title": "Kimwolf v7 Android Botnet Makes HTTP/2 DDoS Traffic Look Like Legitimate Browsing",
@@ -998,15 +1007,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_DNS_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Some Claude Chats Are Searchable on Google",
-      "link": "https://www.schneier.com/blog/archives/2026/08/some-claude-chats-are-searchable-on-google.html",
-      "description": "And it’s personal information (alternate link): The exposed data includes an AI-powered therapy app that someone appears to have vibe-coded, notes on meetings, and a dashboard someone made apparently to analyze medical billing data. Exposed chats reportedly include private cryptocurrency wallet keys and personal information like peoples’ addresses. What seems to be the issue is a user setting about data sharing. Anthropic’s position is that it’s not their problem: “We give people control over sharing their Claude conversations publicly, and in keeping with our privacy principles, we do not sha",
-      "pubDate": "2026-08-04T10:13:58.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Fake IRS letters target cryptocurrency holders",
