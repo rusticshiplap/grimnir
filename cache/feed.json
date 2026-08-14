@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-14T10:33:14.955Z",
+  "generatedAt": "2026-08-14T13:12:21.938Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,69 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Cyera's Oasis Security Buy is All About AI Agent Control",
+      "link": "https://www.darkreading.com/identity-access-management-security/cyera-oasis-security-acquisition-ai-agent-control",
+      "description": "The $1 billion deal aims to converge data security and identity into a single control plane for agents, with privileged access redefined around business context rather than static roles.",
+      "pubDate": "2026-08-14T12:17:21.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta34684778cb8b0db/682deb002835ee067393fc41/Mergers_M&A_(1800)_pichetw_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities",
+      "link": "https://www.securityweek.com/in-other-news-rapid7-layoffs-hacking-a-boeing-737-refrigeration-system-vulnerabilities/",
+      "description": "Noteworthy stories that might have slipped under the radar: government AI platform deal sparks outrage, North Korean IT worker breaches federal agency, DEF CON attendee blamed for Delta flight disruption. The post In Other News: Rapid7 Layoffs, Hacking a Boeing 737, Refrigeration System Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-08-14T11:57:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "Shell investigates 'potential incident' after Clop data theft claims",
+      "link": "https://www.bleepingcomputer.com/news/security/shell-investigates-potential-incident-after-clop-data-theft-claims/",
+      "description": "Oil giant Shell has confirmed it is investigating a potential security incident after the Clop ransomware gang claimed it stole 89GB of data. [...]",
+      "pubDate": "2026-08-14T11:55:45.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/14/Shell_headpic.jpg"
+    },
+    {
+      "title": "Trivy, Not LiteLLM Behind the 2,500 Org Compromise",
+      "link": "https://www.securityweek.com/trivy-not-litellm-behind-the-2500-org-compromise/",
+      "description": "Over 95% of the affected companies were exposed before the malicious LiteLLM packages were published. The post Trivy, Not LiteLLM Behind the 2,500 Org Compromise appeared first on SecurityWeek.",
+      "pubDate": "2026-08-14T11:35:23.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/blockchain-cryptocurrency-Solana.jpeg"
+    },
+    {
+      "title": "If the Markets Reject OpenAI and Anthropic, the US Should Nationalize Them",
+      "link": "https://www.schneier.com/blog/archives/2026/08/if-the-markets-reject-openai-and-anthropic-the-us-should-nationalize-them.html",
+      "description": "This essay was written with Nathan E. Sanders, and originally appeared in The Guardian. OpenAI, and then Anthropic, were each formed by AI developers who feared unrestrained corporate AI development—specifically, that companies like Google and Meta would steer the technology towards deleterious, maybe even catastrophically unsafe, outcomes for society. Their founders proclaimed that their new labs, uniquely, could be trusted to develop the technology in humanity’s best interest. But each, in turn, were themselves co-opted by the same market incentives, themselves becoming corporate behemoths z",
+      "pubDate": "2026-08-14T11:03:50.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal",
+      "link": "https://www.securityweek.com/google-cloud-sets-out-post-quantum-roadmap-with-2029-readiness-goal/",
+      "description": "Google Cloud outlines its roadmap to full post-quantum cryptography readiness, with key milestones targeted for 2027 and 2028. The post Google Cloud Sets Out Post-Quantum Roadmap With 2029 Readiness Goal appeared first on SecurityWeek.",
+      "pubDate": "2026-08-14T11:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/PQC-post-quantum-cryptography.jpeg"
+    },
+    {
+      "title": "RingCentral data breach exposed info of 1.6 million accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/ringcentral-data-breach-exposed-info-of-16-million-accounts/",
+      "description": "The ShinyHunters extortion group stole personal information from 1.6 million RingCentral accounts after hacking the company in July, according to the data breach notification service Have I Been Pwned. [...]",
+      "pubDate": "2026-08-14T10:52:05.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/14/RingCentral-headpic.jpg"
+    },
     {
       "title": "1.6 Million Likely Impacted by RingCentral Data Breach",
       "link": "https://www.securityweek.com/1-6-million-likely-impacted-by-ringcentral-data-breach/",
@@ -190,15 +253,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/08/13/White-House.jpg"
     },
     {
-      "title": "WordPress 7.0.4 Patches Remote Code Execution Vulnerability",
-      "link": "https://www.securityweek.com/wordpress-7-0-4-patches-remote-code-execution-vulnerability/",
-      "description": "Attackers with Author-level user or higher permissions could exploit the flaw via malicious Postscript files. The post WordPress 7.0.4 Patches Remote Code Execution Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-08-13T12:53:56.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
-    },
-    {
       "title": "WhatsApp rolls out new feature that flags potential scam messages",
       "link": "https://www.bleepingcomputer.com/news/security/whatsapp-rolls-out-new-feature-that-flags-potential-scam-messages/",
       "description": "WhatsApp has begun rolling out a new optional \"Scam Alert\" feature, which uses a local machine learning model to warn users when scammers are targeting them. [...]",
@@ -208,15 +262,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2025/08/29/WhatsApp.jpg"
     },
     {
-      "title": "Venture Firm Team8 Secures Additional $365 Million",
-      "link": "https://www.securityweek.com/venture-firm-team8-secures-additional-365-million/",
-      "description": "The Israeli company has nearly $2 billion in total assets under management since 2014. The post Venture Firm Team8 Secures Additional $365 Million appeared first on SecurityWeek.",
-      "pubDate": "2026-08-13T11:42:48.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-4.jpeg"
-    },
-    {
       "title": "Separating AI’s Technological Problems from Its Capitalism Problems",
       "link": "https://www.schneier.com/blog/archives/2026/08/separating-ais-technological-problems-from-its-capitalism-problems.html",
       "description": "This essay was written with Nathan E. Sanders, and originally appeared in Tech Policy Press. AI represents the first time we humans can do cognitive work outside of our bodies at scale. The only comparable moment is the early years of the industrial revolution, when new technologies like the steam engine provided a quantum leap in our ability to do mechanical work outside of our bodies at scale. If AI’s cognitive capabilities become integrated into our lives, businesses, and governments—a process that will take years if not decades—society will be as unrecognizable as the modern world would be",
@@ -224,15 +269,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Fortinet Patches Authentication Flaws in FortiWeb and FortiManager",
-      "link": "https://www.securityweek.com/fortinet-patches-authentication-flaws-in-fortiweb-and-fortimanager/",
-      "description": "The vulnerabilities could allow attackers to log in with random usernames and passwords or impersonate any FortiGate appliance. The post Fortinet Patches Authentication Flaws in FortiWeb and FortiManager appeared first on SecurityWeek.",
-      "pubDate": "2026-08-13T10:40:57.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/Fortinet-Vulnerability.jpg"
     },
     {
       "title": "'Jewelbug' APT Balances State Espionage &amp; Cryptocurrency Theft",
@@ -280,15 +316,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/08/12/city-data-theft-blue.jpg"
     },
     {
-      "title": "Android malware combo takes out loans and relays victims' credit cards",
-      "link": "https://www.bleepingcomputer.com/news/security/android-malware-combo-takes-out-loans-and-relays-victims-credit-cards/",
-      "description": "A new Android NFC relay malware called WindRelay is being used alongside the SpyNote remote administration tool (RAT) to steal live card data and send it to attackers in real time. [...]",
-      "pubDate": "2026-08-12T22:22:57.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/12/Android_card.jpg"
-    },
-    {
       "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
       "description": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
@@ -296,15 +323,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Hackers exploit critical Adobe Commerce flaw to hijack customer accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-critical-adobe-commerce-flaw-to-hijack-customer-accounts/",
-      "description": "Attempts to exploit a critical vulnerability (CVE-2026-71362) in Adobe's Commerce and Magento e-commerce platforms have been detected, potentially allowing attackers to hijack customer accounts. [...]",
-      "pubDate": "2026-08-12T20:54:59.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/25/Magento.jpg"
     },
     {
       "title": "Lazarus Exploits Windows Zero-Day to Gain SYSTEM Access and Deploy Backdoor",
@@ -910,15 +928,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7e0cf3695ec46a69/6a73b8d82ab3843852e5758c/robot_browsing-sorbetto-Getty-2150544898.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "CSS: The Hidden Threat Lurking in Your Inbox",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/css-hidden-threat-lurking-inbox",
-      "description": "CSS was once just about design. Now researchers warn it's powerful enough to exfiltrate data from webmail — and some vendors aren't prepared.",
-      "pubDate": "2026-08-05T19:47:55.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blteab809ef662786f0/6a72695ca3f8037e14ce6b0b/email1800_alubalish_GettyImages-184320446.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Can AI do novel security research? Meet the HTTP Terminator",
       "link": "https://portswigger.net/research/can-ai-do-novel-security-research",
       "description": "Abstract We all know AI can find bugs. After a decade of research, I asked a harder question: can an autonomous system invent new attack techniques, and use them to hack live websites at scale? Buildi",
@@ -962,15 +971,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image.webp"
-    },
-    {
-      "title": "Iran Cyberattacks Against Minnesota Water Systems",
-      "link": "https://www.schneier.com/blog/archives/2026/08/iran-cyberattacks-against-minnesota-water-systems.html",
-      "description": "Attribution is preliminary, and so far it seems no real damage. And it seems like this is a campaign that has targeted at least seven states. And, because this is where the US is right now, Trump doesn’t believe it’s Iran and thinks Minnesota…I guess…hacked itself. “I think I blame it on Minnesota because they’re grossly incompetent,” Trump said. “I would blame it on Minnesota and the governor, the corrupt governor of Minnesota. They like to say, ‘Oh, it’s Iran.’ Iran should be so lucky. Iran’s got bigger problems than worrying about Minnesota.” No word on whether he believes the other six sta",
-      "pubDate": "2026-08-04T19:00:53.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Advance Zero Trust for AI: New tools and guidance to secure AI agents and DevSecOps",
