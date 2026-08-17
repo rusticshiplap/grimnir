@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T21:32:21.356Z",
+  "generatedAt": "2026-08-17T22:27:09.002Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,15 @@
   ],
   "items": [
     {
+      "title": "Video Call Exploit Chains Two Flaws in Unisoc Modems",
+      "link": "https://www.darkreading.com/mobile-security/video-call-exploit-chains-two-flaws-unisoc-modems",
+      "description": "Researchers found that by combining two vulnerabilities, they could take over an Android device by delivering a payload and getting the victim to answer their phone.",
+      "pubDate": "2026-08-17T21:37:23.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3b0d5e1880afeee0/6a836ae7cff1172eaef5b7c9/videocall_Kumeko_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "Critical GitLab GraphQL Flaw Could Let Unauthenticated Attackers Delete Public Projects",
       "link": "https://thehackernews.com/2026/08/critical-gitlab-graphql-flaw-could-let.html",
       "description": "GitLab has released security updates to address a critical vulnerability impacting its Community Edition (CE) and Enterprise Edition (EE) software that, under certain conditions, could allow an unauthenticated attacker to remotely modify or delete public projects and user data. The flaw, tracked as CVE-2026-19478, has been rated Critical by GitLab and assigned a CVSS score of 9.4. Released on",
@@ -26,6 +35,15 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgLiZpsYdSdkh6GE1rDDV3XVwWiGdjWBlx3B1irY9V5RtHt1cv7sQYPaa16y78EJdluo3FTMr5Wq0O2ZCWZjRMdrewgLrGJS3Ii_NLOQKQKN18PEGHhDiSyJtvf8TpdFrrIplaynGWNVmUxdAkyL7E8h_GtKfog8EE_TV25SySHFqbQgK3ChyphenhyphenKaKktnUic/s1600/gitlab.jpg"
+    },
+    {
+      "title": "'Turf War' Between Claude Agents Leads to Self-Replicating Malware",
+      "link": "https://www.darkreading.com/threat-intelligence/turf-war-claude-agents-self-replicating-malware",
+      "description": "Three testing models with the same goal but different directives engaged in \"increasingly aggressive\" territorial attacks on one another, according to Anthropic.",
+      "pubDate": "2026-08-17T20:26:34.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb353cb4eb8945ff6/6a1f007a2897886e9b11fcab/aiagents-Suchat_longthara-getty-2229177564.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Hacker claims 3.6 million Azure account records stolen from major companies",
@@ -865,15 +883,6 @@
       "image": null
     },
     {
-      "title": "AI-Generated Patches Fail Half the Time",
-      "link": "https://www.darkreading.com/application-security/ai-generated-patches-fail-half-time",
-      "description": "A study of more than 6,000 patches found that even working patches can introduce new bugs, break something else, or are open to bypass.",
-      "pubDate": "2026-08-07T16:47:43.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt51cfa43c126c431d/6a75005453cbbc62a56894c9/patches-in-denim-nnattalli-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Beware cut-price AI services that read your every word",
       "link": "https://www.fortra.com/blog/beware-cut-price-ai-services-read-your-every-word",
       "description": "f someone offered you 90% off the official price to access Claude, the powerful AI model from Anthropic, would you be tempted? It turns out that around 900 people were, and they may be regretting their decision. Read more in my article on the Fortra blog.",
@@ -908,15 +917,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/97/ed/a919-twittercard-article.png"
-    },
-    {
-      "title": "The Coordination Gap: How Attackers Are Outpacing Law Enforcement",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/coordination-gap-attackers-outpacing-law-enforcement",
-      "description": "The fight against cybercrime continues because threat actors have adapted their strategies to avoid deterrents, but law enforcement still operates in silos.",
-      "pubDate": "2026-08-06T21:42:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt773d06d488d0bafb/67ae0378f9958cc7415de40e/Cybercrime_(1800)_wsf_AL_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Apple’s bug bounty program is drowning in so much AI slop, it is in danger of missing serious exploits",
