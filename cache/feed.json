@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T10:31:31.641Z",
+  "generatedAt": "2026-08-19T11:27:19.483Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,60 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "StopAndProtect Uses Nearly 2,000 Hacked WordPress Sites to Spread Malware and Steal Data",
+      "link": "https://thehackernews.com/2026/08/stopandprotect-uses-nearly-2000-hacked.html",
+      "description": "Cybersecurity researchers have flagged a global cybercrime operation that abuses thousands of hacked WordPress websites as infrastructure to disseminate malware, commandeer infected hosts, store stolen documents, screenshots, and activity logs created to track the status of the activity. \"The operation doesn't rely on a single piece of malware, but on a whole toolkit of criminal software",
+      "pubDate": "2026-08-19T11:25:28.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
+    },
+    {
+      "title": "Microsoft fixes known issue causing Windows Defender crashes",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
+      "description": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
+      "pubDate": "2026-08-19T11:14:28.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender.jpg"
+    },
+    {
+      "title": "Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign",
+      "link": "https://www.securityweek.com/cl0p-ransomware-group-names-over-40-victims-of-ptc-windchill-campaign/",
+      "description": "The cybercrime gang has listed major companies such as Shell, Philips, Fiserv, Zebra, Mindray, and Largan Precision. The post Cl0p Ransomware Group Names Over 40 Victims of PTC Windchill Campaign appeared first on SecurityWeek.",
+      "pubDate": "2026-08-19T11:07:21.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/cleo-file-transfer-exploit-attack.jpeg"
+    },
+    {
+      "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
+      "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
+      "pubDate": "2026-08-19T11:01:48.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJDdcdHtgq-nTzruVpw0hyZmBZtfG4iwLgi_nfw6A70e_mXt7LUSnyTQ7ZdgclMUypEe7s8s-LDmykPATeFixDXHEP_j1zhheNBnHA1TebBqoYtw1-3g_-LqlSuk8MczmJ3BtD6MO4TL1FVdLEcZXVKn_Rd7ucsm0Imb8QTjxJXZY52RkgfUd26FPQanbZ/s1600/kev.jpg"
+    },
+    {
+      "title": "ICE Collecting DNA Samples",
+      "link": "https://www.schneier.com/blog/archives/2026/08/ice-collecting-dna-samples.html",
+      "description": "ICE collected nearly a million DNA samples last year.",
+      "pubDate": "2026-08-19T10:46:37.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities",
+      "link": "https://www.securityweek.com/cisa-urges-immediate-patching-of-exploited-microsoft-vmware-apple-vulnerabilities/",
+      "description": "The flaws can be exploited for remote code execution, authentication bypass, and device takeover. The post CISA Urges Immediate Patching of Exploited Microsoft, VMware, Apple Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-08-19T10:37:31.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/CISA-KEV.jpg"
+    },
     {
       "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
@@ -226,15 +280,6 @@
       "image": "https://www.bleepstatic.com/content/posts/2026/08/12/BleepingComputer-OrganicArticle-BlueReport2026-1600x900px.jpg"
     },
     {
-      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
-      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
-      "description": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
-      "pubDate": "2026-08-18T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "'Ransom Busters': Ransomware Actor Poses as Incident-Recovery Service",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ransom-busters-ransomware-actor-incident-recovery-service",
       "description": "A ransomware affiliate appears to be sidling up to victims with offers of aid, masking its true intention of diverting ransom payments.",
@@ -242,6 +287,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd51dac9db97608a9/6a83674527cfd1d34eec915a/Ransomware_encryption-AndreyPopov-GettyImages-2225634481.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Silent 'TwinLoot' Cyber Threat Operates Entirely From Microsoft's Cloud",
+      "link": "https://www.darkreading.com/cloud-security/silent-twinloot-threat-operates-microsoft-cloud",
+      "description": "The Python-based malware framework takes living-off-the-land tactics to a new heights of stealth, with a modular implant that steals credentials and achieves persistence.",
+      "pubDate": "2026-08-18T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "AI-Driven Vulnerability Surge Breaks the Traditional Patching Model",
@@ -316,15 +370,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/Windows.jpg"
     },
     {
-      "title": "300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw",
-      "link": "https://www.securityweek.com/300000-wordpress-sites-potentially-exposed-to-hacking-due-to-form-plugin-flaw/",
-      "description": "Tracked as CVE-2026-15748, the arbitrary file upload bug allows unauthenticated attackers to upload executable files. The post 300,000 WordPress Sites Potentially Exposed to Hacking Due to Form Plugin Flaw appeared first on SecurityWeek.",
-      "pubDate": "2026-08-18T10:48:23.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
-    },
-    {
       "title": "LLMs and Contextual Integrity",
       "link": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "description": "I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. “CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs“: Abstract: Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces critical risks when sensitive information is revealed in inappropriate contexts. We present CIMemories, a benchmark for evaluating whether LLMs appropriately control information flow from memory b",
@@ -350,15 +395,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/05/19/Microsoft365.jpg"
-    },
-    {
-      "title": "Heights Finance Data Breach Impacts at Least 1.2 Million Individuals",
-      "link": "https://www.securityweek.com/heights-finance-data-breach-impacts-at-least-1-2-million-individuals/",
-      "description": "Hackers stole names, addresses, phone numbers, Social Security numbers, and financial information from a third-party platform. The post Heights Finance Data Breach Impacts at Least 1.2 Million Individuals appeared first on SecurityWeek.",
-      "pubDate": "2026-08-18T09:18:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg"
     },
     {
       "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
@@ -523,15 +559,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgObgx3d_pR3qN3UrW69UfMgB-yM7RmfpKrQjvzqtAsNaQ3nVsIKNIiz5p0BsZCppmE4BWH9Wle92WombnIdCdT0BsHkv-_lDcEdIkYvsGrnch6OQHbAr3FUj-QjM8aDdKPNdnez6SXczT4sXNn8KX4QgmG6BiapFhq35I0cdZckWblyoaTVr7rjY5idp5V/s1600/cyber-recap.jpg"
     },
     {
-      "title": "Windows Server 2022 reaches end of mainstream support in 60 days",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-server-2022-reaches-end-of-mainstream-support-in-60-days/",
-      "description": "Microsoft has reminded IT administrators that Windows Server 2022 is rapidly approaching its mainstream end date of October 2026, when it will switch to extended support. [...]",
-      "pubDate": "2026-08-17T12:33:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/17/Windows_Server.jpg"
-    },
-    {
       "title": "How MCP Servers Can Expose Enterprise Secrets",
       "link": "https://thehackernews.com/2026/08/how-mcp-servers-can-expose-enterprise.html",
       "description": "MCP servers can expose enterprise secrets through plaintext configuration files, over-permissioned access and prompt injection, often before security teams even know the server is running. As more organizations adopt AI agents into their systems, that exposure can silently become a major gap in MCP server security. The Model Context Protocol (MCP) allows AI agents to reach the tools and data,",
@@ -649,15 +676,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf82784f3cda996ab/6a7f597749a6b3967594a791/tsunami-John_Lund-Getty-114571378.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "IAM Compliance Requirements and Best Practices",
-      "link": "https://thehackernews.com/2026/08/iam-compliance-requirements-and-best.html",
-      "description": "IAM compliance is the practice of demonstrating that identity and access controls are not only documented but actually enforced across users, applications, infrastructure, and non-human identities. This guide explains what IAM compliance requires, which regulations matter, and how organizations move from periodic access reviews toward continuous, evidence-backed verification that auditors can",
-      "pubDate": "2026-08-14T17:19:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtCfpJQBf2uorUk8jQiK_Cpzh2QLElku5-T5DS6dLc9iV3XA5w1fsd7F9aiCv1gMYri3jEogBTuyYaiSzgdBhvDxWSN_1X1Q-AZkr3u5QBBvzzvZ_F7mpQdqxy-mXsXC_YuPpikK6nHTLhRy8cwpccEKb3ScMiQ8bGLYw5-NMf8kOcEVCYefsCUgu8LEU/s1600/ORCHID.jpg"
-    },
-    {
       "title": "Upcoming Speaking Engagements",
       "link": "https://www.schneier.com/blog/archives/2026/08/upcoming-speaking-engagements-59.html",
       "description": "This is a current list of where and when I am scheduled to speak: I’m speaking, signing books, and participating in panel discussions at LAcon V in Anaheim, California, USA. My full schedule is here. I’m speaking online (via Zoom) at a League of Women Voters event on Tuesday, September 22, 2026, at 5 PM ET. I’m speaking at Elevate Festival in Toronto, Canada. The conference runs September 22–24, 2026; my talk is on Wednesday, September 23. I’m speaking at CanSecWest 2026 in Vancouver, Canada. The conference runs September 30–October 1, 2026; the time of my talk is TBD. I’m speaking at ATTENTIO",
@@ -683,15 +701,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21c605763d0c60ea/6a7e01ffe9f4a6e313766046/boardroom-FangXiaNuo-Getty-618946910.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Mustang Panda Adds Signed Windows Rootkit to CoolClient Backdoor for Stealth",
-      "link": "https://thehackernews.com/2026/08/mustang-panda-adds-signed-windows.html",
-      "description": "The threat actor known as HoneyMyte (aka Mustang Panda) has been observed deploying an updated version of the CoolClient backdoor with a signed Windows kernel-mode rootkit that can hide and protect malicious processes, files, registry objects, and command-and-control (C2) network information. Russian cybersecurity vendor Kaspersky said it identified victims in Myanmar, Mongolia, Pakistan,",
-      "pubDate": "2026-08-14T13:08:56.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHhYwJerhs2kJO7Sh0FJfEt7_JpkOEbB1ccWjSpSyfvWWDf7waLVr1TMU9Cj-_jdAQ7bDAX0gV2Bt4Sqv1Zx4K8PJgObOX3nt1bVT5YClAvKbvyBovpcIFwpQ66fhzEqi69CJj9er_L5Z4YGDzGAPkUaWiOm6gway77Fkn5sf_-vJucFzQAZRmNiCqlzU/s1600/windows-rootkit.jpg"
     },
     {
       "title": "Cyera's Oasis Security Buy Is All About AI Agent Control",
@@ -908,15 +917,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Figure-1.-DeadLock-icon-for-encrypted-files.jpg"
-    },
-    {
-      "title": "Python Now Has a Post-Quantum Encryption Library",
-      "link": "https://www.schneier.com/blog/archives/2026/08/python-now-has-a-post-quantum-encryption-library.html",
-      "description": "This is good: Post-quantum cryptography is now one pip-install away for the entire Python ecosystem. With funding from the Sovereign Tech Agency, we implemented support for ML-KEM, the NIST-standard key-establishment primitive, and ML-DSA, the NIST-standard digital-signature primitive, in pyca/cryptography. Remember, the reason to do this now is because there’s no emergency. And because you will make your systems crypto agile, which is always a good idea.",
-      "pubDate": "2026-08-10T11:02:26.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Inside the Modern SOC: The Identity Front Door",
