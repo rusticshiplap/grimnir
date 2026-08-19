@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T19:28:00.546Z",
+  "generatedAt": "2026-08-19T20:31:07.628Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,24 @@
   ],
   "items": [
     {
+      "title": "Healthtech firm CareCloud data breach impacts 3.7 million patients",
+      "link": "https://www.bleepingcomputer.com/news/security/healthtech-firm-carecloud-data-breach-impacts-37-million-patients/",
+      "description": "U.S. healthcare IT company CareCloud disclosed that the data breach incident it suffered earlier this year has impacted more than 3.7 million individuals. [...]",
+      "pubDate": "2026-08-19T20:07:12.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/19/CareCloud.jpg"
+    },
+    {
+      "title": "Cloudflare Workers Spectre Attack Leaks JWT From Co-Located Worker at 12 Bits/Second",
+      "link": "https://thehackernews.com/2026/08/cloudflare-workers-spectre-attack-leaks.html",
+      "description": "Cybersecurity researchers have disclosed details of a remote Spectre attack against Cloudflare Workers that leaked a JSON Web Token (JWT) from a co-located Worker in the production environment at up to 12 bits per second, 360 times the rate of an earlier attack demonstrated in 2021. The end-to-end experiment used an attacker Worker and a victim Worker controlled by the researchers,",
+      "pubDate": "2026-08-19T19:02:40.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi50HcHSWt796lc8zQ8Anp_fHUqgV-BM0xiS1NxJW8zRDgBRJ9ovZOECiIhdQt0aVTUdhduJYP1o5wTa5RpDoCwhihq8rKqWmh73E9E8UzafyDcq1n1khCEIDCikK2L6NEt1mbIuMRm6F36bap74JtZawFqqCPvWF72SAm25BzREVerWYaRIDEo1O89V4k/s1600/jwt.jpg"
+    },
+    {
       "title": "Hackers compromise 14,500 Dahua web cameras in 35-day campaign",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-compromise-14-500-dahua-web-cameras-in-35-day-campaign/",
       "description": "In a large-scale campaign that researchers dubbed CameraSwarm, hackers compromised more than 14,500 Dahua IP cameras mostly in Ukraine and Russia. [...]",
@@ -26,6 +44,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2025/12/02/camera.jpg"
+    },
+    {
+      "title": "OpenAI Pauses Frontier RL Training as It Tightens Defenses Against Unsafe AI Behavior",
+      "link": "https://thehackernews.com/2026/08/openai-pauses-frontier-rl-training-as.html",
+      "description": "OpenAI on Tuesday revealed that it paused reinforcement learning (RL) training for its latest artificial intelligence (AI) models for two weeks while it shored up additional defenses and increased the scope of its monitoring to avert another Hugging Face-like incident. \"As models become more capable, the risks associated with developing and testing them internally also grow,\" the AI company",
+      "pubDate": "2026-08-19T18:06:44.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh6Ar7QFukiqBWatGeVdffG393l7GwFmzYBSWvv6Um7gPNIzeL8p3gfO_2C1rvVGPSUh00KWZAB8wFs9Xdz6h7uWDd7MYyWuuzLciO6NX1Y4mln1LqxK-skWP7VEdFD3BOhP1msTaM7F1ZgBeGyDUuLUaNlXAroEXHH6aYPgWluliMNUrozkKKeGK9kf-Ri/s1600/open.jpg"
     },
     {
       "title": "US warns of AI-powered attacks on Siemens PLCs in critical infrastructure",
@@ -262,6 +289,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEit3cCqpn48W_lqEDCb9ewKFToGQcvhUjO939N0Gja-aTvCvRTz8kdOPZG1bhyphenhyphenED2XNeB82rjCIeVO3Nw9akDlMnQZqc7keiel8H82zgtf1A7fhb6DP3z6Qh3Ehk6AGrMt77rXkoNhLaDeEl692kDHAHVsNb7AOcDxpsavM0Hj9TZRLLJsuQ-OT3oQOvFMi/s1600/ptc.jpg"
     },
     {
+      "title": "Benchmaxxing: When the Benchmark Becomes the Target",
+      "link": "https://www.crowdstrike.com/en-us/blog/benchmaxxing-when-benchmark-becomes-the-target/",
+      "description": "",
+      "pubDate": "2026-08-19T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "China-Linked Hacker Shows AI Capabilities in APAC Attack",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/china-linked-hacker-ai-capabilities-apac-attack",
       "description": "In the first purported \"near-autonomous\" attack on a nation-state, a Chinese-language operator used a complex AI framework to target and compromise government agencies, likely in Taiwan.",
@@ -296,6 +332,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/posts/2026/08/18/xfinity-wifi-motion-header.jpg"
+    },
+    {
+      "title": "The 'Industrial Accidents' Behind Rogue AI Agent Attacks — and the Sandbox Failures Exposed",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/industrial-accidents-rogue-ai-agent-attacks-sandbox-failures",
+      "description": "Rich Mogull, chief analyst with the Cloud Security Alliance, joins the Dark Reading News Desk with what defenders need to take away from AI agents escaping their environments to launch attacks.",
+      "pubDate": "2026-08-18T19:09:51.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt10b947e86b169479/6a8494d01fc1525118764111/rich_mogull_becky_bracken_news_desk.png?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
@@ -487,15 +532,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
     },
     {
-      "title": "Microsoft starts removing WMIC tool used by cybercriminals",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-removes-wmic-lolbin-tool-in-windows-11-beta-builds/",
-      "description": "Microsoft announced that it removed the Windows Management Instrumentation Command-line (WMIC) tool from Windows 11 24H2 and 25H2, as well as from Windows 11 beta builds released this week. [...]",
-      "pubDate": "2026-08-18T08:12:08.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/16/WMIC.jpg"
-    },
-    {
       "title": "CISA Flags Actively Exploited Ray Flaw That Can Trigger Browser-Based RCE",
       "link": "https://thehackernews.com/2026/08/cisa-flags-actively-exploited-ray-flaw.html",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Monday added a critical flaw impacting Ray to its Known Exploited Vulnerabilities (KEV) catalog, citing evidence of active exploitation. Ray is an open-source, Python-native distributed computing framework designed to scale artificial intelligence and machine learning workloads. As of writing, the GitHub project has more than",
@@ -629,24 +665,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIqVuTpKFLy55ilEFObjJqUsVDu7qTrQCYAFsh7bbMcF4xv61h8I6tfue0tGw04yWGhDg_cZ-r0v9Jw-kjNmm5ZYpbebrvlgixiqID5pSUwXb8dQSg12cI5kFkR4BKK0mwc6rMP-9ULTHob-bi7rgfYxGBixmNhGy75tlqn5tlc6OXjpGGZemXbq0yHRY/s1600/android.jpg"
-    },
-    {
-      "title": "Evooo1Bot Linux Botnet Exploits Known Flaws to Turn Edge Devices Into SOCKS5 Proxies",
-      "link": "https://thehackernews.com/2026/08/evooo1bot-linux-botnet-exploits-known.html",
-      "description": "Cybersecurity researchers have flagged a previously undocumented Linux botnet family dubbed Evooo1Bot that derives its core functionality from the Mirai botnet source code and is equipped to turn internet-facing devices into SOCKS proxies. \"While the malware reuses the DDoS engine from the publicly leaked Mirai source code, it extends the original framework with numerous capabilities, including",
-      "pubDate": "2026-08-17T09:29:55.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhIDrkyaW1magTuvTfLfkhtk_8stt1zYUxgonTZX1yaI_OGxsGMV9wCRE8bglbRubclVma7bkghEbmah6ku4T2ZVnpSngl6k5Cw0iCXgNNpuy6I2ZNPQOYYIfqKNgcVQxkqZdgvFLLM82bK1By0hrAm4i9slLnFQwQmwLmpR8I9eb8Paze2sf2UJMlol81Q/s1600/linux-botnet.jpg"
-    },
-    {
-      "title": "Suspected China-Nexus Actor Exploits VMware vCenter Flaw, Deploys Babuk-Derived Ransomware",
-      "link": "https://thehackernews.com/2026/08/suspected-china-nexus-actor-exploits.html",
-      "description": "Cybersecurity researchers have attributed the exploitation of a newly patched security flaw in Broadcom VMware vCenter to a suspected China-nexus advanced persistent threat (APT). The attacks involve the exploitation of CVE-2026-59310 (CVSS score: 9.8), a severe directory-traversal vulnerability in the VMware vCenter server that could be weaponized by a malicious actor to execute arbitrary code",
-      "pubDate": "2026-08-17T07:36:19.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhN5GzIjo1DOb9leWRsG7hi5zemNCi6kb_NBf-391nF9pphXhTgf8DZLMlk-fUyp-j4rT_cFv4coBpP821rfQkUc4ydAu5YQBcn9Y6nj-SeQGDNu10DmSN2JYDmWJTzLUSXsvDYPTBQ_cQkkCFAIkdMCyRgRv5YIPdMgkp62BtqaYE49b3aWnm4QbYM7YeK/s1600/vmware.jpg"
     },
     {
       "title": "Teaching AI to Reason Through Detection Triage",
@@ -845,15 +863,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff4a30148731b710/6a7b8cee356eb8abac637ca4/patch_tomeqs_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Gunra Ransomware Gang Exploits Fortinet Flaws, Bypasses MFA",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/gunra-ransomware-gang-fortinet-flaws-bypasses-mfa",
-      "description": "The ransomware-as-a-service operation is finding success against critical infrastructure targets with leaked Conti code and old flaws in firewalls and VPN appliances.",
-      "pubDate": "2026-08-11T21:16:25.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt468a31de0930ebef/6a7b87a0f0b097cbb1a7bb39/ransomware-jittawit.21-Getty-2178699306.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "AI Genie in the Wild",
@@ -1227,15 +1236,6 @@
     {
       "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
       "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
-      "description": "",
-      "pubDate": "2026-07-29T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Falcon Platform IOAs Arrive in Falcon Next-Gen SIEM to Identify New Threats",
-      "link": "https://www.crowdstrike.com/en-us/blog/falcon-platform-ioas-arrive-in-falcon-next-gen-siem/",
       "description": "",
       "pubDate": "2026-07-29T05:00:00.000Z",
       "source": "CrowdStrike Blog",
