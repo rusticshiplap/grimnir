@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T21:30:14.966Z",
+  "generatedAt": "2026-08-20T22:30:08.390Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -35,6 +35,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5bccc03f4b27984e/6a8754a988809d97a89eb2b5/Jake_Williams_News_Desk_2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Rust Supply Chain Attack Puts Build-Time Malware in Crates with 245 Million Downloads",
+      "link": "https://thehackernews.com/2026/08/rust-supply-chain-attack-puts-build.html",
+      "description": "The Rust Project has deleted malicious versions of three widely used Rust crates from crates.io after a compromised maintainer account published releases that added a typosquatted dependency whose build script downloaded and executed a remote payload during compilation. The affected releases are arrayref 0.3.10, internment 0.8.7, and append-only-vec 0.1.9, all published from the same owner",
+      "pubDate": "2026-08-20T20:22:35.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgshVe5DUMbByJkLQGRgak37eOf3HddCtrF6KCJfISPdm7l2ZwLFlnjQM3pN2mxPDpc9lWwSoH2fYfucYKBKk3vpuGAKdR5U685IZh8EFbMxWcyVenuRMyqIgvbFUa0_5Sx9pVl9Imu5omju6i7eRE0sKKxiCSKYEV1Say1LLhQHEufY10dgovzX0Nt7as/s1600/rust.jpg"
     },
     {
       "title": "Suspected Russian Hackers Abuse Google OAuth and WhatsApp Linking to Hijack Accounts",
@@ -406,15 +415,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitKWjeNJOL_DEahUmMAYpH9qh94s2iFi8igtfSlAzOVWiUBU-EIM0MWMsFYPmA5NDL6Rs9E-w9vvCmw3Cc6Og0q-TDt87Q2hwYIePNAQ0xQ3OJYHzgCizDFm-YK9SxW4ncWnuVLaOzgb3SPO7Qpx17zHMaFzBQfYllgz5IP-p1jMALgWlasRkj1nV3Tq3G/s1600/wordpress.jpg"
     },
     {
-      "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-strongest-overall-leader-2026-frost-radar-cwpp/",
-      "description": "",
-      "pubDate": "2026-08-20T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "OpenAI confirms ChatGPT is down as logins and signups fail",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-confirms-chatgpt-is-down-as-logins-and-signups-fail/",
       "description": "ChatGPT is experiencing a major outage, and users are unable to sign in, create accounts, or load chats, including previous conversations. [...]",
@@ -683,15 +683,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Microsoft Copilot Personal Flaws Could Let One Click Exfiltrate Data From Connected Apps",
-      "link": "https://thehackernews.com/2026/08/microsoft-copilot-personal-flaws-could.html",
-      "description": "Varonis Threat Labs has disclosed three vulnerabilities in Microsoft Copilot Personal that it said could allow a single click on a crafted link to silently pull data from connected apps and other information available to the victim's Copilot session. The flaws, which the researchers collectively named CoSnitch, turn in part on an undocumented URL parameter that the assistant itself surfaced",
-      "pubDate": "2026-08-18T17:47:22.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAc2Z6RvtNlJnjkfp-kCEhx8x8Q9XPLHY-oQb8NXu6cb-C5BTfa9HnmWq3G1GT3mPsHLV6Xf6tyBui-ljplsYEo9Qt8kBiNKXOwvTzACMisyS0NQ5U3bGg8O6yVEPStEPbYw4W-4ZasDNssDr2JTJD7GTo6QEpER1L-9Xci-mNSk3A5t_aLXGIHwo04FI/s1600/copilot.jpg"
     },
     {
       "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
@@ -1254,6 +1245,15 @@
     {
       "title": "Inside Astaroth's New Spambot Component",
       "link": "https://www.crowdstrike.com/en-us/blog/inside-astaroths-new-spambot-component/",
+      "description": "",
+      "pubDate": "2026-07-29T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "Falcon Cloud Security July 2026 Release: Helping Security Teams Move Faster in the Cloud",
+      "link": "https://www.crowdstrike.com/en-us/blog/new-in-falcon-cloud-security-helping-security-teams-move-faster/",
       "description": "",
       "pubDate": "2026-07-29T05:00:00.000Z",
       "source": "CrowdStrike Blog",
