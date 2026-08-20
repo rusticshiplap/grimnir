@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T13:50:25.871Z",
+  "generatedAt": "2026-08-20T18:42:16.885Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,123 @@
   ],
   "items": [
     {
+      "title": "Hackers poison arrayref Rust crate to push infostealer malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-poison-arrayref-rust-crate-to-push-infostealer-malware/",
+      "description": "Hackers compromised the maintainer account behind the widely used Rust crate arrayref to introduce malware that executed on developers' systems during compilation. [...]",
+      "pubDate": "2026-08-20T17:53:52.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/04/09/Rust-headpic-red.jpg"
+    },
+    {
+      "title": "Detailed Timeline of OpenAI’s Cyberattack on Hugging Face",
+      "link": "https://www.schneier.com/blog/archives/2026/08/detailed-timeline-of-openais-cyberattack-on-hugging-face.html",
+      "description": "OpenAI presented details of its AI’s model’s cyberattack on Hugging Face at Black Hat last week. Simon Willison details the timeline. It’s really interesting to read through—and really impressive cyberoffense work.",
+      "pubDate": "2026-08-20T17:44:36.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "N-able Bug Exposes Password Vault Master Keys",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/n-able-bug-password-vault-master-keys",
+      "description": "The popular \"Passportal\" password manager, favored by MSPs and SMBs, remains risky even after its patch, thanks to its cloud-based design. Should these products stay away from the cloud entirely?",
+      "pubDate": "2026-08-20T17:39:24.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0a77c38c9943dba1/6a7ccfe21978b46e991f0379/Vault-Dragon_Claws-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Money and Mindset: The Two Biggest Roadblocks to Cyber Policing",
+      "link": "https://www.darkreading.com/cybersecurity-operations/money-and-mindset-the-two-biggest-roadblocks-to-cyber-policing",
+      "description": "Law enforcement training is not keeping pace with the volume and rapid evolution of cybercrimes, though officers really only need to learn the basics, but focus and budgets hinder progress.",
+      "pubDate": "2026-08-20T17:32:51.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blta7ace73c64110fdb/6a873d0883b3a602b22efba9/GettyImages-2226845743.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI-Generated Exploit Scripts Target Siemens S7 PLCs in U.S. Critical Infrastructure",
+      "link": "https://thehackernews.com/2026/08/ai-generated-exploit-scripts-target.html",
+      "description": "The U.S. government on Wednesday warned of an \"active threat\" targeting critical infrastructure organizations in the country using artificial intelligence (AI)-generated exploit scripts. The activity is targeting Siemens S7 SeriesProgrammable Logic Controllers (PLCs) to conduct reconnaissance and capability development using AI-generated scripts disguised as legitimate monitoring tools. That",
+      "pubDate": "2026-08-20T16:59:44.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiSn562AFIpj2ldmT5inFv5tGgfNbaM4F1OBNvCW-80nP-YmFewnJd9VMlbgYnhgWrUpHS81bS6uEXRgEmg37c14OqmkO29XqY3FcBCl637vmAxfqB3UDtL3Rvgio6cPAQQv3bYtLUIyRdog4bpgD8MqJJYhTLish4L2Ljt6aJ_WpjFmTXYhmrA-TguqH98/s1600/plc.jpg"
+    },
+    {
+      "title": "Pakistan's Transparent Tribe Refreshes Toolset for Afghan Cyberattacks",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/pakistan-transparent-tribe-afghan-cyberattacks",
+      "description": "A nation-state threat actor is picking on immature organizations run by the Taliban, but failing against more prepared government agencies in India.",
+      "pubDate": "2026-08-20T14:59:22.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt26870a2d1ae3c096/6a85f88bf5ebd98f609005c8/Pakistan_map-Juanmonino-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers Target Zimbra Servers in Active Exploitation Campaign",
+      "link": "https://www.securityweek.com/hackers-target-zimbra-servers-in-active-exploitation-campaign/",
+      "description": "Exploitation of the Zimbra Collaboration vulnerability CVE-2026-73570 has been observed by Poland’s CERT Polska. The post Hackers Target Zimbra Servers in Active Exploitation Campaign appeared first on SecurityWeek.",
+      "pubDate": "2026-08-20T14:50:49.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/enterprise-collaboration-Zimbra.jpeg"
+    },
+    {
+      "title": "Critical Elementor Pro bug exposes WordPress sites to RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-elementor-pro-bug-exposes-wordpress-sites-to-rce-attacks/",
+      "description": "A critical vulnerability in the Elementor Pro WordPress plugin could allow attackers to upload executable files for remote code execution on the server. [...]",
+      "pubDate": "2026-08-20T14:39:48.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg"
+    },
+    {
+      "title": "New Cryptographic Context Injection Attack Could Let Web Pages Steal Grok Chat Data",
+      "link": "https://thehackernews.com/2026/08/new-cryptographic-context-injection.html",
+      "description": "Adversa AI has disclosed an attack technique that it says can cause xAI's Grok chatbot to send a user's name, approximate location, subscription tier, and the prompts from the ongoing conversation to an attacker-controlled server after the user asks it to summarize an ordinary web page. The AI security company, which has codenamed the technique \"Cryptographic Context Injection,\" said the",
+      "pubDate": "2026-08-20T14:36:27.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
+    },
+    {
+      "title": "Surveillance – Everything You Wanted to Know, But Were Afraid to Ask",
+      "link": "https://www.securityweek.com/surveillance-everything-you-wanted-to-know-but-were-afraid-to-ask/",
+      "description": "We all know they’re watching us. But we don’t know who they are, nor why nor how they are doing it. The post Surveillance – Everything You Wanted to Know, But Were Afraid to Ask appeared first on SecurityWeek.",
+      "pubDate": "2026-08-20T14:30:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/03/threat-intelligence-cybersecurity.jpg"
+    },
+    {
+      "title": "How MSPs can catch phishing attacks email filters miss",
+      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
+      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
+      "pubDate": "2026-08-20T14:01:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2021/04/16/malware-phishing-header.jpg"
+    },
+    {
+      "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
+      "link": "https://thehackernews.com/2026/08/isolated-vm-flaw-lets-sandboxed.html",
+      "description": "Cybersecurity researchers have disclosed a critical security flaw in isolated-vm, a popular open-source sandbox with more than 2,900 stars and 190 forks on GitHub, that could allow attackers to escape the confines of the isolated environment. The vulnerability (\"GHSA-864f-rcv7-6rh4\"), which has yet to be assigned a CVE identifier, impacts all versions of the library before and including 7.0.0.",
+      "pubDate": "2026-08-20T13:48:24.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJ3-aEfGwe03ZMojsoiYaQ4TNjUiAPEFK-m68uY5JSlF8knbnGWOcBrqiB_4s6J47lPjyhQEuWdUMHnktRU6YfOcltn7_lXga77C8TNH4GOVAPrmIH_T0MsFKFkmQSMnvf42bnLlH0pC4BVMEpAZJLLTH51GpgfZybiZ_UWNLhKxx1oGi8PyD3bOUGG0_F/s1600/nodejs.jpg"
+    },
+    {
+      "title": "Critical NetScaler Flaw Can Bypass Authentication on Certain Gateway and AAA Servers",
+      "link": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "description": "Citrix has released updates to address two security flaws impacting NetScaler ADC and NetScaler Gateway deployments, including a critical-severity authentication bypass vulnerability. According to the cloud computing and virtualization technology company, the issues affect customer-managed NetScaler ADC and NetScaler Gateway, including certain FIPS and NDcPP builds, as well as SecurAccess",
+      "pubDate": "2026-08-20T13:35:13.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgoCXrYMA_j7aJrrdIZKt2gQwTWYXhhHZTfBvrNcgpLLBTa5hzcmDNguBKwBhiD8p7kO5K2OeQYVbIPg2HHDBwu9LNzR6oAFE-znmFWIgjY_XzA0qdy-rA8XzV_uGvsxLWRNXCyyOlUKdDV0LGrXPN15wxYsTuZslyecGQ1cqE2OKdX5cocpp74uXenwdj0/s1600/citrix.jpg"
+    },
+    {
       "title": "'Grandoreiro' Malware Resurfaces With Mexico Campaign",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/grandoreiro-resurfaces-mexico-campaign",
       "description": "The banking Trojan, post-law enforcement takedown, is sprucing itself up with features that make detection and analysis harder.",
@@ -26,6 +143,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt50f50e8c15e845b6/6a85ffe726ec483bdf64f4e9/mexico_VictorImages_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Attackers Exploit Zimbra SNMP Flaw for Unauthenticated Remote Code Execution",
+      "link": "https://thehackernews.com/2026/08/attackers-exploit-zimbra-snmp-flaw-for.html",
+      "description": "A now-patched security flaw impacting Zimbra Collaboration (ZCS) has come under active exploitation in the wild, according to the Polish Computer Emergency Response Team (CERT Polska). The vulnerability in question is CVE-2026-73570 (CVSS score: 8.9), which refers to a case of command injection that can lead to remote code execution. \"A remote code execution vulnerability exists in Zimbra",
+      "pubDate": "2026-08-20T13:24:28.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg5vbtHH6C3JbT58Yghw2KNalqy-xoKLuJlsV9AGd_j2mQj4NKzVgWiOc9CDvUsT2JY0AchCk5140WhvNgZdKY2fwmeGEEi9FMvSSJvrBYVWndOKV9R47OEMZ59OOjv56DkPgpKo55fvHT7JSRW4yvh9_Xp5KBbw9xyJg2EGStHzg8ctloKfsJJPDLss1xR/s1600/zimbra.jpg"
     },
     {
       "title": "Threat Actor Hacks 14,000 IP Cameras in Ukraine and Russia",
@@ -217,15 +343,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/06/GitLab.jpeg"
     },
     {
-      "title": "Hackers Using AI to Target Siemens PLCs in Critical US Sectors",
-      "link": "https://www.securityweek.com/hackers-using-ai-to-target-siemens-plcs-in-critical-us-sectors/",
-      "description": "A cybersecurity advisory with technical details and recommendations has been written by the NSA, CISA and other agencies. The post Hackers Using AI to Target Siemens PLCs in Critical US Sectors appeared first on SecurityWeek.",
-      "pubDate": "2026-08-20T07:02:02.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/06/PLC-HMI-SCADA-ICS-industrial.jpeg"
-    },
-    {
       "title": "Microsoft says August Windows updates may cause gaming issues",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-august-windows-updates-may-cause-gaming-issues-reboots/",
       "description": "Microsoft is investigating a potential issue with the August 2026 updates that may prevent some games from launching or cause them to crash on affected Windows 11 systems. [...]",
@@ -349,7 +466,7 @@
       "pubDate": "2026-08-19T17:30:00.000Z",
       "source": "Microsoft Security",
       "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Picture1-1.webp"
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/Frost-Radar-FINAL-2026.webp"
     },
     {
       "title": "SilkParasite Threatens Central Asian Orgs With Flurry of RATs",
@@ -368,24 +485,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2024/06/24/justice-3.jpg"
-    },
-    {
-      "title": "Password spraying attacks surge 155x as hackers exploit MFA gaps",
-      "link": "https://www.bleepingcomputer.com/news/security/password-spraying-attacks-surge-155x-as-hackers-exploit-mfa-gaps/",
-      "description": "Huntress observed a 155x increase in password spraying attacks in H1 2026, including a campaign that generated more than 81 million login attempts in two weeks. The attacks exploited legacy authentication and gaps in MFA policies that left some login flows unprotected. [...]",
-      "pubDate": "2026-08-19T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/08/18/header-image.jpg"
-    },
-    {
-      "title": "Virtual Event Today: CodeSecCon – Secure Your Code and Applications",
-      "link": "https://www.securityweek.com/virtual-event-today-codeseccon-secure-your-code-and-applications/",
-      "description": "CodeSecCon is the premier virtual event bringing together developers and cybersecurity professionals to revolutionize the way applications are built, secured, and maintained. The post Virtual Event Today: CodeSecCon – Secure Your Code and Applications appeared first on SecurityWeek.",
-      "pubDate": "2026-08-19T13:36:17.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/CodeSecCon-Sponsors.png"
     },
     {
       "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
@@ -424,15 +523,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHtWFBMa_xYpIkK39I2gvAJrksqJBAkRSnEZ-WjwpQtbV9mgfPRzWp3qtdhk_v1yOG67pAZ5H3DAFRVv7rEzbns9IuAa4_DV-MUBDIb6fuWzLyRvFXyC1fOaTUPbwxdoY4cykbPy3wXEn3HvlnbjbqH37vkLKMSJA799pVeD50RqMGlJJztFJZcFzR2xTf/s1600/wordpress-hacks.jpg"
     },
     {
-      "title": "Microsoft fixes known issue causing Windows Defender crashes",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-known-issue-causing-windows-defender-crashes/",
-      "description": "Microsoft has resolved a bug that caused Windows Defender to crash after a recent security update, resulting in 0xc0000005 access violation errors on some affected systems. [...]",
-      "pubDate": "2026-08-19T11:14:28.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2021/05/26/Microsoft-Defender.jpg"
-    },
-    {
       "title": "Critical macOS, SharePoint, vCenter, and Microsoft IKE Flaws Under Active Exploitation",
       "link": "https://thehackernews.com/2026/08/critical-macos-sharepoint-vcenter-and.html",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday added four critical vulnerabilities to its Known Exploited Vulnerabilities (KEV) catalog, stating they are being exploited in the wild. The shortcomings added to the KEV catalog are listed below - CVE-2026-65400 (CVSS score: 9.8) - An improper authentication vulnerability impacting Apple macOS that could allow an",
@@ -449,15 +539,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Critical RCE flaw in Windows IKE Extension now actively exploited",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-critical-windows-ike-extension-flaw-now-exploited-in-attacks/",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) warned that hackers are exploiting a critical-severity remote code execution (RCE) flaw in the Windows Internet Key Exchange (IKE) Service Extensions component. [...]",
-      "pubDate": "2026-08-19T10:12:24.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/19/Windows.jpg"
     },
     {
       "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
@@ -604,42 +685,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6eacfb49185ef44e/6a844f6877eb9365311e809b/Cloud-Security_Aleksia_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "AI \"Mind Viruses\" Can Spread Between Agents Through Persistent Prompt Files",
-      "link": "https://thehackernews.com/2026/08/ai-mind-viruses-can-spread-between.html",
-      "description": "Security researchers at Anthropic and Switzerland's EPFL have demonstrated that self-propagating payloads can spread from one artificial intelligence (AI) agent to the next through the editable system prompt files that autonomous agent harnesses use to carry state between sessions. The work, released as a preprint on August 10, 2026, tests the technique in a simulated six-agent coding",
-      "pubDate": "2026-08-18T12:38:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhnswSsouQNTAo6sTmVePaIjeVawCruhIMYtwOXzzX0Qup-a8tWq6WsuiwxkhQxemYCsguvWzRqA5ILOcnEtQa2Xz2rpmU8aQ_c3zd5m82sqMjJa4ruVDS5JVH0P9trKFRwZY53P6cek06_5q-5Xz9TzuyL1TzKP_wnMY9_16AgwjoCXomphcu4p7Or1Kk/s1600/mindvirus.jpg"
-    },
-    {
-      "title": "TWINLOOT Abuses SharePoint and Teams to Steal Credentials and Move Across Networks",
-      "link": "https://thehackernews.com/2026/08/twinloot-abuses-sharepoint-and-teams-to.html",
-      "description": "Cybersecurity researchers have disclosed details of a previously undocumented Python implant framework dubbed TWINLOOT. \"TWINLOOT is a modular, PyArmor-hardened Python implant designed to operate its entire command-and-control infrastructure inside trusted Microsoft services,\" Ontinue said in a technical report shared with The Hacker News. \"Tasking flows through SharePoint Online file",
-      "pubDate": "2026-08-18T12:38:20.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIrQ96TUVfZUEVto7SlNlTp_8P2270tmrpifBbd-F8vo3gQz3Na40YH60oRh2dEazLOZInJzCGa66bxl9t85Usl30eG_Db_yjMWup2eOM3BmaPhILk_Ihs-yo6AdB-DWG99L7OXK9bdD8Jygu2imWU71-Ap3bPtYLOgqu-vO2Zbr5egp6A5HNcXDSaa0o2/s1600/windows-malware.jpg"
-    },
-    {
-      "title": "One Attacker Has Scraped Both Salesforce and ServiceNow Portals Since 2025",
-      "link": "https://thehackernews.com/2026/08/one-attacker-has-scraped-both.html",
-      "description": "A single piece of infrastructure has been pulling records out of Salesforce and ServiceNow customer portals across multiple industries for more than a year, according to research published this week by agent security platform Reco. The activity, which Reco has named the City Forum campaign after a domain tied to the attacker's IP address, traces back to one server: 158.220.87.79, hosted on a",
-      "pubDate": "2026-08-18T11:30:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEijGpzrXApP6QuAgCJDVSMHyi1nEVE7liFsNRwcNTWzkwbjmzqv8vGi8qalq_aWVgtgrD2CC_ZT-qXCsj_Bkj8njgIFQExo0gg5PG_dVIQfo9-wW6lIBh6OLp6z4nBeephIQACe1GX_KOP6nzqe10CM4H8p7EwRIlWGImwXgXjsSIYKCCVlSB7Oe1LWAIQ/s1600/reco.gif"
-    },
-    {
-      "title": "16 Typosquatted RubyGems Packages Steal Browser Credentials and Crypto Wallets",
-      "link": "https://thehackernews.com/2026/08/16-typosquatted-rubygems-packages-steal.html",
-      "description": "Cybersecurity researchers have flagged a new typosquatting campaign targeting RubyGems users with a Windows-based information stealer. OpenSourceMalware, which discovered the activity on August 15, 2026, is tracking the threat under the moniker StubMaker. The complete list of packages published as part of the campaign is below - ubnuler ubnlder ri18nr reaker rakier orakw joxn",
-      "pubDate": "2026-08-18T11:20:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi9BsXf9I7m4IoC0hb3fSwYiBJsaB1_vSj9kGhfi0HsWGeR0xVl_W1O_Z0bd6IxvQ-vUQP5FDsj5mpiwUjv72JG3vNdViDwAKDG1uswOPDfb84xN_n8AgafhIP2sCx8x1Jd4L0mptrXuzCCGze-safV0V13WiWsFbKrKYvIC6CPBncYuhwgaDafyqSJx9Kv/s1600/ruby.jpg"
-    },
-    {
       "title": "LLMs and Contextual Integrity",
       "link": "https://www.schneier.com/blog/archives/2026/08/llms-and-contextual-integrity.html",
       "description": "I have been thinking a lot about AI and integrity. Part of that is contextual integrity. I recently found two papers on the topic. “CIMemories: A Compositional Benchmark for Contextual Integrity of Persistent Memory in LLMs“: Abstract: Large Language Models (LLMs) increasingly use persistent memory from past interactions to enhance personalization and task performance. However, this memory introduces critical risks when sensitive information is revealed in inappropriate contexts. We present CIMemories, a benchmark for evaluating whether LLMs appropriately control information flow from memory b",
@@ -647,15 +692,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "SafePal Hardware Wallet Maker Says Flaw Exposed Data of Nearly 40,000 Customers",
-      "link": "https://thehackernews.com/2026/08/safepal-hardware-wallet-maker-says-flaw.html",
-      "description": "SafePal has disclosed that an authorization flaw in an order-tracking plug-in exposed the names, email addresses, shipping addresses, phone numbers, and purchase details of approximately 39,798 customers. The hardware wallet maker said all affected customers were notified individually by email on August 16 from security@safepal.com, with the subject line \"[Important] Your SafePal Order",
-      "pubDate": "2026-08-18T09:10:45.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiFTKWlpW6A2F_jXpwDsCbJmaJ7-TnZPoCNsW0BG5pa4F8X8I1zzCRAMefU00NEQHKlqdqGchFbSTQ_aADgjlJeIHpUKswwnwNiP7WnbAftpciT_4FAFzPKi5NYnBtI0R0VEhP4JIHXFpm6hhyQFASu7IP1kFP2FmlLVejJDiG3Tgxf2ofz-J0Aq02AoF8/s1600/safe.jpg"
     },
     {
       "title": "Weekly Update 517: Cyber Ransoms",
@@ -838,15 +874,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt893479ef58bbf0b0/6a7b71ae9cb490661e220bfd/Jewel_bug-suksaeng-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Belgium's eID Authentication Opens Citizen Accounts to RCE",
-      "link": "https://www.darkreading.com/application-security/belgium-eid-authentication-citizen-accounts-rce",
-      "description": "The trust framework underlying Belgium's electronic ID system was fully compromised by severe vulnerabilities in a key browser extension, showcasing bigger problems with extensions in general.",
-      "pubDate": "2026-08-13T07:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9d4b34421b322d00/6a7cd6b1cff117fe2ff5b3b3/Belgium-alxpin-GettyImages-2159495100.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Smashing Security podcast #480: This is the AI service you should never sign up to",
       "link": "https://grahamcluley.com/smashing-security-podcast-480/",
       "description": "Would you like access to Anthropic's Claude at 90% off the normal price? All you have to do is redirect your traffic to a mysterious service called \"Poison Claude\". Only problem is that it's run by fraudsters... Meanwhile, a phishing-as-a-service platform called \"Greatness\" has come up with something rather nasty: a phishing attack that doesn't need a fake website, a suspicious URL, or your password. Just a real Microsoft login page and a moment of misplaced trust - and the attackers walk off with full access to your emails, your files, and your entire organisation. All this and more in episod",
@@ -854,24 +881,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/08/ss-episode-480.webp"
-    },
-    {
-      "title": "Long-running Data Theft Campaign Targeting Salesforce, ServiceNow",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/long-running-data-theft-campaign-salesforce-servicenow",
-      "description": "The \"City-Forum\" campaign has been active since at least March 2025 and has targeted organizations across multiple sectors with custom tooling.",
-      "pubDate": "2026-08-12T21:08:54.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbcd2c419f66a3c63/6a3ae54669022cd7ac4f9ae3/datatheft-mikkelwilliam-Getty-2152310845.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Walmart Takes a 'Trusted Agent' Approach to Purple Teaming",
-      "link": "https://www.darkreading.com/cybersecurity-operations/walmart-trusted-agent-approach-purple-teaming",
-      "description": "Walmart colocates red and blue teams to build trust and improve security through collaborative purple teaming exercises",
-      "pubDate": "2026-08-12T16:28:04.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltbb5edf0a88cbf30a/65fca59bf356d6040a45b27b/collab-Aleksei_Gorodenkov-alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Prompt Injections for Defense",
@@ -890,15 +899,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/08/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "AI Genie in the Wild",
-      "link": "https://www.schneier.com/blog/archives/2026/08/ai-genie-in-the-wild.html",
-      "description": "When I give talks about AI genies, I use this sort of example as a hypothetical. It’s happened. The story is from Australia. Someone named Andrew tasked OpenClaw to book gym classes for him. And…. Minutes later, his AI agent reported it had discovered a way to book Andrew into classes several weeks in advance, far beyond what was supposed to be possible. Andrew, who was sitting fourth on a waitlist for a class later that week, asked if it was possible to move him to the top of the list. The agent came back and told Andrew that it had kicked another gym-goer off the list as part of the testing ",
-      "pubDate": "2026-08-11T15:55:11.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Kimwolf v7: An Evolution of the Kimwolf Botnet",
