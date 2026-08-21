@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-21T20:28:23.164Z",
+  "generatedAt": "2026-08-21T20:53:08.353Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "14 Trojanized npm Packages Drop RedC2 4.0 Linux Backdoor With AI-Assisted C2",
+      "link": "https://thehackernews.com/2026/08/14-trojanized-npm-packages-drop-redc2.html",
+      "description": "Cybersecurity researchers have discovered a set of trojanized npm packages that masquerade as working calendar and streak utilities but are engineered to stealthily deliver an artificial intelligence (AI)-powered Linux implant dubbed RedC2 4.0. \"When the module loads, it locates the bundled binary, marks it executable, and launches it as a detached background process,\" TrendAI, Trend Micro's",
+      "pubDate": "2026-08-21T18:53:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgvZpEOpS6_M3zQlIDwvD1wMhESnRAMTCz1nW2JFP__pGSVWOw28REaDTZ5lI7sdwvcRKSSUHI4sm1CUuWs6_gvOXE1c5BbvKnR75iyBl9Er1SckweDAxBEotnOlSikBeOE5WEBIIGlS74w4b85pvznpr3c4mj88LzLt-3pGr1HHXHQDg5v7T9FxdBSWSlK/s1600/linux-npm.jpg"
+    },
     {
       "title": "New SynkLoader malware pushed in Microsoft Teams phishing campaign",
       "link": "https://www.bleepingcomputer.com/news/security/new-synkloader-malware-pushed-in-microsoft-teams-phishing-campaign/",
@@ -638,15 +647,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf72b6d96243f3ad0/6a85b7da026bc525d4e194a5/rats-Andyworks-Getty-2192975649.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "SilkParasite Espionage Campaign Targets Central Asian Governments with Five New RATs",
-      "link": "https://thehackernews.com/2026/08/silkparasite-espionage-campaign-targets.html",
-      "description": "A previously unreported cyber espionage operation dubbed SilkParasite has been observed targeting government bodies in Central Asia. The intrusion set makes use of seven remote access tool (RAT) families, five of which have never been previously documented: DriveSilkRAT, CookiETagRAT, NomadRAT, GoginRAT, and NodeEdgeRAT. SilkParasite, first discovered in late 2025, is assessed to be a",
-      "pubDate": "2026-08-19T13:12:17.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgukQx26zt-EE2Q-I5EPzGDeXiUneL1NzNma73qc5r03gJ5Xj6kiTigXadbXa1XWqg7Y-UHq5YzEu7bPxN4BXjVUbId9eaPwWddiP_oB7Zz2fBV0bxr2S2wh9oVEFI-IEe4jMgA1REmrbKFSE33oztVDuz0p2TQhKA_0koqZ3qYcWH_d5Ec4lExxdMzWw5I/s1600/malware-code.jpg"
     },
     {
       "title": "ICE Collecting DNA Samples",
