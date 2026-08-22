@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-22T11:46:46.663Z",
+  "generatedAt": "2026-08-22T13:33:29.898Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Named Pipes Under Attack: Securing Windows Interprocess Communication",
+      "link": "https://www.bleepingcomputer.com/news/security/named-pipes-under-attack-securing-windows-interprocess-communication/",
+      "description": "Windows named pipes provide fast interprocess communication, but weak access controls can expose privileged services to untrusted processes. ThreatLocker explains how endpoint verification, command authorization, strict input validation, and narrowly scoped privileges can help secure named-pipe communication. [...]",
+      "pubDate": "2026-08-22T13:00:09.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/08/18/0_named-pipe-header-image.jpg"
+    },
     {
       "title": "Banking Trojans Manic, Grandoreiro, ToxicPanda 2.0 in the Spotlight",
       "link": "https://www.securityweek.com/banking-trojans-manic-grandoreiro-toxicpanda-2-0-in-the-spotlight/",
@@ -548,15 +557,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhq19iWDNnvPUAAC2_MJN09g-1SHoPWQv82zvmQGTvrniDXm9BUWK73QrKCNCgxk0uGp6MrKF8cDQrigQCI3CW1G8V8GNltJ0GRc-yBjt69zPem4YW_b0XCZwsIFhWiOoul7eIhEOjb_F0X9A9B_DOmQNbCWHF6AzqDro4U0XjH_CgtJ_J0MVZjDPmyDL1p/s1600/android-banking-malware.jpg"
-    },
-    {
-      "title": "New Manic Android malware can exfiltrate data through nearby devices",
-      "link": "https://www.bleepingcomputer.com/news/security/new-manic-android-malware-can-exfiltrate-data-through-nearby-devices/",
-      "description": "A new Android malware named Manic targeting users in multiple European countries has a fallback data exfiltration mechanism that uses nearby infected devices. [...]",
-      "pubDate": "2026-08-20T10:02:02.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/03/10/android.jpg"
     },
     {
       "title": "Identity Abuse Through Trusted Communication Channels",
