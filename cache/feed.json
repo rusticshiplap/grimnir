@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T09:23:29.607Z",
+  "generatedAt": "2026-08-24T10:11:07.653Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Personal Information Exposed in Apollo Global Data Breach",
+      "link": "https://www.securityweek.com/personal-information-exposed-in-apollo-global-data-breach/",
+      "description": "The private equity firm appears to have been targeted as part of a campaign focusing on major financial companies. The post Personal Information Exposed in Apollo Global Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-08-24T10:08:42.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Apollo-Global.jpeg"
+    },
+    {
+      "title": "Rethinking Application Security for the AI Era",
+      "link": "https://www.securityweek.com/rethinking-application-security-for-the-ai-era/",
+      "description": "As AI dramatically shortens the time from vulnerability disclosure to exploitation, enterprises must look beyond patching to reduce application risk. The post Rethinking Application Security for the AI Era appeared first on SecurityWeek.",
+      "pubDate": "2026-08-24T10:00:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Agent-AI-Security.jpg"
+    },
+    {
+      "title": "Microsoft shares temporary fix for Windows 11 gaming issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-shares-temporary-fix-for-windows-11-gaming-issues/",
+      "description": "Microsoft has shared a temporary fix for ongoing gaming issues caused by Windows 11 updates released during the August 2026 Patch Tuesday. [...]",
+      "pubDate": "2026-08-24T09:42:05.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Gamer_gaming_thumbs_up.jpg"
+    },
     {
       "title": "Iran-Linked Hackers Shut Down UK Power Plant for Four Days",
       "link": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
@@ -298,15 +325,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt56d7eb4c7df48fbf/69cc3e534642d5f509411508/quantum_computing1800_jvphoto_alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Critical Isolated-vm Vulnerability Leads to RCE on Host",
-      "link": "https://www.securityweek.com/critical-isolated-vm-vulnerability-leads-to-rce-on-host/",
-      "description": "The type confusion bug can lead to V8 sandbox escape and control-flow hijacking of the host process. The post Critical Isolated-vm Vulnerability Leads to RCE on Host appeared first on SecurityWeek.",
-      "pubDate": "2026-08-21T12:26:07.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
-    },
-    {
       "title": "CISA orders feds to patch actively exploited TrueConf Server flaws",
       "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-trueconf-server-flaws/",
       "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) ordered U.S. federal agencies to prioritize patching two actively exploited vulnerabilities in the TrueConf Server self-hosted communications platform. [...]",
@@ -368,15 +386,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Rust Supply Chain Attack Linked to North Korean Hackers",
-      "link": "https://www.securityweek.com/rust-supply-chain-attack-linked-to-north-korean-hackers/",
-      "description": "Hackers pushed a poisoned arrayref version that added a dependency to fetch a malicious payload from a remote server. The post Rust Supply Chain Attack Linked to North Korean Hackers appeared first on SecurityWeek.",
-      "pubDate": "2026-08-21T09:23:18.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/01/Supply-Chain-Software-Attack.jpg"
     },
     {
       "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
@@ -512,15 +521,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhPv76ODDXuPeov3fu_Gs_V-72pKnjw38Qu9A4qXOn_2QFd9daTYFAXre2eubEQ6Fwb65SwXgv10mhyDCGE_KcvL69c-CGe2BfEiOj74UTHwv6WAhMyxNuVGOEdUZYwz0Y9v55SFmaOwjHQYHbOyzvZEofi0egkTfeFxQlJRD3Sj6ve-TZ47SM1sNfYGB0/s1600/grok-chat.jpg"
-    },
-    {
-      "title": "How MSPs can catch phishing attacks email filters miss",
-      "link": "https://www.bleepingcomputer.com/news/security/how-msps-can-catch-phishing-attacks-email-filters-miss/",
-      "description": "AI is making phishing attacks more personalized, convincing, and difficult for traditional email filters to detect. Kaseya explains how MSPs can monitor identity, email, and endpoint activity to detect and contain attacks that make it past the inbox. [...]",
-      "pubDate": "2026-08-20T14:01:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2021/04/16/malware-phishing-header.jpg"
     },
     {
       "title": "Isolated-vm Flaw Lets Sandboxed JavaScript Escape to Host for Potential RCE",
