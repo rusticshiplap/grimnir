@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T19:34:00.455Z",
+  "generatedAt": "2026-08-25T20:31:42.575Z",
   "count": 185,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "AnonyMousKIT PhaaS uses voice AI agents to phish iPhone passcodes",
+      "link": "https://www.bleepingcomputer.com/news/security/anonymouskit-phaas-uses-voice-ai-agents-to-phish-iphone-passcodes/",
+      "description": "A newly uncovered phishing-as-a-service (PhaaS) platform called AnonyMousKIT automates the retrieval of codes used to unlock stolen Apple devices and disable the Activation Lock feature. [...]",
+      "pubDate": "2026-08-25T20:25:26.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/10/apple-iphone.jpg"
+    },
+    {
+      "title": "Finding Nemo(Claw): Networking Issue Allows for LLM Poisoning in OpenClaw",
+      "link": "https://www.darkreading.com/cyber-risk/nemo-claw-networking-llm-poisoning-openclaw",
+      "description": "Attackers can exploit a security bug in NVIDIA's tool to gain unauthenticated access to the local model server through the Ollama API, paving the way for persistent AI agent corruption.",
+      "pubDate": "2026-08-25T19:50:16.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd29ebaa9ac3f0fdd/6a8d90fa24739f39a5e9ecd4/openclaw_Koshiro_K_shutterstock.png?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "U.S. Sanctions Iran-Linked Hackers Behind Critical Infrastructure Breaches",
       "link": "https://thehackernews.com/2026/08/us-sanctions-iran-linked-hackers-behind.html",
@@ -478,15 +496,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieDz2kEMi471xtnJ2B7i_ZktQTUHhbJAIOlNAaFfVdJVPWDC-3EqH2REiyGuaUl95lmXvtcl-oPpQy3MO0-5uulT4L4Uyheni6apbwxzycAw7yVmuYqAWaSjYbEw_BaJKsmGhrUPrb6hVeatf488NrNMVX-xorjY66ZIG9wR50pUdFBOs9avzlu9b91iw/s1600/ai-usage.jpg"
     },
     {
-      "title": "CISA orders urgent patching of actively exploited Zimbra flaw",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-urgent-patching-of-actively-exploited-zimbra-flaw/",
-      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies to patch an actively exploited vulnerability in Zimbra Collaboration Suite (ZCS) within three days. [...]",
-      "pubDate": "2026-08-24T10:45:12.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/24/Zimbra.jpg"
-    },
-    {
       "title": "Criminal Deception in Silicon Valley",
       "link": "https://www.schneier.com/blog/archives/2026/08/criminal-deception-in-silicon-valley.html",
       "description": "Interesting paper: Abstract: With entrepreneurial fraud cases on the rise, we investigate how entrepreneurs carry out criminal deception, employing deceptive means to defraud audiences. Analyzing court data from Silicon Valley ventures and their founders prosecuted for fraud between 2000 and 2023, our findings reveal that entrepreneurs carry out criminal deception through a process of façading: Entrepreneurs construct, perform, and protect illusory appearances (façades) that externally project high-growth performance to audiences while masking ventures’ actual underperformance. We identify thr",
@@ -854,15 +863,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/06/07_Vulnerabilities_1920x900-1.jpg"
-    },
-    {
-      "title": "CISOs Break Their Silence in 'Declassified' Docuseries",
-      "link": "https://www.darkreading.com/cyber-risk/cisos-break-their-silence-in-declassified-docuseries",
-      "description": "Million-dollar heists, divorce, and career-ending burnout are all stories told in the latest docuseries revealing a behind-the-scenes look at the cybersecurity community.",
-      "pubDate": "2026-08-18T18:32:01.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3d666f24b44718c6/6a84a8ad0d33646d7815f8de/GettyImages-2252724073.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Hunting MacSync Stealer infrastructure through behavioral pivots",
