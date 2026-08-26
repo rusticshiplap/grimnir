@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T06:53:48.796Z",
+  "generatedAt": "2026-08-26T08:47:45.751Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,51 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Interpol's Jackal IV Disrupts West African Crime Infrastructure",
+      "link": "https://www.darkreading.com/threat-intelligence/interpols-jackal-iv-west-african-crime-infrastructure",
+      "description": "The international law enforcement operation focused on disrupting crime-as-a-service networks and supporting infrastructure behind groups like Black Axe.",
+      "pubDate": "2026-08-26T08:30:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt63bd2d870ede3278/6a8debc1ca06172c1b4c29f7/jackal_family-skynesher-GettyImages-2185687731.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Nigeria Looks to Sovereign Cloud for Cyber, National Security",
+      "link": "https://www.darkreading.com/cybersecurity-operations/nigeria-sovereign-cloud-cyber-national-security",
+      "description": "The West African nation launched financing, procurement, and infrastructure policies to boost its sovereign cloud initiative and increase domestic technical knowledge.",
+      "pubDate": "2026-08-26T08:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2e25e9502faafe2a/6a8e005307463c203cf304be/nigeria-flag-sovereign-cloud-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Sensitive Information Exposed in Nutex Health Data Breach",
+      "link": "https://www.securityweek.com/sensitive-information-exposed-in-nutex-health-data-breach/",
+      "description": "Nutex Health has informed the SEC that it recently detected unauthorized access and data exfiltration. The post Sensitive Information Exposed in Nutex Health Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-08-26T07:41:50.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/03/healthcare-medical.jpeg"
+    },
+    {
+      "title": "Critical Gitea RCE Actively Exploited as Reported Attack Drops Miner-Like Payload",
+      "link": "https://thehackernews.com/2026/08/critical-gitea-rce-actively-exploited.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday warned of active exploitation efforts targeting a recently patched critical security flaw impacting Gitea. The vulnerability in question is CVE-2026-60004 (CVSS score: 9.8), a case of remote code execution that allows an attacker with ordinary write access to a repository to execute arbitrary shell commands as the",
+      "pubDate": "2026-08-26T06:27:07.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfnIeYEGY0lITUrkeCakPqo92gxAk1t2Rduq3Vvt-EkhAxg_vRxWngUZQjifYgv1MUnKyZMOzTPFtlOpkMfpn6K5V0ofNKBc5w0y4X2Kb3Zeoal_5J-yhUX8oPUHY8KUkDHvGc7mwp5mWm1q4pS8Xssnm13SVe9Ziunr0UeNwTq2smwxIXAP7yU_iY2rtz/s1600/cisa-git.jpg"
+    },
+    {
+      "title": "Fake Apple Support AI Calls Target Stolen-Device Owners for Passcodes and 2FA Codes",
+      "link": "https://thehackernews.com/2026/08/fake-apple-support-ai-calls-target.html",
+      "description": "Cybersecurity researchers have disclosed details of a phishing-as-a-service (PhaaS) platform built to strip Apple's Activation Lock from stolen devices, using rented AI voice agents that call theft victims posing as Apple Support and ask for their device passcode. SOCRadar Threat Research Unit (STRU) said the platform, which it tracks as AnonyMousKIT, is credit-metered and drives lures across",
+      "pubDate": "2026-08-26T05:47:28.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjZ7ibePn1YRPkAC27RIrMl_O-41pR7ieF0Mkpr8WUTkzCddWjpttUiIrXWI3CYGukgNR8eoppnOFUYjzSbEm66XiK4ttGge7-KicMnSf49N5L-wKXyf4NIzWi1Yi5JbKQXPYpmtWfZfMADrNswG9-ZfOOE9LjWwUFl7twHmvEskgU9iXPR5AGEQ4hUETo/s1600/iphone-passcode.jpg"
+    },
     {
       "title": "CISA Warns of Exploited Gitea Vulnerability",
       "link": "https://www.securityweek.com/cisa-warns-of-exploited-gitea-vulnerability/",
@@ -341,15 +386,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
-      "title": "CISA Warns of Exploited Oracle WebLogic Vulnerability",
-      "link": "https://www.securityweek.com/cisa-warns-of-exploited-oracle-weblogic-vulnerability/",
-      "description": "The vulnerability is tracked as CVE-2026-21962 and it has been widely exploited by threat actors against WebLogic servers. The post CISA Warns of Exploited Oracle WebLogic Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-08-25T07:46:34.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/CISA-Agency-Cybersecurity.jpg"
     },
     {
       "title": "Actively Exploited Oracle WebLogic Flaw Lets Unauthenticated Attackers Access Critical Data",
@@ -685,15 +721,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZWG6Sgh8GPFwyz6pxs_gis36Lo0bAHyFSaNrybGElVQbCBkjPrypJ_abTOidSIKSaVJs574hUuDYvUPGymaq3qfnecNfbc-RMnwTuH8vr4jLcsnQCLnxjscJMSLEfITdwIvVt4Ax_wzwKe3MpD5Bm9vIW_f94MESP1p1qNpoxrkkDstHJ1lL7eljzB4/s1600/WAZUH.jpg"
     },
     {
-      "title": "Cisco Patches Nine Crosswork and Secure Workload Flaws, Five Scoring CVSS 10.0",
-      "link": "https://thehackernews.com/2026/08/cisco-patches-nine-crosswork-and-secure.html",
-      "description": "Cisco has published another round of security updates for Crosswork platforms and Secure Workload Software as part of a continued comprehensive internal security review. Four of the security vulnerabilities affect Crosswork Data Gateway, Crosswork Network Controller, and Crosswork Planning, regardless of the device configuration. A brief description of each of the flaws is below -",
-      "pubDate": "2026-08-21T10:03:11.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEis5Ujhq79PHPVr7VjuOjS0fOAyYm0aDTCJi9c5ieu-uya3FUM4Dh58yAT5U5J3VaXaGfNb4XowkyJ1lj3UTy8bOoF-u0O-5qdl-O7leomQjQw5jAI3m8WpZvC3se70f8mRP_KKIcScS0Nf9wJcsq4TWgiS_li3K6CSUbbG643IMhZBVGzW5XflwAbz0d1M/s1600/cisco.jpg"
-    },
-    {
       "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
       "link": "https://www.schneier.com/blog/archives/2026/08/more-incidents-of-ais-going-rogue-in-cybersecurity-challenges.html",
       "description": "The AI Security Institute has a new report of AI systems engaging in “unsanctioned behavior”—what I have been calling “genie behavior—while being tested on their cybersecurity capabilities. The incident stemmed from a single evaluation where agents were given a task of solving a cyber security challenge. We ran this challenge 122 times across several models. Our investigation found that in 10 of those runs, an AI agent took autonomous, unsanctioned action on the live internet, targeting real people and organisations. In total, we catalogued 19 such actions. Almost all of this behaviour (17 act",
@@ -701,15 +728,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "GitLab CVE-2026-19478 Comes Under Active Exploitation Within Days of Disclosure",
-      "link": "https://thehackernews.com/2026/08/gitlab-cve-2026-19478-comes-under.html",
-      "description": "A newly disclosed security flaw in GitLab has come under active exploitation within days of public disclosure, according to watchTowr. The vulnerability in question is CVE-2026-19478 (CVSS score: 9.4), a case of code injection that allows an unauthenticated attacker to modify or delete publicly accessible GitLab projects and rewrite their data under certain conditions without requiring",
-      "pubDate": "2026-08-21T07:04:25.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg8jpyIqzuMd0vBKcxrQRj7eBbEebcRgNHLRFpx7YuxJlTPksUDEar7HPu4unQPNaOzpChBl1-dYyPHwuyjhgetrrh6PZ9OHPRqnc6nXeNdaX9f8AcSDe6gpmRecFfryf3-3BgsNoxvOyNc6xz703Qzsd7hJLuKbQt4Q6bgVxRZDGdpFzy8O2SByvUouC3J/s1600/gitlab-cve.jpg"
     },
     {
       "title": "New CUSTODY Framework Constrains AI Agents Inside the Network",
@@ -881,24 +899,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt232ea541e9b19c8b/6a84862b3f6ec4004afa5e46/china-national-AI-ImageFlow-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Critical GitLab Zero-Click Flaw Poses Mitigation Challenges",
-      "link": "https://www.darkreading.com/application-security/critical-gitlab-zero-click-flaw-mitigation-challenges",
-      "description": "A lack of technical details could make it hard for organizations running self-managed GitLab versions to detect potential exploitation of CVE-2026-19478.",
-      "pubDate": "2026-08-18T21:25:58.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2a4148f110e1cfe1/6a85e47e0d336431ba15fdc0/gitlab_bella1105_shutterstock-REVISED_FOR_16X9.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "'CoSnitch' Attack Tricked Copilot Into Mapping Out Architecture",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/cosnitch-attack-copilot-mapping-out-architecture",
-      "description": "Researchers discovered a \"meta-hacking\" technique that can manipulate the AI service into revealing its own security weaknesses.",
-      "pubDate": "2026-08-18T20:17:24.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaf5eccbac802b13/6a84a0beeed7cf792c0eeed7/AI_apps-alexsl-GettyImages-2213179432.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Threat Brief: Mitigating Large-Scale Credential Attacks (Updated August 18)",
