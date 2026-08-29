@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-28T17:47:35.155Z",
+  "generatedAt": "2026-08-29T08:45:13.932Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,123 @@
   ],
   "items": [
     {
+      "title": "[Virtual Event] What Every Enterprise Should Know About Securing Cloud Assets in the Age of AI",
+      "link": "https://www.darkreading.com/events/virtual-event-what-every-enterprise-know-securing-cloud-2026",
+      "description": "",
+      "pubDate": "2026-11-12T16:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltaff0d27801ea21af/6a92220704334b0b8d8445e9/DR-Cloud-AI-VE-2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "[Virtual Event] Building a Secure AI Strategy for the Enterprise",
+      "link": "https://www.darkreading.com/events/virtual-event-building-secure-ai-strategy-enterprise-2026",
+      "description": "",
+      "pubDate": "2026-10-08T15:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11afeac15e7adbb9/6a921187f8aef68330d6ae57/DRIW-AI-Strategy-VE-Oct26.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "TerminalFix campaign deploys a reverse tunnel through multistage intrusion",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/28/terminalfix-campaign-deploys-reverse-tunnel-through-multistage-intrusion/",
+      "description": "Microsoft Threat Intelligence provides analysis of a ClickFix campaign that uses fake CAPTCHA prompts, DLL sideloading, and a reverse tunnel, with detections and hunting guidance. The post TerminalFix campaign deploys a reverse tunnel through multistage intrusion appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-08-29T03:43:27.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image-35.webp"
+    },
+    {
+      "title": "McKesson discloses breach after ShinyHunters claims patient data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/mckesson-discloses-breach-after-shinyhunters-claims-patient-data-theft/",
+      "description": "Healthcare and pharmaceutical distribution giant McKesson has disclosed a cybersecurity incident involving unauthorized access to third-party applications and data theft, with the ShinyHunters extortion group claiming it stole 284 million patient data records. [...]",
+      "pubDate": "2026-08-28T22:40:17.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/28/mckesson.jpg"
+    },
+    {
+      "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
+      "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
+      "description": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42.",
+      "pubDate": "2026-08-28T22:00:07.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg"
+    },
+    {
+      "title": "Berlin Refuses to Pay Hackers Who Stole Data From the City's State Network",
+      "link": "https://thehackernews.com/2026/08/berlin-refuses-to-pay-hackers-who-stole.html",
+      "description": "Berlin's state government has confirmed that it is the target of an extortion attempt following the August compromise of the city's state administrative network, and said it will not meet the extortionists' demands. The same statement disclosed that forensic work had found further data outflows in the portfolio of the Senate Department for Mobility, Transport, Climate Protection and Environment",
+      "pubDate": "2026-08-28T21:30:52.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRLS8X8abAbJ9p1f1jp9VIUeKfRa4l4gAIgmCWsw1eXZuJ7SY201P6w6V8NYVf1CHpaN_pyAuLg-6h-e9RYFBlBFsl3k5egiOnoj8ZiXScxu8El1jZExmlyNYfunp0Z4j5F0PYSg4Ltu0yldY-wKmI2TC5UU-7mrasEsZ_SyEso7dGFvLIpcA8hdHqVdw/s1600/berlin.jpg"
+    },
+    {
+      "title": "Friday Squid Blogging: Truckload of Squid Spills in Rhode Island",
+      "link": "https://www.schneier.com/blog/archives/2026/08/friday-squid-blogging-truckload-of-squid-spills-in-rhode-island.html",
+      "description": "Ugh: A tractor-trailer rollover sent a truckload of squid spilling into a Rhode Island roadway, leaving a stench as they sat in the road for hours in the summer heat. Local authorities have dubbed it the “Squidpocalypse of ’26.” That would be twenty tons of squid. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-08-28T21:02:44.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Cosmos EVM Flaw Exploited After Cosmos Labs Knew Every Blockchain Running It Was Vulnerable",
+      "link": "https://thehackernews.com/2026/08/cosmos-evm-flaw-exploited-after-cosmos.html",
+      "description": "Cosmos Labs has warned that a critical balance-handling flaw in the shared Cosmos EVM module was exploited to drain funds from six blockchains between August 20 and August 25, 2026. The vulnerability, designated GHSA-7g4w-cg88-2cq2, is rated Critical by Cosmos Labs and was published without a CVE identifier, a weakness classification, or a CVSS score. Affected versions are =",
+      "pubDate": "2026-08-28T20:38:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRHWwlkIrD4ix8P1j7FGJW7pl0e6W600w61mPcVBRsL7BqK_8SNTLSSk-4498ZuyThNbHG8FmtGoMlR9B9ujcXUlHnRb9NTpBhImouOWrQK2WaxVVd5rjjL62kXl1fW9U5YyDN1Uc-M6OriHc7nQNzCbJAC3kRIsRgAnY5q2SSTL2TjLzix05DAoSa7jQ/s1600/cosmos-evm-hack.jpg"
+    },
+    {
+      "title": "Hundreds of OpenAI Agents Invaded Hugging Face Servers",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/hundreds-openai-agents-invaded-hugging-face-servers",
+      "description": "The Hugging Face incident was bigger and worse than previously thought, with approximately 700 agents collaborating on a sophisticated, multistage attack.",
+      "pubDate": "2026-08-28T20:19:22.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd16db4afaa70e4cc/6a91d9495d308674a5d86232/Bots-MASTER-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "PaperCut releases second emergency patch for exploited flaws",
+      "link": "https://www.bleepingcomputer.com/news/security/papercut-releases-second-emergency-patch-for-exploited-flaws/",
+      "description": "PaperCut has released a second emergency security update for two actively exploited vulnerabilities in its PaperCut NG and MF print management software after researchers discovered multiple ways to bypass the initial fixes. [...]",
+      "pubDate": "2026-08-28T19:08:26.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/04/19/papercut-jeader.jpg"
+    },
+    {
+      "title": "Offensive Security Investments Surge as AI Threats Increase",
+      "link": "https://www.darkreading.com/cybersecurity-operations/offensive-security-investments-surge-ai-threats-increase",
+      "description": "Omdia's Theresa Lanowitz talks with the Dark Reading News Desk about the potential — and risks — of using agentic AI for penetration testing, red teaming, and other practices.",
+      "pubDate": "2026-08-28T18:25:43.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt95f718d0e919dd49/6a91bb856ab06b3d40bc21f3/lanowitz.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "GiveWP WordPress donation plugin flaw lets hackers execute server commands",
+      "link": "https://www.bleepingcomputer.com/news/security/givewp-wordpress-donation-plugin-flaw-lets-hackers-execute-server-commands/",
+      "description": "A maximum-severity vulnerability in the GiveWP plugin for WordPress allows an unauthenticated attacker to execute arbitrary commands on the hosting server. [...]",
+      "pubDate": "2026-08-28T18:18:55.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/12/07/back-2.jpg"
+    },
+    {
+      "title": "Attackers Chain Two PaperCut Flaws to Execute Code Without Authentication",
+      "link": "https://thehackernews.com/2026/08/attackers-chain-two-papercut-flaws-to.html",
+      "description": "Malicious actors are exploiting a newly patched security flaw in PaperCut NG and MF to execute arbitrary code on susceptible instances, as the company released a fresh emergency fix with additional hardening. \"This vulnerability gives an unauthenticated attacker remote control over PaperCut's trusted configuration, which could be used to execute arbitrary Java code inside the application's",
+      "pubDate": "2026-08-28T17:12:15.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhdtPabCvuR_F2UFdCw8LS5eoXtD-jOpbuCy8WZYRycSP2vu_6yQK45qTehHimhoS-eXFPMTwg5jNM3m_X7ma5ELVz60Rjt3rlQhrqE4iTz8ggysLCt388GyaBVQbT28sGDv9a6drKNZooBiQNy0L3v8Gc3vxB9JILUD-eTtj5LZAlBbA3EyLlp5SkgIKPG/s1600/1000103914.jpg"
+    },
+    {
       "title": "68-year-old imprisoned after making $1.3 million by pirating IPTV services",
       "link": "https://www.bleepingcomputer.com/news/security/68-year-old-imprisoned-after-making-13-million-by-pirating-iptv-services/",
       "description": "A 68-year-old has been sentenced in the U.K. to more than six years in prison for operating an illegal IPTV (Internet Protocol Television) service that generated £980,812 ($1.3 million) over three years. [...]",
@@ -26,6 +143,24 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2023/10/27/pirate-on-a-laptop.jpg"
+    },
+    {
+      "title": "Android 17 Adds OS-Wide ECH to Hide Website Visits From Network Providers",
+      "link": "https://thehackernews.com/2026/08/android-17-adds-os-wide-ech-to-hide.html",
+      "description": "Google on Thursday announced new network security protections in Android 17 to bolster connection privacy, address cellular vulnerabilities, and safeguard the privacy of users' home networks. Topping the list is support for Encrypted Client Hello (ECH), a privacy standard that prevents networks from eavesdropping on which websites a user is visiting. \"This new privacy standard works in tandem",
+      "pubDate": "2026-08-28T16:20:46.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHdeGqGafTZXNtGvV_-qR7K3QId_-DpEfOzetKbhVQvNdNyTMAy-6gLXVFlkMHsGDN2wKK8v1ZMeOKe9_3XVYAY5TVkqH2heesi0c_QmJzLpDX1M-XfOtI_W4Qe8OM8Yhin40QWvN0XHvU9cqDlZH3eeZY_18euIxiBdcbhWMVnXct-x84k2gvchQYSiuN/s1600/1000103901.jpg"
+    },
+    {
+      "title": "ownCloud Flaw Exploited to Steal Nuclear Records From Philippine Research Body",
+      "link": "https://thehackernews.com/2026/08/snowflake-github-actions-flaw-lets.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Thursday added a critical security flaw impacting ownCloud to its Known Exploited Vulnerabilities (KEV) catalog following reports that a Chinese-speaking threat actor weaponized the vulnerability to target a nuclear research body in the Philippines. The vulnerability, tracked as CVE-2023-49105 (CVSS score: 9.8), is a case of",
+      "pubDate": "2026-08-28T15:56:55.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZPm0X6hW-nz0AFZIB6eOBMEssN6dF5qeh2EOIBm1-ftaBEqcvJC5M0r_g3j-6Sp9x4sUnxVeOToWN_bFbr6T9flaScRcze4DRga0nqNe3LeQSvZaNPTiZC2C8GUeWWxMmIF1mybwuDaq5ZZummYiynDkf_1evTLKPicf4f2UUUb2d-0MMG6Ix-00ImwFN/s1600/1000103895.jpg"
     },
     {
       "title": "In Other News: Log4j RCE Scare, Minimus Shutdown, Iranian Hacker Sanctions",
@@ -379,24 +514,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2024/06/hacker-arrested.jpeg"
     },
     {
-      "title": "Microsoft rolls out fix for Windows 11 crashes, gaming issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-rolls-out-fix-for-windows-11-crashes-gaming-issues/",
-      "description": "Microsoft has started rolling out a permanent fix for a known issue that causes system crashes and gaming issues on Windows 11 devices. [...]",
-      "pubDate": "2026-08-27T12:16:32.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Windows11.jpg"
-    },
-    {
-      "title": "Webinar: How Google Workspace breaches happen and what to do next",
-      "link": "https://www.bleepingcomputer.com/news/security/webinar-how-google-workspace-breaches-happen-and-what-to-do-next/",
-      "description": "Google Workspace breaches can begin with social engineering or forgotten third-party integrations rather than sophisticated exploits. This webinar examines real-world breaches, what happens during the critical first hours, and the security controls that can make the greatest difference. [...]",
-      "pubDate": "2026-08-27T12:16:24.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2022/06/29/Google_Workspace.jpg"
-    },
-    {
       "title": "OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack",
       "link": "https://www.securityweek.com/openai-agents-coordinated-via-makeshift-message-board-ahead-of-hugging-face-hack/",
       "description": "New training environments will teach AI models to distrust instructions arriving from other agents outside sanctioned channels. The post OpenAI Agents Coordinated via Makeshift Message Board Ahead of Hugging Face Hack appeared first on SecurityWeek.",
@@ -449,15 +566,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt66b18b75cdbfa7d7/6a8f19f65ca78e255c17b9b2/EU_messaging-simarik-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Carhartt data breach exposes information of 12.9 million accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/carhartt-data-breach-exposes-information-of-129-million-accounts/",
-      "description": "The ShinyHunters extortion group has published sensitive data from nearly 13 million accounts stolen from clothing retailer giant Carhartt earlier this month, according to data breach notification service Have I Been Pwned. [...]",
-      "pubDate": "2026-08-27T11:10:04.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Carhartt.jpg"
     },
     {
       "title": "Spark RAT Targets Cambodia, Abuses Vulnerable OPSWAT Driver to Disable Security Tools",
@@ -577,33 +685,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRjXW8RS8eKAVsCBovWfkRO7QMTfrgvWcTQtLccJCxq6wXC4OhegU26JXGqEKA0zS951ogEjKmNugfT1jDKlC8Kff6m-LZm-AFQe8Y57c1H_d44_bJPayRw-HpXwbb_MmN3pds3BdBUziNNBlAA_nHqX-BTb6nQLQWrKgJYnpqikUzENaV68VpD9LHsQlX/s1600/chinese.jpg"
     },
     {
-      "title": "Nimbus Manticore Expands Toolset With TWOSTROKE-Like Backdoor and SSH Tunneler",
-      "link": "https://thehackernews.com/2026/08/nimbus-manticore-expands-toolset-with.html",
-      "description": "Cybersecurity researchers have discovered additional infrastructure and previously undocumented malware associated with Nimbus Manticore, an Iranian state-sponsored hacking group affiliated with the Islamic Revolutionary Guard Corps (IRGC). Group-IB, in a new analysis published today, described the cyber espionage actor as among the most active Iranian APT groups in 2026. Nimbus Manticore (aka",
-      "pubDate": "2026-08-26T15:35:05.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgWDtkssu1a2OfGXtU3IlV8MARDVh3XpsurXStcVxASTKf_ACkwIhG6XVbR6fqqWFEFcOEOzLWpy1GGKHgTogw1hQL1O5CtLrLweaGx9GLnM-6CXDApf6VcpFzWFe0FaYgPi1TdhOotRrJ9xU39dk4efUJsMejezEs8t0v8oLyafMuVZrzgkeP-AEhls-x8/s1600/nimbus.png"
-    },
-    {
-      "title": "NovaCookies Campaigns Abuse Genuine Docusign Notifications to Steal Microsoft 365 Sessions",
-      "link": "https://thehackernews.com/2026/08/novacookies-campaigns-abuse-genuine.html",
-      "description": "Cybersecurity researchers have disclosed details of a new adversary-in-the-middle (AitM) phishing toolkit called NovaCookies that's used as a proxy to redirect Microsoft 365 sign-ins, while capturing authenticated sessions in the process. In a report shared with The Hacker News ahead of publication, Island characterized the $320/month service as a subscription-based phishing platform that",
-      "pubDate": "2026-08-26T13:44:31.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiz4GD3giiT1DIPT5Q13XvCZcwC8-STaGCZ3KbqUzQ5Q9oniGfA0Odbqfmwva6B-xSSTD2QG1wdqu5fFOleaBVFSA-t3ZfeqpcrYOEomdygWsZOONJXYcpxhRdT-EbTS_DZ0zYLrH_-1YN7TjXCsDuIj0I2G53mFT0df1HC3tjUdUQ5MCdHdEo27rDE2QEm/s1600/docusign.jpg"
-    },
-    {
-      "title": "CISA Red Team Compromised Two Critical Infrastructure Orgs, One Detected Nothing",
-      "link": "https://thehackernews.com/2026/08/cisa-red-team-compromised-two-critical.html",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) has published the results of two red team assessments it conducted simultaneously against two critical infrastructure organizations, using what it described as similar tradecraft while recording sharply different defensive outcomes. Both organizations were fully compromised at the domain level, and in both, the red team also",
-      "pubDate": "2026-08-26T13:07:02.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhW3w9bF-wcalV_4xeymOZiHzRSkeBfz8Vh1B58JkthAgonYo-DGr3kWwNQ8ia760jX1kfC7NTkitD9rWxJNSNzMZWTAVWqrmJQXL7-1rOHbmC7mKSmfArdBAp5s4phuF3SlKr20agmwKrpI56a9SijzuYLnhYlb3R4l7uhb4S0Na0d3_OplvHmbC1EDCk/s1600/cisa-hack.jpg"
-    },
-    {
       "title": "Spyware for Babies",
       "link": "https://www.schneier.com/blog/archives/2026/08/spyware-for-babies.html",
       "description": "The New York Times has a long article (alt link) on surveillance systems aimed at babies. They are increasingly using AI. Nanit and its rivals want to own 24/7 health tracking for the sub-four-foot set. And their already astonishing levels of baby data collection are just the beginning. Nanit recently raised $50 million from investors to expand its use of A.I. and use its camera to track speech and language development, motor skills and more, while extending its presence in children’s bedrooms into early adolescence.",
@@ -611,24 +692,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Unpatched Kaltura mwEmbed Flaws Could Let Remote Attackers Read Files and Run Code",
-      "link": "https://thehackernews.com/2026/08/unpatched-kaltura-mwembed-flaws-could.html",
-      "description": "The CERT Coordination Center (CERT/CC) has disclosed two unpatched vulnerabilities in Kaltura's HTML5 video player library that allow a remote, unauthenticated attacker to read arbitrary files from a server and execute code on it. The flaws, tracked as CVE-2026-19913 and CVE-2026-19912, both stem from the same unsafe deserialization in the mwEmbedLoader.php endpoint of the mwEmbed player",
-      "pubDate": "2026-08-26T11:55:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4vWsyC0OylljN3m8OwCHpDKLPXe9Sw7VI5ddPEuRswkrrsHlTyfbfkXAKOTX7jemZjktTQh1IlD1hjeWsOJwZm2aSe4OtppGdqTBMUCxgFAPIfI2RY-jAdZD5hfHsj7KpRexnN4SbfUJ8nsLB8w6P_me_L8xM00ZjskYgpyEbMkDBC5hSt5FAuLbFaK0/s1600/kaltura.jpg"
-    },
-    {
-      "title": "Imagine the SOC Without a Queue: From Alert Backlog to AI Hypothesis Engine",
-      "link": "https://thehackernews.com/2026/08/imagine-soc-without-queue-from-alert.html",
-      "description": "The SOC we've always known was built around a model that guarantees most of the alert queue will never receive analyst review. There's never time. In a traditional SOC, the typical progression follows a well-known pattern: an alert arrives; a detection engine assigns a severity score. The issue then waits for a human to decide if it should escalate to an investigation. Given the volume of",
-      "pubDate": "2026-08-26T11:36:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZq8QFTxW4LuCB6uU-05X_ZcT88PxrCrq4S8Tlt-ntdFViEUD7XTOuFp0Ep2oNd61UEYcnfV0dFYW7E1jzogc2t4fm3R2CU7I45rc9bF2fAPi85MeDbxGio5jRIK_8jmMeI9A6hU_laVDVcU5yvODt55syFnI0F4cHX0N1Wul8IGg9A_PbkM_sOHoSFds/s1600/Corelight.jpg"
     },
     {
       "title": "'NovaCookies' Kit Steals Microsoft 365 Sessions for $320 a Month",
@@ -838,24 +901,6 @@
       "image": null
     },
     {
-      "title": "How an Emerging Industrial Protocol Family Could Put OT at Risk",
-      "link": "https://www.darkreading.com/ics-ot-security/how-emerging-industrial-protocol-family-put-ot-at-risk",
-      "description": "New research shows how attacks against some unprotected TSN protocols could allow attackers to disrupt or manipulate physical processes.",
-      "pubDate": "2026-08-21T20:24:42.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1efd0fa99d504896/66db40230f75ddd226316a68/ICS_PopTika_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OWASP Flags Top AI Skill Risks in New Security Blueprint",
-      "link": "https://www.darkreading.com/application-security/owasp-flags-top-ai-skill-risks-security-blueprint",
-      "description": "The Open Worldwide Application Security Project has a brand-new top 10 security list tailored for the modern era, and it debuts a Universal Skill Format to add consistency and security to the AI add-ons.",
-      "pubDate": "2026-08-21T17:36:53.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0778b75e05f471bd/6a8857b7c856a513e1627c23/purple-skills-flowchart-air-lemos.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "AI Is Learning to Write Genetic Code",
       "link": "https://www.schneier.com/blog/archives/2026/08/ai-is-learning-to-write-genetic-code.html",
       "description": "This sort of research is both exciting and terrifying: The two models in question were told to generate complete genomes for a viable bacteriophage—a type of virus able to infect and replicate itself inside bacteria, destroying them from the inside. Using an existing bacteriophage as an example—ΦX174 (pronounced “fie-ex-1-7-4”), known for its ability to infect and destroy E. coli bacteria—the models generated about 700,000 potential designs, of which the researchers picked 285 that looked most promising. The researchers then synthesised new DNA molecules using those designs and inserted them i",
@@ -863,24 +908,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "Calling on Cyber Pros to Help Defend City Hall",
-      "link": "https://www.darkreading.com/cyber-risk/cyber-pros-help-city-hall",
-      "description": "Government agencies with smaller budgets need support — and here's how you can help.",
-      "pubDate": "2026-08-21T14:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8bf82558cb508927/6a874c7440ec6f0ef030335e/city_hall-sshepard-getty-184661001.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "OpenAI Adds Controls That Should've Been There Already",
-      "link": "https://www.darkreading.com/application-security/openai-adds-controls-already",
-      "description": "The new AI security controls follow the Hugging Face incident last month, though experts say many of these additions should have been in place prior to the frontier models escaping.",
-      "pubDate": "2026-08-21T13:30:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt21d988f2eb8aaa24/6a87514642723529ba68dda7/metal_guardrails-viti-GettyImages-897806150.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "More Incidents of AIs Going Rogue in Cybersecurity Challenges",
@@ -908,15 +935,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_Malware_Category_1920x900-2.jpg"
-    },
-    {
-      "title": "Police Are Hiding Their Use of Flock Surveillance Cameras",
-      "link": "https://www.schneier.com/blog/archives/2026/08/police-are-hiding-their-use-of-flock-surveillance-cameras.html",
-      "description": "A usage policy for Flock license plate reader cameras tells police not to talk about the cameras: When cops use Flock to arrest someone in Wapello County, Iowa, they don’t want them to know. A usage policy for the automated license plate reader cameras in the county tells police, in no uncertain terms, to keep them a secret: “DO NOT MENTION ALPR USAGE TO THE OCCUPANTS OF THE VEHICLE,” the policy document reads. “DO NOT MENTION ALPR USAGE IN YOUR REPORT OR COMPLAINT UNLESS ABSOLUTELY NECESSARY.” This reminds me of IMSI-catchers (Stingray was the most popular) a couple of decades ago. Police wou",
-      "pubDate": "2026-08-20T09:48:55.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "CrowdStrike Named Strongest Overall Leader in 2026 Frost Radar&trade;: Cloud Workload Protection Platforms",
@@ -1207,15 +1225,6 @@
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/image-30.webp"
     },
     {
-      "title": "ChainDrop supply chain compromise: Anatomy of a self-propagating worm",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/08/04/chaindrop-supply-chain-compromise-anatomy-self-propagating-worm/",
-      "description": "A credential-stealing worm hidden in more than 400 compromised npm packages automatically spread across software ecosystems by republishing malicious updates. This analysis details the attack chain, affected environments, and practical guidance for detection, hunting, and remediation. The post ChainDrop supply chain compromise: Anatomy of a self-propagating worm appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-08-04T23:46:41.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/08/image.webp"
-    },
-    {
       "title": "The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software",
       "link": "https://unit42.paloaltonetworks.com/frontier-ai-vulnerability-burst/",
       "description": "Frontier AI is reshaping vulnerability discovery. Learn how our NOVA system found 14,000+ unknown vulnerabilities across the open-source software supply chain. The post The Frontier AI Vulnerability Burst: Industrializing Autonomous Zero-Day Discovery in Open-Source Software appeared first on Unit 42.",
@@ -1376,15 +1385,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/07/openai-goes-rogue.jpeg"
-    },
-    {
-      "title": "Russian Global Webmail Espionage",
-      "link": "https://unit42.paloaltonetworks.com/russian-webmail-espionage/",
-      "description": "Unit 42 details a Russian cyberespionage campaign targeting Zimbra webmail servers using JavaScript injection to steal credentials. The post Russian Global Webmail Espionage appeared first on Unit 42.",
-      "pubDate": "2026-07-23T14:10:53.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Nation-State-cyberattacks_1920x900-1.jpg"
     },
     {
       "title": "When the attacker is an AI agent",
