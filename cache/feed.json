@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-09T21:51:38.964Z",
+  "generatedAt": "2026-09-09T23:54:15.416Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,15 @@
   ],
   "items": [
     {
+      "title": "Smashing Security podcast #484: How websites are tracking you with silence",
+      "link": "https://grahamcluley.com/smashing-security-podcast-484/",
+      "description": "When a chap called Matt noticed his Bluetooth headphones wouldn't switch to his phone, he was surprised to realise the reason was a single AliExpress webpage sitting open in his browser - playing nothing at all, at zero volume. And yet somehow his hardware could hear it. Audio fingerprinting is one of the sneakiest tracking tricks on the web. Meanwhile, the intelligence agencies of the \"Five Eyes\" (not Five Guys) have got together and published advice on how companies should communicate after a cyber attack. The summary? For the love of God, stop calling every breach \"sophisticated.\" All this ",
+      "pubDate": "2026-09-09T23:05:54.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/09/ss-episode-484.webp"
+    },
+    {
       "title": "Cisco confirms CVE-2026-20079 Secure FMC flaw exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/cisco-confirms-cve-2026-20079-secure-fmc-flaw-exploited-in-attacks/",
       "description": "Cisco has confirmed that a maximum-severity authentication bypass vulnerability tracked as CVE-2026-20079 in its Secure Firewall Management Center (FMC) software is being actively exploited in attacks. [...]",
@@ -35,6 +44,15 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/healthcare.jpg"
+    },
+    {
+      "title": "Threat matrix: Mapping threats across cloud web applications",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/09/threat-matrix-mapping-threats-across-cloud-web-applications/",
+      "description": "Microsoft introduces the Cloud Web Applications Threat Matrix, a MITRE ATT&CK-aligned framework that helps defenders understand, prioritize, and mitigate threats to cloud-hosted web apps and serverless platforms. The post Threat matrix: Mapping threats across cloud web applications appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-09-09T21:30:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-35.webp"
     },
     {
       "title": "Mythos Vulnerability Firehose Hits a Human Bottleneck",
@@ -1072,15 +1090,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/08/02ce55ab-3839-456a-86a9-1afa449aacc9.png"
     },
     {
-      "title": "The patch window is collapsing: Why security needs a new control plane",
-      "link": "https://azure.microsoft.com/en-us/blog/the-patch-window-is-collapsing-why-security-needs-a-new-control-plane/",
-      "description": "Organizations need protection that operates in the gap between discovery and remediation. The post The patch window is collapsing: Why security needs a new control plane appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-08-25T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://azure.microsoft.com/en-us/blog/wp-content/uploads/2026/08/image-1.jpg"
-    },
-    {
       "title": "What's in a tag name? JavaScript, apparently",
       "link": "https://portswigger.net/research/whats-in-a-tag-name-javascript-apparently",
       "description": "I was on my laptop, as I often am when there's rubbish on telly, and found myself wondering what characters are allowed in a tag. I knew they had to begin with \"a-zA-Z\", but what about after that? I t",
@@ -1394,15 +1403,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/08/Splash-Template-1.jpg"
-    },
-    {
-      "title": "The $5 million threat: AI Is supercharging phishing attacks",
-      "link": "https://www.fortra.com/blog/5-million-threat-ai-supercharging-phishing-attacks",
-      "description": "According to the newly-published study, phishing and social engineering are becoming more expensive to recover from, trickier to detect, and increasingly augmented by artificial intelligence. Read more in my article on the Fortra blog.",
-      "pubDate": "2026-07-31T11:43:45.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "When AI doesn’t know the target is real",
