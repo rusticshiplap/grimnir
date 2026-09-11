@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-11T14:09:26.612Z",
+  "generatedAt": "2026-09-11T17:49:55.002Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,105 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Passkey-themed phishing attacks lead to Microsoft 365 data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/passkey-themed-phishing-attacks-lead-to-microsoft-365-data-theft/",
+      "description": "Microsoft says threat actors linked to ShinyHunters, Helix, and other extortion gangs are using passkey and single sign-on-themed social engineering attacks to compromise corporate Microsoft accounts and steal data from Microsoft 365 services. [...]",
+      "pubDate": "2026-09-11T17:26:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/08/04/Microsoft-365.jpg"
+    },
+    {
+      "title": "Phishing Research Challenges Conventional Security Awareness Testing",
+      "link": "https://www.securityweek.com/phishing-research-challenges-conventional-security-awareness-testing/",
+      "description": "Analysis of 2.47 million simulated attacks shows why organizations should measure credential leaks and reporting, not just clicks. The post Phishing Research Challenges Conventional Security Awareness Testing appeared first on SecurityWeek.",
+      "pubDate": "2026-09-11T17:23:36.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
+    },
+    {
+      "title": "AI Governance Can't Wait",
+      "link": "https://www.darkreading.com/cyber-risk/ai-governance-cannot-wait",
+      "description": "Adversaries can manipulate AI defensive reasoning to silently compromise target networks.",
+      "pubDate": "2026-09-11T17:10:56.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8ddbf63a10c918d0/6aa43a1b4a5cb4f4c4b367ba/AI_governance_-_DK_Studio_-_Getty-2285216695.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "GitLab CVSS 10 File-Read Flaw Draws In-the-Wild Probes After Disclosure",
+      "link": "https://thehackernews.com/2026/09/gitlab-cvss-10-file-read-flaw-draws-in.html",
+      "description": "GitLab has released patches to address multiple flaws, including a maximum-severity security vulnerability that has witnessed in-the-wild probes within hours of public disclosure. The vulnerability in question is CVE-2026-85706 (CVSS score: 10.0), a path traversal issue in the repository commits API that could allow an unauthenticated user to read arbitrary files from the GitLab server under",
+      "pubDate": "2026-09-11T16:30:18.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEioFH6aWhF9NgRW1O3yFExc7paTA9akN5-3IUQF8mvEiSTaFJjKvm6YQzFX6MP2uimYplHe1MJXz6eZtPtnxaLy25jJBhU6KuhsWFpIlnqhbn6OI6QTcfp6Olp1-VDUEF4KEYFF7hQDBdmgtxibsg9MkvbcOJIlR8Of2Flyw2m9zYfXC6gUm-TV8XA6vU43/s1600/gitlab-wild.jpg"
+    },
+    {
+      "title": "Artifactory flaws chained in attacks deploying backdoor malware",
+      "link": "https://www.bleepingcomputer.com/news/security/artifactory-flaws-chained-in-attacks-deploying-backdoor-malware/",
+      "description": "Threat actors are exploiting critical and high-severity vulnerabilities in JFrog Artifactory to bypass authentication, gain administrative privileges, and deploy a Rust backdoor on vulnerable self-hosted servers. [...]",
+      "pubDate": "2026-09-11T16:29:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/03/12/hacker.jpg"
+    },
+    {
+      "title": "Anthropic Says Seven China-Based AI Labs Ran Industrial-Scale Claude Distillation Attacks",
+      "link": "https://thehackernews.com/2026/09/anthropic-says-seven-china-based-ai.html",
+      "description": "Anthropic on Thursday said it identified and disrupted industrial-scale illicit distillation attacks against Claude from seven labs based in China, including Alibaba, Moonshot, DeepSeek, Z.ai (aka Zhipu), and MiniMax. Knowledge distillation by itself is a legitimate training method. It refers to a machine learning technique where a large, powerful AI model assumes the role of a \"teacher\" to",
+      "pubDate": "2026-09-11T16:15:29.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgIEiaJBfFrHCrYlSFKWGSRYD6CW_EeKfmYWCZw4jm5c9hyphenhyphenDVbaSIhyphenhyphenXwFB0ncQOoB10crmwgJV9nsvhQzJNuVMsDh6jPVt2ep23r0A2PB7ZhLfTroa0Ff__kyjjX2MjP4ok4DtBwFEF1VZC7b5OOCkibJBbwECsR0Y_9S1-NpdEIw04J5FtY9OloB084t_/s1600/claude-china.jpg"
+    },
+    {
+      "title": "GitLab Vulnerability Exploited One Day After Disclosure",
+      "link": "https://www.securityweek.com/gitlab-vulnerability-exploited-one-day-after-disclosure/",
+      "description": "The critical-severity path traversal flaw allows unauthenticated attackers to read arbitrary files from the GitLab server. The post GitLab Vulnerability Exploited One Day After Disclosure appeared first on SecurityWeek.",
+      "pubDate": "2026-09-11T16:11:08.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/GitLab.jpeg"
+    },
+    {
+      "title": "Papercut AI Swarm Attack Heralds Changes for Cyber Kill Chain",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/papercut-ai-swarm-attack-cyber-kill-chain",
+      "description": "From creating lab environments for staging and testing agentic attacks to reconnaissance to lateral movement and exfiltration, the most innovative attackers are widely incorporating AI.",
+      "pubDate": "2026-09-11T15:48:27.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Claude Used to Automate Exploitation and Data Theft Across Multiple Victims",
+      "link": "https://thehackernews.com/2026/09/claude-used-to-automate-exploitation.html",
+      "description": "Anthropic has warned that cybercriminals and state-sponsored hackers alike are using its Claude models for cyber attacks, weapons design, propaganda, and mass surveillance between December 2025 and August 2026. The threat actors, which the artificial intelligence (AI) company has branded Generative Threat Groups (GTGs), span state-sponsored groups, financially motivated criminals, commercial",
+      "pubDate": "2026-09-11T14:29:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiG0iCBQ4Eqxn0QOtvYZSysksPzr5fT0m8aLqNTa0a7Gcz3A5ikRt1oAenJwzo8rxcLERq54SNLtRvkYXKMTo0nMOmV8pWh4It3T0vP7q4J5Z23tdDkbBf3j7v317S7sQbBBbN6j6MuHusofo3qcbm2Y3DWT76gHp4Z1_En2QnJMCyEpvCo1sCcXoRZVw5-/s1600/claudeai.jpg"
+    },
+    {
+      "title": "In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review",
+      "link": "https://www.securityweek.com/in-other-news-injecteave-attack-sim-swapper-sentenced-glasswing-findings-review/",
+      "description": "Noteworthy stories that might have slipped under the radar: Invisible Unicode slips past phishing filters, US puts $10 million bounty on Iranian cyber official, military ties of Chinese hacking group QTFY. The post In Other News: InjectEave Attack, SIM Swapper Sentenced, Glasswing Findings Review appeared first on SecurityWeek.",
+      "pubDate": "2026-09-11T14:19:18.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "Russian State-Sponsored Hackers Use Claude to Rebuild Malware After Detection",
+      "link": "https://thehackernews.com/2026/09/russian-state-sponsored-hackers-use.html",
+      "description": "Anthropic on Thursday revealed it disrupted a campaign mounted by a Russian state-sponsored threat actor that abused Claude for developing an AI-assisted workflow to get ahead of the detection curve. The operation has been attributed to a cyber espionage group it calls GTG-20006 (where \"GTG\" stands for Generative Threat Group), which aligns with broader reporting linking the cluster to Midnight",
+      "pubDate": "2026-09-11T14:10:20.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgtfzeoSe_6tXrJiKsyJfN4vYk6suLsJPF3-SOJWE8LAaZ6_WixrsJVjZ0T8O6jdtB1d08IR8swK6H0B4S_m7-0YfIiJlVPHuL7guxwC-4ANLXUyNsEWfIusPzvOMPOKSBmFcBT1NBBVWIglIRlT8fs6O9Uc6ZRBRgWZNPbvgAVIj8gIXfusRwZh0tndhni/s1600/claude-malware.jpg"
+    },
     {
       "title": "How Threat Actors Are Turning Trusted AI Platforms Into an Attack Surface",
       "link": "https://www.bleepingcomputer.com/news/security/how-threat-actors-are-turning-trusted-ai-platforms-into-an-attack-surface/",
@@ -217,15 +316,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/05/16/Windows-Server.jpg"
     },
     {
-      "title": "Mandiant Founder Kevin Mandia Joins Amazon Board",
-      "link": "https://www.securityweek.com/mandiant-founder-kevin-mandia-joins-amazon-board/",
-      "description": "Mandiant founder and cybersecurity veteran brings more than 30 years of public and private sector experience to Amazon’s board. The post Mandiant Founder Kevin Mandia Joins Amazon Board appeared first on SecurityWeek.",
-      "pubDate": "2026-09-10T20:30:44.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Surfshark VPN says hackers breached internal testing, proxy servers",
       "link": "https://www.bleepingcomputer.com/news/security/surfshark-vpn-says-hackers-breached-internal-testing-proxy-servers/",
       "description": "Surfshark disclosed that hackers accessed one of its internal test servers after a configuration error exposed it to the internet. [...]",
@@ -260,15 +350,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-38.webp"
-    },
-    {
-      "title": "Cybersecurity M&A Roundup: 33 Deals Announced in August 2026",
-      "link": "https://www.securityweek.com/cybersecurity-ma-roundup-33-deals-announced-in-august-2026/",
-      "description": "Significant cybersecurity M&A deals announced by Brinqa, Cribl, Echo, Fortinet, Kiteworks, Palo Alto Networks, and Visa. The post Cybersecurity M&A Roundup: 33 Deals Announced in August 2026 appeared first on SecurityWeek.",
-      "pubDate": "2026-09-10T16:14:58.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-mergers-and-acquisitions.jpeg"
     },
     {
       "title": "Detect and disrupt AI-themed attacks with Microsoft Defender",
@@ -316,15 +397,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/09/04/IDScan.jpg"
     },
     {
-      "title": "Anthropic Researcher Resigns With Warning About the Dangers of AI Development",
-      "link": "https://www.securityweek.com/anthropic-researcher-resigns-with-warning-about-the-dangers-of-ai-development/",
-      "description": "Both Anthropic and OpenAI have seen high-profile resignations in recent years that were tied to safety concerns. The post Anthropic Researcher Resigns With Warning About the Dangers of AI Development appeared first on SecurityWeek.",
-      "pubDate": "2026-09-10T14:52:07.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Google Play Early Access Abused to Push Thousands of Deceptive Android Apps",
       "link": "https://thehackernews.com/2026/09/google-play-early-access-abused-to-push.html",
       "description": "Bad actors are misusing Google Play's Early Access program to push deceptive apps that claim to offer money, rewards, casino winnings, and premium content. Early Access apps are apps that haven't been released on the official Android app marketplace. The main idea behind the program is for developers to solicit user feedback for new applications or features they may be working on before their",
@@ -341,15 +413,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/09/10/bluemoon.jpg"
-    },
-    {
-      "title": "The Top 4 Threats We Found by Investigating Every Alert for a Quarter",
-      "link": "https://www.bleepingcomputer.com/news/security/the-top-4-threats-we-found-by-investigating-every-alert-for-a-quarter/",
-      "description": "Identity was the target in roughly half of all confirmed malicious activity. Prophet Security breaks down the four main attack patterns seen across customer environments between May and July 2026, and explains why some attacks succeeded while others were blocked. [...]",
-      "pubDate": "2026-09-10T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/09/09/prophet-ai-report.jpg"
     },
     {
       "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars",
@@ -386,15 +449,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiJHT3nuLNpTkrzjiictjYuKsyepFXuDoZVUZB_Gz6yQFCP4CYdOIpSDon_tEsZ43eVe2_qiPXs7V9byKtyoYZ7HE7QltUfQgEUTnSSjmclQH27vVm5JjVIcrvANMIEOxUDmOWy0dPeHVOkiYoFZMgubtGqZJKfgft34Z-q5F7dyqPoJ6iInpgMwyIL3l8/s1600/android-work.jpg"
-    },
-    {
-      "title": "Microsoft says September updates fix mouse settings reset issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-resolves-mouse-settings-reset-bug-windows-11-update/",
-      "description": "Microsoft has fixed a known issue that wiped mouse settings on some Windows 11 systems after installing the KB5120998 August 2026 preview update. [...]",
-      "pubDate": "2026-09-10T11:14:28.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/31/Windows-11-mouse-pointer.jpg"
     },
     {
       "title": "AIs Compress Exploit Timeline",
@@ -611,42 +665,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "New cPanel Flaw Lets a Hosting Account With Mail Privileges Run Code as Root",
-      "link": "https://thehackernews.com/2026/09/new-cpanel-flaw-lets-hosting-account.html",
-      "description": "cPanel has patched a flaw that it says lets a single hosting account take control of an entire server. An authenticated account holder with mail-related privileges can create files of their choosing on the server through EmailTrack and, from there, run code as the root user. cPanel published the advisory on September 8 and says every supported version of cPanel and WHM is affected.",
-      "pubDate": "2026-09-09T08:19:32.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgM_YdNiqGpEWkDm5hEkF-RhZ94vv84sJmONomdRsksJ65GwI388Va-uVIzXWhwZtHmBTF3oze2l4Sscj2zpTsn6lqdPWPKAeL1iP6SSyzvNBOA4dLAKxfSmfThhmQgIc_1AYGWG9dbrCLFg_dk4m8pCHxFcJBRnThru8PtB7UJqUy3VjW15-vQlRvuwpc/s1600/cpanel-bug.jpg"
-    },
-    {
-      "title": "F5 BIG-IP APM Malware Injects a PHP Web Shell Into Memory, Evading Disk Scans",
-      "link": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
-      "description": "Malware linked to break-ins at F5 BIG-IP Access Policy Manager appliances hides a PHP web shell in memory instead of in a file on disk, Sophos said in an analysis published on September 7. When Apache loads any of the three appliances' own PHP scripts, the malware adds the web shell to the copy held in memory, so a check of the file on disk can come back clean. Those three scripts are",
-      "pubDate": "2026-09-09T07:36:49.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjIA552mINL2oyFm7mf9nHTwjJGJUVAtfYnMXbqYsowSEsDMzVsAgHG8MHKn5_EmwZ9bgRmhEndE20FhQAN4rvOLv5ESSAu0kHTV4QyygvUePYCJ1fvda0bU0Mzi5B9J8LHhULDeRRI9HGC84dntx8jaLu6WFLOz6OOhEwKNnSf6zzFRyAtlLKDQzHvygg/s1600/f5-malware.jpg"
-    },
-    {
-      "title": "Researcher Drops New Microsoft Defender PoC Showing ShieldBreak Patch Can Be Bypassed",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-new-microsoft-defender.html",
-      "description": "The security researcher known as Chaotic Eclipse has dropped a proof-of-concept (PoC) for yet another zero-day in Microsoft Defender. The vulnerability, codenamed ShieldCrash, is assessed to be a patch bypass for CVE-2026-69414 (CVSS score: 7.8), also called ShieldBreak, which the researcher reported last month. \"Microsoft has failed to properly patch ShieldBreak CVE-2026-69414,\" Chaotic",
-      "pubDate": "2026-09-09T06:47:27.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZtPq88H-iuD1vEn_DT-1UgFvWXy-P5eKMUm280xVsPt3_Dja1q22icfvF49OduVCGmazXmVmi51Oj58t-2H6JMA4e89X_-obRVRVORjeAZoQzNnw3Io6ad_LofQ1kfum9XeiHC9cijCgAiRL-RsRYjECDVPD_ZT3w61CFj1lkwe2sSZ_1_eSn6Oruh9MJ/s1600/windows-poc.jpg"
-    },
-    {
-      "title": "SAP Patches CVSS 10.0 Kernel Flaw Enabling Unauthenticated Remote Code Execution",
-      "link": "https://thehackernews.com/2026/09/sap-patches-cvss-100-kernel-flaw.html",
-      "description": "SAP has released security updates to address multiple vulnerabilities, including a maximum-severity flaw in SAP Extended Passport (EPP) Processing that could have a severe impact on the confidentiality, integrity, and availability of the application The vulnerability, tracked as CVE-2026-44756 (CVSS score: 10.0), has been described as a case of memory corruption. Discovered and reported by SAP",
-      "pubDate": "2026-09-09T06:25:45.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwUnFS6EAvkjYM7AC_3-k8C6QSAmpatuThkiXaa1WxvtiZU7M-n384kpPN4-VSAQfwL8PCTPUVd3iYeTDn_V5ZoZGEfuizJSZghdAw4Ldq_wFg7rxWyKBbwdMctiiBaykAmL40L6wappUeeyIr58u8SFFSszCP-rszf5ioHsaz0dtKilEpkw1LTEmtaCtZ/s1600/sap-flaws.jpg"
     },
     {
       "title": "Patch Tuesday Sets Another Record With 974 CVEs",
@@ -928,15 +946,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcb9093a068b61f4/6a9742405acd0c12e2c414bc/cybercriminal1800_dem10_GettyImages-2153654043.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Threat Gang 'Springs' Vishing Attacks on Microsoft Teams Users",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/threat-gang-springs-vishing-attacks-microsoft-teams-users",
-      "description": "The \"Spring Ring\" operation aims to compromise users of the collaboration suite to remotely access their sessions, spread malware, and even take over infrastructure.",
-      "pubDate": "2026-09-02T16:51:21.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3c8192b6490626c0/6a981a98644fc5665f78add9/phone-Brian_Jackson-Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Revolut scam wave steals £180,000 from Jersey residents in just four weeks",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/revolut-scam-jersey",
       "description": "If you live in Jersey and bank with Revolut, you should be on your guard against scam phone calls. Because local police on the largest of the Channel Islands have warned that over a single four-week period, an astonishing 75% of all scam crime reports they have received have involved Revolut accounts Read more in my article on the Hot for Security blog.",
@@ -980,15 +989,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Old, Unpatched Flaws Give Attackers Access to Philippines Nuclear Agency",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/old-unpatched-flaws-attackers-philippines-nuclear-agency",
-      "description": "Threat actors exploited commodity vulnerabilities in ownCloud to gain initial access, resulting in stolen reactor databases, personnel records, and credential stores.",
-      "pubDate": "2026-09-02T01:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt61b6b950560b6729/6a974efda0ff3877b64d75b3/philippines-south-china-sea-map-AustralianCamera-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Counterfeit installers to system compromise: Tracking a deceptive software download campaign",
