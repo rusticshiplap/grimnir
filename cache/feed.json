@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T10:42:54.722Z",
+  "generatedAt": "2026-09-13T20:41:50.820Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,24 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Hackers exploit Tencent app flaw to deploy GrayRabbit malware",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-tencent-app-flaw-to-deploy-grayrabbit-malware/",
+      "description": "Threat actors linked to a China-aligned espionage group are exploiting a critical vulnerability (CVE-2026-51990) in Tencent's Sogou Input Method for Windows to deploy the GrayRabbit backdoor. [...]",
+      "pubDate": "2026-09-13T14:26:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/11/rabbit.jpg"
+    },
+    {
+      "title": "Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up",
+      "link": "https://www.securityweek.com/anthropic-ceo-dario-amodei-says-ai-industry-needs-to-give-safety-measures-time-to-catch-up/",
+      "description": "Dario Amodei warned that within six to 12 months AI could be capable of leading a swarm of agents that could take over the entire internet. The post Anthropic CEO Dario Amodei Says AI Industry Needs to Give Safety Measures Time to Catch Up appeared first on SecurityWeek.",
+      "pubDate": "2026-09-13T13:27:25.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/11/AI_Risks.jpg"
+    },
     {
       "title": "Attackers Use Passkey Phishing to Hijack Microsoft Cloud Accounts and Exfiltrate Data",
       "link": "https://thehackernews.com/2026/09/attackers-use-passkey-phishing-to.html",
@@ -325,15 +343,6 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-merger-acquisition.webp"
     },
     {
-      "title": "Surfshark Systems Targeted by Hackers",
-      "link": "https://www.securityweek.com/surfshark-systems-targeted-by-hackers/",
-      "description": "A misconfigured test server containing engineering material, including internal configurations, was accessed by threat actors. The post Surfshark Systems Targeted by Hackers appeared first on SecurityWeek.",
-      "pubDate": "2026-09-11T09:41:03.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/05/VPN.jpeg"
-    },
-    {
       "title": "Microsoft fixes Teams, Outlook launch failures on ARM Windows PCs",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-teams-outlook-launch-failures-on-arm-windows-pcs/",
       "description": "Microsoft has fixed a bug that prevented Teams and Outlook from launching on ARM-based Windows devices after installing updates released since the August 2026 Patch Tuesday. [...]",
@@ -476,15 +485,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig2-ChatGPT.jpg"
-    },
-    {
-      "title": "AI-powered attack exploited PaperCut flaws to hack 395 organizations",
-      "link": "https://www.bleepingcomputer.com/news/security/ai-powered-attack-exploited-papercut-flaws-to-hack-395-organizations/",
-      "description": "A threat actor, likely Russian-speaking, used hundreds of AI agents to develop and launch a global exploitation campaign targeting vulnerable PaperCut NG/MF servers. [...]",
-      "pubDate": "2026-09-10T15:55:56.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/09/03/AI-Hacker.jpg"
     },
     {
       "title": "Nightmare-Eclipse Strikes Again With 'ShieldCrash' Windows Exploit",
@@ -1204,7 +1204,7 @@
       "pubDate": "2026-08-19T23:10:23.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/08/ss-episode-481.webp"
+      "image": null
     },
     {
       "title": "Prison for data analyst who tried to extort $2.5 million from his employer",
@@ -1384,7 +1384,7 @@
       "pubDate": "2026-08-05T23:10:20.000Z",
       "source": "Graham Cluley",
       "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/08/ss-episode-479.webp"
+      "image": null
     },
     {
       "title": "Can AI do novel security research? Meet the HTTP Terminator",
