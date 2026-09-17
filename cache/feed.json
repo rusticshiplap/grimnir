@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T04:06:37.356Z",
+  "generatedAt": "2026-09-17T10:32:43.456Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,60 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Chinese hackers use SparroWocky malware in govt espionage attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/chinese-hackers-use-sparrowocky-malware-in-govt-espionage-attacks/",
+      "description": "The China-linked espionage group FamousSparrow has been using a new backdoor named SparroWocky in attacks on government organizations in Latin America. [...]",
+      "pubDate": "2026-09-17T09:00:00.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/23/China.jpg"
+    },
+    {
+      "title": "Microsoft shares workaround for Windows domain login issues",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-releases-workaround-for-windows-domain-login-authentication-issues/",
+      "description": "Microsoft shared a temporary fix on Wednesday for a known issue that prevents Windows 11 users from logging in with valid domain credentials after installing the September 2026 security updates. [...]",
+      "pubDate": "2026-09-17T08:24:48.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/02/07/Windows_11.jpg"
+    },
+    {
+      "title": "CISA Releases Guidance on Deploying Cyber Decoys",
+      "link": "https://www.securityweek.com/cisa-releases-guidance-on-deploying-cyber-decoys/",
+      "description": "Complementing Zero Trust models, decoys enable organizations to detect, observe, and block malicious activity in their environments. The post CISA Releases Guidance on Deploying Cyber Decoys appeared first on SecurityWeek.",
+      "pubDate": "2026-09-17T07:53:43.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/CISA-Agency-Cybersecurity.jpg"
+    },
+    {
+      "title": "AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals",
+      "link": "https://www.securityweek.com/ai-agents-can-retrain-own-models-mid-task-leaking-secrets-and-erasing-refusals/",
+      "description": "New research from Irregular shows AI agents can retrain and redeploy their own underlying models during routine maintenance tasks. The post AI Agents Can Retrain Own Models Mid-Task, Leaking Secrets and Erasing Refusals appeared first on SecurityWeek.",
+      "pubDate": "2026-09-17T07:41:29.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/rogue-AI-artificial-intelligence.jpeg"
+    },
+    {
+      "title": "Cisco warns of max severity ISE zero-day exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-identity-service-engine-zero-day-exploited-in-attacks/",
+      "description": "Cisco has released security updates to address a maximum-severity Identity Services Engine vulnerability that attackers are actively exploiting in the wild. [...]",
+      "pubDate": "2026-09-17T07:20:54.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/02/Cisco.jpg"
+    },
+    {
+      "title": "Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day",
+      "link": "https://www.securityweek.com/active-exploitation-triggers-emergency-patch-for-cisco-ise-zero-day/",
+      "description": "Remote, unauthenticated attackers can exploit the vulnerability to bypass authentication via crafted requests. The post Active Exploitation Triggers Emergency Patch for Cisco ISE Zero-Day appeared first on SecurityWeek.",
+      "pubDate": "2026-09-17T06:19:52.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/09/Cisco-firewall.jpeg"
+    },
     {
       "title": "Anthropic wants Claude to analyze your bank account and financial data",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
@@ -280,15 +334,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/09/16/ScreenConnect-headpic.jpg"
     },
     {
-      "title": "Hackuity Raises $19 Million for AI-Powered Vulnerability Management",
-      "link": "https://www.securityweek.com/hackuity-raises-19-million-for-ai-powered-vulnerability-management/",
-      "description": "The company will use the new capital to expand its vulnerability operations platform and support international growth. The post Hackuity Raises $19 Million for AI-Powered Vulnerability Management appeared first on SecurityWeek.",
-      "pubDate": "2026-09-16T11:11:23.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
       "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
       "description": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
@@ -296,24 +341,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-    },
-    {
-      "title": "280,000 Impacted by Premier Medical Group Data Breach",
-      "link": "https://www.securityweek.com/280000-impacted-by-premier-medical-group-data-breach/",
-      "description": "In June 2026, hackers accessed files containing patients’ names, contact information, diagnosis details, and health insurance information. The post 280,000 Impacted by Premier Medical Group Data Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-09-16T10:47:18.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/data-breach-healthcare-medical.jpg"
-    },
-    {
-      "title": "Chrome, Firefox Updates Patch 115 Vulnerabilities",
-      "link": "https://www.securityweek.com/chrome-firefox-updates-patch-115-vulnerabilities/",
-      "description": "Google resolved 42 security defects in Chrome, and Mozilla fixed 73 bugs in Firefox. The post Chrome, Firefox Updates Patch 115 Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-09-16T10:28:36.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Chrome-Firefox.jpeg"
     },
     {
       "title": "Atomic macOS (AMOS) Stealer Activity",
@@ -388,15 +415,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/07/26/Acronis.jpg"
     },
     {
-      "title": "Malcious Admin Menu Editor Pro plugin backdoors 1,500 WordPress sites",
-      "link": "https://www.bleepingcomputer.com/news/security/malcious-admin-menu-editor-pro-plugin-backdoors-1-500-wordpress-sites/",
-      "description": "Malicious versions of the Admin Menu Editor Pro plugin for WordPress have been distributed to more than 200 customers after a threat actor compromised the maintainer's website and pushed updates that created a hidden user account. [...]",
-      "pubDate": "2026-09-15T20:34:15.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/WordPress.jpg"
-    },
-    {
       "title": "Microsoft Issues Emergency Fixes After Massive Patch Tuesday",
       "link": "https://www.darkreading.com/application-security/microsoft-emergency-fixes-patch-tuesday",
       "description": "You can't make an omelet without breaking a few eggs, and you can't patch nearly 1,000 CVEs without a few glitches.",
@@ -433,15 +451,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdd19a1ede5fda05d/6aa9273ab525586149ce55e2/rat-David_Chapman-Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "CenterPoint Energy confirms customer data stolen in cyberattack",
-      "link": "https://www.bleepingcomputer.com/news/security/centerpoint-energy-confirms-customer-data-stolen-in-cyberattack/",
-      "description": "CenterPoint Energy disclosed a breach compromising some customers' personal information after an attacker leaked data allegedly stolen from the utility company. [...]",
-      "pubDate": "2026-09-15T16:40:14.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/15/CenterPoint.jpg"
-    },
-    {
       "title": "Iranian Hackers Use Telegram-Controlled Malware to Spy on Dissidents and Journalists",
       "link": "https://thehackernews.com/2026/09/iranian-hackers-use-telegram-controlled.html",
       "description": "Cybersecurity agencies in the United States, the United Kingdom, and the Netherlands have detailed a Windows malware that they say Iran's intelligence service uses to spy on dissidents, journalists, and activists around the world. The malware is controlled via the Telegram messaging app and can copy a target's emails and chat messages, take screenshots, and activate the microphone to record",
@@ -458,15 +467,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj7hFIl_GRAlPuegwLGZ2PzXVsPEUTEevpEYhkU2Va9isB7aC8a0jJCLVszVOUc_CAIb4IkIkmRjkvyaTIadUizNNEhHTxvzlPX0EUN6UQutjyrauyi35fzRtBjFudyOW4HlAnTRNC9XDj39uNBMKUWHUV2g0Rt8o3aSADZAeAIYgLN-dT0q8gIH9cWUDBF/s1600/windows-linux.jpg"
-    },
-    {
-      "title": "BambooToken malware controls Windows and Linux systems via MQTT",
-      "link": "https://www.bleepingcomputer.com/news/security/bambootoken-malware-controls-windows-and-linux-systems-via-mqtt/",
-      "description": "A previously unknown malware framework called BambooToken, active since at least 2023, is now using the Message Queuing Telemetry Transport (MQTT) protocol to communicate with Windows and Linux systems. [...]",
-      "pubDate": "2026-09-15T15:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/03/05/hand.jpg"
     },
     {
       "title": "Human Attacker Exploits Marimo RCE, Reaches SSH Bastion in Eight Seconds",
