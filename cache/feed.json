@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T09:59:11.234Z",
+  "generatedAt": "2026-09-18T14:22:00.563Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,132 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Secure enterprise sharing with access reviews for Microsoft 365",
+      "link": "https://www.bleepingcomputer.com/news/security/secure-enterprise-sharing-with-access-reviews-for-microsoft-365/",
+      "description": "Microsoft 365 makes sharing files easy, but access can remain long after its original purpose has ended, leaving organizations with little visibility into who can still reach sensitive data. tenfold Software explains how centralized access governance and owner-driven reviews can help identify and remove unnecessary access. [...]",
+      "pubDate": "2026-09-18T14:00:10.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/09/09/tenfold-upload.jpg"
+    },
+    {
+      "title": "Microsoft Teams will let admins block custom file extensions",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-teams-will-let-admins-block-custom-file-extensions/",
+      "description": "Microsoft Teams will soon let administrators tweak the list of file extensions commonly associated with security threats to meet their company's security requirements. [...]",
+      "pubDate": "2026-09-18T13:58:40.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft-Teams.jpg"
+    },
+    {
+      "title": "Webinar: Which Google Workspace security controls actually matter?",
+      "link": "https://www.bleepingcomputer.com/news/security/webinar-which-google-workspace-security-controls-actually-matter/",
+      "description": "Fast-growing companies face countless recommendations for securing Google Workspace, but not every control provides the same value. This webinar examines real-world breaches to explore which security controls matter most, which may be overrated, and where lean security teams should focus their resources. [...]",
+      "pubDate": "2026-09-18T13:10:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/06/29/Google_Workspace.jpg"
+    },
+    {
+      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
+      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
+      "description": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
+      "pubDate": "2026-09-18T12:47:04.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
+    },
+    {
+      "title": "AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code",
+      "link": "https://www.securityweek.com/ai-built-exploit-and-sign-in-flaw-opened-path-to-internal-openai-code/",
+      "description": "Hacktron researchers earned a bug bounty after demonstrating access to OpenAI employee accounts. The post AI-Built Exploit and Sign-In Flaw Opened Path to Internal OpenAI Code appeared first on SecurityWeek.",
+      "pubDate": "2026-09-18T12:45:24.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/OpenAI.jpeg"
+    },
+    {
+      "title": "Microsoft fixes bug behind ‘Defender Antivirus is turned off’ alerts",
+      "link": "https://www.bleepingcomputer.com/news/security/microsoft-fixes-bug-behind-defender-antivirus-is-turned-off-alerts/",
+      "description": "Microsoft has resolved a known issue that causes incorrect alerts warning that Defender Antivirus was turned off after installing recent updates. [...]",
+      "pubDate": "2026-09-18T12:16:32.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Microsoft-Defender.jpg"
+    },
+    {
+      "title": "23 Million User Records Compromised in Gyazo Data Breach",
+      "link": "https://www.securityweek.com/23-million-user-records-compromised-in-gyazo-data-breach/",
+      "description": "Gyazo maker Helpfeel said the attacker exploited a vulnerability in its image upload server to gain unauthorized access. The post 23 Million User Records Compromised in Gyazo Data Breach appeared first on SecurityWeek.",
+      "pubDate": "2026-09-18T11:38:40.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/image-file-photo-sharing.jpeg"
+    },
+    {
+      "title": "Are AIs Still Struggling with CAPTCHAs?",
+      "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
+      "description": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn’t match the others displayed, it couldn’t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions. “Actually hmm, wait,” it said in its chain-of-thought transcript, la",
+      "pubDate": "2026-09-18T11:05:52.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
+      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
+      "description": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. The new owner holds",
+      "pubDate": "2026-09-18T11:01:16.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
+    },
+    {
+      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
+      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
+      "description": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
+      "pubDate": "2026-09-18T11:01:01.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
+    },
+    {
+      "title": "Microsoft Patches 18 Vulnerabilities in AI, Cloud Products",
+      "link": "https://www.securityweek.com/microsoft-patches-18-vulnerabilities-in-ai-cloud-products/",
+      "description": "Microsoft fixed vulnerabilities across Azure and AI-branded products, with privilege escalation flaws accounting for the majority. The post Microsoft Patches 18 Vulnerabilities in AI, Cloud Products appeared first on SecurityWeek.",
+      "pubDate": "2026-09-18T10:57:03.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Microsoft-Azure.jpeg"
+    },
+    {
+      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
+      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
+      "description": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
+      "pubDate": "2026-09-18T10:40:06.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
+    },
+    {
+      "title": "NightmareStresser DDoS Service Disrupted in International Operation",
+      "link": "https://www.securityweek.com/nightmarestresser-ddos-service-disrupted-in-international-operation/",
+      "description": "Active since at least 2022, NightmareStresser was one of the longest-running DDoS-for-hire services in the world. The post NightmareStresser DDoS Service Disrupted in International Operation appeared first on SecurityWeek.",
+      "pubDate": "2026-09-18T10:12:33.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/NightmareStresser-DDoS.jpg"
+    },
+    {
+      "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
+      "link": "https://unit42.paloaltonetworks.com/securing-aws-agentcore-harness-credentials/",
+      "description": "Analysis of how default configurations in AWS AgentCore Harness allow prompt injection to exfiltrate credentials, and key steps to secure your agents. The post A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity appeared first on Unit 42.",
+      "pubDate": "2026-09-18T10:00:36.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/03_Cloud_cybersecurity_research_Overview_1920x900.jpg"
     },
     {
       "title": "Brevo Supply Chain Attack Injects Malware Into 100,000 Websites",
@@ -235,15 +361,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/supertanker.jpeg"
     },
     {
-      "title": "CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot",
-      "link": "https://www.securityweek.com/cisa-retires-weekly-vulnerability-bulletin-in-risk-based-pivot/",
-      "description": "The decision follows BOD 26-04, which directs federal organizations to prioritize vulnerabilities based on real-world risk. The post CISA Retires Weekly Vulnerability Bulletin in Risk-Based Pivot appeared first on SecurityWeek.",
-      "pubDate": "2026-09-17T14:28:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/CISA-Cybersecurity.jpg"
-    },
-    {
       "title": "Iran-Linked Handala Hack Tied to HEAVYGRAM Telegram Backdoor That Can Steal Passwords",
       "link": "https://thehackernews.com/2026/09/iran-linked-handala-hack-tied-to.html",
       "description": "The Iran-linked \"hacktivist\" persona known as Handala Hack has been attributed to a Telegram-based surveillance backdoor called HEAVYGRAM and a Delphi-based utility known as CRUDEEXCLUDE. \"HEAVYGRAM offers builtin commands supporting remote command execution, system, network and process information discovery, data and Telegram session files exfiltration, screenshot capture, DLL sideloading,",
@@ -262,15 +379,6 @@
       "image": "https://www.bleepstatic.com/content/posts/2026/09/09/specops-hands-typing.jpg"
     },
     {
-      "title": "Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom",
-      "link": "https://www.securityweek.com/revolut-data-breach-5-months-680-high-profile-accounts-3m-ransom/",
-      "description": "Revolut allegedly fed customer information to hackers impersonating an Italian government agency for five months. The post Revolut Data Breach: 5 Months, 680 High-Profile Accounts, $3M Ransom appeared first on SecurityWeek.",
-      "pubDate": "2026-09-17T13:57:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/Revolut.jpeg"
-    },
-    {
       "title": "Windows 11 24H2 Home and Pro reach end of support in October",
       "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-24h2-home-and-pro-reach-end-of-support-in-october/",
       "description": "Microsoft reminded customers this week that devices running Windows 11 24H2 Home and Pro editions will stop receiving updates next month. [...]",
@@ -278,24 +386,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows_11.jpg"
-    },
-    {
-      "title": "Comp AI Raises $34 Million for AI-Native Compliance and Security",
-      "link": "https://www.securityweek.com/comp-ai-raises-34-million-for-ai-native-compliance-and-security/",
-      "description": "The company plans to expand into continuous cybersecurity, offering security testing across applications and infrastructure. The post Comp AI Raises $34 Million for AI-Native Compliance and Security appeared first on SecurityWeek.",
-      "pubDate": "2026-09-17T13:00:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/funding-investment-market-3.jpeg"
-    },
-    {
-      "title": "ISC Patches 14 Vulnerabilities in BIND 9 Security Update",
-      "link": "https://www.securityweek.com/isc-patches-14-vulnerabilities-in-bind-9-security-update/",
-      "description": "Attackers could exploit the flaws to increase resource usage, trigger an unexpected program exit, or terminate the named process. The post ISC Patches 14 Vulnerabilities in BIND 9 Security Update appeared first on SecurityWeek.",
-      "pubDate": "2026-09-17T12:39:28.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/02/DNS.jpeg"
     },
     {
       "title": "Critical Unbound DNSSEC Validator Flaw Could Allow RCE via a Malicious DNS Zone",
@@ -442,15 +532,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Anthropic wants Claude to analyze your bank account and financial data",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-wants-claude-to-analyze-your-bank-account-and-financial-data/",
-      "description": "Anthropic is testing a new personal finance feature called \"Claude Money\" that will allow you to connect your bank accounts directly to Claude and \"understand your money.\" [...]",
-      "pubDate": "2026-09-17T00:35:48.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/Claude_AI.png"
-    },
-    {
       "title": "Smashing Security podcast #485: These researchers got drunk to hack an LG TV",
       "link": "https://grahamcluley.com/smashing-security-podcast-485/",
       "description": "Researchers wanted to test if LG's smart TVs come with any security risks - but their lawyers noticed a snag: the terms and conditions would forbid it. So they came up with a solution. They got plastered before setting up the TV, on the reasoning that you can't be legally bound to a contract you agreed to while drunk. What they discovered will make you look at your TV rather differently... Meanwhile, awful Android malware with the audacious name \"Awesome\" (in Indonesian) is doing the rounds, stealing your data, demanding a ransom, and then giving you a \"jump scare\"... Plus, in our featured int",
@@ -467,33 +548,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcb03b6fd2d90125e/6aab0ffae6306a5a1058a24b/aiinvestment-chiewr-Getty-2220824575.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Windows 11 KB5124008 update breaks domain trust for some users",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/windows-11-kb5124008-update-breaks-domain-trust-for-some-users/",
-      "description": "Microsoft is investigating reports that the Windows 11 KB5124008 security update is breaking domain trust relationships on some enterprise systems, preventing users from logging in with valid domain credentials. [...]",
-      "pubDate": "2026-09-16T20:39:29.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/02/Windows_11_headpic.jpg"
-    },
-    {
-      "title": "Iranian hackers use CHOSEN BRICK Windows malware to spy on targets",
-      "link": "https://www.bleepingcomputer.com/news/security/iranian-hackers-use-chosen-brick-windows-malware-to-spy-on-targets/",
-      "description": "Government agencies are warning that Iranian state-linked hackers are using a Windows malware strain named CHOSEN BRICK to target dissidents, activists, and journalists worldwide. [...]",
-      "pubDate": "2026-09-16T20:24:55.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/07/Iranian-hackers.jpg"
-    },
-    {
-      "title": "Malware bypasses browser checks to force install Chrome, Edge extensions",
-      "link": "https://www.bleepingcomputer.com/news/security/malware-bypasses-browser-checks-to-force-install-chrome-edge-extensions/",
-      "description": "A banking malware operation active since mid-2025 has been using a toolkit named KREMLIN to install malicious Chrome and Edge extensions that steal credentials, session tokens, and sensitive data. [...]",
-      "pubDate": "2026-09-16T18:50:53.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/12/01/edge-chrome-buttons.jpg"
     },
     {
       "title": "Fighting Your Dragons Through Tough Tech Times",
@@ -577,33 +631,6 @@
       "image": null
     },
     {
-      "title": "Google Patches Pixel Modem Flaw Amid Signs of Limited Targeted Exploitation",
-      "link": "https://thehackernews.com/2026/09/google-patches-pixel-modem-flaw-amid.html",
-      "description": "Google has disclosed that a high-severity security flaw in its Pixel Cellular Modem has come under exploitation in the wild. The vulnerability, tracked as CVE-2026-58704 (CVSS score: 8.0), is a privilege escalation flaw. \"In Cellular Modem, there is a possible permission bypass due to a logic error in the code,\" according to a description of the bug in the NIST National Vulnerability Database",
-      "pubDate": "2026-09-16T11:15:58.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgdVCezHTU2PU4DuL9ysF0nQFJLLR2QyxyexdJN5iv1QQnl4-mFFupADzryOhW_lsM_nI5OgHH5krMBLOErLl9GNmyJeaGEDGQNnhhyphenhyphenNs2ZXIwBLTIY8poIVxLKPNRRAipPFbKv_a7CPzE86rB_nItrsiirydPRuCZrvkDymktX28d1O7kSbEhIgmEPh6oy/s1600/pixel.jpg"
-    },
-    {
-      "title": "Threat Intelligence Alone Won't Close the Exploitation Gap",
-      "link": "https://thehackernews.com/2026/09/threat-intelligence-alone-wont-close.html",
-      "description": "A leaked credential shows up in a criminal marketplace, or a vulnerability gets a disclosure advisory, and either one can be weaponized against a real target before most security teams have triaged the alert. Attackers are combining that kind of intelligence with AI-assisted exploitation to accelerate the path from exposure to breach faster than most security programs are built to react.",
-      "pubDate": "2026-09-16T11:15:48.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiNTaZ2mJpwks9AMkwh4I_Q5sK5sgj01Fd4eW4c47_ZsHN_8hKPjptnlJ_P0RboejQy7PB6Ad4UXLFggJXAGlVsBigp46txL8LoSlpMuwQ0sXkAPQZ4TYtg89jNIa6SLPxuv-YC-_LlNZq2FZdNHRnrP_iQUYPSj2-MzugjnlL_CrIJw80lMzbVCZEf0x8/s1600/pentera.jpg"
-    },
-    {
-      "title": "Acronis cPanel Backup Plugin Vulnerability Exploited in Targeted Attacks",
-      "link": "https://thehackernews.com/2026/09/acronis-cpanel-backup-plugin.html",
-      "description": "Acronis has warned that a high-severity security flaw in its Backup plugin for cPanel and Web Host Manager (WHM) deployments has been exploited in the wild. The vulnerability, tracked as CVE-2026-87886 (CVSS score: 7.8), is described as a case of local privilege escalation due to insecure file permissions. It affects the following versions - Acronis Backup plugin for cPanel & WHM (Linux",
-      "pubDate": "2026-09-16T11:08:54.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgOvbeWtAztd1-F4zbNa4Ei7kEh-C7s4QGW-rmB8ug7-mXRIcdL_mAqtAA_hqAG7QtaHUMTxSYa5dFw0080LoR66SUCPLGybqueRLeUJvQQ6unmg4WqExx08rrv0NZaZkQldGURtIDMZRpregBaFLhjws2d_eRt0I0VcZdaSGZS6twj0AvBK74TAJx-veBz/s1600/acronis.jpg"
-    },
-    {
       "title": "Atomic macOS (AMOS) Stealer Activity",
       "link": "https://unit42.paloaltonetworks.com/atomic-macos-amos-stealer-activity/",
       "description": "Modern macOS malware uses deceptive setup guides to steal credentials and sensitive user data. Learn how to identify and block these threats. The post Atomic macOS (AMOS) Stealer Activity appeared first on Unit 42.",
@@ -611,15 +638,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Myth-Busting_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Attackers Exploit WooCommerce Wholesale Lead Capture Flaw to Plant PHP Web Shells",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-woocommerce-wholesale.html",
-      "description": "Threat actors are exploiting a critical security flaw in WooCommerce Wholesale Lead Capture, a premium WordPress plugin that has more than 6,000 active installs. \"This vulnerability can be leveraged by unauthenticated attackers to upload arbitrary files, including PHP backdoors, and achieve remote code execution,\" Wordfence said. The WordPress security company said it has blocked over",
-      "pubDate": "2026-09-16T05:48:28.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhaDJy8WPrkf8CE0D66EluNlAxZjtSyl-SeLt9BmCzqINPxm9H08ACj6o1nZWYQxcR5FYK-RrzDRXe014EEAMDH1wBa-SSXV1HNXJyLZsOWzNxU533Err9iI0Z_PQwy2Z6pY3LkGMSB2xKwQPIJe5mXgCJFeeUGj8qDKSmA9I9RS0MNl7jtlUhqkVPOkIfL/s1600/wordpress-shell.jpg"
     },
     {
       "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
@@ -845,15 +863,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8cf4e55b02be84ac/6aa41d1ff4f5704c3b28690b/bees-Trevor_Srednick-GettyImages-2204460367.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Cliff Stoll’s DEF CON Talk",
-      "link": "https://www.schneier.com/blog/archives/2026/09/cliff-stolls-def-con-talk.html",
-      "description": "In August, Cliff Stoll gave a talk at DEF CON, remembering the wily hacker he stalked forty years ago. Great fun.",
-      "pubDate": "2026-09-11T11:09:55.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Indonesia Hit by Android Banking App-Cloning Campaign",
@@ -1349,15 +1358,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/07_Malware_Category_1920x900-3.jpg"
-    },
-    {
-      "title": "The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications",
-      "link": "https://unit42.paloaltonetworks.com/aeternum-blockchain-c2-analysis/",
-      "description": "Analysis of the Aeternum botnet loader, a threat leveraging Polygon blockchain smart contracts for decentralized C2 infrastructure and payload execution. The post The Permanent Threat: Analyzing Aeternum’s Blockchain-Based C2 Operations and Communications appeared first on Unit 42.",
-      "pubDate": "2026-08-10T22:00:02.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/04_Malware_Category_1920x900-4.jpg"
     },
     {
       "title": "Meta’s Ray-Bans are being banned from pubs, restaurants, and theatres",
