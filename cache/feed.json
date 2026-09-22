@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T06:43:47.943Z",
+  "generatedAt": "2026-09-22T12:27:13.040Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -28,6 +28,132 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
     },
     {
+      "title": "Only 13% of OT Network Segments Are Fully Isolated: Analysis",
+      "link": "https://www.securityweek.com/only-13-of-ot-network-segments-are-fully-isolated-analysis/",
+      "description": "Forescout’s new network segmentation research shows that OT and medical devices often share network segments with other enterprise assets. The post Only 13% of OT Network Segments Are Fully Isolated: Analysis appeared first on SecurityWeek.",
+      "pubDate": "2026-09-22T12:24:30.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/01/network-security-integration.jpg"
+    },
+    {
+      "title": "More Than a Third of Industrial Orgs See Cybersecurity Risk as a Top Obstacle to Growth, Study Finds",
+      "link": "https://www.darkreading.com/cyber-risk/third-industrial-orgs-see-cybersecurity-risk-top-obstacle",
+      "description": "Industrial companies are increasing cybersecurity investment as connected operations, AI adoption, and IT/OT convergence expand operational risk.",
+      "pubDate": "2026-09-22T12:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers",
+      "link": "https://www.securityweek.com/recent-zyxel-switch-vulnerability-exploited-by-chinese-hackers/",
+      "description": "A Chinese threat actor has exploited the bug to exfiltrate sensitive information from nearly 1,000 ZyXEL switches. The post Recent ZyXEL Switch Vulnerability Exploited by Chinese Hackers appeared first on SecurityWeek.",
+      "pubDate": "2026-09-22T11:55:20.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/switch-router.webp"
+    },
+    {
+      "title": "DORA Year Two: Can Your SOC Actually See the Attack?",
+      "link": "https://thehackernews.com/2026/09/dora-year-two-can-your-soc-actually-see.html",
+      "description": "When the Digital Operational Resilience Act (DORA) became enforceable across the European Union in January 2025, it triggered an administrative sprint. Financial entities spent the first year establishing risk governance, assessing third-party service providers, updating contract clauses, and documenting incident escalation workflows. Now in its second year, the harder part of DORA is",
+      "pubDate": "2026-09-22T11:45:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSfPPym5AUNkyGqTS_emtDBNfEzrtWQJSHGSMl0V3KkDS2_hMcu_cpDslIX9LUv9nvHbQzY9hnwDEKjdlxe6vFS3N2_PHkTk_0TdKBE7RrAdniL9dObHd24tudc-Ymy8FTsV9y6Io68EhjR6fRrRwMEJhdKczg6vpRP2Bp06cxX_EqgmqXps8ih3Tfq08/s1600/core.jpg"
+    },
+    {
+      "title": "New Linux Kernel Flaw Gives ARM64 KVM Guests Read-Write Access to Host Memory",
+      "link": "https://thehackernews.com/2026/09/new-linux-kernel-flaw-gives-arm64-kvm.html",
+      "description": "A new flaw in the Linux kernel's KVM virtualization code for ARM64 processors can leave a freed piece of host memory exposed to a guest virtual machine on hosts with nested virtualization enabled. The bug, tracked as CVE-2026-89775, allows a guest to read and write host kernel memory, and the researcher who found it says it can be used to escape the guest and run code on the host machine.",
+      "pubDate": "2026-09-22T11:38:40.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhCjDxUEx5QKzby2TlrL6Swi0MV7BdrkgjM6Y5Xby9IU8L9JSdG09pwRemVtrYQtUrvp8QIDduyiDuojZVzZ6GrpzUJIVrThvC4CZ_kd8kckdhBt0MLWDLXD_QwN2wciIA9bqLee51246mEpWx0ZnlcOfXD2U3QWpvmpKZyxx75T7MXK-b8zBMmrouCZJc/s1600/linux-kvm.jpg"
+    },
+    {
+      "title": "Malicious B-tree NPM Package Accumulates Millions of Downloads",
+      "link": "https://www.securityweek.com/malicious-b-tree-npm-package-accumulates-millions-of-downloads/",
+      "description": "Posing as the legitimate sorted-btree package, indexed-btree hides a malware trigger in its prototype method. The post Malicious B-tree NPM Package Accumulates Millions of Downloads appeared first on SecurityWeek.",
+      "pubDate": "2026-09-22T11:33:59.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/NPM-code-software-development.jpeg"
+    },
+    {
+      "title": "SharePoint Flaw Initially Listed as Spoofing by Microsoft Enables Authenticated RCE",
+      "link": "https://thehackernews.com/2026/09/sharepoint-flaw-initially-listed-as.html",
+      "description": "A SharePoint Server vulnerability that Microsoft initially classified as a spoofing flaw with a CVSS score of 6.5 actually enables authenticated remote code execution, according to full technical details published today by Viettel Cyber Security researcher Dinh Ho Anh Khoa. The flaw, CVE-2026-65660, affects SharePoint Server 2016, 2019, and Subscription Edition. Patches have been",
+      "pubDate": "2026-09-22T11:17:41.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiu0R8P6iyk50vNReEGl0FkwYoFPk5n2fkVC3_3Mf2J5SaQ7yFIHbA3xuQpCATCQ9Y5Ie2ysz9EVaDb_vR5Bbnp209w28bSDK2Rqggotv4NPQbFB5LX4SUT4eztA-6939clsV9QQ41MHwIl8MFSzaJwyFFeBusztZ9H7oZhiUOlFYrL8BQh6hXWegn39uU/s1600/ms-rce.jpg"
+    },
+    {
+      "title": "GPT-6 Astra Breaks an Old Enigma Message",
+      "link": "https://www.schneier.com/blog/archives/2026/09/gpt-6-astra-breaks-an-old-enigma-message.html",
+      "description": "This is pretty amazing: However, the most astonishing thing about this break is that the GPT­6 Astra did it entirely on its own. Carter Leffer only directed GPT­6 Astra to see if it could break any of the unbroken Enigma messages published on the Crypto Cellar Research web page. After analysing the unbroken messages on the website, it decided that the most promising message was Nr. 172, MVUEH and it also quickly suspected that the plaintext of Nr. 173, SIPVX, might be related to the plaintext of the unbroken MVUEH message. After trying many different approaches, GPT­6 Astra focused on using th",
+      "pubDate": "2026-09-22T11:02:45.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "WordPress Patches ‘Click2Shell’ Vulnerability",
+      "link": "https://www.securityweek.com/wordpress-patches-click2shell-vulnerability/",
+      "description": "The bug lets attackers automatically install and preview themes and could lead to remote code execution. The post WordPress Patches ‘Click2Shell’ Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-09-22T10:22:27.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/WordPress.jpeg"
+    },
+    {
+      "title": "New Windows Defender zero-day blocks Microsoft antivirus updates",
+      "link": "https://www.bleepingcomputer.com/news/security/new-windows-defender-zero-day-blocks-microsoft-antivirus-updates/",
+      "description": "Over the weekend, security researcher Abdelhamid Naceri (also known as Nightmare Eclipse) released another Microsoft Defender zero-day exploit that blocks antivirus updates. [...]",
+      "pubDate": "2026-09-22T09:55:11.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/17/Microsoft-Defender.jpg"
+    },
+    {
+      "title": "Malicious npm Package indexed-btree Hid Its Loader in Runtime Code Before Removal",
+      "link": "https://thehackernews.com/2026/09/malicious-npm-package-indexed-btree-hid.html",
+      "description": "A malicious npm package named \"indexed-btree\" has been observed hiding its malicious behavior within application code rather than using lifecycle scripts, indicating that threat actors are likely shifting tactics in response to recent security controls. \"Indexed-btree is a malicious npm package mimicking the legit sorted-btree package, an ordinary B-tree/indexing utility,\" Checkmarx said. \"",
+      "pubDate": "2026-09-22T09:38:18.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg"
+    },
+    {
+      "title": "CISA orders feds to patch Zyxel flaw exploited for data theft",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-actively-exploited-zyxel-flaw-by-thursday/",
+      "description": "​Attackers are now actively exploiting a high-severity vulnerability in Zyxel GS1900 series switches, according to the U.S. Cybersecurity and Infrastructure Security Agency (CISA). [...]",
+      "pubDate": "2026-09-22T08:53:09.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/08/CISA.jpg"
+    },
+    {
+      "title": "Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme",
+      "link": "https://www.securityweek.com/japan-dismantles-first-north-korean-laptop-farm-as-us-and-allies-detail-wider-scheme/",
+      "description": "The US, Japan, Germany and Australia have published a joint report detailing the scope of North Korea’s WaterPlum campaign. The post Japan Dismantles First North Korean Laptop Farm as US and Allies Detail Wider Scheme appeared first on SecurityWeek.",
+      "pubDate": "2026-09-22T08:37:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/North-Korea-hacking.jpeg"
+    },
+    {
+      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
+      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
+      "description": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
+      "pubDate": "2026-09-22T07:52:03.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
+    },
+    {
       "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
       "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
       "description": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
@@ -39,7 +165,7 @@
     {
       "title": "WordPress Comment2Shell Flaw Can Turn Anonymous Comment XSS Into RCE via Admin Session",
       "link": "https://thehackernews.com/2026/09/wordpress-comment2shell-flaw-can-turn.html",
-      "description": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and dubbed \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
+      "description": "A new flaw in WordPress core let an anonymous visitor leave a comment that planted a hidden script on the page. If a logged-in administrator later opened that page, the script could run code on the site's server. WordPress fixed the flaw, tracked as CVE-2026-93485 and called \"Comment2Shell,\" on September 17 in version 7.1.1 and told site owners to update right away. There is",
       "pubDate": "2026-09-22T06:03:14.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -262,24 +388,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/03/12/Hacking_login.jpg"
     },
     {
-      "title": "RatHat Android Trojan Uses AI for Automation",
-      "link": "https://www.securityweek.com/rathat-android-trojan-uses-ai-for-automation/",
-      "description": "The malware relies on AI for real-time device navigation and control, increasing adaptability and evasion. The post RatHat Android Trojan Uses AI for Automation appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T12:51:41.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png"
-    },
-    {
-      "title": "Rust Team Members and Popular Crate Owners Targeted via Video Calls",
-      "link": "https://www.securityweek.com/rust-team-members-and-popular-crate-owners-targeted-via-video-calls/",
-      "description": "It’s unclear if the attacks are part of previous campaigns against Rust, but the techniques used by the attackers match those used by North Korea. The post Rust Team Members and Popular Crate Owners Targeted via Video Calls appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T11:57:35.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/application-security-vulnerabilities.jpeg"
-    },
-    {
       "title": "Microsoft: September updates break File History backup feature",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-updates-break-file-history-backup-feature/",
       "description": "Microsoft warned that the built-in File History backup feature in Windows may stop working on some systems after installing the September 2026 security updates. [...]",
@@ -289,24 +397,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
     },
     {
-      "title": "CrowdSec Confirms Source Code Stolen in Supply Chain Attack",
-      "link": "https://www.securityweek.com/crowdsec-confirms-source-code-stolen-in-supply-chain-attack/",
-      "description": "The cybersecurity firm believes the data breach was the result of the May 2026 TanStack supply chain attack. The post CrowdSec Confirms Source Code Stolen in Supply Chain Attack appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T10:55:46.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/Code-3rd-Party-Risk.jpg"
-    },
-    {
-      "title": "Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems",
-      "link": "https://www.securityweek.com/colorado-water-utilities-hit-by-cyberattacks-targeting-ot-systems/",
-      "description": "The hackers changed equipment settings, disabled remote access and alarms, and altered pumping cycles, officials said. The post Colorado Water Utilities Hit by Cyberattacks Targeting OT Systems appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T10:03:44.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/10/Water-Utility-Cyberattack.jpg"
-    },
-    {
       "title": "From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies",
       "link": "https://unit42.paloaltonetworks.com/detecting-exposed-aws-iam-credentials/",
       "description": "We explore how AWS neutralizes exposed IAM credentials using managed policies, detailing GitHub secret scanning and CloudTrail monitoring strategies. The post From Exposure to Lockdown: How AWS Neutralizes Compromised IAM Credentials through Managed Policies appeared first on Unit 42.",
@@ -314,15 +404,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Cloud_cybersecurity_research_Overview_1920x900.jpg"
-    },
-    {
-      "title": "Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities",
-      "link": "https://www.securityweek.com/organizations-warned-of-3-exploited-linux-kernel-vulnerabilities/",
-      "description": "Attackers could exploit the flaws to cause denial-of-service conditions, disclose memory, or modify memory. The post Organizations Warned of 3 Exploited Linux Kernel Vulnerabilities appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T09:31:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/09/Linux.jpeg"
     },
     {
       "title": "ClickFix Lures Deploy ChainScript RAT Using Polygon to Rotate C2 Infrastructure",
@@ -388,15 +469,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/08/12/north-korean-hackers.jpg"
     },
     {
-      "title": "ShinyHunters hacks Clop leak site, threatens to extort ransomware gang",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacks-clop-leak-site-threatens-to-extort-ransomware-gang/",
-      "description": "The ShinyHunters extortion gang breached the Clop (aka Cl0p) ransomware operation's data leak site, defacing the Tor site and allegedly stealing server data and the private keys for its onion service. [...]",
-      "pubDate": "2026-09-19T13:48:32.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/06/15/emoji-hacker.jpg"
-    },
-    {
       "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
       "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
       "description": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
@@ -413,15 +485,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTFTNQKV-yV8FRZZRLBPRxZDhk6E7s3v8SpP5xW_aeDyMz-xMvi-xAVUmvDvMC-CnU1kddKpVGN9BBzeoH4xeq8zE3OAqUq5441sYhC4tfYcyU1-3_yPkVphC-20dCQX_e5kN_G-Ji42wbYuxavkjczHwYn9QP0WRXnN16KUA33kizHwh38yQl7clZAA0/s1600/ORCHID-1.jpg"
-    },
-    {
-      "title": "Viral AI actress' hotline face-scans every caller, watches their mood",
-      "link": "https://www.bleepingcomputer.com/news/security/viral-ai-actress-hotline-face-scans-every-caller-watches-their-mood/",
-      "description": "AI actress Tilly Norwood went viral after glitching into Chinese on Piers Morgan Uncensored last night. Her \"Talking Tilly\" video call service face-scans every caller for an 18+ age check, senses callers' moods during calls, and shuts down permanently on September 27. We tried it and read the fine print. [...]",
-      "pubDate": "2026-09-19T11:38:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/19/tilly-norwood-face-scan-header-1600x900.jpg"
     },
     {
       "title": "SolarWinds Patches ARM Hard-Coded Key Flaw Enabling Unauthenticated RCE",
@@ -532,24 +595,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRmEdVvBEJZEaIzJ4GYHX3cDjJq5YaLQby6GeVwDl-uVl_qIR_tkRSx6aKpzoYhGVvp0E3NDIe9aum5f5N_lI-RPz6eDNGHC7vpKMa0UrlT1J1_bRJrJ8Wk0htpyFoR3ezoqh-BCJePJU914UFlL7gS45RXbWoVi3Lp49iNSkUt7eLrJyQTAEIGE-VRgY/s1600/click2shell.gif"
     },
     {
-      "title": "Transparent Tribe Deploys New Rust Backdoor Using Private GitHub Repositories for C2",
-      "link": "https://thehackernews.com/2026/09/transparent-tribe-deploys-new-rust.html",
-      "description": "The Pakistan-aligned threat group tracked as Transparent Tribe (aka APT36 and Earth Karkaddan) has been attributed to a fresh set of cyber attacks targeting government and defense entities in India and Afghanistan. The attacks, per Zscaler ThreatLabz, involve the use of previously undocumented tools called RUSTYSHADE, RUSTYMOVE, PSNATCH, and BASHNATCH. The activity has been codenamed Operation",
-      "pubDate": "2026-09-18T15:24:16.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhBM0nXgCLpwEyXmAdxLO_GatYww1Cem0yuGGqhmMwCB5N8w-TeoMm7jV4SbH4hjfYmxctUjyPiSlR3Caj2cSu7L_1nxTzg5xtfJrxhq5y0elL7yh8J2S5lakpnTbck3XhMVB1iG3obibSh64E8z877YcECkeJBs_rrZARXefKDeYQJ9Nf2u8pnxD0gEnx/s1600/rust-malware.jpg"
-    },
-    {
-      "title": "Microsoft Patches CVSS 10.0 Azure AI Foundry Flaw Enabling Unauthorized Privilege Escalation",
-      "link": "https://thehackernews.com/2026/09/microsoft-patches-cvss-100-azure-ai.html",
-      "description": "Microsoft has released fixes for a maximum-severity security flaw in Azure AI Foundry that could be exploited to achieve privilege escalation. No customer action is required. The vulnerability, tracked as CVE-2026-85889, carries a CVSS score of 10.0. \"Missing authentication for critical function in Azure AI Foundry allows an unauthorized attacker to elevate privileges over a network,\"",
-      "pubDate": "2026-09-18T12:47:04.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiML2C2l_2QmIUPPt9Gs6K9nVdVk9WZWhJaeBQjf92a7R0O0ghnhNznkqPHwG1quCmfadrkibl0WJhLioNmbATDXGxPcy6EHuDVvUrcDF_q0m23IQD1CxL0DsMZT2ZnXCtOyGADMztIcBmgQzaAvNQR39JWnvbG085s4q4W01UQnH4g-Yj15_ZKrJXDaOpQ/s1600/ms-azure.jpg"
-    },
-    {
       "title": "Are AIs Still Struggling with CAPTCHAs?",
       "link": "https://www.schneier.com/blog/archives/2026/09/are-ais-still-struggling-with-captchas.html",
       "description": "Anthropic’s recent security-incident document contains a bit about how CAPTCHAs are still frustrating Claude. In the transcript, the Claude model that is so powerful that Anthropic is gatekeeping access to it appeared to slam its virtual head against the wall solving a simple image identification test. In a test where the agent was asked to identify a shape that didn’t match the others displayed, it couldn’t even decide which image to select. Instead, it repeatedly went over the same images and questioned its own conclusions. “Actually hmm, wait,” it said in its chain-of-thought transcript, la",
@@ -557,33 +602,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "An Abandoned CDN Domain Was Re-Registered. Thousands of Sites Still Call It.",
-      "link": "https://thehackernews.com/2026/09/an-abandoned-cdn-domain-was-re.html",
-      "description": "In July 2025, someone registered a domain that used to belong to a content delivery network. The CDN had been wound down years earlier, and the domain it served assets from was allowed to expire. What it had not lost were its callers. Thousands of websites, code repositories, and documentation pages still carry hard-coded references to hostnames beneath it. The new owner holds",
-      "pubDate": "2026-09-18T11:01:16.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh4A312zOZ7ftKXmWapCccs7ZW6g3d61vCPFzToGj6Y9nRb2cXUHcQ9__5Taotig6y1W_tljoo5ih74cJCTxZzfz5Ii0MMoLcBuUZS6fQCgn_L4zmq92Zamf2FJM-oT3ptyyzPM-2c1oyZSZSn3eYiUp0QidqC2N2tYT9GFrqAYitjrco1cmrDJRCm6HEk/s1600/report-uri.jpg"
-    },
-    {
-      "title": "Plugin4Shell Lets Repository Owners Swap Pinned Plugin Code Across Four AI Coding Agents",
-      "link": "https://thehackernews.com/2026/09/plugin4shell-lets-repository-owners.html",
-      "description": "A flaw in four widely used AI coding agents lets someone who controls a plugin's code repository swap the plugin an agent installs for a malicious one, even when the agent locked that plugin to a specific reviewed version, security firm Air Security said on Thursday. The firm said Anthropic has patched the flaw in Claude Code 2.1.179 and OpenAI in Codex 0.146.0, that GitHub Copilot has no",
-      "pubDate": "2026-09-18T11:01:01.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizNK9maRYTbrRVwr9_9b7Sm_IizPdRJh0AbH1GtKU1BNPrcxJydnUdRQxRxauE5p1ejpfk4ihANpP7HAoXbRCDD1Pu-ZZD1dnfzLFjysOSJm7gGRKYrkUjxVF-tX-0neJMQtN87iyk1DRD70hKKtFU_J6idWK4aoZr3k4DAz4q8pkjTfKTX10Vttaiwag/s1600/coding-agents.jpg"
-    },
-    {
-      "title": "WeaselBiscuit Stealer Spreads via 13 npm Packages to Harvest Chrome Extension Storage",
-      "link": "https://thehackernews.com/2026/09/weaselbiscuit-stealer-spreads-via-13.html",
-      "description": "Cybersecurity researchers have discovered a cluster of 13 npm packages that have been found to deliver a previously undocumented JavaScript stealer codenamed WeaselBiscuit. The new malware family, per OpenSourceMalware, exhibits functional overlaps with two malware strains associated with the Democratic People's Republic of Korea's (DPRK) Contagious Interview campaign: BeaverTail and",
-      "pubDate": "2026-09-18T10:40:06.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhZypkEn_5V1qllBxmH8UMxTPyA9qoXxQtKpBpJlFq2rtHgMM1wnknkyq4Vmmy0NiCHn2IjS0nyvtmiZpJ-vYOd6VxMFBexh_p6GXuq3Cjda-YfjDOUE5u5V5HfBBAQzEm5DLX3jg_ZrIfEBFlpcBod65T3Q0pXVR7vERfitlS6cBHYVG2K7ek5ivweYTRq/s1600/npm-chrome.jpg"
     },
     {
       "title": "A Vault with a Heap-View: The Uncomfortable Space Between AgentCore Harness and Identity",
@@ -865,15 +883,6 @@
       "image": null
     },
     {
-      "title": "Microsoft’s Patching",
-      "link": "https://www.schneier.com/blog/archives/2026/09/microsofts-patching.html",
-      "description": "Once a month, Microsoft pushes a security update to all Windows users. Tomorrow’s is a new record: Microsoft’s patch for September is a doozy, with a record number of roughly 972 vulnerabilities fixed and 112 of them meeting the high critical-severity threshold. It was only two months ago that Microsoft patched a then-record 570 vulnerabilities. Then, last month, Microsoft patched some 620 of them. Google and other companies have also published record numbers of vulnerabilities in recent months. Two weeks ago, OpenAI, Anthropic, Amazon Web Services, Google, Microsoft, and 100 companies and org",
-      "pubDate": "2026-09-14T11:03:26.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
-    },
-    {
       "title": "Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection",
       "link": "https://unit42.paloaltonetworks.com/behavioral-clustering-map-to-cloud-identities/",
       "description": "We designed a behavioral clustering model to map cloud identity roles from audit logs, enabling continuous threat detection using standard SQL queries. The post Unmasking Cloud Identities: From Behavioral Clustering to Automated Detection appeared first on Unit 42.",
@@ -908,15 +917,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8adea69aa40a4f52/6aa3151ad2a293fb0a02efea/GettyImages-2220810557.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "SpiderSilk Hunts External Threats With AI-Based Scanner",
-      "link": "https://www.darkreading.com/endpoint-security/spidersilk-hunts-external-threats-ai-scanning",
-      "description": "The Dubai-based threat detection startup uses artificial intelligence tools to scan billions of IP addresses to find exposed assets, leaked data, and zero-day vulnerabilities.",
-      "pubDate": "2026-09-11T18:27:28.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2d987d8e587258e4/67891f726d4ecea6eb99f63d/Threat_detection_(1800)_Luis_Moreira_Alamy.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Protecting organizations from AI-assisted executive impersonation and invoice fraud",
