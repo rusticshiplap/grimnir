@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T23:11:16.859Z",
+  "generatedAt": "2026-09-23T07:31:43.836Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,60 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "F5 patches BIG-IP APM zero-day flaw exploited in RCE attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/f5-warns-of-big-ip-apm-remote-code-execution-zero-day-exploited-in-attacks/",
+      "description": "F5 has released security updates to address a critical BIG-IP APM zero-day vulnerability being exploited in remote code execution attacks. [...]",
+      "pubDate": "2026-09-23T07:17:23.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/F5.jpg"
+    },
+    {
+      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
+      "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
+      "description": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
+      "pubDate": "2026-09-23T07:13:49.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/data-leak.jpeg"
+    },
+    {
+      "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
+      "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
+      "description": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, into the image. Vercel, which develops Next.js, fixed the flaw on September 22 in version",
+      "pubDate": "2026-09-23T07:04:40.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg"
+    },
+    {
+      "title": "Check Point Patches Exploited Management Server Zero-Day",
+      "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
+      "description": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
+      "pubDate": "2026-09-23T06:14:03.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Check-Point-Software.jpg"
+    },
+    {
+      "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
+      "link": "https://thehackernews.com/2026/09/shinyhunters-claims-fbi-breach-says-it.html",
+      "description": "The cyber extortion group known as ShinyHunters on Tuesday claimed it had breached the U.S. Federal Bureau of Investigation and stolen data belonging to current and former employees at the agency. \"We have compromised the FBI. We hold very sensitive data on almost ALL FBI Agents and individuals who filed an application with the FBI for a job,\" the group said in a statement posted on their dark",
+      "pubDate": "2026-09-23T05:30:09.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBUSHHkVbK1vPy2WO_E9jEZ2NEd8UcPTpCFgCYTkbSPiSzDEpXRe6HRXan3z9Xg1huRk3-47hZbveFeG06vkRhAmGuL73zdPFjQEkVb6LISZIcHpPugYCMKQPtsEIihip_T7F1GWczJNWNTikwbM-SzC_UNeQsUjrg6AIeHYBwOnpOUlSOWyimHb07TzWz/s1600/shinyhunters.png"
+    },
+    {
+      "title": "Weekly Update 522: Live From Oslo with Scott Helme",
+      "link": "https://www.troyhunt.com/weekly-update-522/",
+      "description": "Heads up: the first 7 mins is a bit quiet until we worked out the external mic was misbehaving - sorry! But get through that and have a listen to Scott's experiences with how Report URI is identifying malware-infected machines within orgs, all due to CSP reporting. It&",
+      "pubDate": "2026-09-23T05:18:34.000Z",
+      "source": "Troy Hunt",
+      "category": "opinion",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/IMMIA_Tg6Rnso.png"
     },
     {
       "title": "Rogue external MFA providers can steal passwords during logins",
@@ -415,15 +469,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjj9eouOxeSvnYBzl5A8tWvEQ4w_CCx94YcFmpBAXXqHWNqvFBWj4vOgeZdHYAf0MU-chY63biCpHDnzRC0pwR7s3pTdQAWwPAVI-olRZuBwG0ilgAxnIY_1KofE3cpuA8lKOE01U26EFHYE_nLrXYXOWl47G1KaoFTZ5UOO81Cw0Kb20pFSfAc1b9i9E_K/s1600/veeam.jpg"
     },
     {
-      "title": "US Proposes AI Incident Alert System in Talks With China, Bessent Says",
-      "link": "https://www.securityweek.com/us-proposes-ai-incident-alert-system-in-talks-with-china-bessent-says/",
-      "description": "Trump has resisted calls to slow down AI development, saying that would help China catch up to U.S. companies. The post US Proposes AI Incident Alert System in Talks With China, Bessent Says appeared first on SecurityWeek.",
-      "pubDate": "2026-09-22T02:01:24.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
       "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
       "link": "https://www.darkreading.com/application-security/how-ai-agents-can-trigger-runaway-costs",
       "description": "Unbounded consumption is an issue that OWASP currently ranks sixth in its Top 10 for LLM Applications, and it could be an extremely costly one.",
@@ -469,15 +514,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "WordPress Click2Shell flaw lets hackers execute PHP on the server",
-      "link": "https://www.bleepingcomputer.com/news/security/wordpress-click2shell-flaw-lets-hackers-execute-php-on-the-server/",
-      "description": "Technical details and a proof-of-concept exploit have been published for a new WordPress cross-site request forgery (CSRF) vulnerability dubbed 'Click2Shell' that affects the platform's Core component. [...]",
-      "pubDate": "2026-09-21T18:23:11.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/WordPress.jpg"
-    },
-    {
       "title": "Fake LastPass Authenticator Installer Abuses Microsoft-Signed Driver to Kill Antivirus and EDR",
       "link": "https://thehackernews.com/2026/09/fake-lastpass-authenticator-installer.html",
       "description": "A fake LastPass Authenticator installer offered on GitHub installs a Windows kernel driver that shuts off antivirus and other security software before a password stealer runs if a victim downloads and runs it, researchers at LastPass and Delphos Labs said on September 17. Microsoft's own hardware-compatibility program signs the driver, scored zero detections on VirusTotal when researchers",
@@ -485,15 +521,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEil-5ZV6QK7R23fL7Vtl-pdxgFYPAG9dT_cIIrXWgR70hLZRM705Ij3WuRpCL00VuDop9dTmVNf1t3QS60nqRGV9GCzsZ792yd7mFY_pjvgfufOK9D-oQJdxP4ZtrXiyeq08KNUBv3-mhQ_KCiCOMWIbeQpCAyF_h4lMZw54T0l9AcDdGf6aRptXAZJNcU/s1600/last.jpg"
-    },
-    {
-      "title": "Google Hit With $463 Million Fine for EU Location Data Rule Breach",
-      "link": "https://www.securityweek.com/google-hit-with-463-million-fine-for-eu-location-data-rule-breach/",
-      "description": "Google has been fined 403 million euros ($463 million) for breaching the European Union’s strict privacy rules because it mishandled users’ location data. The post Google Hit With $463 Million Fine for EU Location Data Rule Breach appeared first on SecurityWeek.",
-      "pubDate": "2026-09-21T17:19:53.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/07/Google.jpeg"
     },
     {
       "title": "Contagious Interview Campaign Compromises 30,000 Devices, Steals $10.71M in Crypto",
@@ -575,24 +602,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-xFiujwBJLdl6_4wZSMCWdeyCgev2EqszOLkIJ5I9Kbanu6YNmQ36nM615XmLQ-sq2aqldOHfl47jaMNRtDd80RT8k5f6I7eQuszf7wsIg49sEdMW36hsEKUtVUkZabRlGvvDxn7H7COmRCV8qP2pzQm9LNo5QKRnnptxmxTlJ8BMcPxuiqdaMjn-are0/s1600/it-services.jpg"
-    },
-    {
-      "title": "Claude Opus 5 Helped Researchers Take Over OpenAI Staff Accounts via Chained Flaws",
-      "link": "https://thehackernews.com/2026/09/claude-opus-5-helped-researchers-take.html",
-      "description": "Three researchers at the security firm Hacktron used Anthropic's Claude Opus 5 to chain two flaws and take over the ChatGPT and Codex accounts of several OpenAI employees, then reach an internal OpenAI code repository. The chain began with a bug in the software that runs OpenAI's public help forum and moved through a weakness in OpenAI's own login system. This was security research,",
-      "pubDate": "2026-09-19T18:36:53.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhAElV4rXwWf_kTjj5e0UJFsEG-a0B7MUsCFqhFLYEA76kk2A7UeXbaG0DfRt-Syf7dxx4bHUanr0lVvwIUFyFgtPIfhyphenhyphenx61ccuo3oDZr6-wKROoEAVWjrAcKWuZ5WdlvL_pmKC91i9juBrsnI3FiLTGGgjnnJRAnjTgAxAbMjcbCTxZSWybZPPtG8HN1E/s1600/claude-openai.jpg"
-    },
-    {
-      "title": "Can You Prove a New CVE Is Exploitable Before Attackers Do? Learn How in This Webinar",
-      "link": "https://thehackernews.com/2026/09/can-you-prove-new-cve-is-exploitable.html",
-      "description": "A new CVE drops. Your scanner finds it. The severity score looks ugly. But that still does not answer the question that matters: Can it actually be exploited in your environment? Mythos-class AI is compressing the time between disclosure and working exploitation, while many security programs still validate risk on weekly or quarterly cycles. The dangerous gap is no longer just technical. It is",
-      "pubDate": "2026-09-19T13:28:48.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVgJqM9WZF6u_WZBeTJKqe35CDnh_4kxjLjZa3w63XbqfKBRNUENbTh5HGVrgYUGtmLRW9Px3GGzNcewMJWzd7CRxsk66eY1D70or8gasHUroPNdbUJ6ordqjxb7s8gKqQwuyWxCWC2BT0Matusn6PLXV9xus1PlqqqD3JITL_Unxt2xP8UK6zlX9Tmr0A/s1600/cves.jpg"
     },
     {
       "title": "Friday Squid Blogging: On Squid Egg Sacs",
@@ -1475,15 +1484,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template.jpg"
-    },
-    {
-      "title": "Swimming Pools, Pee, and Trying to Delete Your Data From the Internet",
-      "link": "https://www.troyhunt.com/swimming-pools-pee-and-trying-to-delete-your-data-from-the-internet/",
-      "description": "I can't recall if someone else originally came up with this saying or if I said it in some off-the-cuff comment and it just propagated, but since it's often attributed back to me, I'll relay it here regardless: Trying to delete yourself",
-      "pubDate": "2026-07-03T06:52:41.000Z",
-      "source": "Troy Hunt",
-      "category": "opinion",
-      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/image.jpg"
     },
     {
       "title": "Strengthening authentication with passkeys: A CISO playbook",
