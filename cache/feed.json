@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T17:55:53.360Z",
+  "generatedAt": "2026-09-23T21:19:26.766Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -26,6 +26,78 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltda974ba76f654ef0/6aac1f1d223abe7f12c99357/drve-dec2026.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "EDR Evasion Stack Helps Process Injection Slip Past Defenses",
+      "link": "https://www.darkreading.com/endpoint-security/edr-evasion-stack-helps-process-injection-slip-past-defenses",
+      "description": "A process parameter-poisoning technique evades EDR by injecting code into process initialization structures without using the Windows APIs that EDR tools typically watch out for.",
+      "pubDate": "2026-09-23T21:03:01.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt5729777b5599bc1e/6ab427662474c510d68cbd53/special_agent_dark_corridor-Kemter-GettyImages-503113022.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "GitLab Email Addresses Can Be Weaponized for Supply Chain Attacks",
+      "link": "https://www.darkreading.com/application-security/gitlab-email-addresses-supply-chain-attacks",
+      "description": "Incoming email addresses automatically assigned to each user on the platform contain highly privileged access tokens that attackers can use.",
+      "pubDate": "2026-09-23T20:53:38.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Check Point warns of hackers exploiting Security Gateway VPN RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/check-point-warns-of-hackers-exploiting-security-gateway-vpn-rce-flaw/",
+      "description": "Cybersecurity company Check Point has confirmed active exploitation of CVE-2026-85102, a pre-authentication remote code execution (RCE) vulnerability in the VPN certificate-handling functionality of its Security Gateway product. [...]",
+      "pubDate": "2026-09-23T19:53:54.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/23/Check-Point.jpg"
+    },
+    {
+      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin",
+      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
+      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU DecoderIonQ Says Sin appeared first on SecurityWeek.",
+      "pubDate": "2026-09-23T19:32:49.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/quantum.jpg"
+    },
+    {
+      "title": "Hackers start exploiting critical WordPress flaw for code execution",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
+      "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
+      "pubDate": "2026-09-23T18:31:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/03/WordPress.jpg"
+    },
+    {
+      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
+      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
+      "description": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
+      "pubDate": "2026-09-23T18:06:30.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
+    },
+    {
+      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
+      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
+      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek.",
+      "pubDate": "2026-09-23T18:05:58.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/05/AI-Hallucinations.jpg"
+    },
+    {
+      "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
+      "link": "https://thehackernews.com/2026/09/a-leaked-gitlab-issue-email-address.html",
+      "description": "The private email address GitLab gives you for filing issues by email is a credential. Anyone who gets it can email a patch that GitLab commits in your name, to any branch you can push to, including main, and can start CI/CD jobs that run as you. GitLab shows each user this address behind a button labeled \"Email work item to this project.\" Mail sent to it opens an issue in that project, authored",
+      "pubDate": "2026-09-23T16:53:10.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaHKzSxkk0R4wjlziQHsR5vS1s1mTJovZkES9XL9nn5VLYiM55XuJoiGP9cugwNUOBMEMG3NrW3iBL9cVOqfp0F-9roYS7K7R5w8t3_NJr61_2_XgRNltvjXBFoGLfQPQFhUk0ju_mMCRCqJHjr76BrbngafAtElKkD-LZWZ7uUcY82i8PAMKh0ljHJQI/s1600/gitlab-email.jpg"
     },
     {
       "title": "Malicious AI agents steal 600K credit cards, infect 100+ sites with skimmers",
@@ -289,15 +361,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/06/18/F5.jpg"
     },
     {
-      "title": "ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report",
-      "link": "https://www.securityweek.com/shinyhunters-claims-fbi-hack-demands-retraction-of-threat-report/",
-      "description": "The cybercrime group is unhappy with its description in an FBI report and threatens to leak stolen information. The post ShinyHunters Claims FBI Hack, Demands Retraction of Threat Report appeared first on SecurityWeek.",
-      "pubDate": "2026-09-23T07:13:49.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/data-leak.jpeg"
-    },
-    {
       "title": "Critical Next.js ImageResponse Flaw Can Lead to Server Code Execution via Crafted SVG Input",
       "link": "https://thehackernews.com/2026/09/critical-nextjs-imageresponse-flaw-can.html",
       "description": "A new security vulnerability in Next.js could allow attackers to run code on a server via ImageResponse, the feature that generates Open Graph and other social preview images, Vercel said. The risk applies when an app puts values an attacker controls, such as text read from the request URL, into the image. Vercel, which develops Next.js, fixed the flaw on September 22 in version",
@@ -305,15 +368,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhBxfEfPNHZcocTp156lW-VbOENuCxmLM_7xUUY5QWEppPDsL04KhbN7yaT52b_XTCXW6ensPqjF8QBXuQWUgna8jerFExtxAfkCd4NqOGcQwUn8088DU87PMD7cgYhQ-dY2_xFdwPyaKU-kD9HBx_YcjAzvzwEQzLoKUu1cRRpOT5A1luhBCE6e6ChORw/s1600/next.jpg"
-    },
-    {
-      "title": "Check Point Patches Exploited Management Server Zero-Day",
-      "link": "https://www.securityweek.com/check-point-patches-exploited-management-server-zero-day/",
-      "description": "The critical-severity flaw could allow unauthenticated attackers to upload and execute arbitrary scripts. The post Check Point Patches Exploited Management Server Zero-Day appeared first on SecurityWeek.",
-      "pubDate": "2026-09-23T06:14:03.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/Check-Point-Software.jpg"
     },
     {
       "title": "ShinyHunters Claims FBI Breach, Says It Stole Data on Agents and Job Applicants",
@@ -358,7 +412,7 @@
       "pubDate": "2026-09-22T21:12:37.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6d51b19d4c1fd6ff/6ab2e505f707d04dc9ded8c1/proxy_Josie_Elias_shutterstock.jpg?width=720&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt74d88c8c5a1d995f/6ab4237757365f832ef41284/proxy_Josie_Elias_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "How the CISO-CMO Alliance Builds Trust Before Crisis Strikes",
@@ -478,15 +532,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
     },
     {
-      "title": "Check Point warns of Management Server zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/check-point-patches-management-server-zero-day-exploited-in-attacks/",
-      "description": "Check Point Software released emergency hotfixes to address a critical Security Management Server vulnerability that could let attackers run arbitrary scripts. [...]",
-      "pubDate": "2026-09-22T16:32:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/18/Check-Point.jpg"
-    },
-    {
       "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
       "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
       "description": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
@@ -494,15 +539,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
-    },
-    {
-      "title": "EvilTokens PhaaS disrupted after compromising 12,000 Microsoft accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/eviltokens-phaas-disrupted-after-compromising-12-000-microsoft-accounts/",
-      "description": "The EvilTokens platform that compromised more than 12,000 Microsoft accounts at over 10,000 organizations has been disrupted in an effort led by Microsoft's Digital Crimes Unit (DCU). [...]",
-      "pubDate": "2026-09-22T15:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/22/phishing.jpg"
     },
     {
       "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -593,24 +629,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjaN7aXt0PoPdZQ_VG77wkwdIyNugcdkFD6MnMvlj5LN_byw2ZrX8-gtpDld4CviuW1MOhHiElsvFtIkO9IfhBr4af-sJwM1zvR-RFICRll4G5jG4JNPX1vx4sup3omlw8uTJgro9UUfzecLMI1Whls3ihqZ9OXYJliIBjhpoodf4WI9j1lA6EUjms7x1pG/s1600/rth.jpg"
-    },
-    {
-      "title": "SideCopy Broadens India Targeting to Academia With ReverseRAT Spear-Phishing",
-      "link": "https://thehackernews.com/2026/09/sidecopy-broadens-india-targeting-to.html",
-      "description": "The threat actor known as SideCopy has been observed using spear-phishing lures to target academic institutions in India, expanding their strategic focus beyond government entities. \"SideCopy campaign operations typically initiate through spear-phishing campaigns that leverage the abuse of mshta.exe to execute malicious scripts and circumvent standard security protocols,\" Trellix researchers",
-      "pubDate": "2026-09-22T07:52:03.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVXTuBFDgZyaNFTznwdu5HXSKuVHU5xpM7JDvXP_Ra-68CsYd68bb6xMWPXbjmsM5oO211hZgzIN0NENk_cMBZZpL88LMsIaNkfSEpIWRRzyjRt7Ke6ZMeUXvIKcH3ncgDouKN8FGuunAFQFMolel0GgTBm1lzdVDH28WpWFUCI4Fvl9ju0q4Vv0S55PVx/s1600/word-school.jpg"
-    },
-    {
-      "title": "One Hidden Meta Muse Setting Could Let Attackers Turn the AI Assistant Into a Backdoor",
-      "link": "https://thehackernews.com/2026/09/one-hidden-meta-muse-setting-could-let.html",
-      "description": "Malware already running on a Mac can quietly take over Meta's Muse assistant and use the broad access its owner granted the app, security researcher Patrick Wardle has shown in a proof-of-concept released on September 21. It works by changing a hidden setting so that when the user taps the microphone and dictates a prompt, the words go to the attacker instead of Meta. The flaw is in",
-      "pubDate": "2026-09-22T06:33:57.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjZLVTtI-AEbGRQqJ7aGa0tbXedD5L6P7VCEKIOGXOBZe7S3mhA-PnoHVEoZf3LBMzhcZSIX5sCTveGyZ-8qAqyAVaMXfEoxPL70OIESq-Iolqjkv8GuDjcVs1Jgh3k3SoOOGPDWFr6Lmk83avLqG1whcaiDclv5waXYhCuEqXk569wfwV8Ilrmvv3IKE/s1600/muse.jpg"
     },
     {
       "title": "How AI Agents Can Trigger Runaway Costs for Enterprises",
@@ -817,7 +835,7 @@
       "pubDate": "2026-09-17T05:00:00.000Z",
       "source": "CrowdStrike Blog",
       "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+      "image": null
     },
     {
       "title": "Smashing Security podcast #485: These researchers got drunk to hack an LG TV",
@@ -847,15 +865,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt0469f94bd17817ff/6642699959fdc64aa5f9c5fa/dark-reading-confidential-logo-sq.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "BragJack Attack Can Turn a Browser's Agentic AI Against It",
-      "link": "https://www.darkreading.com/endpoint-security/bragjack-browser-agentic-ai",
-      "description": "A new type of attack hijacks the AI assistant built directly into various browsers to access sensitive information, execute malicious actions, and exfiltrate data.",
-      "pubDate": "2026-09-16T16:43:37.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt64d615142d7be882/6882572f618f869f048e5227/Agentic_AI_(1800)_Pattara_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Fake CAPTCHA Scams",
       "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
       "description": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
@@ -881,15 +890,6 @@
       "source": "CrowdStrike Blog",
       "category": "research",
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Cyber Op Targets South Korean Media &amp; Automotive Sectors",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cyber-south-korean-media-automotive",
-      "description": "A likely North Korean advanced persistent threat (APT) group used a previously undocumented Linux espionage toolkit to compromise load balancers, gain access to communications, and further exploit networks.",
-      "pubDate": "2026-09-16T01:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd024a0beb5b45fd6/6aa9b79b31811693de070eeb/dprk-rok-tech-security-QQMinh88-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "25 Years of Mass Surveillance Is Enough",
