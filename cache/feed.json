@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T14:19:46.537Z",
+  "generatedAt": "2026-09-24T18:35:44.762Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Exposed GitLab project email addresses let attackers push code",
+      "link": "https://www.bleepingcomputer.com/news/security/exposed-gitlab-project-email-addresses-let-attackers-push-code/",
+      "description": "Private GitLab email addresses that allow developers to push issues or tasks to a project are being deliberately exposed in READMEs, contributing guides, and support pages used to collect bug reports. [...]",
+      "pubDate": "2026-09-24T17:47:44.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2024/05/01/GitLab.jpg"
+    },
+    {
+      "title": "Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/beyond-ransomware-tracking-storm-2570-consistent-tradecraft-across-deployments/",
+      "description": "Storm-2570 is a ransomware affiliate that uses consistent post-compromise tools and techniques across deployments involving Qilin, DragonForce, Anubis, and BERT ransomware, and provides guidance to help defenders detect and disrupt this activity before ransomware deployment. The post Beyond the ransomware: Tracking Storm-2570’s consistent tradecraft across deployments appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Fig1-Storm-2570-ransomware-deployment-timeline.webp"
+    },
+    {
+      "title": "​​​​​​​​What’s new in Microsoft Security: September 2026​​",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/24/whats-new-in-microsoft-security-september-2026/",
+      "description": "This month's updates help you discover and control local AI agents, extend Zero Trust to agent traffic, and strengthen SOC foundations. The post ​​​​​​​​What’s new in Microsoft Security: September 2026​​ appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-09-24T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/Picture1-2.webp"
+    },
+    {
+      "title": "Kontext Security Emerges With $4 Million for AI Agent Runtime Controls",
+      "link": "https://www.securityweek.com/kontext-security-emerges-with-4-million-for-ai-agent-runtime-controls/",
+      "description": "The startup’s runtime enforcement platform evaluates AI agents in real time to provide visibility and control over their actions. The post Kontext Security Emerges With $4 Million for AI Agent Runtime Controls appeared first on SecurityWeek.",
+      "pubDate": "2026-09-24T15:52:00.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/12/cyber-security-investment.jpeg"
+    },
+    {
+      "title": "Placeholder third-party[.]com Referenced Across 1,700+ Repositories Now Serves Malicious Content",
+      "link": "https://thehackernews.com/2026/09/placeholder-third-partycom-referenced.html",
+      "description": "The \"third-party[.]com\" domain, commonly used as a documentation placeholder, has been observed serving a ClickFix lure to Windows browsers while displaying a harmless decoy to other users. \"third-party[.]com has been a generic documentation placeholder for years, the same role example.com plays,\" Manifold Security's Head of Research, Ax Sharma, said. \"Unlike 'example[.]com,' third-party[.]com",
+      "pubDate": "2026-09-24T15:27:32.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhy4aXDWSC5cKzOZO8lRbk8o5I1fHPlCGbfxxYL6tyJxauEL-8EVj7-AypDhYt_Wg6bDLqlj0UK4LrGJdeI4ChsksaB6tTZxo8ikCLdwC0wjRfJPE_Z1qM_CVUg7s1ORdmWW2XTDtlPPDcI8JvelrbmJhcjVthnqYWQrZ7ySnIMMPRZfa_VzgaBCWyWc_JJ/s1600/third.jpg"
+    },
+    {
+      "title": "3 Cyber Threats That Defined the Summer of 2026",
+      "link": "https://www.darkreading.com/cyberattacks-data-breaches/3-cyber-threats-defined-summer-2026",
+      "description": "This installment of the Reporters' Notebook video series discusses the impact of AI agents breaching Hugging Face, Fairlife's ransomware attack, and Iranian-linked threat actors compromising a dozen US water systems. It was a busy summer.",
+      "pubDate": "2026-09-24T14:44:12.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltcaceb4dbae83cc73/6ab2a824f707d014a4ded803/GettyImages-2212090355.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data",
+      "link": "https://www.securityweek.com/openai-agents-probed-websites-for-vulnerabilities-while-fetching-public-data/",
+      "description": "Australia disclosed that an OpenAI agent gained unauthorized access to non-public government information. The post OpenAI Agents Probed Websites for Vulnerabilities While Fetching Public Data appeared first on SecurityWeek.",
+      "pubDate": "2026-09-24T14:43:13.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/AI-artificial-intelligence.webp"
+    },
+    {
+      "title": "Hacked Ukrainian Sites Serve Fake Cloudflare ClickFix Lures for Psychedelic Stealer",
+      "link": "https://thehackernews.com/2026/09/hacked-ukrainian-sites-serve-fake.html",
+      "description": "An active ClickFix campaign has been observed compromising legitimate Ukrainian business websites to inject bogus Cloudflare verification pages and trick victims into downloading a previously undocumented information stealer called Psychedelic. \"When a visitor interacts with the page, the lure copies a Windows Installer command to the clipboard and instructs the visitor to paste it into the",
+      "pubDate": "2026-09-24T14:29:06.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh1xvw3iNKwWUngfdShXBAPKrbRDMZSCQ3_FdiHNKvwrLkip9fUiikko0FKN-cfgzBIgkLvKDR9xIlnfEZVQgHgOW2qTz8Pd4Ur0-DCYdUssgN_9vglgxRU6u5ZRK_FlQYmgV_sbv8pfA1YnSJcojUOhWC-7lkPbA07An_X-vNHmZ8xT2Okq9HiRfTBVt1h/s1600/UK-CLICK.jpg"
+    },
     {
       "title": "How to Build A SASE Framework for Modern Cybersecurity",
       "link": "https://www.darkreading.com/cloud-security/how-to-build-sase-framework",
@@ -244,6 +316,15 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg"
     },
     {
+      "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
+      "description": "",
+      "pubDate": "2026-09-24T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "Smashing Security podcast #486: Vibe-coded shops, and hackable Flock cameras",
       "link": "https://grahamcluley.com/smashing-security-podcast-486/",
       "description": "A store in Auckland vibe-coded itself a new website. Within hours, its inventory had somehow expanded to include a pair of crusty socks, an $850 banana, and all of New Zealand's national parks. What could possibly have gone wrong? Meanwhile, a hacker collective backed a truck into one of the license-plate-reading Flock safety cameras popping up on American street corners, and took a very close look inside. All this and more in episode 486 of the \"Smashing Security\" podcast with cybersecurity expert and keynote speaker Graham Cluley, and special guest Dave Bittner.",
@@ -307,15 +388,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2026/07/23/Check-Point.jpg"
     },
     {
-      "title": "IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder",
-      "link": "https://www.securityweek.com/ionq-targets-quantum-error-correction-bottleneck-with-single-cpu-decoderionq-says-sin/",
-      "description": "IonQ’s new single processor quantum error decoder minimizes the classical computing overhead in quantum error correction. The post IonQ Targets Quantum Error-Correction Bottleneck With Single-CPU Decoder appeared first on SecurityWeek.",
-      "pubDate": "2026-09-23T19:32:49.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/08/quantum.jpg"
-    },
-    {
       "title": "Hackers start exploiting critical WordPress flaw for code execution",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-start-exploiting-critical-wordpress-flaw-for-code-execution/",
       "description": "Threat actors have moved from probing WordPress sites vulnerable to CVE-2026-87902 to exploiting the flaw to write files to disk that execute shell commands when accessed. [...]",
@@ -332,15 +404,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
-    },
-    {
-      "title": "Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios",
-      "link": "https://www.securityweek.com/worries-about-an-ai-internet-takeover-gain-new-urgency-among-doomsday-scenarios/",
-      "description": "The idea that AI could break away and work toward its own agenda is looking increasingly plausible to researchers and experts. The post Worries About an AI Internet Takeover Gain New Urgency Among Doomsday Scenarios appeared first on SecurityWeek.",
-      "pubDate": "2026-09-23T18:05:58.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/05/AI-Hallucinations.jpg"
     },
     {
       "title": "A Leaked GitLab Issue Email Address Lets Anyone Push Code and Run CI Jobs as You",
@@ -476,15 +539,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh_ytuRh_WTu4R3TBnroGXO6IUgATMIi9vgx8DA7j0JJ0e_cTfAjlUIS6zAjb2q9EPdTI8gLwby7r2fijYkH83j2SwisKf-ANFKr6YTdwAHeds99dYrng0QN3nmkqDtIvSHoK8m47e_V0x01B0PuzIezcqtnc2VZlUCVYErOkaKQF7pbk0l35uLwmTl8Is1/s1600/CLAUDE-CHATGPT.jpg"
-    },
-    {
-      "title": "Microsoft: September Windows updates break Always On VPN connections",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-windows-updates-break-always-on-vpn-connections/",
-      "description": "Microsoft warned that the September 2026 security updates may also break Always On VPN connections on some Windows 11 systems. [...]",
-      "pubDate": "2026-09-23T11:18:13.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Windows-headpic.jpg"
     },
     {
       "title": "Exploit Released for Unpatched Ubuntu Linux Flaw Enabling Host-Root Container Escape",
@@ -629,24 +683,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyLwFD0zZ8OEPo1dkZ0Tz87aOYoCklNQODjV4MMj90RNo6hRh9rGuJmFQBx5igj0gT1CabBEkSERWh7w_VdfZWpfs6BaJmEMc0KN9nIJXtxpYUINf1alSW9K2whcD9MXF4CaCWAKLJRJQlI51aqGtdpbpbdiX7WjpjTUxDvNgb0gc4qtmuZLat8-lGSFhu/s1600/ms-eviltokens.jpg"
-    },
-    {
-      "title": "Critical Bifrost AI Gateway Flaw Lets Attackers Run Commands Without Credentials",
-      "link": "https://thehackernews.com/2026/09/critical-bifrost-ai-gateway-flaw-lets.html",
-      "description": "A critical vulnerability in Bifrost, an open-source AI gateway that routes requests to more than 20 LLM providers, allows an unauthenticated attacker to run arbitrary commands on the gateway server with a single HTTP request. The flaw, tracked as CVE-2026-90898 (CVSS score: 9.8), affects all versions of the Bifrost HTTP transport before 2.1.0 when management authentication is",
-      "pubDate": "2026-09-22T16:41:12.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEieRvfWKvxkIOajVIJ1qC7l54ZBCtHMwZTfUHGqSZ_35vGzAl23py6GfaqrxYkcfWZ_K75t9BGC6btqJQiS9jwaV7O4kJsCSIIQxmn9VnZrBbdjxSN4AzQ05K9G-ES82qV1G6IUcsBetsb0mVO5e5IHTr2FyAA3gtCN8Vne5N1H5Swgd2FLLlwi0GXFQ0o/s1600/bifrost.jpg"
-    },
-    {
-      "title": "Researcher Drops BigDiskBuster Zero-Day PoC That Blocks Microsoft Defender Updates",
-      "link": "https://thehackernews.com/2026/09/researcher-drops-bigdiskbuster-zero-day.html",
-      "description": "A zero-day proof-of-concept tool that stops Microsoft Defender from installing platform and signature updates by filling all available disk space was published on GitHub on September 19. The tool, called BigDiskBuster, has no patch, no CVE, and no Microsoft advisory. Its author, Abdelhamid Naceri, is a former Microsoft security researcher whose earlier Defender exploits were used in",
-      "pubDate": "2026-09-22T16:14:04.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgf-fkqiHh6b0UEKMHUcsG54QVwJxghIbQLMNWeEG5LWKfUsicLMxisz4Mi8lXdfTdwVYDFpIrCFj5D7-JXXynq8lWhnNn1rJH2t8mgKUeZ4WMePwZktZRnIe2549JW3VXc2HYD9qpsvO8He0J0zCyAzsaRxWtiP46RSrd7jt4QnzKACJhfWnkmyWcFcQs/s1600/ms-def.jpg"
     },
     {
       "title": "Unmasking EvilTokens: Getting to the root of device code phishing",
@@ -818,15 +854,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/01_Myth-Busting_Overview_1920x900_Resized.jpg"
-    },
-    {
-      "title": "CISA Ditches Weekly Vulnerability Roundups for Risk-Based Focus",
-      "link": "https://www.darkreading.com/cyber-risk/cisa-ditches-weekly-vuln-roundups-risk-based-focus",
-      "description": "The move is consistent with the agency's advice on the need for organizations to prioritize the vulnerabilities that actually matter.",
-      "pubDate": "2026-09-17T21:23:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltff913968a26e2946/6aac4af4108059de52c02196/cisa_Jack_the_sparow_shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "From guidance to action: Security fundamentals that materially reduce risk",
@@ -1090,24 +1117,6 @@
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/IMVwUjeqbeQP8.png"
     },
     {
-      "title": "How to secure edge AI in customer-owned environments",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/04/secure-edge-ai-customer-owned-environments/",
-      "description": "As AI moves into customer-owned environments, organizations need new ways to verify the systems, software, and AI assets they trust before releasing sensitive data, credentials, and models. The post How to secure edge AI in customer-owned environments appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-09-04T19:10:10.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-31.webp"
-    },
-    {
-      "title": "ASCII smuggling crosses over from AI prompt injection to phishing evasion",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/03/ascii-smuggling-crosses-over-from-ai-prompt-injection-to-phishing-evasion/",
-      "description": "Invisible Unicode characters popularized for hiding instructions from AI models are now being used to obfuscate words before email filters parse them. The post ASCII smuggling crosses over from AI prompt injection to phishing evasion appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-09-03T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-7.webp"
-    },
-    {
       "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
       "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
       "description": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America appeared first on Unit 42.",
@@ -1182,15 +1191,6 @@
     {
       "title": "CrowdStrike Falcon Guardian Defines the Next Generation of AI Security",
       "link": "https://www.crowdstrike.com/en-us/blog/falcon-guardian-defines-next-generation-of-ai-security/",
-      "description": "",
-      "pubDate": "2026-09-01T04:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
-      "title": "Peer Pressure: Inside the Sality Botnet Disruption Operation",
-      "link": "https://www.crowdstrike.com/en-us/blog/inside-sality-botnet-disruption-operation/",
       "description": "",
       "pubDate": "2026-09-01T04:00:00.000Z",
       "source": "CrowdStrike Blog",
