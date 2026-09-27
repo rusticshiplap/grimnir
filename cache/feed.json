@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T10:55:56.698Z",
+  "generatedAt": "2026-09-27T23:52:59.890Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,6 +19,42 @@
   ],
   "items": [
     {
+      "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
+      "description": "OpenAI is testing a new always-on assistant called \"o\", and references to the unannounced feature briefly showed up on the company's website. [...]",
+      "pubDate": "2026-09-27T23:40:39.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg"
+    },
+    {
+      "title": "Citrix confirms two NetScaler RCE zero-days exploited in attacks",
+      "link": "https://www.bleepingcomputer.com/news/security/citrix-admins-warned-to-shut-down-netscalers-over-2-exploited-zero-days/",
+      "description": "Citrix has confirmed that two critical NetScaler remote code execution vulnerabilities, tracked as CVE-2026-88771 and CVE-2026-88772, are being exploited in attacks and that it has released security updates to fix the flaws. [...]",
+      "pubDate": "2026-09-27T16:02:37.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg"
+    },
+    {
+      "title": "Cloudflare fixes Containers cross-tenant flaw exposing customer data",
+      "link": "https://www.bleepingcomputer.com/news/security/cloudflare-fixes-containers-cross-tenant-flaw-exposing-customer-data/",
+      "description": "Cloudflare has fixed a vulnerability in Containers and Sandboxes that allowed customers with a Workers Paid account to recover residual data from other customers' containers on the same physical host. [...]",
+      "pubDate": "2026-09-27T14:13:31.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/11/02/cloudflare.jpg"
+    },
+    {
+      "title": "Anthropic turns Claude into an AI marketplace with 2,000+ plugins and connectors",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-turns-claude-into-an-ai-marketplace-with-2-000-plus-plugins-and-connectors/",
+      "description": "Anthropic has just announced a new Claude Marketplace, and it brings all AI-related tools into one place, including plugins, connectors, agents, and more. [...]",
+      "pubDate": "2026-09-27T13:38:40.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/02/13/Claude_chats.jpg"
+    },
+    {
       "title": "Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks",
       "link": "https://www.securityweek.com/microsoft-sharepoint-flaw-cve-2026-65660-now-exploited-in-attacks/",
       "description": "CISA added CVE-2026-65660 to its KEV catalog, giving federal agencies a patching deadline of September 28. The post Microsoft SharePoint Flaw CVE-2026-65660 Now Exploited in Attacks appeared first on SecurityWeek.",
@@ -30,7 +66,7 @@
     {
       "title": "Warning: Two Unpatched Citrix NetScaler RCE Zero-Days Under Active Exploitation",
       "link": "https://thehackernews.com/2026/09/warning-two-unpatched-citrix-netscaler.html",
-      "description": "Two new unpatched zero-day vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway appliances that allow remote code execution are being actively exploited in the wild, security firm watchTowr said on September 26. Citrix has not confirmed the flaws or published a fix. Some administrators say they have taken appliances offline rather than wait for one to be available. NetScaler ADC and",
+      "description": "Two critical vulnerabilities in Citrix NetScaler ADC and NetScaler Gateway that allow remote code execution have been exploited in the wild, Citrix confirmed on September 27. It released fixes for both, along with six other flaws. One of the two affects every deployment on an affected version, including those in the default configuration. The bulletin came a day after security firm watchTowr",
       "pubDate": "2026-09-27T07:47:57.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -199,6 +235,15 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/12/10/hacker-box.jpg"
     },
     {
+      "title": "How the CISO CFO Relationship is a Key to Cybersecurity Success",
+      "link": "https://www.darkreading.com/cyber-risk/how-to-manage-ciso-cfo-relationship-cybersecurity-success",
+      "description": "Building a financial bridge: Organizations where CISOs and CFOs align on cybersecurity strategy to protect assets, manage risk and enable business growth are better prepared to face today's threat landscape.",
+      "pubDate": "2026-09-25T20:28:10.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1682014f9a4fac6c/6762e3fbfe28e22e7d279cce/CFO_(1800)_Dzmitry_Skazau_Alamy.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
       "title": "AI Sandbox Escapes: Why Forensic Readiness Matters More Than Containment",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/ai-sandbox-escapes-forensic-readiness",
       "description": "When autonomous AI agents \"escape the sandbox,\" the real story isn't rogue machines — it's the same access-control failures we've seen for decades.",
@@ -271,15 +316,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg"
     },
     {
-      "title": "With the Rise of AI Agents, SOC 2 Should Adapt or Risk Irrelevance",
-      "link": "https://www.bleepingcomputer.com/news/security/with-the-rise-of-ai-agents-soc-2-should-adapt-or-risk-irrelevance/",
-      "description": "AI agents can operate through human credentials and take actions that existing SOC 2 controls may not distinguish from human activity. Token Security explains why SOC 2 needs to adapt to address the security gaps created by agent identities. [...]",
-      "pubDate": "2026-09-25T14:51:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/09/25/token-security-doors.jpg"
-    },
-    {
       "title": "Stopping IT Worker Scams Requires Revamped HR Process",
       "link": "https://www.darkreading.com/cyber-risk/stopping-it-worker-scams-revamped-hr-process",
       "description": "Training human-resource managers in the latest tactics and warning signs goes a long way toward blunting the threat, but automated analysis can help even more.",
@@ -316,15 +352,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
     },
     {
-      "title": "Microsoft plans to deprecate Windows Deployment Services",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-to-deprecate-windows-deployment-services-after-windows-server-2025/",
-      "description": "Microsoft announced it will deprecate the Windows Deployment Services (WDS) server role starting with the next Windows Server release. [...]",
-      "pubDate": "2026-09-25T12:40:59.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/15/Windows_Server.jpg"
-    },
-    {
       "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
       "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
       "description": "Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July. The post CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks appeared first on SecurityWeek.",
@@ -341,15 +368,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2025/07/plead-guilty-hacker-court.jpeg"
-    },
-    {
-      "title": "Rydox marketplace admin pleads guilty, faces 22 years in prison",
-      "link": "https://www.bleepingcomputer.com/news/security/rydox-marketplace-admin-pleads-guilty-faces-22-years-in-prison/",
-      "description": "A Kosovar national has pleaded guilty to operating Rydox, a large illegal online marketplace that sold stolen personal information, login credentials, credit card details, and cybercrime tools. [...]",
-      "pubDate": "2026-09-25T11:35:14.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/25/Hacker-prison.jpg"
     },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -386,15 +404,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgpydVf-1UN81MyiMH8sAYBd4xiIBuM52UV7kyWmhhBlqohwuaFwgnP5wVx35gG3dHMWrtw0aoPh2zPLW-NaUI4qc_nmpybfA87lo6bzZmLb4WXnpNkYyEYEYMk7kaHeKH4G01yOeEBm44R8a7uAQmabg1k2pEd7MBRp9FM4QN4uA3rsXxkAfuKLWBUxQd_/s1600/bitget.jpg"
-    },
-    {
-      "title": "Microsoft: Recent Windows updates cause desktop loading issues",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-recent-windows-updates-cause-desktop-loading-issues/",
-      "description": "Microsoft has confirmed that some users may experience desktop loading issues, including black screens, after installing the August 2026 preview updates and subsequent updates. [...]",
-      "pubDate": "2026-09-25T10:30:38.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/14/Windows-11.jpg"
     },
     {
       "title": "Roundcube Pre-Auth SQL Injection Flaw Actively Exploited in the Wild",
@@ -827,15 +836,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8e0bef42c03290a5/6ab183286295de5dae48dbb1/horses_running-winhorse-GettyImages-157523740.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Cybercriminals Are Hiding New Malware in Torrents for Popular Films",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/cybercriminals-hiding-new-malware-torrents-popular-films",
-      "description": "Victims have been identified in Africa, including in Kenya and Uganda.",
-      "pubDate": "2026-09-21T19:11:26.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
     },
     {
       "title": "Reverse-Engineering Flock Cameras",
