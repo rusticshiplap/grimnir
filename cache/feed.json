@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T23:52:59.890Z",
+  "generatedAt": "2026-09-28T11:10:19.451Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,114 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "New Attack Against RSA",
+      "link": "https://www.schneier.com/blog/archives/2026/09/new-attack-against-rsa.html",
+      "description": "ArsTechnica is reporting on a “new” attack against RSA, one that bypasses factoring. First, this attack isn’t new. The original research is from 2007. What is new is the implementation. Second, it is a forgery attack. It allows an attacker to forge digital signatures. It does not recover the private key from the public key. Third, the attack only works against pure signatures. That is, signatures without any formatting or padding. This is not generally how we use RSA in practice. Fourth, speed is all relative. This is not a polynomial-time algorithm; it’s a subexponential-time algorithm. But i",
+      "pubDate": "2026-09-28T11:02:58.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign",
+      "link": "https://www.securityweek.com/google-warns-of-shinyhunters-fresh-oracle-peoplesoft-campaign/",
+      "description": "The extortion group has modified its exploit in new attacks targeting the PeopleSoft vulnerability CVE-2026-35273. The post Google Warns of ShinyHunters’ Fresh Oracle PeopleSoft Campaign appeared first on SecurityWeek.",
+      "pubDate": "2026-09-28T10:56:46.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Oracle-PeopleSoft.jpeg"
+    },
+    {
+      "title": "New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections",
+      "link": "https://www.securityweek.com/new-mexico-jury-finds-facebook-liable-for-deceiving-users-about-privacy-protections/",
+      "description": "A New Mexico jury has found Facebook liable for deceiving users about privacy protections on the platform. The post New Mexico Jury Finds Facebook Liable for Deceiving Users About Privacy Protections appeared first on SecurityWeek.",
+      "pubDate": "2026-09-28T10:40:01.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/01/instagram-facebook-meta-threads-social-media.jpeg"
+    },
+    {
+      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog",
+      "link": "https://www.securityweek.com/nvidia-unveils-ai-agent-safety-platform-with-hardware-based-watchdog/",
+      "description": "The platform combines open source software and a reference system design to keep AI agents within set boundaries. The post Nvidia Unveils AI Agent Safety Platform With Hardware-Based Watchdog appeared first on SecurityWeek.",
+      "pubDate": "2026-09-28T10:27:01.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/Nvidia-AI.webp"
+    },
+    {
+      "title": "Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability",
+      "link": "https://www.securityweek.com/kiteworks-urges-server-shutdown-finds-advanced-forms-vulnerability/",
+      "description": "The company says the measure was precautionary and that it has no evidence of Kiteworks or customer systems being compromised. The post Kiteworks Urges Server Shutdown, Finds Advanced Forms Vulnerability appeared first on SecurityWeek.",
+      "pubDate": "2026-09-28T09:44:27.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/file-transfer-Moveit.jpg"
+    },
+    {
+      "title": "Bitget resumes Bitcoin withdrawals after $387.5 million crypto heist",
+      "link": "https://www.bleepingcomputer.com/news/security/bitget-resumes-bitcoin-withdrawals-after-3875-million-crypto-heist/",
+      "description": "Cryptocurrency exchange Bitget has resumed Bitcoin withdrawals suspended after suspected North Korean hackers breached its systems last week and stole over $350 million. [...]",
+      "pubDate": "2026-09-28T09:25:29.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/28/Bitget.jpg"
+    },
+    {
+      "title": "JADEPUFFER-Linked Attackers Used Compromised Service Principals to Delete Azure Resources",
+      "link": "https://thehackernews.com/2026/09/jadepuffer-linked-attackers-used.html",
+      "description": "The threat actor known as JADEPUFFER has been observed orchestrating destructive actions within a Microsoft Azure environment using compromised service principals. Microsoft, which is tracking the activity under the name Storm-3168, has called it an evolution of the threat actor's tradecraft. The attack took place in early June 2026 over a period of about 18 hours. \"The destructive operations",
+      "pubDate": "2026-09-28T09:08:21.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiHYvL1hsEQjB3x7u-jNflFT0QK3a9IEFse8ghWqV9SxkawlFerAn8pzjfYgztccVleVlLzZcDlOSvu7gqJhHP_XLWL1lqZkeIVCifya8Ohinriqk_o-kpzzdtv4x7NinDhQgWbE9B7yJliuJPGZ2x0qh9jRgkWfyNyPexujdTWpLTbfe7MKRVQT1Z3BAQ9/s1600/azure-ai.jpg"
+    },
+    {
+      "title": "US soldier gets 70 months in prison for extorting 10 tech, telecom firms",
+      "link": "https://www.bleepingcomputer.com/news/security/us-soldier-gets-70-months-in-prison-for-extorting-10-tech-telecom-firms/",
+      "description": "A former U.S. Army soldier has been sentenced to 70 months in prison for hacking and extorting at least 10 U.S. technology and telecommunications companies between April 2023 and December 2024. [...]",
+      "pubDate": "2026-09-28T07:30:15.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/28/Prison.jpg"
+    },
+    {
+      "title": "Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug",
+      "link": "https://www.securityweek.com/citrix-confirms-2-netscaler-zero-days-after-admins-pulled-the-plug/",
+      "description": "Citrix has released patches for the critical NetScaler vulnerabilities tracked as CVE-2026-88771 and CVE-2026-88772. The post Citrix Confirms 2 NetScaler Zero-Days After Admins Pulled the Plug appeared first on SecurityWeek.",
+      "pubDate": "2026-09-28T07:29:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Citrix-vulnerability.jpeg"
+    },
+    {
+      "title": "Weekly Update 523: Live From a Norwegian Fjord",
+      "link": "https://www.troyhunt.com/weekly-update-523/",
+      "description": "How's that view?! With NDC Oslo now done, it's a little bit of sightseeing before heading to Denmark for GOTO in Copenhagen for Scott's and my \"Cyber-broken\" talk. In the meantime, this week is mostly about the ShinyHunters trajectory targeting both",
+      "pubDate": "2026-09-28T07:24:49.000Z",
+      "source": "Troy Hunt",
+      "category": "opinion",
+      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/maxresdefault.jpg"
+    },
+    {
+      "title": "CISA Says Attackers Are Exploiting Two Critical Citrix NetScaler Flaws Globally",
+      "link": "https://thehackernews.com/2026/09/cisa-says-attackers-are-exploiting-two.html",
+      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Sunday added two critical Citrix NetScaler ADC and Gateway flaws to its Known Exploited Vulnerabilities (KEV) catalog, following reports of active exploitation. The vulnerabilities are listed below - CVE-2026-88771 (CVSS score: 9.5) - An improper input validation vulnerability that could allow an unauthenticated attacker to",
+      "pubDate": "2026-09-28T07:21:49.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjG1pBfETB-EOlAvKfZwROp5B3Nr3d00xBbxRPhsq5hDBvK8QTVYmc2r8tR8RNz7omvXWoufetWbVk1S-tZ74b-z0nxsHS_Zz7XnN4Vs7VGvDtlnOhsfG0ecx-LX_kuRwBLJwkIMN-26auGXjzdcAS2Yz8sdQ2U_kDtKpQOnOYD18r6WEu1twQ79p_ZJGhD/s1600/ct.jpg"
+    },
+    {
+      "title": "CISA orders feds to patch exploited Citrix flaws by Wednesday",
+      "link": "https://www.bleepingcomputer.com/news/security/cisa-orders-feds-to-patch-exploited-citrix-flaws-by-wednesday/",
+      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) has ordered U.S. government agencies over the weekend to secure their systems against attacks exploiting two critical Citrix NetScaler vulnerabilities. [...]",
+      "pubDate": "2026-09-28T06:24:19.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/20/Citrix.jpg"
+    },
     {
       "title": "OpenAI is preparing “o,” an always-on ChatGPT assistant that could handle email",
       "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-o-an-always-on-chatgpt-assistant-that-could-handle-email/",
@@ -271,24 +379,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2b2c9d6b9326d649/6ab5930f4df1903bce49b5db/aibots-Gremlin-Getty-1494693841.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "CISA warns of Sharepoint, WSO2, Adobe Commerce flaws exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisa-warns-of-sharepoint-wso2-adobe-commerce-flaws-exploited-in-attacks/",
-      "description": "The Cybersecurity and Infrastructure Security Agency (CISA) warns that hackers are exploiting a critical authentication bypass vulnerability (CVE-2026-5430) affecting multiple products from enterprise software provider WSO2. [...]",
-      "pubDate": "2026-09-25T17:24:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/07/22/CISA.jpg"
-    },
-    {
-      "title": "Anthropic rolls out up to $250 in free Claude Code credits, but only for cloud sessions",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/anthropic-rolls-out-up-to-250-in-free-claude-code-credits-but-only-for-cloud-sessions/",
-      "description": "Anthropic now allows you to run Claude Code via cloud sessions without signing up for the research preview, and it's offering up to $250 in free usage credits, so more users can give it a try. [...]",
-      "pubDate": "2026-09-25T16:00:00.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/07/ClaudeChats.png"
-    },
-    {
       "title": "Storm-3168: Agentic-driven cloud attacks using compromised service principals",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/25/storm-3168-agentic-driven-cloud-attacks-using-compromised-service-principals/",
       "description": "Microsoft details JADEPUFFER-linked Azure reconnaissance, resource deletion, and credential access using compromised service principals, identifying the activity as associated with Storm-3168 and providing guidance for defenders. The post Storm-3168: Agentic-driven cloud attacks using compromised service principals appeared first on Microsoft Security Blog.",
@@ -305,15 +395,6 @@
       "source": "SecurityWeek",
       "category": "news",
       "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
-    },
-    {
-      "title": "OpenAI is preparing a $500 ChatGPT Pro Max plan with faster Codex",
-      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-preparing-a-500-chatgpt-pro-max-plan-with-faster-codex/",
-      "description": "OpenAI appears to be preparing a new ChatGPT Pro Max subscription that could cost $500 per month, but it's unclear when it'll begin rolling out. [...]",
-      "pubDate": "2026-09-25T14:54:33.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2023/03/24/ChatGPT-logo.jpg"
     },
     {
       "title": "Stopping IT Worker Scams Requires Revamped HR Process",
@@ -334,15 +415,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjJFMIQ6v0uJDRoxyIhqsoqsYoXN00dcDH4IvkdQAkRBRj6ha5LIu2-2yzzvQk1OZTc-7tK1fjeqyIh8xvRNvz_CotOtGNsYnejlbHED7cI-bmZFP80JIdxk_0D9I6Zo10-6b4x4euCTaRtz8c6ncYKykDsW7Bt4oFEVYWTe3AHJdiUxM32R6hGP9C0Y0Xf/s1600/github-shai.jpg"
     },
     {
-      "title": "North Korea Suspected in $351 Million Bitget Crypto Heist",
-      "link": "https://www.securityweek.com/north-korea-suspected-in-351-million-bitget-crypto-heist/",
-      "description": "Bitget’s security systems caught the unauthorized transfers on September 24, and some wallet addresses linked to the attacker have been frozen. The post North Korea Suspected in $351 Million Bitget Crypto Heist appeared first on SecurityWeek.",
-      "pubDate": "2026-09-25T14:16:18.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/04/bitcoin-cryptocurrency.jpeg"
-    },
-    {
       "title": "PamStealer macOS Malware Adds Live C2 Payload Decryption and Multi-Layer Persistence",
       "link": "https://thehackernews.com/2026/09/pamstealer-macos-malware-adds-live-c2.html",
       "description": "Cybersecurity researchers have flagged a new version of PamStealer that ensures that the main payload can only be recovered using a server-side decryption chain. The latest artifacts, per Jamf Threat Labs, continue to rely on the same JavaScript for Automation (JXA) dropper mechanism, but modify the lure and the delivery method. \"Where earlier variants embedded their payload key material",
@@ -350,24 +422,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiRZ3gQjU3cKnH6bHzlz8PjeaUqGcrVWnRx-bT-mgDBYv-G4CM2Iix8afTJe8sAXEghuPTiD5KszOYzA0peRhyoGKNW9YE1QtwLubBFuv9YZjXnANEGyMGwi7-oEdIqmtRBWPzUZV7S91WiUX4cI2YVMHVSQbByCmIwAX9oZxvzjb2ScVJmpmMCzpDKaKtN/s1600/macos.jpg"
-    },
-    {
-      "title": "CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks",
-      "link": "https://www.securityweek.com/cisa-election-security-plan-flags-patching-barriers-voter-database-attacks/",
-      "description": "Homeland Security Secretary Markwayne Mullin tasked CISA with developing the plan in July. The post CISA Election Security Plan Flags Patching Barriers, Voter Database Attacks appeared first on SecurityWeek.",
-      "pubDate": "2026-09-25T12:39:12.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/election-voting.jpeg"
-    },
-    {
-      "title": "Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court",
-      "link": "https://www.securityweek.com/kosovar-owner-of-rydox-marketplace-pleads-guilty-in-us-court/",
-      "description": "Ardit Kutleshi created and operated Rydox, which allowed miscreants to trade PII and cybercrime tools and services. The post Kosovar Owner of Rydox Marketplace Pleads Guilty in US Court appeared first on SecurityWeek.",
-      "pubDate": "2026-09-25T12:16:27.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/plead-guilty-hacker-court.jpeg"
     },
     {
       "title": "The SOC Doesn't Need to Start Over with Every Alert",
@@ -388,15 +442,6 @@
       "image": null
     },
     {
-      "title": "Windows, Linux, Android File Notification Systems Leak User Activity",
-      "link": "https://www.securityweek.com/windows-linux-android-file-notification-systems-leak-user-activity/",
-      "description": "Researchers show that file-change notification systems can leak keystroke timing, browsing activity, and WhatsApp media events. The post Windows, Linux, Android File Notification Systems Leak User Activity appeared first on SecurityWeek.",
-      "pubDate": "2026-09-25T10:53:32.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/software-leak-operating-system.jpeg"
-    },
-    {
       "title": "Bitget Says Suspected North Korean Hackers Stole $351.6M After Backend Compromise",
       "link": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
       "description": "Cryptocurrency exchange Bitget said suspected North Korean threat actors have stolen $351.6 million from its hot and warm wallets. \"At 18:31 UTC on September 24, 2026, Bitget's security systems identified unauthorized transfers involving a limited number of hot wallets,\" BitGet said in a post shared on X. \"Bitget's cold wallets and the overwhelming majority of platform assets remain",
@@ -413,15 +458,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEh8MACS_IO_gIvzTjppTIaHyXZKPha3ZR13_sXQS7u9Ajphpz-FRL5GNIQzhpbveUPPLuMCq72MYNtdX5o6gF-9MZZg4rPF7mbOP_pjSXyTVOFy3XtzlQiMH6sIdTdsqgZpgQf-yZmk688M6BiOWdUNYZswJVQETAInFkZVZCl99ZoYoGhhgtpJZ0hs9JmV/s1600/roundcube.jpg"
-    },
-    {
-      "title": "‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration",
-      "link": "https://www.securityweek.com/salesbleed-flaws-in-salesforce-agentforce-enabled-zero-click-data-exfiltration/",
-      "description": "Three vulnerabilities in Salesforce Agentforce allowed hackers to hijack trusted agents, steal data, and launch phishing attacks. The post ‘SalesBleed’ Flaws in Salesforce Agentforce Enabled Zero-Click Data Exfiltration appeared first on SecurityWeek.",
-      "pubDate": "2026-09-25T09:27:51.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/08/Salesforce-e1759749812840.jpg"
     },
     {
       "title": "Russia's Hybrid Cyber-Physical War in Europe Heats Up",
@@ -622,15 +658,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgQgKN3zS7GtEpakDcL7zk0tL-zcz3GJMkVf9vMLCVXf33XZ1Yad77dg3Zen_EEB58BltCG_pj0c-yVDm6VbV9cw5Baxtf26vVtRwW4qwDDy1s8HYMFKfTyl382lwJIRfSWBSA-WK6RAZ8lmy9zf5IZb_Ilqol0AcVdEaMp599tZ4NxqUc-KY4-fyFNYYFg/s1600/ms-365.jpg"
     },
     {
-      "title": "Attackers Exploit WordPress CVE-2026-87902 Within Hours of Disclosure",
-      "link": "https://thehackernews.com/2026/09/attackers-exploit-wordpress-cve-2026.html",
-      "description": "Threat actors have begun to actively exploit a critical security flaw in WordPress within hours of public disclosure. The vulnerability in question is CVE-2026-87902 (CVSS score: 9.2), which could allow an unauthenticated attacker to obtain remote code execution (RCE). \"An unauthenticated attacker can make get_page_template() page-template resolution include a chosen readable local .php file",
-      "pubDate": "2026-09-24T05:36:18.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEizoRcyQE1N3fGUKa2FY_q_T7EG_CyjTpMGGk1oFUF-XpBZa0zCA6V2yEuv3_Z1OrEjMmhbHdaVmo6NMrwb98U9VFGXDpRcItboVuZH7qc9QgPd5ZLDudfJPWoaSDbtkoXJeLTZw-6JDbq5F6YEp4AkeoJd10Nb_H9tuU0fYdgqkLrP6BTpAPOYwO6WdmkN/s1600/wordpress-exploits.jpg"
-    },
-    {
       "title": "CrowdStrike Named a Leader in The Forrester Wave&trade;: Proactive Security Platforms, Q3 2026",
       "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-forrester-wave-proactive-security-platforms-q3-2026/",
       "description": "",
@@ -674,15 +701,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt60455cbfb6e49e3c/6ab3c1c302cf7035adb7a896/email-Bussarin_Rinchumrus-Getty-2157664756.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Attackers Use Malicious Terraform Providers to Deliver Go Malware via HashiCorp Registry",
-      "link": "https://thehackernews.com/2026/09/attackers-use-malicious-terraform.html",
-      "description": "Cybersecurity researchers have disclosed Go-based malware distributed via two Go Modules and two Terraform providers, marking the first time threat actors are using the centralized repository hosted by HashiCorp as a distribution vector for malicious payloads. According to Aikido, the list of Terraform providers and Go modules is below - gocommunity-io/dockerd (222 downloads) kreuzwenker/",
-      "pubDate": "2026-09-23T18:06:30.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8VNxKl5_NBWXcUoDi3VxoksbOSAixGFGd8EmIaZmKRQpsGhOj6SLg8fmHktJbtvR7wofZNG1AFIzSGnVFq8OJHgq27dhqNtc0cz457ZqqQQ6INHwnExfLu3xKERaNt0GmOpxJ6WR6oxp5FZTT-q3Q5YWAnVawXYfY51GRl09ovsDkhM3U8tRUTR4ClSfj/s1600/terraform.jpg"
     },
     {
       "title": "UAE, Saudi Arabia Face Onslaught of Increasingly Complex Cyberattacks",
@@ -953,15 +971,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://grahamcluley.com/wp-content/uploads/2026/09/ss-episode-485.webp"
-    },
-    {
-      "title": "Fake CAPTCHA Scams",
-      "link": "https://www.schneier.com/blog/archives/2026/09/fake-captcha-scams.html",
-      "description": "New variant of an old scam: Use the framing of a CAPTCHA to get an unsuspecting user to download and run a malicious program.",
-      "pubDate": "2026-09-16T11:25:26.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Atomic macOS (AMOS) Stealer Activity",
@@ -1484,15 +1493,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template@1x_1.jpg"
-    },
-    {
-      "title": "Weekly Update 511: Live from my Riad in Marrakech",
-      "link": "https://www.troyhunt.com/weekly-update-511/",
-      "description": "How's this for a location?! I mean, last week was nice with Scott in Mallorca, but Marrakech is, well, wow 😮 Anyway, about those data breaches... This week I'm talking about the futility of attempting to remove piss from a pool, yet here we are, with",
-      "pubDate": "2026-07-08T13:54:46.000Z",
-      "source": "Troy Hunt",
-      "category": "opinion",
-      "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/07/Splash-Template.jpg"
     },
     {
       "title": "Strengthening authentication with passkeys: A CISO playbook",
