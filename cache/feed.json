@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T16:55:57.386Z",
+  "generatedAt": "2026-10-06T10:39:53.122Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,150 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Long-Running NPM Malware Campaign Accumulates 40,000 Downloads",
+      "link": "https://www.securityweek.com/long-running-npm-malware-campaign-accumulates-40000-downloads/",
+      "description": "Since August 2023, attackers have published eight malicious packages as part of the MALFEX supply chain campaign. The post Long-Running NPM Malware Campaign Accumulates 40,000 Downloads appeared first on SecurityWeek.",
+      "pubDate": "2026-10-06T10:34:25.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/supply-chain-threat.webp"
+    },
+    {
+      "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
+      "link": "https://unit42.paloaltonetworks.com/blinder-tunnel-targets-critical-infrastructure/",
+      "description": "Analysis of Blinder Tunnel, an Iran-nexus campaign using fake Dubai Airports recruitment lures and GitHub C2 malware to target critical infrastructure. The post Blinder Tunnel Campaign Targets Iraqi Infrastructure appeared first on Unit 42.",
+      "pubDate": "2026-10-06T10:00:33.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/05_Malware_Category_1920x900-1.jpg"
+    },
+    {
+      "title": "8.8 Million Impacted by Data Breach at Denmark’s Central Person Register",
+      "link": "https://www.securityweek.com/8-8-million-impacted-by-data-breach-at-denmarks-central-person-register/",
+      "description": "Hackers abused a company’s lawful access to the CPR system to steal the personal information of registered citizens. The post 8.8 Million Impacted by Data Breach at Denmark’s Central Person Register appeared first on SecurityWeek.",
+      "pubDate": "2026-10-06T09:38:30.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/08/data-breach.jpeg"
+    },
+    {
+      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
+      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
+      "description": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
+      "pubDate": "2026-10-06T09:25:50.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/06/Nikkei.jpg"
+    },
+    {
+      "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
+      "link": "https://thehackernews.com/2026/10/google-pauses-oss-product-bug-bounty.html",
+      "description": "Google has stopped accepting product vulnerability reports through its bug bounty program for its open-source software. The change, in effect since October 1, means researchers can no longer submit security flaws in the code of projects such as Go, Angular, and Protocol Buffers there for a reward. Reports about supply chain compromises are still accepted, and reports filed before October 1 are",
+      "pubDate": "2026-10-06T09:21:47.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgCWoelMB7H9bFZJdDV7vP5M3a1ByvpHs8ub2SrBGOM1gz6r0Fg9cV1fplW5Q6mNBFtRlW99wDCSC-_6_sZBw0l4HsFvUDP5cCH2zmgcF4NK5wCOInv05K4hH2WMlKCA_G_psX4zB_hUcXid2MWx5fGDjaJvD1YjWBechwUdrhXK51dJYZ3PGsu0JQcT1U/s1600/google-bug-bounty.jpg"
+    },
+    {
+      "title": "Social Engineering Detection Moves Into the Live Conversation",
+      "link": "https://www.securityweek.com/social-engineering-detection-moves-into-the-live-conversation/",
+      "description": "Companies are pouring time and dollars into security awareness training, but little evidence shows it actually works against social engineering. The post Social Engineering Detection Moves Into the Live Conversation appeared first on SecurityWeek.",
+      "pubDate": "2026-10-06T08:38:14.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/06/Deepfake-voice.jpg"
+    },
+    {
+      "title": "Engineer sentenced for locking over 3,000 devices on employer network",
+      "link": "https://www.bleepingcomputer.com/news/security/engineer-sentenced-for-locking-thousands-of-devices-on-employer-network/",
+      "description": "A former core infrastructure engineer at an industrial company headquartered in New Jersey was sentenced to 32 months in prison for locking thousands of devices on his employer's network in a ransomware-style attack. [...]",
+      "pubDate": "2026-10-06T08:19:24.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/10/Hacker_IAB.jpg"
+    },
+    {
+      "title": "Critical Atlassian Flaw Lets Unauthenticated Attackers Read Known Files Across 8 Products",
+      "link": "https://thehackernews.com/2026/10/critical-atlassian-flaw-lets.html",
+      "description": "A critical flaw in 8 Atlassian Data Center products, which customers host themselves, allows an attacker with no login access to read specific files in each product's web application root directory. The attacker must already know a file's exact name and path and cannot list what the directory holds. Atlassian disclosed the flaw, CVE-2026-21589, on October 5, rated it 9.3 out of 10, and",
+      "pubDate": "2026-10-06T06:58:56.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjGQge2pd9O29G6qjsswRMYKnpM66wzyEWHOnRljkIZUZpCGVGACovyKIiji1HQ4jZOsypuaveJUBxx0r7-tT-Icd3COeo_prgm0TbMWDJBYFYpWHOC3lBjb8sZo6f2qWPkzeztOAjMW1CjrE_fDe3nWBU2FEOOjUWDpNUbtY1okTyx_iFE7xcI5jxOeiQ/s1600/file.jpg"
+    },
+    {
+      "title": "FBI Removes Accenture Contractor After Patch Failure Led to ShinyHunters Breach",
+      "link": "https://thehackernews.com/2026/10/fbi-removes-accenture-contractor-after.html",
+      "description": "The U.S. Federal Bureau of Investigation (FBI) has removed an Accenture contractor for their alleged role in a ShinyHunters-breach that led to the theft of personal details of thousands of bureau employees. That's according to a report from Reuters, citing two sources familiar with the matter. \"To date, our review has determined that the incident occurred as the result of a security failure ​",
+      "pubDate": "2026-10-06T06:56:57.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiVB4YaCEMdO6UU6llRwDBMNe82j6s6myWlT8Y92f808ntjdWsPEFgXBpFhGxoAZdkFq5DVA4_XaQpbwvJFjpEUxrRjjRVITahCSGSxmi3qkad2fk-kZ1oXnoxKaFHNs2aRQl7LQ6r2Ljt57IZNaFvwejEQ20us7fMVpNYptJxoVCyol8BlVaXyLkkaeHQI/s1600/fbi-breach.jpg"
+    },
+    {
+      "title": "Denmark Says Attackers Accessed CPR Data for 8.8 Million People via Company Account",
+      "link": "https://thehackernews.com/2026/10/denmark-says-attackers-accessed-cpr.html",
+      "description": "Unauthorized parties have gained access to the names, addresses, and personal identification numbers of about 8.8 million people, living and dead, in Denmark's national population register, the country's digitalization ministry said on October 5. They used a private Danish company's lawful right to look up records in the Central Person Register (CPR). The ministry has told people never to",
+      "pubDate": "2026-10-06T06:00:30.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgyl-dsAiVrN_a0ie2xM1-2S8GDtnp-OYIAY1Cd_nhYhGkY3q0VeVEvEInjHAYCJTtnRYkXag2mY_iFjcEkFjeLQ7LrF6JqbTQ6eLZQM7aVzTHQsZ37a7PMIWPNkPvc8yTvHgWRLhdnoXbHZSlYfXJMAgfKkPcgSWD6JVb6kBYfzz9LB3SQPx357xqsr8o/s1600/cpr.jpg"
+    },
+    {
+      "title": "ClickFix Smuggles Payloads Through Browser Cache to Bypass Windows Run Limits",
+      "link": "https://thehackernews.com/2026/10/clickfix-smuggles-payloads-through.html",
+      "description": "A new type of ClickFix attack is using compromised websites to trick users into executing a malicious payload cached in a web browser's cache. \"Instead of downloading and executing remote payloads like the typical attack pattern, in this attack, the websites pre-fetch a script payload into the browser cache disguised as a PNG file,\" the Microsoft Threat Intelligence team said in a post on X.",
+      "pubDate": "2026-10-06T05:22:55.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8Vjgif5jASBMNSuYjBnVZcm9vGO378mJ7VTFTNo9HRROtViKbP_Nm0F0vf626be5n4cwnfDdqgfWVzjKrKboh0BnbM8ALWzt-W7kNq4PSc_TOUbNlwps6sCQgfNyK5DhXk3FHZCuJSo8D2eMOm4r89VmhNa6l5gPpadRZSgTuB_N2yPZlwj0voYddOoVr/s1600/clickfix.jpg"
+    },
+    {
+      "title": "OpenAI is adding invisible watermarks to ChatGPT and Codex text in the EU",
+      "link": "https://www.bleepingcomputer.com/news/artificial-intelligence/openai-is-adding-invisible-watermarks-to-chatgpt-and-codex-text-in-the-eu/",
+      "description": "OpenAI is preparing to add invisible watermarks to text generated by ChatGPT and Codex in the European Union. [...]",
+      "pubDate": "2026-10-05T22:46:33.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/29/chatgpt.jpg"
+    },
+    {
+      "title": "ClingSTUN Turns Vulnerable IoT Devices Into Proxy Nodes",
+      "link": "https://www.darkreading.com/iot/clingstun-vulnerable-iot-devices-proxy-nodes",
+      "description": "The Linux backdoor exploits 24 known flaws to compromise IoT devices and uses legitimate public STUN servers to obscure communications.",
+      "pubDate": "2026-10-05T21:25:08.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt233af9606aed0447/6ac404da1ba7958c12dbbcbc/stungun_Nikola_Fific_shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Rejetto HFS servers now actively scanned for critical RCE flaw",
+      "link": "https://www.bleepingcomputer.com/news/security/rejetto-hfs-servers-now-actively-scanned-for-critical-rce-flaw/",
+      "description": "Hackers are actively scanning for a Rejetto HFS weak signing key vulnerability, tracked as CVE-2026-61500, that allows session forgery, account takeover, and remote code execution (RCE). [...]",
+      "pubDate": "2026-10-05T20:20:05.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2025/11/05/Credit-card-hacker.jpg"
+    },
+    {
+      "title": "IQVIA fined $7.8 million for failing to properly anonymize health data",
+      "link": "https://www.bleepingcomputer.com/news/security/iqvia-fined-78-million-for-failing-to-properly-anonymize-health-data/",
+      "description": "Italy's Data Protection Authority (GPDP) has fined IQVIA €7 million ($7.8M) over poor data-processing practices that the agency says could have put roughly one million patients at risk of data exposure and de-anonymization. [...]",
+      "pubDate": "2026-10-05T17:19:53.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/09/09/healthcare.jpg"
+    },
+    {
+      "title": "Microsoft Exchange Flaw Lets Authenticated Attackers Read Other Users' Mailboxes",
+      "link": "https://thehackernews.com/2026/10/microsoft-exchange-flaw-lets.html",
+      "description": "Microsoft has released out-of-band security updates to address a high-severity flaw in Microsoft Exchange Server that could allow an attacker to escalate privileges under certain conditions. The vulnerability, tracked as CVE-2026-96940, is rated 8.8 on the CVSS scoring system. \"Weak authorization in Microsoft Exchange Server allows an authenticated attacker to elevate privileges over a",
+      "pubDate": "2026-10-05T16:21:52.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiBNa12GUjRngANug2kbws6i9X_HPN2PRVbOcxr7GtaXMKq9PloaCTD7DuYC8zZIcrg5Wa-F5pDv9y-00EMX4QWvovMz-ZWK5vNZ-gkIdEA7UiZQ1SqBCZof411VOQt6nQrvZCYxZpmzPA3hUeFia9KVP45Q1J1OPkiIH_Fhy5hoiOo9z6eYw1H16RgvKs5/s1600/ms-emails.jpg"
+    },
     {
       "title": "Chinese Hackers Impersonate US Officials for AI Cyber Espionage",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/chinese-actor-impersonates-us-officials-cyber-espionage",
@@ -228,7 +372,7 @@
     {
       "title": "New NetScaler Zero-Day Exploited in Targeted Attacks Can Knock SAML Deployments Offline",
       "link": "https://thehackernews.com/2026/10/new-netscaler-zero-day-exploited-in.html",
-      "description": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and Citrix NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
+      "description": "Citrix has released security updates for a high-severity security flaw in NetScaler ADC and NetScaler Gateway that has been exploited as part of targeted zero-day attacks. The vulnerability, tracked as CVE-2026-88779, carries a CVSS score of 8.7 out of 10.0. \"CVE-2026-88779 is a memory overflow vulnerability in Citrix NetScaler ADC and Citrix NetScaler Gateway that can lead to",
       "pubDate": "2026-10-05T06:40:19.000Z",
       "source": "The Hacker News",
       "category": "news",
@@ -244,6 +388,24 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2026/08/Citrix-vulnerability.jpeg"
     },
     {
+      "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365",
+      "link": "https://www.crowdstrike.com/en-us/blog/falcon-data-security-for-saas-secures-sensitive-data/",
+      "description": "",
+      "pubDate": "2026-10-05T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "New in Falcon Cloud Security: Third-Party App Insights and AI-Enhanced Remediation",
+      "link": "https://www.crowdstrike.com/en-us/blog/falcon-cloud-security-third-party-app-insights-ai-enhanced-remedation/",
+      "description": "",
+      "pubDate": "2026-10-05T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "Citrix patches NetScaler SAML zero-day exploited in attacks",
       "link": "https://www.bleepingcomputer.com/news/security/citrix-patches-netscaler-saml-zero-day-exploited-in-attacks/",
       "description": "Citrix has released emergency updates for a new NetScaler denial-of-service vulnerability tracked as CVE-2026-88779 that has been exploited in zero-day attacks, with researchers investigating whether it can also be exploited for remote code execution. [...]",
@@ -251,15 +413,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Citrix.jpg"
-    },
-    {
-      "title": "Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force",
-      "link": "https://www.securityweek.com/trump-names-national-intelligence-director-jay-clayton-to-lead-a-new-federal-ai-task-force/",
-      "description": "The announcement comes after Trump hosted top executives of AI companies at the White House last week. The post Trump Names National Intelligence Director Jay Clayton to Lead a New Federal AI Task Force appeared first on SecurityWeek.",
-      "pubDate": "2026-10-04T14:57:25.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
     },
     {
       "title": "Weekly Update 524: Live From Copenhagen",
@@ -298,24 +451,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgR69JnEBkz8N6_Nd5K75adIWh8xVmxW8FB21gsKinx9HBzgXQSLWL5sYdKMe9d-cbTSrgc45ZtYhmvhLZJII1H-tPXKn4AiRvj4KrU8ayeZskmMCfiV-mUc2pz10MumKyXKH6ybJ2RsVj9ZZ67l-4u0Y2f5Dl3kX7PLEzCAqogMfHTSfD7gM7QypHi-yos/s1600/china-ms.jpg"
     },
     {
-      "title": "Google Gemini could soon get full access to your Mac’s files, apps and the web",
-      "link": "https://www.bleepingcomputer.com/news/google/google-gemini-could-soon-get-full-access-to-your-macs-files-apps-and-the-web/",
-      "description": "Google's Gemini could soon access any file on your macOS device, open apps, browse the web, and perform actions without asking for permission every time. [...]",
-      "pubDate": "2026-10-03T23:12:34.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/08/13/Gemini.jpg"
-    },
-    {
-      "title": "ShinyHunters hacker reportedly detained in Jordan, aiding FBI",
-      "link": "https://www.bleepingcomputer.com/news/security/shinyhunters-hacker-reportedly-detained-in-jordan-aiding-fbi/",
-      "description": "A suspected ShinyHunters hacking group member known online as \"Rey\" has reportedly been detained in Jordan and is cooperating with the FBI to help locate other members of the extortion group. [...]",
-      "pubDate": "2026-10-03T19:09:38.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/25/Hacker_prison.jpg"
-    },
-    {
       "title": "MI5 Says China’s MSS Funded Research Involving 100+ U.K.-Linked Academics",
       "link": "https://thehackernews.com/2026/10/mi5-says-chinas-mss-funded-research.html",
       "description": "The U.K.'s domestic intelligence and security agency has warned that more than 100 academics have helped China boost its intelligence gathering efforts on behalf of Beijing's state security service. In a \"Security Service Espionage Alert\" issued on September 30, 2026, MI5 said the \"primary purpose of the China General Technology Research Institute (CGTRI) 中国通用技术研究院 is to fund research that",
@@ -332,33 +467,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCZSaqs29yWFrct8zgOikM9e4CS0xuAXppzGJ1tskKpKC2gbGuITsYlHYNcnXDMvrFpPuAVS_ZlyEF8Obp7Mgw7CUXe4UsKP3pNEvZWNfszKQVxogslYpoWBZG-QQbEvmS6SDcbgVtXiFFGIEjreD_HSkCYZTfcwL1Rt90qDbbPj946SbMX0FR5CEKRt_H/s1600/sharepoint-ransomware.jpg"
-    },
-    {
-      "title": "Danish university DTU breach exposes data of up to 200,000 people",
-      "link": "https://www.bleepingcomputer.com/news/security/danish-university-dtu-breach-exposes-data-of-up-to-200-000-people/",
-      "description": "The Technical University of Denmark (DTU) says information belonging to up to 200,000 users may have been exposed after hackers accessed its identity and access management system and downloaded a large amount of data. [...]",
-      "pubDate": "2026-10-03T14:35:20.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/03/DTU.png"
-    },
-    {
-      "title": "doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures",
-      "link": "https://www.securityweek.com/doxx-net-raises-38-million-to-prevent-ai-agent-on-the-internet-misadventures/",
-      "description": "doxx.net’s new ADN platform prevents agentic misadventure while the agent is operating under the user’s authority. The post doxx.net Raises $38 Million to Prevent AI Agent-on-the-Internet Misadventures appeared first on SecurityWeek.",
-      "pubDate": "2026-10-03T11:45:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2023/01/Cybersecurity_News-SecurityWeek.jpg"
-    },
-    {
-      "title": "Fortra Patches Critical Vulnerabilities in BoKS",
-      "link": "https://www.securityweek.com/fortra-patches-critical-vulnerabilities-in-boks/",
-      "description": "The bugs could lead to authentication bypass, shell command execution, and memory corruption. The post Fortra Patches Critical Vulnerabilities in BoKS appeared first on SecurityWeek.",
-      "pubDate": "2026-10-03T11:34:00.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/application-security-vulnerabilities.jpeg"
     },
     {
       "title": "The State of Cybersecurity in 2026: Key Segments, Insights, and Innovations",
@@ -395,24 +503,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf31fc70ff522da98/6ac0148dfc9ca54499deca08/GettyImages-2207912388.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Frontline Education breach exposes school district employee data",
-      "link": "https://www.bleepingcomputer.com/news/security/frontline-education-data-breach-impacts-school-district-employees/",
-      "description": "Frontline Education is notifying school districts of a data breach after attackers exploited a vulnerability in third-party software to gain unauthorized access to its systems and steal employee information, including Social Security numbers. [...]",
-      "pubDate": "2026-10-02T19:01:40.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2025/10/15/School-hacker.jpg"
-    },
-    {
-      "title": "Warlock ransomware breach SharePoint in water, telecom operator attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/warlock-ransomware-breach-sharepoint-in-water-telecom-operator-attacks/",
-      "description": "The China-linked ransomware group Warlock targeted a water utility, a telecom provider, a regional government body, and a university by exploiting SharePoint vulnerabilities to gain initial access. [...]",
-      "pubDate": "2026-10-02T18:33:01.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/26/Microsoft-SharePoint.jpg"
     },
     {
       "title": "GitLab Patches Critical 9.9 AI Gateway Flaw Allowing Command Execution on Self-Hosted Servers",
@@ -568,24 +658,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgy6XYYOXNZNjc51viw5FvCk49pWIXCCRS6yr_hl0ZKdwhBWRfYrCQ7bM6AJZJdmI_W3AEz1V3X0DAP6k39KfgjlKFfB5JcFaKN9zzIl1-7c49Vnuaz55yhRXjdmY5K2kIPuY_-7624KyVHqkHzikJIi11iClljnXv_3i2X21JiRCMU8ElmiHiZdHVQ7ws/s1600/killsec-ransomware.jpg"
     },
     {
-      "title": "ThreatsDay: AI-Powered Zero-Day Chain, 543K Live Secrets, Model Inspection RCE and 13 More Stories",
-      "link": "https://thehackernews.com/2026/10/threatsday-ai-powered-zero-day-chain.html",
-      "description": "This week, the useful words are boring ones: inspect, cache, compile, store, trust. Each sounds harmless. Each can become an attack path when a system does a little more than people expect. A model check can run code. A cache can mix up requests. A public secret can stay useful for years. That is the lesson running through the list. Attackers do not always need a brilliant new trick. They can",
-      "pubDate": "2026-10-01T16:45:38.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOZPv0LS8-qPBgL_d1m8BLNikw8psPt9qtB_HiFNoYnVwBacYvwz4DdEixukdlHcy7IXmUB9dI9E_Hcx48HJIL7sQzmDeextP-Y_tHO9SX51i_SditMkVsRgWxyMekufW3yZFn2jI9nf29y3JEM2a_yFv8iTLDb6d3r1roNsea_Yk5TWCiMcvkmE5ZbP6B/s1600/oct-threatsday.jpg"
-    },
-    {
-      "title": "WordPress Backdoor Rebuilds Itself After Cleanup Using Files, Database, and Shared Memory",
-      "link": "https://thehackernews.com/2026/10/wordpress-backdoor-rebuilds-itself.html",
-      "description": "Cybersecurity researchers have shed light on a WordPress compromise in which threat actors deployed multiple persistence mechanisms to ensure that the final payload kept returning without having to infect the site again. The backdoor has been codenamed SC after the \"SC_\" markers present in the injected content. Sucuri has described the malware as a \"self-healing mesh\" that's",
-      "pubDate": "2026-10-01T14:37:35.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbdAzWwJ7WC6PL7vtBZDUWfVyYu9iIBlT3X5gZn-Yl9aRuZAEeW3RjEU81RQWsvH_7og6v7-somVgG-fR35drKy6bxLMcHdpJQAi6ydXw-m3oMxZ1hlDC7kr8Wsu0dOfRt6ZLEasAsYNGq-pzmQiBNWMbEBzqa9zYdAu16NtgIfDe3PpOvCVzGj6yFqmet/s1600/wordpress-exploit.jpg"
-    },
-    {
       "title": "Preparing governments for an era of interconnected cyber risk",
       "link": "https://blogs.microsoft.com/on-the-issues/2026/10/01/preparing-governments-for-an-era-of-interconnected-cyber-risk/",
       "description": "According to this year’s Microsoft Digital Defense Report, government agencies and services were the sector most impacted by cyber threats in 2026, accounting for 27% of observed activity, up from 17% in 2025. The post Preparing governments for an era of interconnected cyber risk appeared first on Microsoft Security Blog.",
@@ -613,15 +685,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9bb24e8bd32cc751/6abd41d4a6381712feda02db/Warlock-Grandfailure-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "How Financial Services Companies Can Modernize Their Software Supply Chain",
-      "link": "https://thehackernews.com/2026/10/how-financial-services-companies-can.html",
-      "description": "Every security leader at a bank, insurer, or asset manager has had a version of this conversation: Security wants to eliminate a class of vulnerabilities. Engineering explains what it would take to upgrade the platform where they live. Somebody prices out the regression testing. Somebody else raises the change-freeze calendar. The finding gets an exception, a compensating control, and a date",
-      "pubDate": "2026-10-01T11:45:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhwJsDvv_9QEV86mmDsIBPpGS2Kt2o8WPu2L6kUb9IExDqX-2lDKksEMMJp3NqFwDUqplX6JCeUpJfI_8rt_febX1CjMorRii_RpDccPPynWQHW_abdrNSWj774Ad0XH-RmiP-Lzki-Btsu6mh1cUsIffeSIOfUQ29qEJJwBTsaL-olM3GK18D2LYoxJlg/s1600/chain.png.jpg"
-    },
-    {
       "title": "Connected Cars Are a Surveillance Platform",
       "link": "https://www.schneier.com/blog/archives/2026/10/connected-cars-are-a-surveillance-platform.html",
       "description": "Researchers at Northeastern University, in collaboration with Consumer Reports, evaluated how much modern cars spy in their drivers: The new Northeastern study shows, for the first time, data flowing among the vehicles, the vehicle apps you download when you buy your car, and third-party companies, documenting exactly what kind of data gets siphoned from our vehicles and which companies are receiving that information. Basically, your car’s manufacturer has you under constant surveillance, and they use that data against you. The companies on the receiving end of your data, our investigation has",
@@ -647,33 +710,6 @@
       "source": "Graham Cluley",
       "category": "opinion",
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/10/shiny1.jpeg"
-    },
-    {
-      "title": "OpenAI Disrupts Reasoning Extraction Campaign Linked to Moonshot AI Associates",
-      "link": "https://thehackernews.com/2026/10/openai-disrupts-reasoning-extraction.html",
-      "description": "OpenAI on Wednesday said it identified and disrupted a coordinated distillation campaign that was designed to illicitly extract protected reasoning from its artificial intelligence (AI) models. A \"core cluster of the activity,\" going back to the first week of July, has been attributed to individuals associated with Moonshot AI, a Chinese AI company based in Beijing. It did not cite any",
-      "pubDate": "2026-10-01T10:42:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgVoOullmVukPDhwbQ10zXHA-IqDVeMp55dybdLAhT-kkPDdJADbw8BETggWjHN3WF4HHpXLV8RDk4jHLVYlS9wWxZcbHMtEGGfGu-dGv2lFRzv3lJ1csgozieAguSQeE2Nhw5ZXBi1YIjaBbF5Al_kakh4wNXfjr4PJ-Q4QZxaHm4_Lha_aMxdQ3NPKRm0/s1600/moonshot.jpg"
-    },
-    {
-      "title": "CISA Adds Exploited Cisco Catalyst SD-WAN Manager Auth Bypass to KEV",
-      "link": "https://thehackernews.com/2026/10/cisa-adds-exploited-cisco-catalyst-sd.html",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Wednesday added a critical authentication bypass flaw impacting Cisco Catalyst SD-WAN Manager to its Known Exploited Vulnerabilities (KEV), following reports of active exploitation. The vulnerability, tracked as CVE-2026-76504 (CVSS score: 9.8), could allow an unauthenticated, remote attacker to access an affected system with",
-      "pubDate": "2026-10-01T10:33:16.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8jgm3LMY2zr1S1DmXnvVEPDiTKYR5FXHW7q_6duG1lVPhzbW2ZfJwRM9glqAJrQhBX3HAAiksz-tUpRN4pfT9VWHUksa-1SgHZmKcNUd1tJfsyFiwhtezZN_zBM_cEmqjkECI_2gfWhnqZ1ry2hgDou-qQCB21zbl1RzYN9JB0bRjqzhB2m6gBomg-ow9/s1600/cisa-wan.jpg"
-    },
-    {
-      "title": "Google Rolls Out Gemini 4 Argon to Trusted Cyber Defenders, Plans Guardrail-Free Version",
-      "link": "https://thehackernews.com/2026/10/google-rolls-out-gemini-4-argon-to.html",
-      "description": "Google on Wednesday announced its latest frontier artificial intelligence (AI) model, Gemini 4 Argon, that it said is being rolled out to a set of trusted cyber defenders through its Fairwind Program. \"It delivers frontier performance in complex workflows across real-world software engineering, enterprise knowledge work like legal and finance, and cybersecurity defense,\" Koray Kavukcuoglu,",
-      "pubDate": "2026-10-01T07:49:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhYk4zu5KwFghyphenhyphenGNFmUKfmtScZfRpYSwO3huCn6VYY6EiFZH7t7zWwr6Agn-AqOHA19-uc6wQMnoOHXGY3V8F2ZWfxoTNiTp8VV1ePAvDGYlW3ocD8tXLN-tPuqvzwf7YRX9CXl1_Zj2b0ZcMqbZAo_5Ut3uG3gTTEXTCVxJyyTtcUlbfwXkdqCu8PpY4l6/s1600/gemini-4.jpg"
     },
     {
       "title": "CrowdStrike Expands Federal SOC Modernization Through CISA-Funded SIEMaaS",
@@ -899,15 +935,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte42c5730d22cf0f1/6abab79a8ce025f8ce48d849/botnet_cyber_attack-Hengki_Lestio-GettyImages-2232351432.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "AI Agents Are Privileged Users; Who Is Auditing Their Access?",
-      "link": "https://www.darkreading.com/vulnerabilities-threats/ai-agents-are-privileged-users-who-is-auditing-their-access",
-      "description": "Enterprises regularly rigorously monitor human employees, while autonomous AI agents quietly operate with broad privileges that could turn them into the next generation of insider threats.",
-      "pubDate": "2026-09-28T18:44:22.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c9f5fa659c439fa/6abab77dfee74bb9c8c001cc/AI_agent-MF3d-Getty-2217030312.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "NeedyMantis: Unpacking a post-compromise malware family used in targeted operations",
@@ -1207,15 +1234,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/army-phone.jpeg"
     },
     {
-      "title": "September 2026 Patch Tuesday: Two Exploited Zero-Days and 113 Critical Vulnerabilities Among 972 CVEs",
-      "link": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/",
-      "description": "",
-      "pubDate": "2026-09-08T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "How a hole in Lenovo’s login system let hackers walk into 5,000 Dropbox accounts",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/lenovo-login-system-hackers-dropbox",
       "description": "If you ever linked your Dropbox account to a Lenovo ID - perhaps to make life easier when logging in via a Lenovo laptop - you might want to take heed. Read more in my article on the Hot for Security blog.",
@@ -1268,15 +1286,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/07_Opinion_Overview_1920x900-1.jpg"
-    },
-    {
-      "title": "CrowdStrike Delivers the Next Evolution of the Agentic SOC",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-delivers-next-evolution-of-agentic-soc/",
-      "description": "",
-      "pubDate": "2026-09-02T04:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Weekly Update 519: Breaches & Data Integrity",
@@ -1349,15 +1358,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
-    },
-    {
-      "title": "The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution",
-      "link": "https://unit42.paloaltonetworks.com/ai-enabled-malware-analysis/",
-      "description": "Explore Unit 42 research on AI-enabled malware. Learn how existing behavioral detection and endpoint analytics stop AI-authored code before execution. The post The State of AI-Enabled Malware August 2026: From Brand Abuse to Agentic Execution appeared first on Unit 42.",
-      "pubDate": "2026-08-25T10:00:57.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/AdobeStock_1270203474-2-1.png"
     },
     {
       "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
