@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T20:42:49.783Z",
+  "generatedAt": "2026-10-08T00:48:38.129Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Smashing Security podcast #487: Clippy’s crypto comeback",
+      "link": "https://grahamcluley.com/smashing-security-podcast-487/",
+      "description": "Microsoft's Twitter account, with its 13 million followers, was hijacked by a paperclip. There was no ransomware or data theft, just Clippy, a dodgy crypto coin, and a corporate apology that wasn't from Microsoft either. Meanwhile, UK losses from hacked email and social media accounts have rocketed by 417%, as scammers pose as your friends to flog you tickets to gigs that don't exist. Plus, Hack The Box's Christine Bartlett joins us for a featured interview to ask what happens when AI agents join your security team, and whether anyone has thought to give them a performance review.",
+      "pubDate": "2026-10-07T23:10:49.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/10/ss-episode-487.webp"
+    },
+    {
+      "title": "Ransomware recovery CEO charged over secret ransom payments",
+      "link": "https://www.bleepingcomputer.com/news/security/ransomware-recovery-ceo-charged-over-secret-ransom-payments/",
+      "description": "The owner of ransomware remediation company MonsterCloud has been charged with allegedly defrauding ransomware victims by secretly paying their attackers for decryptors while claiming to use proprietary technology to recover encrypted data. [...]",
+      "pubDate": "2026-10-07T23:04:37.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2022/10/09/cyber-key.jpg"
+    },
+    {
+      "title": "Evolution of Web3 in Cloud Supply Chain Attacks",
+      "link": "https://unit42.paloaltonetworks.com/web3-cloud-supply-chain-attacks/",
+      "description": "Unit 42 details how threat actors leverage Web3 infrastructure and open-source supply chain attacks to breach enterprise cloud environments The post Evolution of Web3 in Cloud Supply Chain Attacks appeared first on Unit 42.",
+      "pubDate": "2026-10-07T22:00:16.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/10_Myth-Busting_Category_1505x922.jpg"
+    },
+    {
+      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
+      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
+      "description": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
+      "pubDate": "2026-10-07T21:42:55.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "FBI: Ongoing FortiBleed attacks lock out FortiGate VPN admins",
+      "link": "https://www.bleepingcomputer.com/news/security/fbi-ongoing-fortibleed-attacks-lock-out-fortigate-vpn-admins/",
+      "description": "The FBI is warning that FortiBleed attacks are still ongoing, targeting exposed Fortinet FortiGate firewalls and SSL VPN gateways and locking out legitimate administrators. [...]",
+      "pubDate": "2026-10-07T21:28:54.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/06/19/Fortinet-headpic.jpg"
+    },
+    {
+      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
+      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
+      "description": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
+      "pubDate": "2026-10-07T21:25:13.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Anthropic Gives Vetted Defenders Fewer Claude Guardrails",
+      "link": "https://www.darkreading.com/vulnerabilities-threats/anthropic-vetted-defenders-claude-guardrails",
+      "description": "Anthropic has merged Project Glasswing into a tiered access program for its advanced cyber LLMs, including Opus, Sonnet, and Mythos.",
+      "pubDate": "2026-10-07T20:51:25.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltc7808659e0089ed6/6ac69946a654a8a160addf33/robot_working-demaerre-GettyImages-1467878602.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Hackers hijack Google domains after breaching ccTLD registries",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-hijack-google-domains-after-breaching-cctld-registries/",
+      "description": "Hackers obtained unauthorized HTTPS certificates for several Google domains and hijacked domains in the country-code top-level domains (ccTLDs) for Ghana, American Samoa, and Sierra Leone after compromising third-party operators and modifying authoritative DNS records. [...]",
+      "pubDate": "2026-10-07T20:50:13.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2023/12/29/google-flare.jpg"
+    },
     {
       "title": "OpenAI Agent Escape Causes Wikimedia Service Outage",
       "link": "https://www.darkreading.com/cyberattacks-data-breaches/openai-agent-escape-causes-wikimedia-service-outage",
@@ -298,6 +370,24 @@
       "image": "https://www.securityweek.com/wp-content/uploads/2025/12/Atlassian.jpg"
     },
     {
+      "title": "Unknown Threat Actor Uses AI-Driven ARTEX to Target South Korean Finance",
+      "link": "https://www.crowdstrike.com/en-us/blog/unknown-threat-actor-uses-artex-to-target-south-korean-finance/",
+      "description": "",
+      "pubDate": "2026-10-07T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
+      "title": "CrowdStrike Named a Leader in the 2026 IDC MarketScape for Worldwide Modern Endpoint Security for Enterprises Vendor Assessment",
+      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-named-leader-2026-idc-marketscape-worldwide-modern-endpoint-security-for-enterprises/",
+      "description": "",
+      "pubDate": "2026-10-07T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "Ninja Forms plugin flaw exploited to hack WordPress sites",
       "link": "https://www.bleepingcomputer.com/news/security/ninja-forms-plugin-flaw-exploited-to-hack-wordpress-sites/",
       "description": "Hackers are exploiting stored cross-site scripting (XSS) vulnerabilities in two unrelated WordPress plugins, Ninja Forms and WPC Product Bundles for WooCommerce, to install backdoors and create rogue admin accounts. [...]",
@@ -424,15 +514,6 @@
       "image": "https://www.bleepstatic.com/content/hl-images/2024/05/13/Phishing.jpg"
     },
     {
-      "title": "How to secure RMM software: 8 controls MSPs should test",
-      "link": "https://www.bleepingcomputer.com/news/security/how-to-secure-rmm-software-8-controls-msps-should-test/",
-      "description": "RMM platforms give MSPs privileged access across customer environments, making their security controls critical to limiting risk. Acronis outlines eight controls MSPs should test when evaluating RMM software, from patching and privileged access to recovery and tenant isolation. [...]",
-      "pubDate": "2026-10-06T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/10/05/security-checklist.jpg"
-    },
-    {
       "title": "LibreOffice and OpenOffice Flaws Let Malicious Spreadsheets Run Code Without Macro Warnings",
       "link": "https://thehackernews.com/2026/10/libreoffice-and-openoffice-flaws-let.html",
       "description": "A malicious spreadsheet can make LibreOffice and Apache OpenOffice run an attacker's code as soon as the file is opened, security researchers have shown. There is no warning first, of the kind either program shows before it runs a macro. The attack works only when the program's Java support is enabled. So far, it has only been shown as a proof of concept, and there are no reports of its use in",
@@ -440,15 +521,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjYVdFxWk-OP9_vpIdzp0S9ffqMNnyAMbRWKklSryVockcistDlpX5ZcfLGluaqpHqdsu_DoOaFq2J1z5jTVNatxS8aoQjMNS1PoEYOAZrj1V1Spdk67LUZgSlSPlqeEULSVSbHZfkCimWV56E2HKs_IUNrJaYFrPPq0YaXS2sEMBVZNJM0f2ydfUMFREw/s1600/office-sheet.jpg"
-    },
-    {
-      "title": "Wikimedia: Rogue OpenAI agents behind unauthorized Wikipedia edits",
-      "link": "https://www.bleepingcomputer.com/news/security/rogue-openai-agents-behind-potentially-malicious-wikipedia-edits/",
-      "description": "The Wikimedia Foundation says rogue OpenAI agents made unauthorized Wikipedia edits and may have been partially responsible for a May outage. [...]",
-      "pubDate": "2026-10-06T11:31:48.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/06/Wikipedia.jpg"
     },
     {
       "title": "Wikimedia Says OpenAI Agents Tried to Compromise Etherpad and Use Wiki Tools as Proxies",
@@ -485,15 +557,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/05_Malware_Category_1920x900-1.jpg"
-    },
-    {
-      "title": "Nikkei discloses breaches of employees’ Microsoft, Google email accounts",
-      "link": "https://www.bleepingcomputer.com/news/security/nikkei-discloses-breaches-of-employees-microsoft-google-email-accounts/",
-      "description": "Over the weekend, Japanese publishing giant Nikkei disclosed that unknown attackers recently breached two employee email accounts and used one to send thousands of phishing emails. [...]",
-      "pubDate": "2026-10-06T09:25:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/06/Nikkei.jpg"
     },
     {
       "title": "Google Pauses OSS Product Bug Bounty Rewards After Surge in Invalid Automated Reports",
@@ -910,15 +973,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/pentagon-breach.jpeg"
     },
     {
-      "title": "South Africa Seeks Help After Cyberattack Targets Air Traffic Control",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/south-africa-help-cyberattack-air-traffic-control",
-      "description": "As aviation infrastructure suffers more cyberattacks, air traffic systems are the latest target, with a ransomware toolkit installed on at least one operational network.",
-      "pubDate": "2026-09-30T07:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4eff7c6bb4fca152/6abc296fa6381769c5d9ff08/johannesburg-airport-south-africa-EQRoy-shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Phishing Abuses RMM Tools for Persistent Access",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/phishing-abuses-rmm-tools-persistent-access/",
       "description": "Microsoft observed phishing campaigns that abused MSP360 RMM to deploy ScreenConnect, creating redundant remote-access channels for follow-on activity The post Phishing Abuses RMM Tools for Persistent Access appeared first on Microsoft Security Blog.",
@@ -926,24 +980,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-84.webp"
-    },
-    {
-      "title": "Apple Zero-Day Vulnerability Weaponized in Targeted Attacks",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/apple-zero-day-vulnerability-weaponized-targeted-attacks",
-      "description": "Attackers are exploiting CVE-2026-86950, an out-of-bounds write flaw, in an extremely sophisticated fashion, according to Apple.",
-      "pubDate": "2026-09-29T21:31:29.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd977dfac5d79a983/6abc2f1fdbde378922f45c35/apple_tetrisfun_shutterstock_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Unsloth Studio Flaw Turns Routine Model Inspection Into Code Execution",
-      "link": "https://www.darkreading.com/application-security/unsloth-studio-flaw-model-inspection-code-execution",
-      "description": "A patched Unsloth Studio vulnerability allows malicious AI models to execute arbitrary Python code during inspection, via the trust_remote_code setting.",
-      "pubDate": "2026-09-29T21:08:42.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt8798a931788fea60/6abc103774949935866a41da/sloth-webguzs-GettyImages-2249770137.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "​​Beyond source code: A path to the keys to the kingdom",
@@ -1126,15 +1162,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "CrowdStrike SafeMind: When the Best Offense Builds the Best Defense",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-safemind-best-offense-builds-best-defense/",
-      "description": "",
-      "pubDate": "2026-09-17T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Smashing Security podcast #485: These researchers got drunk to hack an LG TV",
       "link": "https://grahamcluley.com/smashing-security-podcast-485/",
       "description": "Researchers wanted to test if LG's smart TVs come with any security risks - but their lawyers noticed a snag: the terms and conditions would forbid it. So they came up with a solution. They got plastered before setting up the TV, on the reasoning that you can't be legally bound to a contract you agreed to while drunk. What they discovered will make you look at your TV rather differently... Meanwhile, awful Android malware with the audacious name \"Awesome\" (in Indonesian) is doing the rounds, stealing your data, demanding a ransom, and then giving you a \"jump scare\"... Plus, in our featured int",
@@ -1151,15 +1178,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Myth-Busting_Overview_1920x900.jpg"
-    },
-    {
-      "title": "CrowdStrike Accelerates Real-Time Data Classification with On-Device AI",
-      "link": "https://www.crowdstrike.com/en-us/blog/crowdstrike-accelerates-real-time-data-classification-with-on-device-ai/",
-      "description": "",
-      "pubDate": "2026-09-16T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
       "title": "Former AT&T store worker jailed after moonlighting as a SIM-swap gang’s inside man",
@@ -1315,15 +1333,6 @@
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/01_Malware_Category_1920x900-5.jpg"
     },
     {
-      "title": "Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety",
-      "link": "https://unit42.paloaltonetworks.com/perturbation-probing-llm-safety/",
-      "description": "New research reveals that AI safety refusal lives in a thin neural layer, highlighting the critical need for external, multi-layered security. The post Perturbation Probing: A New Diagnostic for the Fragility of LLM Safety appeared first on Unit 42.",
-      "pubDate": "2026-08-28T22:00:07.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/08/02_General_Overview_1920x900.jpg"
-    },
-    {
       "title": "Shai-Hulud hackers: two men charged over TeamPCP’s global supply chain crime spree that hit OpenAI, and thousands more",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/shai-hulud-hackers-charged-teampcps",
       "description": "More than 1,000 organisations, 500,000 stolen credentials, and one self-propagating worm named after a Dune sandworm - two men now face charges over TeamPCP's global hacking spree. Read more in my article on the Hot for Security blog.",
@@ -1367,15 +1376,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/68/30/92bf-twittercard-tag-name-js-twitter.png"
-    },
-    {
-      "title": "Malicious Firefox add-ons caught stealing cryptowallet seed phrases and browser credentials",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/malicious-firefox-add-ons-stealing-cryptowallet-seed-phrases-browser-credentials",
-      "description": "Every time you add an extension or plugin to your browser, there's a risk that you might be doing more than managing your cryptocurrency wallet, generating passwords, taking notes, or tracking sports results. There's a chance that you have just handed a complete stranger access to your savings. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-08-24T15:00:02.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/08/firefox-addons.jpeg"
     },
     {
       "title": "Weekly Update 518: IoT Doorlock Nirvana with UniFi",
