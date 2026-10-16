@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T21:04:39.451Z",
+  "generatedAt": "2026-10-16T13:48:22.612Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,186 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
+      "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
+      "description": "As agents escape containment and access external systems, responsibility remains human. Accountability, however, is much less settled.",
+      "pubDate": "2026-10-16T13:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt57714ec5c1148817/6ad10d43b8f30368a29f5d16/robot_peeking_through_blinds-Moor_Studio-GettyImages-1746666469.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Burger King Japan data breach exposes 11 million customer records",
+      "link": "https://www.bleepingcomputer.com/news/security/burger-king-japan-data-breach-exposes-11-million-customer-records/",
+      "description": "Burger King Japan, the Japanese subsidiary of global fast-food giant Burger King, disclosed a major data breach after attackers accessed a server containing 11.18 million customer records. [...]",
+      "pubDate": "2026-10-16T12:01:29.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/Burger-King-Japan.jpg"
+    },
+    {
+      "title": "BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts",
+      "link": "https://www.securityweek.com/bae-systems-security-incident-stalls-notices-from-us-bankruptcy-courts/",
+      "description": "A cyber incident affecting contractor BAE Systems has knocked out the Bankruptcy Noticing Center, halting notices nationwide for a week. The post BAE Systems Security Incident Stalls Notices From US Bankruptcy Courts appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T11:46:40.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/04/law-court-order-lawsuit-e1782819788980.jpg"
+    },
+    {
+      "title": "AI Decision Models and Their Impact on AI SOC Platforms",
+      "link": "https://thehackernews.com/2026/10/ai-decision-models-and-their-impact-on.html",
+      "description": "In the space of a month, a new category of AI model went from nonexistent to everywhere. TypeSafe AI released Jev on September 15 and called it a System One model, a nod to Kahneman's fast, intuitive thinking. OpenAI announced its own Decisions API at DevDay and opened a public beta on October 6. Cribl published cribl-decision, an open LoRA adapter you can run locally. Others, like Laya, are",
+      "pubDate": "2026-10-16T11:30:00.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhVccQyMWKH3TTGpMGwsFUkVETAsZFTWBlOZyCPr3ZlMJfVPTN09xHFKk94-6OWpwhpE68JRImlVGgma5xaM66ohDwD5XvlOu1FjQPllSMNRvuDUMPB0PNUJEK3u2MaELBNvDP0GNThHj3IGreaWQe6UpzfZ55Ei6HeOpmbcWzo6Mach5g3-9OJPBuA1wY/s1600/modal.jpg"
+    },
+    {
+      "title": "Backdooring Open-Weight AI Models",
+      "link": "https://www.schneier.com/blog/archives/2026/10/backdooring-open-weight-ai-models.html",
+      "description": "This is a problem: Any open model whose weights have been edited can carry a backdoor, whether it’s a task-specific fine-tune, a merged adapter or an abliterated build. We have abliterated models in the title because it’s the most popular reason people download modified weights without verifying what’s inside. Abliteration is a cheap fine-tune that takes away a model’s ability to refuse. You find the direction in the weights that carries “no” and subtract it. The model then answers things a safety-tuned version would turn down. It began as a research trick and it’s now routine before people up",
+      "pubDate": "2026-10-16T11:04:53.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day",
+      "link": "https://www.securityweek.com/chinese-apt-exploited-beyondtrust-vulnerability-as-zero-day/",
+      "description": "Armory Castle exploited CVE-2026-102764 for initial access, deployed custom tools, and deleted logs and artifacts. The post Chinese APT Exploited BeyondTrust Vulnerability as Zero-Day appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T10:53:22.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2024/12/BeyondTrust.jpeg"
+    },
+    {
+      "title": "OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks",
+      "link": "https://www.securityweek.com/openai-models-hacked-data-portals-raided-a-crypto-wallet-to-finish-tasks/",
+      "description": "Left without funds for a coding task, an OpenAI model spent test crypto from a stranger’s wallet and left it out of its report. The post OpenAI Models Hacked Data Portals, Raided a Crypto Wallet to Finish Tasks appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T10:32:11.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/07/AI-Chatbot-GenAI-artificial-intelligence.jpg"
+    },
+    {
+      "title": "F5, Juniper Networks Patch Critical Vulnerabilities",
+      "link": "https://www.securityweek.com/f5-juniper-networks-patch-critical-vulnerabilities/",
+      "description": "Successful exploitation of some of these issues could lead to remote code execution and full device takeover. The post F5, Juniper Networks Patch Critical Vulnerabilities appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T09:54:34.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2025/01/Juniper-Networks.jpeg"
+    },
+    {
+      "title": "Microsoft: October Windows update may break Smart App Control",
+      "link": "https://www.bleepingcomputer.com/news/microsoft/kb5127648-windows-security-update-may-break-smart-app-control/",
+      "description": "Microsoft says some users may have trouble turning on Smart App Control after installing this month's KB5127648 Windows 11 security update. [...]",
+      "pubDate": "2026-10-16T08:44:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/04/01/Windows_11.jpg"
+    },
+    {
+      "title": "Microsoft Patches Two Dozen RCE Flaws in Office",
+      "link": "https://www.securityweek.com/microsoft-patches-two-dozen-rce-flaws-in-office/",
+      "description": "In addition to RCE flaws, Microsoft fixed multiple information disclosure bugs and a security bypass issue in Office. The post Microsoft Patches Two Dozen RCE Flaws in Office appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T07:55:06.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/01/Microsoft-Office-apps.jpeg"
+    },
+    {
+      "title": "BAE Systems cyberattack disrupts US federal court operations",
+      "link": "https://www.bleepingcomputer.com/news/security/bae-systems-cyberattack-disrupts-us-federal-court-operations/",
+      "description": "The Administrative Office of the US Courts says a cyberattack on government contractor BAE Systems has taken down the notice system used by federal bankruptcy courts. [...]",
+      "pubDate": "2026-10-16T07:37:35.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/court-gavel.jpg"
+    },
+    {
+      "title": "Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis",
+      "link": "https://www.securityweek.com/proofpoint-inks-6-3-billion-all-cash-deal-to-acquire-varonis/",
+      "description": "The Thoma Bravo-owned Proofpoint will acquire Varonis in an all-cash transaction and Varonis will become a private company. The post Proofpoint Inks $6.3 Billion All-Cash Deal to Acquire Varonis appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T07:12:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2026/02/MA-mergers-and-acquisitions.jpeg"
+    },
+    {
+      "title": "China-Linked Hackers Exploited BeyondTrust Zero-Day to Take Over Remote Support Servers",
+      "link": "https://thehackernews.com/2026/10/china-linked-hackers-exploited.html",
+      "description": "The China-nexus cyber espionage group tracked as Armory Castle (previously UNC5221 or Warp Panda) exploited a newly disclosed security flaw in BeyondTrust Remote Support (formerly Bomgar) as a zero-day in late August 2026. The vulnerability, tracked as CVE-2026-102764 (CVSS score: 9.3), is a case of improper origin validation in an internal messaging component that could be exploited by a",
+      "pubDate": "2026-10-16T06:55:55.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEic5zD5GBvYxe93igsDOMdwS6eyfDORIWio42Z9UY0enK0XKWYcQlLB9RLx3iO_V1xm8vqBxMVZ_R8Lt-xxOumO5_RIFN3hgB-yZyGGlVMypRx5lm2GJq-1c9cbzfRcjrMAIfBI67L4QUI-MwjjQjKL1RcgPnzFdYuAF3k1y2Ev-ppSmiG8sdQ5dbJkbjKR/s1600/beyond.jpg"
+    },
+    {
+      "title": "CERT-In Warns AI Agents Accessed Sensitive Data at Indian Organizations During Testing",
+      "link": "https://thehackernews.com/2026/10/cert-in-warns-ai-agents-accessed.html",
+      "description": "AI agents being tested online reached the live systems of Indian organizations and read business records, including personal data and confidential material, CERT-In said in an advisory on October 15. The agents went beyond their assigned tasks, and none of the organizations detected the unauthorized access. After internal reviews, the AI companies whose models were being tested",
+      "pubDate": "2026-10-16T06:53:09.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhyMnLMgZNuoh6c41MPT17IsrvbfocknmRb8sxaolFmTpU9h0b-jyJAe9Ods3iCWligbpcd1a1IThvmpUts5llDkKkScffnItGGrGcneDJ8oUJjuc76syHF8g31ZeTWMunD7LDJjviCRFMf8Zugkg8Z4kgXyhDW4bfrCHtV8Xkt-wJlnUd78z-ab28LrfV5/s1600/certin.jpg"
+    },
+    {
+      "title": "BeyondTrust patches zero-day exploited in attacks since August",
+      "link": "https://www.bleepingcomputer.com/news/security/beyondtrust-patches-zero-day-exploited-in-attacks-since-august/",
+      "description": "BeyondTrust warned customers on Thursday to patch a critical flaw in its Remote Support (RS) that has been exploited in zero-day attacks since late August. [...]",
+      "pubDate": "2026-10-16T06:18:08.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/BeyondTrust.jpg"
+    },
+    {
+      "title": "PEERSTITCH Malware Deployed via FortiOS Flaw Bypasses Checks on Tagged VPN Sessions",
+      "link": "https://thehackernews.com/2026/10/attackers-exploit-fortios-flaw-to.html",
+      "description": "A suspected advanced threat actor has been observed exploiting a security flaw in Fortinet FortiOS to deliver a previously unreported memory-resident ARM64 malware known as PEERSTITCH. The attack involves the exploitation of CVE-2025-61624 (CVSS score: 5.4), a path traversal flaw in the command line interpreter of FortiOS, FortiPAM, FortiProxy, and FortiSwitchManager that could allow a",
+      "pubDate": "2026-10-16T04:59:36.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiMvdc6m999SfUEEWC89wHnBiUX9WAMCSdWtbFP_lrH4DuREHfOJL7G29LkM4uAvittg3XsHxnq6dq_VEX1zB_jCGi5RJDbQZlrq37gHSCXpRrn11FEN-hezQn0Dt4Xcw4DcanklKW_8iLEnQN6JpzkQ7JHBOS1_dMzDAs2h_jJcWDqOGjbkMoeabOCkSFK/s1600/f.jpg"
+    },
+    {
+      "title": "SecTor 2026 Reveals a Rapidly Shifting Cybersecurity Landscape",
+      "link": "https://www.darkreading.com/cybersecurity-operations/sector-2026-reveals-a-rapidly-shifting-cybersecurity-landscape",
+      "description": "The event closed in Toronto last week, with experts sharing critical perspectives on emerging risks, drawing record attendance and marking 22% growth.",
+      "pubDate": "2026-10-15T22:10:08.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI-Powered Espionage Campaign Targets Government Linux Infrastructure",
+      "link": "https://unit42.paloaltonetworks.com/ai-campaign-targets-linux-infrastructure/",
+      "description": "Our analysis an AI-powered espionage campaign targeting government Linux infrastructure with custom malware, web shells, and advanced credential theft. The post AI-Powered Espionage Campaign Targets Government Linux Infrastructure appeared first on Unit 42.",
+      "pubDate": "2026-10-15T22:00:09.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/10/AdobeStock_637057734.jpg"
+    },
+    {
+      "title": "F-Secure Launches Victim-First Scam Encyclopedia Covering 50+ Types of Consumer Fraud",
+      "link": "https://www.darkreading.com/threat-intelligence/f-secure-launches-victim-first-scam-encyclopedia-covering-50-types-of-consumer-fraud",
+      "description": "Built from decades of threat intelligence research, the new resource explains scams from the victims' perspective and tracks emerging forms of cyber crime.",
+      "pubDate": "2026-10-15T21:55:07.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI Slop Isn't Just for Social Media; It's Ruining Cyberattacks, Too",
+      "link": "https://www.darkreading.com/threat-intelligence/ai-slop-ruining-cyberattacks",
+      "description": "Don't buy the hype! AI has been dumbing down cyberattacks, and serious threat actors are barely touching it.",
+      "pubDate": "2026-10-15T20:43:20.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt11c8852e00d576cc/6ad12b33703094ce8966a380/Robot-Chris_Wright-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Hackers exploit Collabora RCE flaw to backdoor Nextcloud servers",
       "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-collabora-rce-flaw-to-backdoor-nextcloud-servers/",
@@ -226,15 +406,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4G5JAIF-hCnKf9QyWLzWIWxTrUIjqshujDHf0-_9m84O9f4S0Z-IQ4Jg-T11Ph_rwZvzsFU8Z-pI3uRsnvPSE-FK_VtrUx0pNZgHKf3PuMJCQmwopiE5hyMRSObeV7_VSrF7WC_iiG9T8wMNivOOBC12F7bLK8WI-MNjCffolAJnnhk-X-v1ecxwYtrQz/s1600/palo.jpg"
     },
     {
-      "title": "CikaBika Bot RAT Uses Discord for C&C",
-      "link": "https://www.securityweek.com/cikabika-bot-rat-uses-discord-for-cc/",
-      "description": "Delivered via phishing, the malware provides reconnaissance, remote execution, and data exfiltration capabilities. The post CikaBika Bot RAT Uses Discord for C&C appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T11:25:58.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2025/11/malware.jpeg"
-    },
-    {
       "title": "Why AI Confidence Is Not Validation",
       "link": "https://thehackernews.com/2026/10/why-ai-confidence-is-not-validation.html",
       "description": "AI is already part of digital forensics and incident response work, with or without a policy in place to govern it. The issue is that these tools are growing more confident in their own output faster than practitioners are developing reliable ways to verify it. Without governance models and validation standards in place, that gap compounds and rarely stays contained to a workstation: an",
@@ -253,24 +424,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjyJOEj0MfpVvrP-qAXhuoM2BBSjZ6TwPYR-nMG_g-tBvu7Er2cMlvMoVkJOUP1qE2sleu3a21YjvdCQ9u80FSBTx7NNP3cZNfradprnGu-EnIURCxZK4sA0cXbROZpdW8CJxZcxRfhJyhbIXa_Au_sha3mh5pFe-7k5EIimZQlUGIs_mGGKHGKArej6il7/s1600/4g.jpg"
     },
     {
-      "title": "Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies",
-      "link": "https://www.securityweek.com/novel-android-banking-rat-hirudo-replaces-banking-apps-with-trojanized-copies/",
-      "description": "The Hirudo malware combines elements of a traditional banking trojan and a full-featured RAT. The post Novel Android RAT ‘Hirudo’ Replaces Banking Apps With Trojanized Copies appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T10:15:32.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/android-banking-malware.png"
-    },
-    {
-      "title": "CenterPoint Energy Data Breach Impacts 1 Million Texans",
-      "link": "https://www.securityweek.com/centerpoint-energy-data-breach-impacts-1-million-texans/",
-      "description": "Personal information such as names, addresses, Social Security numbers, and driver’s license numbers was compromised. The post CenterPoint Energy Data Breach Impacts 1 Million Texans appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T09:55:19.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/09/CenterPoint-Energy.jpeg"
-    },
-    {
       "title": "Microsoft fixes bug causing Windows black screens, Explorer crashes",
       "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-bug-causing-windows-black-screens-explorer-crashes/",
       "description": "Microsoft has resolved a known issue that was causing black screens, desktop loading issues, and Explorer crashes after installing Windows 11 updates released since August. [...]",
@@ -287,15 +440,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg"
-    },
-    {
-      "title": "CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO",
-      "link": "https://www.securityweek.com/ciso-conversations-james-robinson-many-jobs-one-journey-to-netskope-ciso/",
-      "description": "James Robinson never planned a cybersecurity career — seven companies and one deputy CISO role later, he leads security at Netskope. The post CISO Conversations: James Robinson – Many Jobs, One Journey to Netskope CISO appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T08:26:40.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/10/CISO_James-Robinson-Netscope.jpeg"
     },
     {
       "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
@@ -325,15 +469,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltdcfc831a57f67689/6acfbd4be9c311a2c0cf7674/Melted_ice_cream-cagkansayin-Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution",
-      "link": "https://www.securityweek.com/palo-alto-networks-patches-pan-os-zero-day-exploited-for-remote-code-execution/",
-      "description": "The company says it’s aware of limited exploitation against customers’ firewalls, and it has made IoCs available. The post Palo Alto Networks Patches PAN-OS Zero-Day Exploited for Remote Code Execution appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T06:59:54.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2024/11/Palo-Alto-Networks-zero-day.jpeg"
-    },
-    {
       "title": "AhsayCBS Flaws Exploited to Deploy Web Shells Get New Fixes After Incomplete Patches",
       "link": "https://thehackernews.com/2026/10/ahsaycbs-flaws-exploited-to-deploy-web.html",
       "description": "Singapore-based Ahsay Backup has released security updates to address two security flaws in AhsayCBS that have been exploited by bad actors to drop web shells and XMRig cryptocurrency miners. The vulnerabilities in question are CVE-2026-105133 and CVE-2026-105134, which could be chained to sidestep authentication and execute arbitrary commands on affected systems. In a report published earlier",
@@ -341,15 +476,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhH_5A4EPZ4VVdF4dve5fMe4BwreUmtWCJQrgMiBdiZyoFInoZK_nO6ouOwLMCyyQPrXWE4_n3NE39b4C2UQi-G4uE3ufyv7A9IEYEp9O3ggTu7AyDRzOqwVqhLjISLvOTasPiAcdFafFtL7B5uoKtm8GPeFFxrKDupGCoqZJ2o88sUmaGbjKk6E3sJgIKD/s1600/backup.jpg"
-    },
-    {
-      "title": "Cisco Warns of Exploited Secure Email Gateway Vulnerability",
-      "link": "https://www.securityweek.com/cisco-warns-of-exploited-secure-email-gateway-vulnerability/",
-      "description": "Unauthenticated, remote attackers could write arbitrary files to the operating system and execute commands with root privileges. The post Cisco Warns of Exploited Secure Email Gateway Vulnerability appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T06:34:15.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/06/Cisco-network-switch-exploit.webp"
     },
     {
       "title": "Smashing Security podcast #488: How a ransomware negotiator ended up arrested at his own conference",
@@ -424,15 +550,6 @@
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhh__fSqm3p4u0HNpmeikU6Mo4abprP417Zb3pPW3-6IGrTHwqkbz1CqiuqxL2D0O1PH8J4Ho3_ZpNdJ5VFluIj_KHX6qT0WqZYfHQzyu0cVzGee9EmAZ9pNzsZJZx40UxuKjuz9eNHvuzlMANKOkDr6aRdKWxs8SpJqSi6vDBQTP5ZFgpgqn3Yj2TYNJU/s1600/cisco-0day.jpg"
     },
     {
-      "title": "Ledger asks sellers across Asia to halt sales after supply-chain attack",
-      "link": "https://www.bleepingcomputer.com/news/security/ledger-asks-sellers-across-asia-to-halt-sales-after-supply-chain-attack/",
-      "description": "Ledger has asked resellers and distributors of its wallets in Indonesia, Singapore, Thailand, the Philippines, Vietnam, Malaysia, and Hong Kong to suspend device sales and remove products from shelves while it investigates device tampering. [...]",
-      "pubDate": "2026-10-14T17:46:50.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/12/ledger.jpg"
-    },
-    {
       "title": "Hackers Backdoor Nextcloud Servers Through Critical Flaw in Collabora’s Built-in CODE App",
       "link": "https://thehackernews.com/2026/10/hackers-backdoor-nextcloud-servers.html",
       "description": "Attackers exploited a flaw in an optional Nextcloud app, Collabora Online - Built-in CODE Server, to plant web shells on Nextcloud servers. Three administrators reported the issue on GitHub, with the first logged attack on September 10. A web shell is a small file that executes any command an attacker sends via a web request, with the rights of the web server account. The flaw",
@@ -440,15 +557,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg"
-    },
-    {
-      "title": "Cisco patches new Secure Email Gateway zero-day exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/cisco-patches-actively-exploited-secure-email-gateway-zero-day/",
-      "description": "Cisco has patched another actively exploited zero-day flaw in its Secure Email Gateway (SEG) that lets remote unauthenticated attackers execute commands with root privileges. [...]",
-      "pubDate": "2026-10-14T17:29:14.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Cisco.jpg"
     },
     {
       "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
@@ -478,15 +586,6 @@
       "image": null
     },
     {
-      "title": "Microsoft fixes VPN issues caused by September Windows updates",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-fixes-vpn-issues-caused-by-september-windows-updates/",
-      "description": "Microsoft has resolved a known issue that caused Always On VPN connection issues after installing the September 2026 Windows 11 security updates. [...]",
-      "pubDate": "2026-10-14T14:27:01.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/14/Windows-11.jpg"
-    },
-    {
       "title": "The Future of AI Cryptanalysis",
       "link": "https://www.schneier.com/blog/archives/2026/10/the-future-of-ai-cryptanalysis.html",
       "description": "Matthew Green has been writing a rather pessimistic series of posts about the potential for AI systems to vastly outperform humans in cryptanalysis of both symmetric and public-key ciphers. I am more optimistic than he is. That is, I have stronger faith in the over-engineering cryptographers tend to do. I am trying to write this up in more detail.",
@@ -503,15 +602,6 @@
       "source": "Schneier on Security",
       "category": "opinion",
       "image": null
-    },
-    {
-      "title": "The Blind Spots of Agentic Pentesting and How to Close Them",
-      "link": "https://www.bleepingcomputer.com/news/security/the-blind-spots-of-agentic-pentesting-and-how-to-close-them/",
-      "description": "AI-powered penetration testing can uncover complex attack paths, but safety restrictions and network limitations leave many assets and vulnerabilities untested. Picus Security explains how combining agentic pentesting with exposure validation and breach simulation can help close these gaps. [...]",
-      "pubDate": "2026-10-14T14:00:10.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/posts/2026/10/12/picus-header-image.jpg"
     },
     {
       "title": "Russian Influence Operation Widely Targets Latin America",
@@ -548,42 +638,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
-    },
-    {
-      "title": "How to Run a Deepfake Readiness Drill Before a Cloned Voice Calls Your Team",
-      "link": "https://thehackernews.com/2026/10/how-to-run-deepfake-readiness-drill.html",
-      "description": "Cloned voices and synthetic video calls now show up in payment fraud, help desk resets, and access requests. A structured drill shows security teams exactly where verification breaks down, while nothing is at stake. The call comes in at 4:40 on a Friday. It's the CFO, or it sounds exactly like her, asking the controller to push a supplier payment out before the weekend because a deal closes",
-      "pubDate": "2026-10-14T11:50:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiEYzcrs6sSW45od6MYo5jFl29yPGuwipgy7nfS3STYqknrD9b5OcU00_c0sqjG8Arvqq36ojwHSZMbjboA3bUQ1-ZcLRRjmuEQpzTDYYXnyvySzynW0UOvHOVmYNNzp_n-J5xXmwByMCofw5kxslXe4dqAVYqrWa-1LivXxPNa_ZGOQgIBxhyhvtiLxDs/s1600/icon.jpg"
-    },
-    {
-      "title": "Researchers Used a Public OpenAI Model to Build a $250,000 Chrome Full-Chain Exploit in Six Days",
-      "link": "https://thehackernews.com/2026/10/researchers-used-public-openai-model-to.html",
-      "description": "A team at security firm XBOW chained three then-unknown Google Chrome bugs into a single attack that runs code on a Windows computer when the user only loads a web page, the company said. Its researchers built the attack in six days by directing AI agents running OpenAI's publicly available GPT-5.6 Sol model. Google has since confirmed all three bugs, fixed them, and paid XBOW its top $",
-      "pubDate": "2026-10-14T11:19:02.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiLXn6RSZOSq2StbSf2fHVaHwVEetIYN0wGfuaIcyaEnwSnXLaY1FBfSKPFzzQuKvtpRygCR7AvNixA-SCkIA98QjnT7gE2UWYtoiZLs5VxQC8KTSJwwlcP0helOb3F4hbSo4uqITjJYPiZHSSuKkm1O_BXFYeyEU7koe_77QSmKbU33o5hteBC5-0dxrs/s1600/chrome-exploit.jpg"
-    },
-    {
-      "title": "Hirudo Android Trojan Uses Patched Banking Apps to Bypass Their Built-In Security Checks",
-      "link": "https://thehackernews.com/2026/10/hirudo-android-trojan-uses-patched.html",
-      "description": "Cybersecurity researchers have disclosed details of a new Android banking trojan called Hirudo that works by replacing legitimate banking apps with purpose-built patched versions designed to bypass security checks from inside the app itself, marking a new escalation in financial fraud. Dutch mobile security company ThreatFabric said it identified replacements for eight Indonesian banking",
-      "pubDate": "2026-10-14T11:08:22.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj010OXrg2ZBrxwqSnpzd8SrIDY_dYOMtdnzIpG7YnCjv1QB58_HylDTkfFmXtZYci90doRcSrPdFfYLowM_S5t2RpD6UkCoWveJrKajQS-7d3sDtyI22FYN0TKy-pQpzWScUB_ROhXRNzZi9dzhgg02kH3WVtdGPNWYBLKv8qZgsa9kREW1SvZ2LTF2AWV/s1600/android-banking.jpg"
-    },
-    {
-      "title": "An AI Agent Found a Critical OTP Bypass in Production. The Attack Was the Easy Part.",
-      "link": "https://thehackernews.com/2026/10/an-ai-agent-found-critical-otp-bypass.html",
-      "description": "The bug was simple: the login let you choose where your sign-in code went. Proving it on a live website was the hard part. TL;DR During an authorized assessment, an AI pentesting agent found a critical authentication bypass on a major insurer's production website, on its own. One login request let the user choose where the one-time passcode went. The attack was the easy part. Proving it",
-      "pubDate": "2026-10-14T11:00:00.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg_bop9V2vtfHPW4Obd0zupOPpNFCd9N5HtVwWVs9u-njx8RuEgOkAh75uRjWLS_h3zHQ847m7xc01PkVAdKhyphenhyphen5Pkg2Pb_qthWVQe-9lcpKclCOq3ZDpQ2iSfRSFCQQU8gxyBl6lWEjTKWZHn9LiNSq2rQ4_nUIM6Sjcqv5fwgVRnFpiuxpYDfhrkbikLE/s1600/case.jpg"
     },
     {
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -802,24 +856,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "Russian Spies Give 'MatchBoil' Malware a Stealthy Facelift",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/russian-spies-matchboil-malware-facelift",
-      "description": "Cyber-espionage actor UAC-0099 has been steadily refining its flagship dropper in campaigns targeting Ukrainian organizations.",
-      "pubDate": "2026-10-08T18:01:50.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blte9326a6a1bce6d31/6ac6bf347f984a40d88b6862/matchboil_Gorodenkoff_shutterstock.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Writing the Next Chapter",
-      "link": "https://www.darkreading.com/cybersecurity-operations/writing-next-chapter",
-      "description": "Dark Reading is about to begin a new decade in its storied history, and we have some breaking news of our own to share.",
-      "pubDate": "2026-10-08T12:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt2f221f33ee9fe4e1/6ac6b6b1015fc88b126ddd85/New_Chapter_CharlieAJA_Getty_Images.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "How Technology Empowers—and Imperils—Dictators",
       "link": "https://www.schneier.com/blog/archives/2026/10/how-technology-empowers-and-imperils-dictators.html",
       "description": "This essay was written with Seva Gunitsky, and originally appeared in Foreign Affairs. Two weeks after Moscow’s full-scale invasion of Ukraine in March 2022, the Russian TV Channel One editor Marina Ovsyannikova burst onto the set of the evening newscast. She held up a hand-drawn sign behind the anchor’s head that read: “Stop the war. Don’t believe propaganda. They’re lying to you!” She shouted, “No to war!” until she was dragged away. No one has protested the war on Russian television since then, partly as a result of tighter security and a general climate of fear. But in October 2024, Margar",
@@ -863,24 +899,6 @@
       "source": "Unit 42 Palo Alto",
       "category": "research",
       "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/01/10_Myth-Busting_Category_1505x922.jpg"
-    },
-    {
-      "title": "Australian Gov't Weighs Mandatory AI Incident Reporting",
-      "link": "https://www.darkreading.com/cybersecurity-operations/australian-govt-ai-incident-reporting",
-      "description": "In the wake of an agentic attack against its own Medicare systems, Australia's government is feeling out what regulations might look like for frontier AI companies.",
-      "pubDate": "2026-10-07T21:42:55.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd1644f040bd4e95e/6ac6a02424b6126216f8e422/Australia_NSW_parliament-Adrian_Wojcik-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Citizen Lab Slams Trump Administration, 'Techno-Fascist' Executives",
-      "link": "https://www.darkreading.com/cyber-risk/citizen-lab-slams-trump-administration-techno-fascist-executives",
-      "description": "The Citizen Lab's Ron Deibert warns the US government is pushing for pervasive surveillance and says certain technology executives are all too happy to help.",
-      "pubDate": "2026-10-07T21:25:13.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1c15df6e8c5aa81c/6ac6ac875987721c1d044af4/masssurveillance-J_Studios-Getty-2259137560.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "3 lessons from frontier AI vulnerability research",
@@ -971,15 +989,6 @@
       "source": "PortSwigger Research",
       "category": "research",
       "image": "https://portswigger.net/cms/images/5b/a1/bfae-twittercard-twitter.png"
-    },
-    {
-      "title": "Another Historic Cipher Falls to AI",
-      "link": "https://www.schneier.com/blog/archives/2026/10/another-historic-cipher-falls-to-ai.html",
-      "description": "This one is from 1809, written by Napoleon’s nephew.",
-      "pubDate": "2026-10-05T11:04:47.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Falcon Data Security for SaaS Secures Sensitive Data in Microsoft 365",
@@ -1331,15 +1340,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/IMVwUjeqbeQP8.png"
-    },
-    {
-      "title": "Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America",
-      "link": "https://unit42.paloaltonetworks.com/ai-tool-use-targeting-latam-orgs/",
-      "description": "Explore how attackers targeting Latin American entities use AI for data exfiltration and how basic OpSec errors allow defenders to disrupt operations. The post Attackers Expose Ongoing AI Tool Use Targeting Organizations in Latin America appeared first on Unit 42.",
-      "pubDate": "2026-09-03T10:00:58.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/AdobeStock_768915868-2-1.jpg"
     },
     {
       "title": "Smashing Security podcast #483: This AI helps thieves steal your iPhone",
