@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T17:51:31.751Z",
+  "generatedAt": "2026-10-16T23:19:02.039Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -19,7 +19,88 @@
   ],
   "items": [
     {
-      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "title": "Friday Squid Blogging: Squid Before the Chicxulub Meteor Impact",
+      "link": "https://www.schneier.com/blog/archives/2026/10/friday-squid-blogging-squid-before-the-chicxulub-meteor-impact.html",
+      "description": "New research shows that squid lived all around the globe even before the Cretaceous-Paleogene mass extinction event. As usual, you can also use this squid post to talk about the security stories in the news that I haven’t covered. Blog moderation policy.",
+      "pubDate": "2026-10-16T21:06:47.000Z",
+      "source": "Schneier on Security",
+      "category": "opinion",
+      "image": null
+    },
+    {
+      "title": "BeyondTrust Remote Support Zero-Day Continues Trend of Exploited Edge Bugs",
+      "link": "https://www.darkreading.com/endpoint-security/beyondtrust-remote-support-exploited-edge-bugs",
+      "description": "Ivanti, Cisco, and Palo Alto Networks all had vulnerabilities in edge devices come under fire this week. Now BeyondTrust joins the group.",
+      "pubDate": "2026-10-16T20:34:37.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt4a126b2e0eae913e/6ad27ebc7cb22e18dd04a52b/Locusts-ZU_09-Getty.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "link": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "description": "Researchers warn that hackers could soon exploit a maximum-severity vulnerability (CVE-2026-103849) affecting Magento and Adobe Commerce, potentially allowing them to execute arbitrary PHP code on store servers. [...]",
+      "pubDate": "2026-10-16T20:00:59.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/magento.jpg"
+    },
+    {
+      "title": "Fake Claude, ChatGPT Attacks Surge, Putting Developers at Risk",
+      "link": "https://www.darkreading.com/application-security/fake-claude-chatgpt-attacks-developers-risk",
+      "description": "Campaigns that impersonate popular AI brands are on the rise, and they typically use ClickFix-like tactics to target unsuspecting enterprise employees.",
+      "pubDate": "2026-10-16T19:49:30.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt1652c5132de5d8e6/6ad27799ee37e003e0d27496/airesults-Ekaterina_Goncharova-Getty-2173055307.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Biomemory Launches DNA Shield, First Commercial Product Built on Its Molecular IT Platform",
+      "link": "https://www.darkreading.com/data-privacy/biomemory-launches-dna-shield",
+      "description": "The launch follows the acquisition of catalog's assets and the appointment of Laurent Guengant as CEO earlier this year.",
+      "pubDate": "2026-10-16T19:22:12.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Enterprise AI Enters Risk Management Phase as Security Concerns Rise",
+      "link": "https://www.darkreading.com/cyber-risk/enterprise-ai-risk-management-phase-security-concerns-rise",
+      "description": "Companies are increasingly discovering that the challenge with AI is no longer adoption, but execution.",
+      "pubDate": "2026-10-16T19:13:59.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt850556f866500627/654a5a8e05eb4d040a046894/325351_DR23_Graphics_General_Large_Text_v1.png?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "AI Takes Control of Robotic Arm in 16 Minutes Flat",
+      "link": "https://www.darkreading.com/ics-ot-security/ai-takes-control-robotic-arm-16-minutes",
+      "description": "Most OT devices at utilities, factories, and elsewhere have been deployed for a decade or more, but operators need to get agile and deploy new cyber defenses.",
+      "pubDate": "2026-10-16T18:37:50.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
+      "link": "https://thehackernews.com/2026/10/researchers-demonstrate-openbsd-root.html",
+      "description": "A local privilege escalation exploit published today gains root on OpenBSD 7.9 by chaining a roughly 37-year-old integer overflow with a separate kernel flaw, bypassing OpenBSD's KARL kernel-address randomization and its SMAP and SMEP hardware protections. Security firm Calif, which found and reported the flaws, published a detailed writeup and full proof-of-concept code after OpenBSD shipped",
+      "pubDate": "2026-10-16T17:48:45.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgqmitTMm5t8BBKfynqzFAKqJSzh_s7fQczmMm5u95RLUUzuWMubd5DeM8e8EH6YOpP-_gvbYwn8Cd3flsL-nGIupBw5HOo49Orr7J2rqhI99J7U4LcXW6shlxd3w0zFAng1mLw5xGb-F9GRmpDK82GC1-Dcb1gPcvkgl4wVi0-QTEGalDwPmelGE0TtNU/s1600/openbsd.jpg"
+    },
+    {
+      "title": "Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026",
+      "link": "https://unit42.paloaltonetworks.com/top-5-initial-access-vectors-september-2026/",
+      "description": "Unit 42 details the top initial access vectors adversaries use to breach organizations, led by edge exploits, credential abuse and phishing The post Top 5 Initial Access Threat Vectors Observed by Unit 42 in September 2026 appeared first on Unit 42.",
+      "pubDate": "2026-10-16T17:47:54.000Z",
+      "source": "Unit 42 Palo Alto",
+      "category": "research",
+      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/07/06_Myth-Busting_Overview_1920x900.jpg"
+    },
+    {
+      "title": "Targeted ads installed Candiru spyware in zero-click attacks",
       "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
       "description": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
       "pubDate": "2026-10-16T17:20:03.000Z",
@@ -493,7 +574,7 @@
       "pubDate": "2026-10-15T09:10:20.000Z",
       "source": "Bleeping Computer",
       "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/08/27/Windows11.jpg"
+      "image": null
     },
     {
       "title": "GhostAction Compromises About 1,900 GitHub Accounts, Targets Over 30,000 Repositories",
@@ -503,15 +584,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiddFchlm_nV3vywI0BM2-8IaZb-wHXwE8DplGqZYkRmcYkeXiSLfVmnVAU-jM4yikWW7SWokanh_S4hq88cVHjAnaWDGkl3VVAtPdv9SHWp0MNb0CIOAA-I73EuwwUSE-wNMnXEzbIdDYorJn2hIuBZQ5Jh_5I2IntiXuUYZz3sKax-wfRoaxy_pD9kGx0/s1600/ghost-git.jpg"
-    },
-    {
-      "title": "UK Legal Aid Agency: Hackers stole records dating back to 1978",
-      "link": "https://www.bleepingcomputer.com/news/security/uk-legal-aid-agency-hackers-stole-records-dating-back-to-1978/",
-      "description": "The Legal Aid Agency (LAA), an executive agency of the UK's Ministry of Justice that manages the country's Public Defender Service, says attackers who breached its IT systems in April 2025 stole records dating back to 1978. [...]",
-      "pubDate": "2026-10-15T08:06:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/09/02/just-uk.jpg"
     },
     {
       "title": "Langflow's Critical Authenticated RCE Flaw Targeted in 1,423 Honeypot Exploit Attempts",
@@ -602,15 +674,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhkZLcjmZtzt6NpWa8x4Wz7EdcOQEW6xYv6DA_mBnwy1ctZZeRAyeSYLES-H_mkr1QOBv72WNuGKwKQ-NN179Rw8BRTcYO38sYwxcbDkg1ISW_qWrCRJ9JfUXh3102OmwrF0HQq6dbSc58VXACXoi_EoI8ysPuSlzB_nBcHuFl9r3QakOsGG9GUm6UVOU8/s1600/nextcloud.jpg"
-    },
-    {
-      "title": "Microsoft Disrupts 3 Phishing Kits Linked to Over 1 Billion Scam Messages",
-      "link": "https://thehackernews.com/2026/10/microsoft-disrupts-3-phishing-kits.html",
-      "description": "Microsoft and Health-ISAC, along with the Japan Cybercrime Control Center (JC3) and a coalition of private sector companies, such as Resecurity, Cloudflare, Oracle, Proofpoint, and TRM Labs, announced the disruption of three phishing kits, CoGUI (aka NX or FA), Haozi (aka Phoenix), and Iron Man System. \"Since January 2026, the threat actors behind these kits have been responsible for",
-      "pubDate": "2026-10-14T17:09:15.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
     },
     {
       "title": "Upcoming Speaking Engagements",
@@ -802,33 +865,6 @@
       "image": "https://www.schneier.com/wp-content/uploads/2026/10/IMG_5299-300w.jpg"
     },
     {
-      "title": "AI Scramble Drives Cybersecurity M&amp;A Boom",
-      "link": "https://www.darkreading.com/cybersecurity-analytics/ai-scramble-cybersecurity-ma-boom",
-      "description": "Welcome to another gangbuster year for strategic M&A activity in cyber, with 117 deals announced in the latest quarter. What's different: Many of the buyers are not your typical cybersecurity firms.",
-      "pubDate": "2026-10-09T19:26:26.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt465d1df1337deefb/6accd5bc4116728fc82a34f3/mergers-Jacob_Wackerhausen-Getty-2047978266.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "What We Missed: FBI Strikes Back at ShinyHunters",
-      "link": "https://www.darkreading.com/identity-access-management-security/fbi-shinyhunters-claims-hack",
-      "description": "In this video conversation, Dark Reading editors discuss some of the news they didn't get a chance to cover, from the arrest of a suspected ShinyHunters operative to the compromise of a Pentagon-run data center.",
-      "pubDate": "2026-10-09T17:21:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltd7326c761c708ed3/654e39e8a2ed90040a1595a2/FBI_hoody_jvphoto_Alamy.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Security Threats Don't Stop at the Office: Why Executives' Families Need Training, Too",
-      "link": "https://www.darkreading.com/cyber-risk/security-threats-don-t-stop-at-the-office-why-executives-families-need-training-too",
-      "description": "Those closest to executives must match their security postures because the weakest link in a family can become the entry point for attacks.",
-      "pubDate": "2026-10-09T16:25:05.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltf758cd9fb1671a68/6acfcadc6632e6b387874fb3/remotework-family-insta_photos-Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "$10 million bounty offered for Chinese Hafnium hacker accused of Microsoft Exchange Server mega-attack",
       "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/10-million-bounty-chinese-hafnium-hacker-microsoft-exchange-server-mega-attack",
       "description": "The US State Department is offering up to US $10 million for information about the whereabouts of Zhang Yu, a 44-year-old Chinese national who is accused of being a key figure in China's state-sponsored hacking group, Hafnium. Read more in my article on the Hot for Security blog.",
@@ -838,15 +874,6 @@
       "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/10/hafnium-bounty.jpeg"
     },
     {
-      "title": "Social Engineering AI Agents: The New BEC for 2026",
-      "link": "https://www.darkreading.com/cybersecurity-operations/social-engineering-ai-agents-bec-2026",
-      "description": "As AI agents gain authority over business systems, attackers can manipulate them like business email compromise (BEC) victims.",
-      "pubDate": "2026-10-09T13:00:00.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt509529652bae6ba5/6ac7de6c3ada349d7f093787/Digital_face-imaginima-GettyImages-2228383398.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "Post-quantum authentication: Why organizations should start testing certificate ecosystems now",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/08/post-quantum-authentication-why-organizations-should-start-testing-certificate-ecosystems-now/",
       "description": "Prepare for post-quantum authentication by testing certificate ecosystems now. Learn how Microsoft’s PQC TLS Pilot Program helps advance future readiness. The post Post-quantum authentication: Why organizations should start testing certificate ecosystems now appeared first on Microsoft Security Blog.",
@@ -854,15 +881,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/07/MS_Actional-Insights_Lock.jpg"
-    },
-    {
-      "title": "'AgentCorruption' Puts AWS Environments at Risk With Single Prompt",
-      "link": "https://www.darkreading.com/cloud-security/agentcorruption-aws-environments-at-risk-single-prompt",
-      "description": "A now-patched vulnerability in AWS Bedrock AgentCore could have allowed an attacker to use one AI chatbot to take over an organization's entire fleet.",
-      "pubDate": "2026-10-08T20:39:44.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "How Technology Empowers—and Imperils—Dictators",
@@ -962,15 +980,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/CISO-managing-risks.jpg"
-    },
-    {
-      "title": "Possible Vulnerability in Apple’s Automatic Reboot",
-      "link": "https://www.schneier.com/blog/archives/2026/10/possible-vulnerability-in-apples-automatic-reboot.html",
-      "description": "404Media is reporting (alternate link) that a cyber-weapons arms manufacturer is exploiting a vulnerability in iOS to bypass its automatic reboot security feature. This is the feature that automatically puts an iPhone into a more secure state if it hasn’t been used for 72 hours. The new technology to get around inactivity reboot was developed by Magnet Forensics, the company behind GrayKey, a popular tool sold to law enforcement agencies that allows them to unlock and access data stored in iPhones and Android smartphones. Magnet has developed a new device called GrayKey Preserve and a feature ",
-      "pubDate": "2026-10-06T11:06:46.000Z",
-      "source": "Schneier on Security",
-      "category": "opinion",
-      "image": null
     },
     {
       "title": "Blinder Tunnel Campaign Targets Iraqi Infrastructure",
@@ -1297,15 +1306,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/09/ss-episode-484.webp"
     },
     {
-      "title": "Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure",
-      "link": "https://unit42.paloaltonetworks.com/ppi-network-malware-campaign-analysis/",
-      "description": "An investigation into how cybercriminals used YouTube gaming lures and SEO poisoning to deliver multi-payload malware to enterprise networks. The post Untracked Nightmares: The Threats Hiding Behind Commodity Infrastructure appeared first on Unit 42.",
-      "pubDate": "2026-09-09T10:00:55.000Z",
-      "source": "Unit 42 Palo Alto",
-      "category": "research",
-      "image": "https://unit42.paloaltonetworks.com/wp-content/uploads/2026/09/04_Malware_Category_1920x900-6.jpg"
-    },
-    {
       "title": "CRPx0 ransomware: what you need to know",
       "link": "https://www.fortra.com/blog/crpx0-ransomware-what-you-need-know",
       "description": "CRPx0 is a cybercrime operation that started off operating a scam before pivoting into a fully-blown ransomware and cryptocurrency business. Read more in my article on the Fortra blog.",
@@ -1420,7 +1420,7 @@
       "pubDate": "2026-08-17T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Weekly Update 516: Live From Vietnam",
@@ -1483,7 +1483,7 @@
       "pubDate": "2026-07-31T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Weekly Update 514: This Week in Data Breaches",
@@ -1501,7 +1501,7 @@
       "pubDate": "2026-07-23T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Sophos Trusted Code",
@@ -1510,7 +1510,7 @@
       "pubDate": "2026-07-20T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Strengthening authentication with passkeys: A CISO playbook",
@@ -1519,7 +1519,7 @@
       "pubDate": "2026-04-22T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Cyber Advisory: Increased Cyber Risk Amid U.S.–Israel–Iran Escalation",
@@ -1528,7 +1528,7 @@
       "pubDate": "2026-03-01T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "The Active Adversary Report: Safety in numbers",
@@ -1537,7 +1537,7 @@
       "pubDate": "2026-02-24T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Nowhere, man: The 2026 Active Adversary Report",
@@ -1546,7 +1546,7 @@
       "pubDate": "2026-02-24T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "From Security Operations to Security Leadership: Sophos CISO Advantage",
@@ -1555,7 +1555,7 @@
       "pubDate": "2026-02-10T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Top 10 web hacking techniques of 2025",
@@ -1591,7 +1591,7 @@
       "pubDate": "2025-12-10T00:00:00.000Z",
       "source": "Sophos Naked Security",
       "category": "news",
-      "image": null
+      "image": "https://images.contentstack.io/v3/assets/blt38f1f401b66100ad/bltb4b6c0750dc5846c/6aad5e6160452d9f5056a4ef/logo.png"
     },
     {
       "title": "Introducing Sophos Intelix for Microsoft 365 Copilot",
