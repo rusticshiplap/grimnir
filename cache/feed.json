@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T13:48:22.612Z",
+  "generatedAt": "2026-10-16T17:51:31.751Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,78 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Zero-click attacks used targeted ads to deliver Candiru spyware",
+      "link": "https://www.bleepingcomputer.com/news/security/zero-click-attacks-used-targeted-ads-to-deliver-candiru-spyware/",
+      "description": "Candiru spyware was delivered to devices at Al Jazeera Media Network via targeted online advertisements in a zero-click attack that required only rendering the malicious ads on the victim's device. [...]",
+      "pubDate": "2026-10-16T17:20:03.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/16/spywareads.jpg"
+    },
+    {
+      "title": "Attackers Tampered with AOMEI Backupper's Update Servers for Minutes to Deliver a Backdoor",
+      "link": "https://thehackernews.com/2026/10/attackers-tampered-with-aomei.html",
+      "description": "Attackers repeatedly changed the files that AOMEI Backupper fetches from the vendor's own update servers, in windows of five to ten minutes at a time between May and July 2026, so that any copy of the Windows backup program that checked for an update during one of those windows would download and run a backdoor. Google Threat Intelligence Group, Mandiant, and ManageEngine's Threat Analysis",
+      "pubDate": "2026-10-16T16:43:39.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhuPumyjeBRpQZo5_3mvqZ2_kXuPiOK02cH-ARofYrny0mQ2-rv55w7yBxMTBe3ymCW7c77quZ4xlkdDG9FcEhBYFr7GWmbyPE_1K1xqU0mvT-h51Z8hLg-LnWl32MeOy-aumsGO9-j8VSOSOfVUDB2k1vWOpEdyGEWV9ipF4kf3HVP1Au2ClbkYtAJrc/s1600/backup-hacked.jpg"
+    },
+    {
+      "title": "UAT-11985 Uses Fake Event Invites to Target Taiwan Research Affiliates With Google AitM Phishing",
+      "link": "https://thehackernews.com/2026/10/uat-11985-uses-fake-event-invites-to.html",
+      "description": "Cybersecurity researchers have disclosed details of an advanced persistent threat (APT) spear-phishing campaign that has targeted individuals affiliated with Taiwan research organizations to direct victims to an adversary-in-the-middle (AitM) phishing framework designed to harvest their Google account credentials and multi-factor authentication (MFA) codes. The activity is being tracked by",
+      "pubDate": "2026-10-16T16:16:44.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiPclyw7bJ19im5Qmzj9jgFlsM4XJqPK6hyphenhyphenRDCcQ0bnpWrteeTWgPNlip5T0P_oj_AC6V3osZ2xIpYipKjXWQw3BfFEQ1n28dleNCLRi7difLnPLY8Yc-oJ6BCVZ1V0VBpF_ZNu36qM_yCvyvbgBsSfh2AXq-IBIk7QjnBSR_T7s8ajMCOkIEhA5YGeYWg4/s1600/google-phish.jpg"
+    },
+    {
+      "title": "Managing open-weight model risk in enterprise deployments",
+      "link": "https://www.microsoft.com/en-us/security/blog/2026/10/16/managing-open-weight-model-risk-in-enterprise-deployments/",
+      "description": "New whitepaper from Microsoft and NVIDIA helps enterprises manage open-weight AI model risks with a shared taxonomy, evaluations, and controls. The post Managing open-weight model risk in enterprise deployments appeared first on Microsoft Security Blog.",
+      "pubDate": "2026-10-16T16:00:00.000Z",
+      "source": "Microsoft Security",
+      "category": "research",
+      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/MSFT-NVIDIA-SCI.jpg"
+    },
+    {
+      "title": "In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit",
+      "link": "https://www.securityweek.com/in-other-news-ics-sniper-attack-hacking-xworm-malware-operators-250k-chrome-exploit/",
+      "description": "Noteworthy stories that might have slipped under the radar: BofA adds 1,000 patching contractors, KGB RAT pairs data theft with jump scares, and Langflow flaw under attack. The post In Other News: ICS-Sniper Attack, Hacking XWorm Malware Operators, $250k Chrome Exploit appeared first on SecurityWeek.",
+      "pubDate": "2026-10-16T14:09:51.000Z",
+      "source": "SecurityWeek",
+      "category": "news",
+      "image": "https://www.securityweek.com/wp-content/uploads/2023/10/cybersecurity-news.jpg"
+    },
+    {
+      "title": "OpenAI Research Model Spent 3rd-Party Test ETH Without Permission to Deploy Smart Contract",
+      "link": "https://thehackernews.com/2026/10/openai-research-model-spent-3rd-party.html",
+      "description": "OpenAI has disclosed seven new incidents in which its artificial intelligence (AI) models exhibited misaligned behavior, including one case where its research model, after not having funds on an Ethereum test network, spent test cryptocurrency from a third-party's wallet without authorization to complete a coding task. The incident, the AI company said, involved an internal research model part",
+      "pubDate": "2026-10-16T14:03:04.000Z",
+      "source": "The Hacker News",
+      "category": "news",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjhkqmj8WR1EBIXlf0-PIfEmv-3uEk-0FU-SrKAaQyn33syLPFRar-jwks7o70PVBvmNd05CwdNSVPXRq3bN6ED0jREr__oFnSFjS1emRZoEfvsfw8UlSspGcSWLLKJcgUhDuzV814VaFSecnEzNhvhTbemuVizjA46o3g-d7hZj1F-Fmn6sqssQyMeayXC/s1600/openai-smart.jpg"
+    },
+    {
+      "title": "When Your Ransomware Negotiator Works for the Other Side",
+      "link": "https://www.darkreading.com/cyber-risk/when-your-ransomware-negotiator-works-other-side",
+      "description": "The shocking arrest of a well-known ransomware negotiator reveals the critical need for vendor program oversight.",
+      "pubDate": "2026-10-16T14:00:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6c22b787d3880a22/6a469e8782b5bc23f1d3a21e/ransomware-Just_Super-Getty-1399980046.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Employees using personal ChatGPT at work? Here's what IT admins need to do",
+      "link": "https://www.bleepingcomputer.com/news/security/employees-using-personal-chatgpt-at-work-heres-what-it-admins-need-to-do/",
+      "description": "Employees using personal ChatGPT accounts at work can expose sensitive company data, even when their organization provides an approved Enterprise workspace. NordLayer explains how IT teams can investigate unauthorized AI use and block sensitive information before it reaches personal accounts. [...]",
+      "pubDate": "2026-10-16T13:50:59.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/posts/2026/10/12/chat-prompt-header.jpg"
+    },
     {
       "title": "When AI Agents Commit Breaches, Humans May Not Be Held Liable",
       "link": "https://www.darkreading.com/insider-threats/ai-agents-breaches-humans-liable",
@@ -304,7 +376,7 @@
       "pubDate": "2026-10-15T15:17:18.000Z",
       "source": "Dark Reading",
       "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt87a9a62e14e5c16e/666343ceec03bda3d115a302/Software_patch_Zoonar_GmbH_Alamy.jpg?width=720&quality=80&disable=upscale"
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt3fef1a5b52640035/6ad2596ea7e47a611834201e/Software_patch_Zoonar_GmbH_Alamy_REVISED_FOR_16_BY_9.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "UK Legal Aid Agency Hack Scope Widens After Forensic Review",
@@ -350,15 +422,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEionuV8CAd7SP0bgEbHyb-0hp7JWNkWpPjYtkNH9p86nRQrxDN1T97D1cragnVVzAwCEFCuqrwuysgwzxJLfvTXrYhMSGj5rbBzrpjW-VPvAmrc2-9EAR_hBmPigJUOjynvkm0ArpyasyzCOAWUWFYdCqzsbCJVOsxC09LnYwH2dcV4j4Vm9S9VDelXUlc/s1600/tls.jpg"
-    },
-    {
-      "title": "Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers",
-      "link": "https://www.securityweek.com/supermarket-refrigeration-attack-widens-to-copeland-dixell-controllers/",
-      "description": "Roughly 700 French supermarkets were hit by the cyberattacks, for which no group has claimed responsibility. The post Supermarket Refrigeration Attack Widens to Copeland, Dixell Controllers appeared first on SecurityWeek.",
-      "pubDate": "2026-10-15T12:50:42.000Z",
-      "source": "SecurityWeek",
-      "category": "news",
-      "image": "https://www.securityweek.com/wp-content/uploads/2026/10/supermarket-refrigerators.jpeg"
     },
     {
       "title": "Next.js Ships Out-of-Band Patch for Two Critical RCE Flaws in Caching and SVG Processing",
@@ -487,15 +550,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/10/ss-episode-488.webp"
     },
     {
-      "title": "Palo Alto Networks warns of PAN-OS RCE flaw exploited in attacks",
-      "link": "https://www.bleepingcomputer.com/news/security/palo-alto-networks-warns-of-pan-os-rce-flaw-exploited-in-attacks/",
-      "description": "Palo Alto Networks has released security updates for a high-severity PAN-OS RCE zero-day, tracked as CVE-2026-0322, that has been exploited in attacks targeting firewalls. [...]",
-      "pubDate": "2026-10-14T22:56:47.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/10/09/Palo-Alto-Networks.jpg"
-    },
-    {
       "title": "Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant",
       "link": "https://unit42.paloaltonetworks.com/fortimanager-cve-2024-47575-peerstitch-malware/",
       "description": "We investigated an intrusion where attackers exploited CVE-2024-47575 to target 500+ firewalls and deploy PEERSTITCH, a memory-resident ARM64 malware. The post Unit 42 Uncovers PEERSTITCH, a Stealthy FortiGate Implant appeared first on Unit 42.",
@@ -532,15 +586,6 @@
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltebc5737d9330c848/6acfd08de9c3113a94cf7694/cat_peek_Seregaff_Getty.jpg?width=720&quality=80&disable=upscale"
     },
     {
-      "title": "FBI raids DPRK IT worker laptop farms in Texas, US nationals arrested",
-      "link": "https://www.bleepingcomputer.com/news/security/fbi-raids-dprk-it-worker-laptop-farms-in-texas-us-nationals-arrested/",
-      "description": "The U.S. Department of Justice (DoJ) has disrupted the Famous Chollima threat group's operations by arresting two suspects, charging 14 individuals, and seizing nearly 187 laptops used in North Korean remote IT worker schemes. [...]",
-      "pubDate": "2026-10-14T19:41:43.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2024/01/18/doj-header.jpg"
-    },
-    {
       "title": "Cisco Warns of Active Attacks Exploiting New Critical Secure Email Gateway Vulnerability",
       "link": "https://thehackernews.com/2026/10/cisco-warns-of-active-attacks.html",
       "description": "Attackers are exploiting a critical flaw in Cisco Secure Email Gateway that lets a sender with no login write files to the appliance's operating system, Cisco said in an advisory on Wednesday. The attacker sends an email with a crafted attachment through the gateway and, if it succeeds, could then run commands as root. The appliance filters an organization's email for spam, malware,",
@@ -566,15 +611,6 @@
       "source": "The Hacker News",
       "category": "news",
       "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhtmZA0sGFnGRVBoPOHXGNOr-Q1MpdbCUNVrfxBTV6z_URgCka1DOH4xcc_WuismhU3W1BEiostTKZetIhtrFyXrInKdz_jqK6Dtia5TDOqRiu4rkktKmF2Iz1br28coCyU3c5td-yrINUgjYIdwG-7q_n1fEZT_mumUoVBp2HfNPKHnqC3jTryRDL7hxAL/s1600/phish-shop.jpg"
-    },
-    {
-      "title": "U.S. Shuts Down Over 40 Laptop Farms, Charges 14 in North Korean IT Worker Fraud",
-      "link": "https://thehackernews.com/2026/10/us-shuts-down-over-40-laptop-farms.html",
-      "description": "The U.S. Department of Justice (DoJ) on Tuesday charged 14 people and seized about 187 computers and KVM devices as part of its ongoing efforts to disrupt North Korea's fraudulent remote IT worker (ITW) scheme. The indictment charges a mix of U.S. citizens and Chinese nationals for their roles in an IT worker conspiracy affecting more than 70 U.S. companies, charging them with wire fraud",
-      "pubDate": "2026-10-14T16:34:31.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgRRY0Y0x4bBS7xZHNvUUjosK6tuvOhbBbE9XvaoyiONRttpSxhIwBaCgDpNKo9kMR37n1_8wKUXzpzL6KhmNC0OJsGZapzAaAteSFlbasNFzCM6XZXsSU99yOk6e2oR7tzG_3p_1-V04tnDyhhtGaBUJSviR-xaJh6mg4E-KT5gwR7_x3JmO-DDfM6-7ic/s1600/laptop-farm.jpg"
     },
     {
       "title": "Upcoming Speaking Engagements",
@@ -620,24 +656,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/10/Fig1-heat-map-1024x495.webp"
-    },
-    {
-      "title": "CISA Urges Immediate Ivanti Connect Secure Updates as Honeypots Log 105 Exploit Attempts",
-      "link": "https://thehackernews.com/2026/10/cisa-urges-immediate-ivanti-connect.html",
-      "description": "The U.S. Cybersecurity and Infrastructure Security Agency (CISA) on Tuesday urged organizations to take steps to immediately update their Ivanti Connect Secure (ICS) appliances and deployments to the latest version following the disclosure of an actively exploited vulnerability. The security flaw, tracked as CVE-2026-104935 (CVSS score: 8.6), is a case of authentication bypass impacting ICS",
-      "pubDate": "2026-10-14T12:30:42.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBUpsAaH4Pe-HlsDhdSH5KK3VgWm9NEXXLNBOpxxp4d8WMZwSNNyPALzuapR_iUlq3-dLDe2bnPJfh42cdfH5m3LQWGKXZvHF3sYacyDbtZacKIIoluyNgP01-6bjjEz-RBhAQqxw-VHGD7gpn3ToRulgeH0ydeWXOucoK4hLBwvXtlCg81tB1scdjPbKN/s1600/i-h.jpg"
-    },
-    {
-      "title": "curl Patches HTTP/2 Upload Flaw After PoC Demonstrates Client-Side Code Execution",
-      "link": "https://thehackernews.com/2026/10/curl-patches-http2-upload-flaw-after.html",
-      "description": "A flaw in how curl handles HTTP/2 uploads lets a malicious server receiving an upload corrupt the client's memory, and the researcher who reported it turned that into code execution on the uploading machine. The curl project fixed it on October 14 in curl 8.23.0. Taking over a client needs exact knowledge of its build and memory layout, and curl expects a real attack to end in a crash",
-      "pubDate": "2026-10-14T12:13:36.000Z",
-      "source": "The Hacker News",
-      "category": "news",
-      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4S_5rQ2kApGYmSMOh6PFsgD3yRugV3_nzSexwBhEe3BoSTQeBfSu2-3JSO4wDCnU2LmVMWtgA6AcBEcf2wOpsL2v22woZ5fel0XaSonlbgDWSXMuV3iu5ewohp9kqgf4OwmCvtnRyyYjFEP6Z3RRLT5sX8g7-xI1robnLmWtqFp6SvrGvpBeXI_D4ICo/s1600/curl.jpg"
     },
     {
       "title": "Ransomware Gangs Embrace Physical Threats, Family Stalking?",
@@ -845,15 +863,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt7fb7357c5c7dbc54/6ac7f27aebe12bcaad81c134/aichatbot-_jittawit.21-Getty-1432457969.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Venezuelan Cartel's Malware Honcho Nabbed for ATM Jackpotting",
-      "link": "https://www.darkreading.com/cyberattacks-data-breaches/venezuelan-cartel-malware-honcho-nabbed-atm-jackpotting",
-      "description": "The first cybercriminal to ever make the FBI's \"10 Most Wanted Fugitives\" list allegedly infused Tren de Aragua's violent criminal operations with cash.",
-      "pubDate": "2026-10-08T19:08:16.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltef4e90a751faf3e5/6ac64ed06770201d6d216b2a/atm-keypad-pressing-buttons-Makhh-shutterstock.jpg?width=720&quality=80&disable=upscale"
     },
     {
       "title": "How Technology Empowers—and Imperils—Dictators",
@@ -1115,15 +1124,6 @@
       "source": "Microsoft Security",
       "category": "research",
       "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/image-84.webp"
-    },
-    {
-      "title": "​​Beyond source code: A path to the keys to the kingdom",
-      "link": "https://www.microsoft.com/en-us/security/blog/2026/09/29/beyond-source-code-a-path-to-the-keys-to-the-kingdom/",
-      "description": "Explore how Storm-3068 turned a compromised identity into broader cloud access and the steps organizations can take to defend their identities, pipelines, and cloud infrastructure. The post ​​Beyond source code: A path to the keys to the kingdom appeared first on Microsoft Security Blog.",
-      "pubDate": "2026-09-29T16:00:00.000Z",
-      "source": "Microsoft Security",
-      "category": "research",
-      "image": "https://www.microsoft.com/en-us/security/blog/wp-content/uploads/2026/09/cyberattackseries_header_imageQ1FY27.png"
     },
     {
       "title": "OperTraitors: How Kubernetes Operators Betray Your Security Posture",
