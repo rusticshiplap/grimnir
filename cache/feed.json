@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T13:29:05.853Z",
+  "generatedAt": "2026-10-19T04:27:25.084Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,15 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Hackers exploit SiteGuard WAF flaw to run commands as admins",
+      "link": "https://www.bleepingcomputer.com/news/security/hackers-exploit-siteguard-waf-flaw-to-run-commands-as-system-root/",
+      "description": "Attackers are targeting an OS command injection vulnerability in SiteGuard Server Edition that lets them execute commands as root or SYSTEM on affected servers. [...]",
+      "pubDate": "2026-10-18T14:23:16.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/05/05/hacker.jpg"
+    },
     {
       "title": "US Cybersecurity Job Postings Fall 26% as AI Security Engineer Demand Soars",
       "link": "https://www.securityweek.com/us-cybersecurity-job-postings-fall-26-as-ai-security-engineer-demand-soars/",
@@ -143,6 +152,15 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt6937d5b3760a530f/6ad14589831f9d6076cdd58b/robotic-arms-grid-overlay-greenbutterfly-shutterstock.jpg?width=720&quality=80&disable=upscale"
+    },
+    {
+      "title": "Irish police force has its Twitter hacked in cryptocurrency scam",
+      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/irish-police-twitter-hacked-crypto-scam",
+      "description": "There must have been red faces in the social media department of Ireland's police headquarters after two of its accounts were hijacked this week. Read more in my article on the Hot for Security blog.",
+      "pubDate": "2026-10-16T18:00:50.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/10/garda.jpeg"
     },
     {
       "title": "Researchers Demonstrate OpenBSD Root Exploit Chaining 37-Year-Old Shared-Memory Bug",
@@ -539,15 +557,6 @@
       "source": "Bleeping Computer",
       "category": "news",
       "image": "https://www.bleepstatic.com/content/posts/2026/10/12/intruder-ufo.jpg"
-    },
-    {
-      "title": "Microsoft: Windows Server 2022 reached end of mainstream support",
-      "link": "https://www.bleepingcomputer.com/news/microsoft/microsoft-windows-server-2022-reached-end-of-mainstream-support/",
-      "description": "Microsoft announced that Windows Server 2022 has reached the end of mainstream support and will remain in extended support until October 2031. [...]",
-      "pubDate": "2026-10-15T13:18:36.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/15/Windows__Server.jpg"
     },
     {
       "title": "NGINX Fixes 5 Flaws, Including Possible RCE and a TLS Bug That May Skip Client-Cert Checks",
@@ -1349,15 +1358,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/IMVwUjeqbeQP8.png"
-    },
-    {
-      "title": "Smashing Security podcast #483: This AI helps thieves steal your iPhone",
-      "link": "https://grahamcluley.com/smashing-security-podcast-483/",
-      "description": "You've had your iPhone stolen. A day later, you get a text from Apple saying they've found it, and a very helpful woman called Alice from Apple Support calls to walk you through recovering it. She's polite. She's professional. But she is not from Apple. She's not even human. And she's about to break into your iPhone. Meanwhile, OpenAI, Anthropic, and Meta have all announced - with varying degrees of drama - that their AI agents have \"broken out of the sandbox\" and gone hacking. James takes a step back and asks the awkward question: is this really an emergent AI apocalypse, or did they just lea",
-      "pubDate": "2026-09-02T23:10:47.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://grahamcluley.com/wp-content/uploads/2026/09/ss-episode-483.webp"
     },
     {
       "title": "Weekly Update 519: Breaches & Data Integrity",
