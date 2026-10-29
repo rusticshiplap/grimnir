@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T18:59:38.180Z",
+  "generatedAt": "2026-10-29T02:41:23.630Z",
   "count": 205,
   "sources": [
     "The Hacker News",
@@ -18,6 +18,33 @@
     "PortSwigger Research"
   ],
   "items": [
+    {
+      "title": "Smashing Security podcast #490: How Jared Kushner’s iPhone was allegedly hacked twice",
+      "link": "https://grahamcluley.com/smashing-security-podcast-490/",
+      "description": "Dutch spies, Russian hackers and Jared Kushner’s iPhone. It sounds like the ingredients for a thriller, but according to claims in a new book the US President's son-in-law may have been hacked twice. Is any of it true, and what does it tell us about the phones in our pockets? Meanwhile, James Ball explains that of the internet’s most trusted security keys were protected by numbers so small that one of them was... four. Yes, \"4\". And then, of course, to make the week worse we suffered a PHPocalpyse... Plus, Chuck Randolph of 360 Privacy explains how the internet has made it scarily easy to put ",
+      "pubDate": "2026-10-29T00:16:56.000Z",
+      "source": "Graham Cluley",
+      "category": "opinion",
+      "image": "https://grahamcluley.com/wp-content/uploads/2026/10/ss-episode-490.webp"
+    },
+    {
+      "title": "Police seize Virtualine bulletproof service tied to ransowmare, cybercrime",
+      "link": "https://www.bleepingcomputer.com/news/security/police-seize-virtualine-bulletproof-service-tied-to-ransowmare-cybercrime/",
+      "description": "U.S. law enforcement has seized the primary domain of Virtualine, a bulletproof hosting service advertised on cybercrime forums for facilitating illegal activities. [...]",
+      "pubDate": "2026-10-28T20:47:22.000Z",
+      "source": "Bleeping Computer",
+      "category": "news",
+      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/28/doj.jpg"
+    },
+    {
+      "title": "GhostAction Hacking Wave Fizzles, But Attackers Lurk on in GitHub",
+      "link": "https://www.darkreading.com/application-security/ghostaction-hacking-wave-fizzles-attackers-github",
+      "description": "The supply chain attack campaign's shift toward developer endpoints and cloud access signals what could be next for the cybercrime outfit.",
+      "pubDate": "2026-10-28T19:39:00.000Z",
+      "source": "Dark Reading",
+      "category": "news",
+      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/bltb1d9be3de2e89da6/6ae252ca6c2fe31e558a43e9/Ghosts-GrafikLab-GettyImages-2173220193.jpg?width=720&quality=80&disable=upscale"
+    },
     {
       "title": "Discord to let search engines index public server messages",
       "link": "https://www.bleepingcomputer.com/news/security/discord-to-let-search-engines-index-public-server-messages/",
@@ -388,6 +415,15 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
+      "title": "When AI Guardrails Expose Vulnerabilities",
+      "link": "https://www.crowdstrike.com/en-us/blog/when-ai-guardrails-expose-vulnerabilities/",
+      "description": "",
+      "pubDate": "2026-10-28T05:00:00.000Z",
+      "source": "CrowdStrike Blog",
+      "category": "research",
+      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
+    },
+    {
       "title": "Japan's GMO urges customers to shut down PCs amid ransomware threat",
       "link": "https://www.bleepingcomputer.com/news/security/japans-gmo-urges-customers-to-shut-down-pcs-amid-ransomware-threat/",
       "description": "The GMO Group has urged customers to disconnect their systems from the internet and shut down computers after a threat actor who breached the company's Onamae Desktop Cloud threatened to launch a ransomware attack today. [...]",
@@ -485,15 +521,6 @@
       "source": "Dark Reading",
       "category": "news",
       "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt951105ce06efe522/6ae0c30979732c23e08f3f0c/aokigahara-Carl_Court-GettyImages-931736204jpg..jpg?width=720&quality=80&disable=upscale"
-    },
-    {
-      "title": "Warp discloses breach exposing AI agent logs, user telemetry data",
-      "link": "https://www.bleepingcomputer.com/news/security/warp-discloses-breach-exposing-ai-agent-logs-user-telemetry-data/",
-      "description": "Agent decision logs and telemetry data belonging to Warp agentic development environment users were exposed in an attack on a third-party vendor in the project's infrastructure. [...]",
-      "pubDate": "2026-10-27T16:15:39.000Z",
-      "source": "Bleeping Computer",
-      "category": "news",
-      "image": "https://www.bleepstatic.com/content/hl-images/2026/10/27/warp.jpg"
     },
     {
       "title": "Scalable Vector Grief",
@@ -865,15 +892,6 @@
       "image": "https://grahamcluley.com/wp-content/uploads/2026/10/ss-episode-489.webp"
     },
     {
-      "title": "TiDB Breach Exposes Flawed Cloud Security Assumptions",
-      "link": "https://www.darkreading.com/cloud-security/tidb-breach-flawed-cloud-security",
-      "description": "Cloud providers may be storing sensitive customer data, without either party knowing it. But when a provider is breached, the unseen information comes to light.",
-      "pubDate": "2026-10-21T21:15:39.000Z",
-      "source": "Dark Reading",
-      "category": "news",
-      "image": "https://eu-images.contentstack.com/v3/assets/blt6d90778a997de1cd/blt9561c8122fa8def8/6ad9188c009b36a4ff009e9b/Fulcrum-MicroStockHub-Getty.jpg?width=720&quality=80&disable=upscale"
-    },
-    {
       "title": "AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise",
       "link": "https://www.microsoft.com/en-us/security/blog/2026/10/21/storm-0940-uses-artex-agentic-ai-connectwise-supply-chain-compromise/",
       "description": "Storm-0940 used ARTEX agentic AI to accelerate a ConnectWise supply chain compromise, enabling application credential abuse across Microsoft 365 environments. The post AI-driven, large-scale nation-state campaign using ARTEX enables supply chain compromise appeared first on Microsoft Security Blog.",
@@ -1135,15 +1153,6 @@
       "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
     },
     {
-      "title": "Solving the Continuous Authorization Conundrum",
-      "link": "https://www.crowdstrike.com/en-us/blog/solving-the-continuous-authorization-conundrum/",
-      "description": "",
-      "pubDate": "2026-10-08T05:00:00.000Z",
-      "source": "CrowdStrike Blog",
-      "category": "research",
-      "image": "https://assets.crowdstrike.com/is/image/crowdstrikeinc/WebShareDefaultImage"
-    },
-    {
       "title": "Smashing Security podcast #487: Clippy’s crypto comeback",
       "link": "https://grahamcluley.com/smashing-security-podcast-487/",
       "description": "Microsoft's Twitter account, with its 13 million followers, was hijacked by a paperclip. There was no ransomware or data theft, just Clippy, a dodgy crypto coin, and a corporate apology that wasn't from Microsoft either. Meanwhile, UK losses from hacked email and social media accounts have rocketed by 417%, as scammers pose as your friends to flog you tickets to gigs that don't exist. Plus, Hack The Box's Christine Bartlett joins us for a featured interview to ask what happens when AI agents join your security team, and whether anyone has thought to give them a performance review.",
@@ -1367,15 +1376,6 @@
       "source": "Troy Hunt",
       "category": "opinion",
       "image": "https://storage.ghost.io/c/fb/33/fb3391dc-723d-4e74-b95a-d641b5feb38e/content/images/2026/09/IMAk29kpQITZQ.png"
-    },
-    {
-      "title": "‘Anne Hathaway’ admits leading $245 million crypto theft gang that spent a fortune on nightclubs, watches, and luxury cars",
-      "link": "https://www.bitdefender.com/en-us/blog/hotforsecurity/anne-hathaway-245-million-crypto-theft-nightclubs-watches-luxury-cars",
-      "description": "Here's a tip for any budding cybercriminals out there. If you're going to steal a quarter of a billion dollars worth of cryptocurrency, maybe don't broadcast on a group chat every time you buy a Lamborghini, or blow half a million dollars on a single night out at a nightclub. Read more in my article on the Hot for Security blog.",
-      "pubDate": "2026-09-10T13:32:28.000Z",
-      "source": "Graham Cluley",
-      "category": "opinion",
-      "image": "https://blogapp.bitdefender.com/hotforsecurity/content/images/2026/09/malone-lam.jpeg"
     },
     {
       "title": "Weekly Update 520: The Unscripted Edition",
